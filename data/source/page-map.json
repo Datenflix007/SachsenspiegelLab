@@ -1,0 +1,31 @@
+{
+  "_info": "Manuell geprüfte Seitenzuordnungen (Abschnitt → Seiten der Dresdner Bilderhandschrift). checkedBy 'claude-visual' = am IIIF-Bild abgeglichen (Rubrik 'primus liber', Textanfänge, Heerschild-Bildstreifen). mappingStatus bleibt 'unverified', bis der Projektinhaber bestätigt. Alle übrigen Abschnitte werden im Build linear nach Textmenge innerhalb der Buchgrenzen des Manifests geschätzt.",
+  "books": {
+    "lr-i": { "firstPage": 15, "lastPage": 51 },
+    "lr-ii": { "firstPage": 51, "lastPage": 80 },
+    "lr-iii": { "firstPage": 80, "lastPage": 119 },
+    "lehnrecht": { "firstPage": 121, "lastPage": 192 }
+  },
+  "sections": {
+    "lr-prolog#1": { "pages": [14], "checkedBy": "manifest-structure" },
+    "lr-prolog#2": { "pages": [14], "checkedBy": "manifest-structure" },
+    "lr-prolog#3": { "pages": [14], "checkedBy": "manifest-structure" },
+    "lr-i-1#1": { "pages": [15], "checkedBy": "claude-visual" },
+    "lr-i-2#1": { "pages": [15], "checkedBy": "claude-visual" },
+    "lr-i-2#2": { "pages": [15], "checkedBy": "claude-visual" },
+    "lr-i-2#3": { "pages": [15, 16], "checkedBy": "claude-visual" },
+    "lr-i-2#4": { "pages": [16], "checkedBy": "claude-visual" },
+    "lr-i-3#1": { "pages": [16], "checkedBy": "claude-visual" },
+    "lr-i-3#2": { "pages": [16, 17], "checkedBy": "claude-visual" },
+    "lr-i-3#3": { "pages": [17], "checkedBy": "claude-visual-estimate" },
+    "lr-i-34#2": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-34#3": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-35#1": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-35#2": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-36#1": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-36#2": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-37#1": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-38#1": { "pages": [33], "checkedBy": "claude-visual" },
+    "lr-i-38#2": { "pages": [33, 34], "checkedBy": "claude-visual" }
+  }
+}

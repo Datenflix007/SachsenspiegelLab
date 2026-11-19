@@ -1,0 +1,353 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu Prolog und LR I 1–20. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879. metaStatus 'verified' nur, wo Titel/Kernpunkte/Bedeutung wörtlich aus den Tafelbildern stammen.",
+  "articles": {
+    "lr-prolog": {
+      "title": "Vorrede (Prologus und Textus prologi)",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Bitte um Beistand des Heiligen Geistes bei der Scheidung von Recht und Unrecht",
+        "Unbestechlichkeit: weder Liebe noch Leid, Zorn noch Geschenk sollen vom Recht abbringen",
+        "Gott als Ursprung des Rechts; Rückführung des sächsischen Rechts auf Konstantin und Karl"
+      ],
+      "significance": "Die Vorrede begründet das Recht religiös und stellt das Rechtsbuch in eine christlich-kaiserliche Tradition.",
+      "keywords": ["Vorrede", "Prolog", "Gott", "Richter", "Unbestechlichkeit", "Konstantin", "Karl der Große"],
+      "synonyms": ["Prologus", "Textus prologi"],
+      "sections": {
+        "1": "Die Liebe des Heiligen Geistes stärke meine Sinne, damit ich Recht und Unrecht der Sachsen unterscheide, nach Gottes Gnade und zum Nutzen der Welt. Allein vermag ich das nicht; darum bitte ich alle guten Leute, denen am Recht liegt, um Hilfe: Begegnet ihnen ein Fall, den mein schlichter Verstand übergangen hat und von dem dieses Buch nicht spricht, so mögen sie ihn nach bestem Wissen so entscheiden, wie sie es als Recht erkennen. Vom Recht soll niemanden abbringen Liebe noch Leid, Zorn noch Geschenk.",
+        "2": "Gott ist selbst Recht, darum ist ihm das Recht lieb. Deshalb sollen sich alle, denen von Gottes wegen das Gericht anvertraut ist, sehr in Acht nehmen und so richten, dass Gottes Zorn und sein Gericht gnädig über sie ergehe.",
+        "3": "Gott, der Anfang und Ende aller guten Dinge ist, schuf zuerst Himmel und Erde, schuf den Menschen auf der Erde und setzte ihn ins Paradies. Der brach den Gehorsam, uns allen zum Schaden; darum irrten wir wie Schafe ohne Hirten, bis Gott uns durch sein Leiden erlöste. Nun aber, da wir bekehrt sind und Gott uns wieder zu sich gerufen hat, halten wir sein Gesetz und sein Gebot, das uns seine Propheten gelehrt und gute geistliche Leute und auch christliche Könige gesetzt haben – Konstantin und Karl –, auf die das Land Sachsen sein Recht noch heute zurückführt."
+      }
+    },
+    "lr-i-1": {
+      "title": "Zweischwerterlehre",
+      "metaStatus": "verified",
+      "keyPoints": [
+        "Ordnung von geistlicher und weltlicher Gewalt",
+        "Papst und König/Kaiser als Träger rechtmäßiger Herrschaft"
+      ],
+      "significance": "Der Sachsenspiegel beginnt mit einer Legitimation von Herrschaft und Recht.",
+      "keywords": ["Zwei-Schwerter-Lehre", "Papst", "Kaiser", "geistliche Gewalt", "weltliche Gewalt", "Steigbügel"],
+      "synonyms": ["Zweischwerterlehre", "Stratordienst", "geistliches Schwert", "weltliches Schwert"],
+      "sections": {
+        "1": "Zwei Schwerter ließ Gott auf Erden, um die Christenheit zu schützen. Dem Papst ist das geistliche gegeben, dem Kaiser das weltliche. Dem Papst ist auch bestimmt, zu festgesetzter Zeit auf einem weißen Pferd zu reiten, und der Kaiser soll ihm den Steigbügel halten, damit der Sattel nicht verrutscht. Das bedeutet: Wer sich dem Papst widersetzt und wen er mit geistlichem Gericht nicht bezwingen kann, den soll der Kaiser mit weltlichem Gericht zwingen, dem Papst gehorsam zu sein. Ebenso soll die geistliche Gewalt dem weltlichen Gericht helfen, wenn es dessen bedarf."
+      }
+    },
+    "lr-i-2": {
+      "title": "Die drei Arten der Freiheit",
+      "metaStatus": "verified",
+      "keyPoints": [
+        "Schöffenbare",
+        "Pfleghafte",
+        "Landsassen",
+        "Unterscheidung freier Menschen nach Rechtsstellung und Gerichtszugehörigkeit"
+      ],
+      "significance": "Soziale Differenzierung erscheint hier als rechtliche Differenzierung.",
+      "keywords": ["Freiheit", "Schöffenbare", "Pfleghafte", "Landsassen", "Send", "Grafending", "Schultheiß", "Gograf", "Bauermeister", "Rüge"],
+      "synonyms": ["Schöffenbarfreie", "schepenbare lüde", "plechaften", "lantseten", "Sendgericht", "Gerichtsstand"],
+      "sections": {
+        "1": "Jeder Christ ist verpflichtet, dreimal im Jahr das Sendgericht aufzusuchen, sobald er mündig geworden ist, und zwar in dem Bistum, in dem er ansässig ist. Freiheit aber gibt es in dreierlei Art: die schöffenbaren Leute, die das Send des Bischofs besuchen sollen; die Pfleghaften das der Dompröpste; die Landsassen das der Erzpriester.",
+        "2": "In gleicher Weise sollen sie das weltliche Gericht besuchen: Die Schöffen besuchen das Grafending alle achtzehn Wochen unter Königsbann. Setzt man aber wegen eines Verbrechens vierzehn Nächte nach dem echten Ding ein weiteres Ding an, so müssen sie auch dieses pflichtgemäß besuchen, damit das Unrecht gerichtet wird. Damit haben sie ihr Eigen gegenüber dem Richter abgegolten, so dass es von jeder weiteren Dingpflicht ihm gegenüber frei ist.",
+        "3": "Die Pfleghaften sind verpflichtet, von ihrem Eigen aus alle sechs Wochen das Ding des Schultheißen zu besuchen; aus ihrer Mitte darf man einen Fronboten wählen, wenn der Fronbote stirbt.",
+        "4": "Die Landsassen, die im Land kein Eigen haben, sollen alle sechs Wochen das Ding ihres Gografen besuchen. Dort und in jedem Vogtding soll jeder Bauermeister anzeigen: das Gerüfte, blutende Wunden, die einem ein anderer zugefügt hat, gezückte Schwerter zum Schaden eines anderen, wer nicht zum Ding kommt, obwohl er dazu verpflichtet ist, und jedes Verbrechen, das an Leib oder Hand geht, sofern es nicht schon durch Klage vor Gericht gebracht ist. Anderes braucht er nicht anzuzeigen."
+      }
+    },
+    "lr-i-3": {
+      "title": "Heerschilde",
+      "metaStatus": "verified",
+      "keyPoints": [
+        "König, geistliche Fürsten, weltliche Fürsten, freie Herren, Schöffenbarfreie usw.",
+        "lehnsrechtliche Rangordnung"
+      ],
+      "significance": "Die lehnrechtliche Hierarchie ergänzt die landrechtliche Gliederung der freien Bevölkerung.",
+      "keywords": ["Heerschild", "Weltalter", "Sippe", "Verwandtschaftsgrade", "Nagelmagen", "Lehnrecht", "Papst"],
+      "synonyms": ["Heerschildordnung", "herescilt", "Sippezahl", "Verwandtschaft", "Magen"],
+      "sections": {
+        "1": "Origenes weissagte einst, es werde sechs Weltalter geben, jedes zu tausend Jahren gerechnet, und im siebenten solle die Welt vergehen. Aus der Heiligen Schrift wissen wir nun, dass mit Adam das erste Weltalter begann, mit Noah das zweite, mit Abraham das dritte, mit Mose das vierte, mit David das fünfte und mit Christi Geburt das sechste; im siebenten leben wir jetzt, ohne seine Dauer zu kennen.",
+        "2": "Auf dieselbe Weise sind die Heerschilde eingeteilt: Den ersten hat der König, die Bischöfe, Äbte und Äbtissinnen den zweiten, die Laienfürsten den dritten, seit sie Lehnsleute der Bischöfe geworden sind, die freien Herren den vierten, die schöffenbaren Leute und die Lehnsleute der freien Herren den fünften; deren Lehnsleute führen den sechsten. So wie die Christenheit im siebenten Weltalter nicht weiß, wie lange es dauern wird, so weiß man auch beim siebenten Schild nicht, ob er Lehnrecht haben kann. Die Laienfürsten haben aber den sechsten Schild in den siebenten gebracht, seit sie Lehnsleute der Bischöfe geworden sind, was früher nicht so war. So wie der Heerschild mit dem siebenten endet, so endet auch die Verwandtschaft mit dem siebenten Glied.",
+        "3": "Nun wollen wir betrachten, wo die Verwandtschaft beginnt und wo sie endet. Im Haupt stehen Mann und Frau, die ehelich und rechtmäßig zusammengekommen sind; im Halsgelenk die Kinder, die ungeteilt von Vater und Mutter geboren sind. Ist aber eine Teilung dabei (Halbgeschwister), so können sie nicht im selben Glied stehen und rücken in ein anderes Glied. Nehmen zwei Brüder zwei Schwestern zur Frau und der dritte Bruder eine fremde Frau, so stehen ihre Kinder einander dennoch gleich nahe, um das Erbe des anderen zu nehmen, wenn sie ebenbürtig sind. Die Kinder vollbürtiger Brüder stehen in dem Glied, wo Schulter und Arm zusammenkommen, ebenso die Kinder der Schwestern. Das ist der erste Verwandtschaftsgrad, den man zu den Magen rechnet: Bruderkind und Schwesterkind. Im Ellenbogen steht der zweite, im Handgelenk der dritte, im ersten Glied des Mittelfingers der vierte, im zweiten Glied der fünfte, im dritten Glied der sechste. Im siebenten steht ein Nagel und kein Glied; darum endet dort die Verwandtschaft, und man nennt sie Nagelmagen. Wer zwischen dem Nagel und dem Haupt gleich nah zur Verwandtschaft gehört, nimmt das Erbe zu gleichen Teilen. Wer näher zur Verwandtschaft gehört, nimmt das Erbe vorweg. Die Erbberechtigung der Verwandtschaft endet mit dem siebenten Grad, obwohl der Papst erlaubt hat, im fünften eine Frau zu nehmen; denn der Papst kann kein Recht setzen, durch das er unser Landrecht oder Lehnrecht verschlechtert."
+      }
+    },
+    "lr-i-4": {
+      "title": "Ausschluss vom Erbe bei Gebrechen",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Altvile, Zwerge und Krüppelkinder erben weder Lehen noch Erbe; die Erben schulden ihnen Unterhalt",
+        "Stumm, blind oder ohne Hände/Füße Geborene erben nach Landrecht, nicht nach Lehnrecht",
+        "Bereits erworbene Lehen gehen durch späteres Gebrechen oder Aussatz nicht verloren"
+      ],
+      "significance": "Erbfähigkeit hängt im Lehnrecht an der Fähigkeit zum Dienst, im Landrecht nicht im gleichen Maß.",
+      "keywords": ["Erbfähigkeit", "Lehnsfähigkeit", "Aussatz", "Behinderung", "Unterhalt"],
+      "synonyms": ["Altvile", "Zwerge", "meselsucht", "Pflege"],
+      "sections": {
+        "1": "Auf Altvile (die Deutung des Wortes ist umstritten, vermutlich Missgebildete) und Zwerge vererbt sich weder Lehen noch Erbe, ebenso wenig auf Krüppelkinder. Wer dann ihre Erben und nächsten Verwandten sind, die sollen sie mit Pflege versorgen. Wird ein Kind stumm geboren oder ohne Hände, ohne Füße oder blind, so ist es nach Landrecht erbfähig, nicht aber nach Lehnrecht. Hat es das Lehen jedoch empfangen, bevor es so wurde, so verliert es dieses dadurch nicht. Auf einen Aussätzigen vererbt sich weder Lehen noch Erbe; hat er es aber vor der Krankheit empfangen und wird er erst danach krank, so verliert er es dadurch nicht."
+      }
+    },
+    "lr-i-5": {
+      "title": "Enkelerbrecht, Gerade und Geistliche",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Söhne eines vorverstorbenen Sohnes erben an dessen Stelle (Eintrittsrecht), zusammen einen Kopfteil",
+        "Töchterkinder haben dieses Eintrittsrecht nicht",
+        "Geistliche erben wie Schwestern an der Gerade und wie Brüder an Eigen und Erbe"
+      ],
+      "significance": "Der Artikel zeigt die Unterscheidung von Männer- und Frauengut (Erbe – Gerade) und die Sonderstellung Geistlicher.",
+      "keywords": ["Erbrecht", "Enkel", "Gerade", "Priester", "Ausstattung", "Ebenbürtigkeit"],
+      "synonyms": ["Rade", "Frauengut", "pape", "Eintrittsrecht"],
+      "sections": {
+        "1": "Nimmt der Sohn zu Lebzeiten des Vaters eine ihm ebenbürtige Frau, zeugt er mit ihr Söhne und stirbt er vor seinem Vater, ohne vom Erbe abgefunden zu sein, so nehmen seine Söhne am Erbe ihres Großvaters an Stelle ihres Vaters den gleichen Teil wie ihre Onkel. Alle zusammen erhalten sie aber nur den Anteil eines Mannes. Den Kindern einer Tochter steht das nicht zu: Sie nehmen am Erbe des Großvaters oder der Großmutter nicht den gleichen Teil wie die Tochter.",
+        "2": "Die unverheiratete Tochter, die noch im Haus lebt, teilt die Gerade ihrer Mutter nicht mit der bereits ausgestatteten Tochter. Was ihr aber an Erbe zufällt, das muss sie mit ihr teilen. Eine Frau kann durch Unkeuschheit ihre weibliche Ehre verletzen; ihr Recht und ihr Erbe verliert sie dadurch nicht.",
+        "3": "Der Priester nimmt den gleichen Teil wie die Schwester an der Gerade der Mutter und den gleichen Teil wie die Brüder an Eigen und Erbe. Man kann aber niemanden als Priester ansehen, der nicht gelehrt, zum Priester geweiht und wie ein Priester geschoren ist, bevor ihm die Gerade zufällt. Hat die Frau keinen Bruder außer einem Priester, so nimmt sie am Erbe den gleichen Teil wie an der Gerade. Aus dem Gut eines Priesters nimmt man nach seinem Tod keine Gerade, denn alles, was er hinterlässt, gilt als Erbe. Die unausgestattete Schwester teilt die Gerade ihrer Mutter nicht mit dem Priester, der Kirchen oder Pfründen hat."
+      }
+    },
+    "lr-i-6": {
+      "title": "Nachlass und Haftung der Erben",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Alles hinterlassene Gut heißt Erbe",
+        "Der Erbe haftet für Schulden nur bis zum Wert der fahrenden Habe",
+        "Keine Haftung für Diebstahl, Raub und Spielschulden"
+      ],
+      "significance": "Die Erbenhaftung ist begrenzt und unterscheidet zwischen legitimen und illegitimen Schulden.",
+      "keywords": ["Nachlass", "Schulden", "Erbenhaftung", "fahrende Habe", "Spielschulden"],
+      "synonyms": ["varende have", "bewegliches Gut", "Erbschaft"],
+      "sections": {
+        "1": "Mit welchem Gut auch immer ein Mann stirbt, es heißt alles Erbe.",
+        "2": "Wer das Erbe nimmt, soll von Rechts wegen die Schulden bezahlen, soweit das Erbe an fahrender Habe reicht. Für Diebstahl, Raub und Würfelspiel muss er nicht aufkommen, auch für keine andere Schuld als die, für die der Verstorbene einen Gegenwert empfangen hat oder für die er Bürge geworden war. Diese Schuld allein muss er bezahlen, wenn er ihrer nach Recht überführt wird, mit zweiundsiebzig Männern, die alle schöffenbar oder ehelich geboren sind.",
+        "3": "Was jemand gewährleistet hat, dessen soll man ihn nicht mit Zeugen überführen. Will jemand seinem Zeugnis ausweichen und beschuldigt man ihn nach Landrecht oder Lehnrecht wegen dessen, was er weiß, so soll er bekennen und leisten oder leugnen und darauf schwören.",
+        "4": "Man soll den Erben auch bezahlen, was man dem Verstorbenen schuldete. Eine Schuld, die jemand selbst schuldet, braucht man ihm nicht durch Zeugen nachzuweisen; er soll sie bekennen oder leugnen."
+      }
+    },
+    "lr-i-7": {
+      "title": "Bürgschaft und Gelöbnis",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Wer bürgt oder gelobt, muss leisten",
+        "Außergerichtliches Gelöbnis kann mit Eid bestritten werden",
+        "Gerichtliches Gelöbnis wird mit zwei Männern und dem Richter bewiesen"
+      ],
+      "significance": "Vor Gericht Erklärtes hat erhöhte Beweiskraft.",
+      "keywords": ["Bürgschaft", "Gelöbnis", "Eid", "Beweis", "Zeugen"],
+      "synonyms": ["borghe", "Bürge", "Versprechen"],
+      "sections": {
+        "1": "Wer etwas verbürgt oder gelobt, der soll es bezahlen, und was er zusagt, das soll er einhalten. Will er es aber leugnen, so befreit er sich mit seinem Eid von dem, was er nicht vor Gericht gelobt hat. Was er aber vor Gericht zugesagt hat, dessen überführt ihn der Kläger mit zwei Männern, und der Richter ist der dritte Zeuge."
+      }
+    },
+    "lr-i-8": {
+      "title": "Gerichtszeugnis, Fronbote, Sühne und Urfehde",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Richter und sechs Urteilsfinder bezeugen Auflassung und Verurteilung",
+        "Das Zeugnis des Fronboten gilt für zwei Männer; seine Buße ist doppelt",
+        "Sühne und Urfehde werden vor Gericht mit Richter und zwei Männern bezeugt"
+      ],
+      "significance": "Der Artikel ordnet die Beweiskraft verschiedener Gerichtspersonen.",
+      "keywords": ["Gerichtszeugnis", "Fronbote", "Sühne", "Urfehde", "selbsiebt", "Wergeld"],
+      "synonyms": ["vrone bode", "Gerichtsbote", "Zeugenbeweis"],
+      "sections": {
+        "1": "Wenn man Eigen übergibt oder auflässt oder einem Mann nachweisen will, dass er vor Gericht etwas über sein Recht, sein Leben oder seine Gesundheit gelobt habe oder dass es ihm abgesprochen worden sei, dann muss der Richter selbsiebt, das heißt mit sechs der Leute, die ihm das Urteil finden, Zeuge sein.",
+        "2": "Das Zeugnis des Fronboten gilt so viel wie das von zwei Männern, wenn man dessen bedarf, wo mit sieben Männern zu bezeugen ist. Seine Buße ist auch doppelt und sein Wergeld richtet sich nach seiner Geburt, und zwar von dem Zeitpunkt an, an dem er zum Fronboten gewählt wurde.",
+        "3": "Sühne und Urfehde, die jemand vor Gericht leistet, bezeugt man mit dem Richter und zwei Männern. Geschieht es aber außerhalb des Gerichts, so soll er es selbsiebt beweisen, mit denen, die mit dem Mann die Sühne oder Urfehde ausgehandelt haben."
+      }
+    },
+    "lr-i-9": {
+      "title": "Zusage von Eigen und Lehen; Auflassung",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Zugesagtes Eigen ist auch den Erben zu leisten oder der Preis zurückzugeben",
+        "Verkauftes Lehen ist den Lehnserben, ersatzweise den rechten Erben aufzulassen",
+        "Wer Gut vor der Auflassung übergibt, muss den Erwerber in der Gewere vertreten"
+      ],
+      "significance": "Der Artikel zeigt die Verzahnung von Landrecht und Lehnrecht beim Gütererwerb.",
+      "keywords": ["Auflassung", "Eigen", "Lehen", "Gewere", "Gewährschaft", "Belehnung", "Kaufpreis"],
+      "synonyms": ["uplaten", "Besitz", "warschap", "Lenerbe"],
+      "sections": {
+        "1": "Wer einem anderen vor Gericht gelobt, ihm ein Eigen zu geben, und jener ihm dafür sein Silber oder anderes Gut gibt: Stirbt der Erwerber, bevor ihm die Gabe bestätigt wird, so soll man das Eigen seinen Erben leisten, wie man es ihm hätte leisten sollen, oder ihnen das Gezahlte vollständig zurückerstatten. Dasselbe soll man auch bei jeder fahrenden Habe tun.",
+        "2": "Wer einem anderen sein Gut verkauft und ihm verspricht, es ihm vor seinem Herrn aufzulassen, sobald er dessen Zustimmung erlangen kann, und jener ihm den Preis ganz oder teilweise bezahlt, und stirbt dann der Käufer, bevor ihm das Gut verliehen wird, so ist der Verkäufer verpflichtet, es den Lehnserben des Käufers aufzulassen, ob dieser ihm ebenbürtig ist oder nicht. Gibt es keinen Lehnserben, so muss er es den rechten Erben auflassen, wer immer sie sind, so wie er es dem Käufer hätte auflassen sollen, wenn dieser voll bezahlt hatte; andernfalls muss er zurückgeben, was ihm dafür gegeben wurde.",
+        "3": "Dasselbe soll auch der Herr tun, wenn ein Mann bei ihm Kosten für ein Gut aufgewendet hat, damit er es ihm verleihe und frei mache, und der Mann vor der Belehnung stirbt.",
+        "4": "Gelobt aber derjenige, der das Gut auflassen soll, dem Erwerber die Belehnung zu verschaffen, und tut er das und kündigt er ihm vor Zeugen an, dorthin zu reiten und das Gut zu empfangen, und unterlässt der Erwerber dies ohne echte Not, und stirbt dann der Herr oder verweigert er später die Verleihung und lässt sie sich nicht mehr wie zuvor erlangen, so ist der Veräußerer von der Pflicht zum Hinreiten frei, nicht aber von der Pflicht zur Auflassung, falls der Erwerber sie später erlangen kann.",
+        "5": "Wer einem anderen ein Gut in die Gewere übergibt, bevor er es auflässt, der muss ihn in dieser Gewere vertreten, solange er es ihm nicht aufgelassen hat, wenn jener seiner Gewährschaft bedarf. Wird aber ihm oder dem, dem er das Gut auflassen soll, die Gewere mit Recht gebrochen, so muss er ihm zurückgeben, was ihm dafür gegeben wurde.",
+        "6": "Stirbt aber derjenige, der auflassen sollte, so ist sein Sohn zur Auflassung nicht verpflichtet, es sei denn, er hat es selbst gelobt oder Bürgen dafür gestellt."
+      }
+    },
+    "lr-i-10": {
+      "title": "Ausstattung des Sohnes",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Kleider, Pferde und Harnisch, die der Vater dem Sohn zum Gebrauch gibt, bleiben diesem",
+        "Keine Ausgleichungspflicht gegenüber Brüdern, Herren oder Erben"
+      ],
+      "significance": "Zweckgebundene Ausstattung zum Kriegs- und Hofdienst wird nicht auf das Erbe angerechnet.",
+      "keywords": ["Ausstattung", "Harnisch", "Pferd", "Erbteilung", "Sohn"],
+      "synonyms": ["Ausrüstung", "Heergerät"],
+      "sections": {
+        "1": "Gibt der Vater seinem Sohn Kleider, Rosse, Pferde und Harnisch zu einer Zeit, in der der Sohn sie braucht und nutzen kann, und darf der Vater sie auch geben, so muss der Sohn sie nach dem Tod des Vaters weder mit seinen Brüdern teilen noch dem Herrn oder den Erben des Vaters zurückgeben, auch wenn er seinem Vater nicht ebenbürtig ist und obwohl er mit seinem Gut vom Vater nicht abgeschichtet ist."
+      }
+    },
+    "lr-i-11": {
+      "title": "Herausgabe des Muttergutes",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Der Vater als Vormund muss das Muttergut bei Trennung herausgeben",
+        "Haftung entfällt bei unverschuldetem Verlust",
+        "Gilt entsprechend für die Stiefmutter und jeden Vormund"
+      ],
+      "significance": "Vormundschaft verwaltet fremdes Gut treuhänderisch.",
+      "keywords": ["Vormundschaft", "Muttergut", "Herausgabe", "Kinder", "Haftung"],
+      "synonyms": ["Vormund", "uoremunt", "Mündelgut"],
+      "sections": {
+        "1": "Hält der Vater seine Kinder nach dem Tod ihrer Mutter in Vormundschaft, so muss er ihnen, wenn sie sich von ihm trennen, das ganze Gut ihrer Mutter zurückgeben und überlassen, es sei denn, es ist ihm durch Unglück und ohne seine Schuld verloren gegangen. Dasselbe muss die Frau den Kindern ihres Mannes tun, wenn deren Vater stirbt, und ebenso jeder, der Vormund von Kindern ist."
+      }
+    },
+    "lr-i-12": {
+      "title": "Gemeinschaftliches Gut",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Gewinn und Verlust gemeinschaftlichen Guts tragen alle gemeinsam",
+        "Mitgift der Ehefrau bleibt außerhalb der Gemeinschaft",
+        "Eigenmächtige Verluste trägt der Verursacher allein"
+      ],
+      "significance": "Früher Regelungsansatz für Gesamthandsgemeinschaften (z. B. unter Brüdern).",
+      "keywords": ["Gemeinschaft", "Brüder", "Gewinn", "Schaden", "Verspielen"],
+      "synonyms": ["Ganerben", "Gütergemeinschaft"],
+      "sections": {
+        "1": "Wo Brüder oder andere Leute ihr Gut gemeinsam haben und es durch Aufwand oder Dienst vermehren, da gehört der Gewinn ihnen allen gemeinsam; ebenso der Schaden. Was aber jemand mit seiner Frau bekommt, das teilt er nicht mit seinem Bruder. Verspielt aber einer sein Gut, verwirkt er es oder gibt er es durch Geschenke oder Aufwand weg, ohne dass seine Brüder oder die, die ihr Gut mit ihm gemeinsam haben, zugestimmt haben, so trägt er den Schaden allein und nicht seine Brüder oder seine Genossen, die ihr Gut mit ihm gemeinsam haben."
+      }
+    },
+    "lr-i-13": {
+      "title": "Ausgleichung abgesonderter Kinder",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Abgesonderte Kinder müssen ihr fahrendes Gut bei der Erbteilung einbringen (Gerade ausgenommen)",
+        "Erbverzicht bindet; vor Gericht erklärter Verzicht ist leicht zu beweisen",
+        "Der Bauermeister ist Zeuge über die Bauern seines Gerichts"
+      ],
+      "significance": "Vorempfänge werden auf das Erbe angerechnet (Kollation).",
+      "keywords": ["Ausgleichung", "Erbteilung", "Abfindung", "Erbverzicht", "Bauermeister"],
+      "synonyms": ["Kollation", "eruedel", "Absonderung"],
+      "sections": {
+        "1": "Sondern Vater oder Mutter einen ihrer Söhne oder eine ihrer Töchter mit ihrem Gut von sich ab, ob sie sie dabei ausstatten oder nicht, und wollen diese nach dem Tod des Vaters oder der Mutter ihren Erbteil beanspruchen – Brüder gegenüber Brüdern oder die Tochter gegenüber der noch unausgestatteten Schwester –, so müssen sie unter Eid alles Gut in die Teilung einbringen, mit dem sie abgesondert wurden, soweit es fahrendes Gut ist, ausgenommen die Gerade. Handelt es sich um anderes Gut, das man nachweisen kann, so können sie sich davon nicht freischwören.",
+        "2": "Haben sie aber ihren Erbteil daran verzichtet, so müssen sie darauf verzichten, es sei denn, sie bestreiten das unter Eid auf die Heiligen. Haben sie den Verzicht vor Gericht erklärt, so kann man sie dessen eher überführen, als sie sich davon freischwören können. Der Bauermeister ist in solchen Sachen ein gültiger Zeuge über die Bauern innerhalb seines Gerichts, wo er Richter ist."
+      }
+    },
+    "lr-i-14": {
+      "title": "Lehen und Erbteilung nach Landrecht",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Lehnrecht: Der Herr belehnt nur einen Sohn",
+        "Landrecht: Dieser muss die Brüder am Wert beteiligen",
+        "Landrecht und Lehnrecht stehen nebeneinander und korrigieren sich"
+      ],
+      "significance": "Der Artikel macht das Zusammenspiel zweier Rechtskreise an einem Erbfall sichtbar.",
+      "keywords": ["Lehen", "Erbteilung", "Brüder", "Landrecht", "Lehnrecht"],
+      "synonyms": ["len", "Lehnserbe"],
+      "sections": {
+        "1": "Auch wenn es Lehnrecht ist, dass der Herr das Lehen des Vaters nur einem Sohn verleiht, so ist es doch nicht Landrecht, dass dieser es allein behält; er muss vielmehr seine Brüder daran teilhaben lassen, soweit sie in die Teilung hineingeboren sind.",
+        "2": "Ebenso ist es nicht Landrecht, dass ein Sohn, den der Vater mit seinem Lehen von sich absondert und dem er es dann auflässt, dieses nach dem Tod des Vaters vorweg behält und am übrigen Lehen den gleichen Anteil wie seine Brüder nimmt. Auch wenn die Brüder ihm das nach Lehnrecht nicht verwehren können, so ist es doch nicht Landrecht; klagen sie gegen ihn nach Landrecht, so zwingen sie ihn mit Urteilen zur rechten Teilung."
+      }
+    },
+    "lr-i-15": {
+      "title": "Geliehenes und anvertrautes Gut",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Der Verleiher ist im Streit beweisnäher (selbdritt)",
+        "Rechtmäßiger Erwerb oder ererbtes Gut bricht seinen Beweis",
+        "Was man nicht hat, bestreitet man mit Unschuldseid"
+      ],
+      "significance": "Beweisregeln entscheiden über Herausgabeansprüche an anvertrautem Gut.",
+      "keywords": ["Leihe", "Pfand", "Verwahrung", "Beweis", "Gewere", "Unschuldseid"],
+      "synonyms": ["Besitz", "Darlehen", "Hinterlegung", "selbdritt"],
+      "sections": {
+        "1": "Wer einem anderen sein Gut leiht, verpfändet oder zur Verwahrung gibt, mit oder ohne Bedingung, und will jener oder nach dessen Tod sein Erbe es ihm später abstreiten, so ist der Geber näher daran, es selbdritt zu behaupten, als jener, es ihm abzuschwören. Kann aber derjenige, der es in seiner Gewere hat, seinen rechtmäßigen Erwerb daran bezeugen oder dass es ererbtes Gut ist, oder hat er es mit Recht in seiner Gewere, so bricht er das Zeugnis des anderen, sofern ihm an seiner Gewere nichts fehlt.",
+        "2": "Beschuldigt man jemanden wegen einer Sache, die er nicht hat, so befreit er sich davon mit seinem Unschuldseid. Was man aber in seinem Besitz nachweisen kann, dafür muss er ohne Unschuldseid Rede und Antwort stehen."
+      }
+    },
+    "lr-i-16": {
+      "title": "Angeborenes Recht und Freilassung",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Niemand kann ein anderes als das angeborene Recht erwerben",
+        "Wer sein Recht vor Gericht verleugnet und ein anderes nicht beweist, verliert beide",
+        "Freigelassene erhalten das Recht freier Landsassen; das Kind folgt dem Vater, wenn es frei und ehelich ist"
+      ],
+      "significance": "Rechtsstand ist im Sachsenspiegel grundsätzlich Geburtsstand.",
+      "keywords": ["Geburtsstand", "Freilassung", "Landsassen", "Dienstleute", "Kinder"],
+      "synonyms": ["Stand", "angeborenes Recht", "Freigelassene"],
+      "sections": {
+        "1": "Niemand kann ein anderes Recht erwerben als das, das ihm angeboren ist. Verleugnet er aber sein Recht vor Gericht und schreibt sich ein anderes zu, das er nicht beweisen kann, so verliert er beide. Ausgenommen ist der Eigenmann, den man freilässt: Er erhält das Recht freier Landsassen.",
+        "2": "Ist das Kind frei und ehelich, so erhält es das Recht seines Vaters. Ist aber der Vater ein Dienstmann oder die Mutter eine Dienstfrau, so behält das Kind das Recht, in das es hineingeboren ist."
+      }
+    },
+    "lr-i-17": {
+      "title": "Erbfolge der Verwandten",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Ohne Kinder erben Vater, dann Mutter vor den Geschwistern",
+        "Söhne gehen Töchtern vor; jenseits der Geschwister erben Gleichnahe zu gleichen Teilen (Ganerben)",
+        "Nur Ebenbürtige erben; Schwaben erben nicht über die weibliche Linie"
+      ],
+      "significance": "Grundregeln der Erbfolge nach Nähe der Verwandtschaft und Ebenbürtigkeit.",
+      "keywords": ["Erbfolge", "Ganerben", "Ebenbürtigkeit", "Söhne", "Töchter", "Schwaben"],
+      "synonyms": ["gan eruen", "Verwandtenerbfolge", "Parentel"],
+      "sections": {
+        "1": "Stirbt ein Mann ohne Kind, so nimmt sein Vater sein Erbe; hat er keinen Vater mehr, so nimmt es seine Mutter mit besserem Recht als sein Bruder. Das Erbe von Vater und Mutter, Schwester und Bruder nimmt der Sohn und nicht die Tochter, es sei denn, es ist kein Sohn da; dann nimmt es die Tochter. Geht das Erbe aber über Brüder und Schwestern hinaus, so nehmen alle, die gleich nahe verwandt sind, den gleichen Teil, ob Mann oder Frau; diese nennen die Sachsen Ganerben. Doch nimmt das Kind des Sohnes oder der Tochter das Erbe vor Vater und Mutter, vor Bruder und Schwester, weil es nicht aus der direkten Linie herausgeht, solange ein ebenbürtiger Sohn da ist. Wer dem anderen nicht ebenbürtig ist, kann dessen Erbe nicht nehmen.",
+        "2": "Der Schwabe kann auch von der weiblichen Seite kein Erbe nehmen, weil die Frauen in seinem Geschlecht wegen der Missetat ihrer Vorfahren ganz erbunfähig gemacht worden sind."
+      }
+    },
+    "lr-i-18": {
+      "title": "Drei Rechte der Sachsen gegen Karls Willen",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Schwäbisches Erbrecht (Ausschluss der Frauen)",
+        "Unschuldseid bei außergerichtlichem Geschehen",
+        "Urteilsschelte mit Zweikampf sieben gegen sieben; Fortgeltung des alten Rechts, soweit christlich"
+      ],
+      "significance": "Eike erklärt Besonderheiten des sächsischen Rechts historisch als behauptete Eigenrechte.",
+      "keywords": ["Karl der Große", "Urteilsschelte", "Unschuldseid", "altes Recht", "Sachsen", "Schwaben"],
+      "synonyms": ["Urteilsschelten", "Sachsenrecht"],
+      "sections": {
+        "1": "Dreierlei Recht behielten die Sachsen gegen Karls Willen: das schwäbische Recht, das wegen der Frauen besteht (vgl. LR I 17 § 2);",
+        "2": "das zweite: Was jemand nicht vor Gericht getan hat, wie bekannt es auch sein mag, davon befreit er sich mit seinem Unschuldseid, und man kann ihn dessen nicht überführen.",
+        "3": "Das dritte ist: Wenn vor dem Reich in Sachsen ein Urteil gefunden wird, so recht es auch sei, und ein Sachse will es schelten, beruft sich auf seine „vordere Hand“ und auf die größere Zahl und ficht das Urteil selbsiebt gegen sieben andere aus, so hat die Seite das Urteil behauptet, auf der die größere Zahl siegt. Außerdem behielten sie ihr ganzes altes Recht, soweit es nicht gegen das christliche Gesetz und den rechten Glauben verstieß."
+      }
+    },
+    "lr-i-19": {
+      "title": "Schwäbisches Recht",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Schwaben erben Heergewäte und Erbe auch über den siebenten Grad hinaus",
+        "Urteilsschelte unter Schwaben vor dem älteren Schwaben und der Mehrheit",
+        "Schwäbisches und sächsisches Recht unterscheiden sich nur im Erben und Urteilschelten"
+      ],
+      "significance": "Der Sachsenspiegel berücksichtigt Stammesrechte innerhalb Sachsens.",
+      "keywords": ["Schwaben", "Heergewäte", "Erbe", "Urteilsschelte", "Stammesrecht"],
+      "synonyms": ["swaue", "Herwede", "Heergerät"],
+      "sections": {
+        "1": "Der Schwabe nimmt Heergewäte und Erbe auch über die siebente Verwandtschaftsstufe hinaus, so weit er immer nachweisen kann, dass ihm der Verstorbene von der Schwertseite her verwandt ist, oder so weit er bezeugen kann, dass einer seiner Vorfahren das Heergewäte jenes Vorfahren oder von dessen Vorfahren vor Gericht gefordert oder genommen hat.",
+        "2": "Die Schwaben schelten Urteile unter sich innerhalb schwäbischer Abstammung und ziehen sie an den älteren Schwaben, den sie aber benennen müssen, und an die größere Zahl, im echten Ding an der höchsten Dingstätte. Schwäbisches und sächsisches Recht unterscheiden sich nur beim Erben und beim Urteilschelten."
+      }
+    },
+    "lr-i-20": {
+      "title": "Morgengabe und Rechte der Witwe",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Morgengabe ritterlicher Männer: Knecht oder Magd, Zäune, Gebäude, Vieh – ohne Zustimmung der Erben",
+        "Witwe muss Gebäude auf fremdem Grund räumen oder zur Ablösung anbieten",
+        "Morgengabe wird mit Eid, die Gewere mit Zeugen behauptet"
+      ],
+      "significance": "Die Morgengabe sichert die Ehefrau; ihr Umfang hängt vom Stand des Mannes ab.",
+      "keywords": ["Morgengabe", "Witwe", "Ritter", "Gerade", "Musteil", "Gewere", "Eid"],
+      "synonyms": ["morghengaue", "Witwengut", "musdele", "Rade"],
+      "sections": {
+        "1": "Nun hört, was jeder Mann von ritterlicher Art seiner Frau als Morgengabe geben darf. Am Morgen, wenn er mit ihr vor dem Essen zu Tisch geht, darf er ihr ohne Erlaubnis der Erben einen Knecht oder eine Magd geben, die noch unmündig sind, dazu Zäune, Gebäude und Weidevieh.",
+        "2": "Gehört der Frau beim Tod ihres Mannes der Grund nicht, auf dem das Gebäude steht, so soll sie das Gebäude binnen sechs Wochen nach dem Dreißigsten entfernen, ohne die Erde aufzureißen. Bietet sie es aber dem Grundeigentümer zur Ablösung nach Schätzung der Bauern an und will er es nicht, so darf sie es ausgraben, sofern sie die Erde wieder einebnet.",
+        "3": "Bleibt sie mit den Kindern oder mit den Erben des Mannes längere oder kürzere Zeit ungeteilt in ihrem Gut, so nimmt sie, wenn sie sich dann von ihnen trennt, ihr ganzes Recht an dem dann vorhandenen Gut, so wie sie es beim Tod ihres Mannes hätte nehmen sollen.",
+        "4": "Bleibt aber die Witwe nach dem Tod ihres Mannes mit ihren Kindern im Gut der Kinder, ohne vom Gut abgeteilt zu sein, und nimmt ihr Sohn zu ihren Lebzeiten eine Frau und stirbt er dann, so nimmt die Frau des Sohnes mit besserem Recht als seine Mutter die Morgengabe ihres Mannes, das Musteil und die Gerade im Gut ihres Mannes, sofern sie die ungeteilte Gewere ihres Mannes und ihre eigene daran bezeugen kann.",
+        "5": "Stirbt aber der Sohn im Gut der Mutter, so ist die Mutter näher daran, es mit Zeugen zu behalten, als die Witwe ihres Sohnes.",
+        "6": "Die Morgengabe behauptet die Frau mit Eid auf die Heiligen, die Gewere aber mit Zeugen.",
+        "7": "Ebenso behält ihre Nichte ihre Gerade nach ihrem Tod, wenn sie vor ihrem Mann stirbt, mit besserem Recht als die Mutter des Mannes. Die Mutter ist Gast in der Gewere des Sohnes und der Sohn in der der Mutter.",
+        "8": "Alle, die nicht von ritterlicher Art sind, können als Morgengabe nur das beste Pferd oder Stück Vieh geben, das sie haben.",
+        "9": "Die Morgengabe behauptet eine Frau mit Eid auf die Heiligen, ohne Zeugen."
+      }
+    }
+  }
+}

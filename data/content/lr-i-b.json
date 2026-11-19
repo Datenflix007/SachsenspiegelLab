@@ -1,0 +1,388 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR I 21–45. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-i-21": {
+      "title": "Leibzucht der Frau",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Eigen kann Frauen mit Zustimmung der Erben auf Lebenszeit übertragen werden",
+        "Niemand kann die Leibzucht brechen, außer die Frau verwirkt sie selbst",
+        "Auch nach rechtmäßiger Scheidung bleibt die Leibzucht erhalten"
+      ],
+      "significance": "Die Leibzucht ist die zentrale Witwenversorgung am Grundbesitz.",
+      "keywords": ["Leibzucht", "Witwenversorgung", "Eigen", "Scheidung", "Obstbäume"],
+      "synonyms": ["liftucht", "Leibgedinge", "Nießbrauch"],
+      "sections": {
+        "1": "Man darf Frauen, wie jung sie auch sind, mit Zustimmung der Erben Eigen auf Lebenszeit geben, und zwar in dem Gericht, in dem das Eigen liegt, an jeder Stätte, an der Königsbann gilt.",
+        "2": "Die Leibzucht kann den Frauen niemand brechen, weder der nachgeborene Erbe noch sonst jemand, auf den das Gut fällt, es sei denn, sie verwirkt sie selbst: indem sie Obstbäume aushaut oder Leute, die zum Gut gehören, davon vertreibt, oder auf welche Weise auch immer sie ihre Leibzucht aus ihrer Gewere lässt. Macht sie das nicht binnen ihrer rechten Gerichtsfristen wieder gut, sobald sie deswegen beschuldigt wird, so kann sie die Leibzucht dadurch verlieren. Wird ein Mann von seiner Frau mit Recht geschieden, so behält sie dennoch ihre Leibzucht, die er ihr an seinem Eigen gegeben hat."
+      }
+    },
+    "lr-i-22": {
+      "title": "Abwicklung des Nachlasses; Heergewäte",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Bis zum Dreißigsten hat der Erbe nur Aufsichtsrechte",
+        "Zuerst wird der verdiente Lohn des Gesindes ausgezahlt",
+        "Die Witwe gibt das Heergewäte heraus: Schwert, bestes Pferd, Harnisch, Heerpfühl"
+      ],
+      "significance": "Der Artikel zeigt eine geordnete Reihenfolge bei der Nachlassabwicklung.",
+      "keywords": ["Dreißigster", "Gesinde", "Lohn", "Heergewäte", "Musteil", "Witwe", "Begräbnis"],
+      "synonyms": ["herwede", "Heergerät", "drittegeste", "musdele"],
+      "sections": {
+        "1": "Der Erbe darf vor dem Dreißigsten zu der Witwe auf das Gut kommen, um darauf zu achten, dass nichts verloren geht, was ihn betrifft. Mit seinem Rat soll die Frau auch das Begräbnis und den Dreißigsten ausrichten; sonst soll er bis zum Dreißigsten keine Gewalt haben.",
+        "2": "Aus dem Erbe soll man zuerst dem Gesinde den verdienten Lohn geben, so wie er ihnen bis zum Tod ihres Herrn zusteht, und man soll sie bis zum Dreißigsten unterhalten, damit sie sich eine neue Stelle suchen können; will der Erbe es aber, so sollen sie weiter dienen und Lohn erhalten. Ist ihnen zu viel Lohn gegeben worden, so müssen sie ihn nicht zurückgeben. Bestreitet man ihnen ihren Lohn für ein Jahr oder ein halbes Jahr, so können sie ihn mit Eid auf die Heiligen behaupten. Wer auf Gnade dient, muss den Erben um Gnade bitten. Stirbt der gedungene Knecht, bevor er seinen versprochenen Lohn verdient hat, so schuldet man seinen Erben nicht mehr Lohn, als er verdient hatte und ihm bis zu seinem Tod zustand.",
+        "3": "Danach muss die Frau mit den Erben alle Hofspeise als Musteil teilen, die nach dem Dreißigsten auf jedem Hof ihres Mannes übrig geblieben ist oder wo sie sich sonst innerhalb seiner Gewere befand.",
+        "4": "Dann soll die Frau als Heergewäte das Schwert ihres Mannes herausgeben, das beste Ross gesattelt oder das beste Pferd, den besten Harnisch, den er für seinen Leib hatte, als er in seiner Gewere starb, und einen Heerpfühl, das heißt ein Bett, ein Kissen, ein Leintuch, ein Tischtuch, zwei Becken und ein Handtuch. Das ist ein gewöhnliches Heergewäte, das zu geben Recht ist, auch wenn die Leute mehr hinzurechnen, was nicht dazugehört. Hat die Frau einige dieser Dinge nicht, so braucht sie sie nicht zu geben, wenn sie für jede Forderung einzeln ihren Unschuldseid leistet, dass sie es nicht habe. Was man aber nachweisen kann, dagegen kann weder Mann noch Frau einen Unschuldseid leisten.",
+        "5": "Sind zwei oder drei Männer gemeinsam zu einem Heergewäte berechtigt, so nimmt der älteste das Schwert vorweg; das Übrige teilen sie gleichmäßig unter sich."
+      }
+    },
+    "lr-i-23": {
+      "title": "Heergewäte und Vormundschaft über Unmündige",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Der älteste ebenbürtige Schwertmage nimmt das Heergewäte für unmündige Söhne",
+        "Er gibt es mit dem ganzen Gut bei Mündigkeit zurück",
+        "Vormund und Erbe können verschiedene Personen sein; der Vormund schuldet dann jährliche Rechenschaft"
+      ],
+      "significance": "Vormundschaft ist Verwaltung im Interesse des Mündels und unter Kontrolle des Erben.",
+      "keywords": ["Vormundschaft", "Heergewäte", "Schwertmage", "Rechenschaft", "Witwe", "Mündigkeit"],
+      "synonyms": ["uoremunde", "Vormund", "swertmach", "Rechnungslegung"],
+      "sections": {
+        "1": "Sind die Söhne noch unmündig, so nimmt ihr ältester ebenbürtiger Schwertmage das Heergewäte allein und ist insoweit Vormund der Kinder, bis sie mündig werden; dann soll er es ihnen zurückgeben und dazu ihr ganzes Gut, es sei denn, er kann nachweisen, wofür er es zu ihrem Bedarf verwendet hat oder dass es ihm durch Raub und ohne seine Schuld genommen wurde.",
+        "2": "Auch wenn ein Kind nach Lehnrecht mündig geworden ist, soll sein rechter Vormund es doch in seinem Gut zu seinem Nutzen vertreten und an Stelle des Kindes nach dessen Recht dem Herrn dienen, solange es wegen Kindheit, Torheit oder körperlicher Schwäche nicht selbst für sich sorgen kann. Dem, der Erbe des Kindes ist, soll der Vormund Jahr für Jahr über das Gut des Kindes Rechenschaft geben und ihm Sicherheit dafür bieten, dass er es nicht pflichtwidrig verbraucht, seit das Kind mündig geworden ist; denn oft ist einer Vormund der Kinder und ein anderer ihr Erbe. Ist aber der Vormund zugleich Erbe, so braucht er niemandem über das Gut des Kindes Rechenschaft zu geben noch Bürgen zu stellen. Er ist auch Vormund der Witwe, bis sie wieder heiratet, wenn er ihr ebenbürtig ist."
+      }
+    },
+    "lr-i-24": {
+      "title": "Morgengabe und Gerade",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Zur Morgengabe gehören Feldvieh, Zäune und Bauholz; Mastschweine zum Musteil",
+        "Ausführlicher Katalog der Gerade: Schafe, Gänse, Truhen, Textilien, Schmuck, Psalter und Andachtsbücher",
+        "Was nicht ausdrücklich zur Gerade gehört, fällt ins Erbe"
+      ],
+      "significance": "Der Geradekatalog ist eine wichtige Quelle für Sachkultur und weibliche Lebenswelt im 13. Jahrhundert.",
+      "keywords": ["Gerade", "Morgengabe", "Musteil", "Frauengut", "Bücher", "Schmuck", "Haushalt"],
+      "synonyms": ["rade", "Frauengut", "Aussteuer", "musdele"],
+      "sections": {
+        "1": "Nach dem Heergewäte soll die Frau ihre Morgengabe nehmen; dazu gehören alle Feldpferde, Rinder, Ziegen und Schweine, die mit dem Hirten auf die Weide gehen, außerdem Zäune und Bauholz.",
+        "2": "Mastschweine gehören aber zum Musteil.",
+        "3": "Dann nimmt sie alles, was zur Gerade gehört: alle Schafe, Gänse, Kisten mit aufklappbarem Deckel, alles Garn, Betten, Pfühle, Kissen, Leintücher, Tischtücher, Handtücher, Badetücher, Becken, Leuchter, Leinen und Frauenkleider, Fingerringe, Armreifen, Kopfschmuck, Psalter und alle Bücher für den Gottesdienst, in denen Frauen zu lesen pflegen, Sessel, Truhen, Teppiche, Wandbehänge, Rücklaken und allen Kopfputz. Das gehört zur Gerade der Frau. Dazu gehört noch manches Kleinod, auch wenn ich es nicht eigens nenne, wie Bürsten, Scheren und Spiegel. Ungeschnittenes Tuch für Frauenkleider sowie unverarbeitetes Gold und Silber gehören dagegen nicht den Frauen. Was über diese genannten Dinge hinausgeht, gehört alles zum Erbe.",
+        "4": "Was davon aber schon zu Lebzeiten des verstorbenen Mannes verpfändet war, das mag auslösen, wem es von Rechts wegen zusteht, wenn er will."
+      }
+    },
+    "lr-i-25": {
+      "title": "Geistliche, Mönche und Erbrecht",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Der Weltgeistliche teilt mit den Brüdern, der Mönch nicht",
+        "Wer als Unmündiger ins Kloster gegeben wird, kann austreten und behält seine Rechte",
+        "Wer mündig ins Kloster eintritt, verliert Land- und Lehnrecht; gegen den Willen der Ehefrau nur das Lehen"
+      ],
+      "significance": "Der Klostereintritt wirkt wie ein bürgerlicher Tod im Recht der Laien.",
+      "keywords": ["Mönch", "Kloster", "Priester", "Heerschild", "Ehefrau", "Erbrecht"],
+      "synonyms": ["moneke", "Klostereintritt", "Profess", "Ordensleben"],
+      "sections": {
+        "1": "Der Priester teilt mit den Brüdern, der Mönch dagegen nicht.",
+        "2": "Wird ein Kind als Unmündiger zum Mönch gemacht, so darf es noch vor seiner Mündigkeit austreten und behält Lehnrecht und Landrecht.",
+        "3": "Tritt aber ein Mann ins Kloster ein, der mündig ist, so hat er sich des Landrechts und des Lehnrechts entäußert, und seine Lehen werden frei, weil er den Heerschild aufgegeben hat – sofern man dafür Zeugnis hat von den Mönchen, bei denen er eingetreten ist, oder von sieben Männern seines Standes, die ihn im Ordensleben gesehen haben –, auch wenn er innerhalb eines Jahres wieder austritt, wie es das Recht der grauen Mönche ist.",
+        "4": "Ist er aber ohne den Willen seiner Ehefrau eingetreten und fordert sie ihn nach Sendrecht aus dem Ordensleben zurück, so hat er sein Landrecht behalten, nicht aber sein Lehen, auf das er verzichtet hat; denn ein Mann darf seinen Heerschild auch ohne Zustimmung seiner Frau niederlegen.",
+        "5": "Stirbt ein Kind oder wird es in seiner Unmündigkeit ins Kloster gegeben, so soll derjenige, der seine fahrende Habe in Verwahrung hat, sie denen herausgeben, auf die sie nach seinem Tod vererben würde, es sei denn, sie ist mit seinem Willen verbraucht worden."
+      }
+    },
+    "lr-i-26": {
+      "title": "Landrecht I 26",
+      "metaStatus": "draft",
+      "keyPoints": [],
+      "significance": "",
+      "keywords": [],
+      "synonyms": [],
+      "note": "In der Edition Lübben (Oldenburger Codex picturatus) ist kein eigener Artikel I 26 ausgewiesen; die Randzählung springt von I 25 § 5 zu I 27.",
+      "sections": {}
+    },
+    "lr-i-27": {
+      "title": "Zweifache Erbfolge: Gerade, Erbe, Heergewäte",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Frauen vererben die Gerade an die nächste Verwandte von weiblicher Seite, das Erbe an die Nächsten",
+        "Ritterbürtige Männer vererben das Erbe an den nächsten Ebenbürtigen, das Heergewäte an den nächsten Schwertmagen",
+        "Wer nicht von ritterlicher Art ist, hinterlässt kein Heergewäte"
+      ],
+      "significance": "Das Erbrecht folgt getrennten Gütermassen nach Geschlecht und Stand.",
+      "keywords": ["Gerade", "Heergewäte", "Erbe", "Ritter", "Schwertmage", "Nichte"],
+      "synonyms": ["rade", "herwede", "Sondererbfolge", "Spindelseite", "Schwertseite"],
+      "sections": {
+        "1": "Jede Frau vererbt zweierlei: ihre Gerade an ihre nächste Nichte, die ihr von weiblicher Seite verwandt ist, das Erbe an den nächsten Verwandten, sei es Frau oder Mann.",
+        "2": "Jeder Mann von ritterlicher Art vererbt ebenfalls zweierlei: das Erbe an seinen nächsten ebenbürtigen Verwandten, wer es auch sei, und das Heergewäte an den nächsten Schwertmagen. Wer nicht von ritterlicher Art ist, mit dem endet der Heerschild; er hinterlässt bei seinem Tod Erbe, aber kein Heergewäte."
+      }
+    },
+    "lr-i-28": {
+      "title": "Erbloses Gut",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Erbloses Gut geht nach dem Dreißigsten an den Richter",
+        "Der Richter verwahrt es Jahr und Tag für mögliche Erben",
+        "Längere Frist für Gefangene und Abwesende im Reichs- oder Gottesdienst"
+      ],
+      "significance": "Fiskalisches Heimfallrecht mit Schutzfrist für abwesende Erben.",
+      "keywords": ["erbloses Gut", "Richter", "Jahr und Tag", "Heimfall", "Kreuzzug"],
+      "synonyms": ["eruelos", "Fiskus", "Heimfallrecht"],
+      "sections": {
+        "1": "Was von solchen Dingen ohne Erben anfällt, Heergewäte, Erbe oder Gerade, das soll man nach dem Dreißigsten dem Richter oder dem Fronboten übergeben, wenn er es fordert. Der Richter soll es Jahr und Tag unverbraucht aufbewahren und abwarten, ob jemand es mit Recht beansprucht. Danach wendet der Richter es zu seinem Nutzen, es sei denn, der Erbe ist gefangen oder im Dienst des Reiches oder in Gottes Dienst außer Landes. Dann muss er mit dem Erbe warten, bis er zurückkommt, denn in dieser Zeit kann er sein Erbe nicht versäumen. Dies gilt für fahrende Habe."
+      }
+    },
+    "lr-i-29": {
+      "title": "Verschweigung bei Grundbesitz",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Rechte an Eigen und Hufen verliert der Sachse durch dreißig Jahre und Jahr und Tag Schweigen",
+        "Reich und Schwaben können sich ihres Erbes nie verschweigen"
+      ],
+      "significance": "Früher Ansatz von Verjährung bzw. Rechtsverlust durch Untätigkeit.",
+      "keywords": ["Verschweigung", "Verjährung", "Eigen", "Hufe", "dreißig Jahre"],
+      "synonyms": ["uorswighen", "Ersitzung", "Rechtsverlust"],
+      "sections": {
+        "1": "An Eigen und an Hufen kann der Sachse sein Recht binnen dreißig Jahren und Jahr und Tag durch Schweigen verlieren, nicht früher. Das Reich und der Schwabe können ihr Erbe niemals durch Schweigen verlieren, solange sie es bezeugen können."
+      }
+    },
+    "lr-i-30": {
+      "title": "Erbrecht Zugezogener",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Zugezogene erben in Sachsen nach dem Recht des Landes",
+        "Gilt für Bayern, Schwaben und Franken gleichermaßen"
+      ],
+      "significance": "Territorialprinzip statt Personalprinzip im Erbrecht.",
+      "keywords": ["Zuzug", "Territorialprinzip", "Bayern", "Schwaben", "Franken"],
+      "synonyms": ["incomen man", "Fremde", "Landesrecht"],
+      "sections": {
+        "1": "Jeder Zugezogene empfängt Erbe im Land Sachsen nach dem Recht des Landes und nicht nach dem seiner Person, sei er Bayer, Schwabe oder Franke."
+      }
+    },
+    "lr-i-31": {
+      "title": "Güterrecht der Ehegatten",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Ehegatten haben zu Lebzeiten kein geteiltes Gut",
+        "Der Mann hat das Gut der Frau in seiner Gewere zu rechter Vormundschaft",
+        "Die Frau kann ihrem Mann nichts schenken, was ihren Erben entzogen würde"
+      ],
+      "significance": "Ehelicher Güterstand der Verwaltungsgemeinschaft unter Vormundschaft des Mannes.",
+      "keywords": ["Ehegüterrecht", "Gewere", "Vormundschaft", "Schenkung", "Ehefrau"],
+      "synonyms": ["eheliches Güterrecht", "Muntgewalt", "Besitz"],
+      "sections": {
+        "1": "Mann und Frau haben zu ihren Lebzeiten kein geteiltes Gut. Stirbt aber die Frau zu Lebzeiten des Mannes, so vererbt sie keine fahrende Habe, sondern nur Gerade und Eigen, wenn sie solches hat, an ihre Nächsten. Keine Frau kann vom Gut ihres Mannes ohne seinen Willen etwas so weggeben, dass er es von Rechts wegen hinnehmen müsste.",
+        "2": "Wenn ein Mann eine Frau nimmt, so nimmt er ihr ganzes Gut zu rechter Vormundschaft in seine Gewere; darum kann keine Frau ihrem Mann eine Gabe an ihrem Eigen oder an fahrender Habe machen, durch die sie es nach ihrem Tod ihren rechten Erben entzöge; denn der Mann kann am Gut seiner Frau keine andere Gewere erlangen als die, die er zu Beginn mit ihr zur Vormundschaft empfangen hat."
+      }
+    },
+    "lr-i-32": {
+      "title": "Leibzucht ist kein Eigen",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Leibzucht kann nicht als Eigen vererbt werden",
+        "Wer sie fälschlich als Eigen beansprucht, verliert beides"
+      ],
+      "significance": "Grenze zwischen lebenslanger Nutzung und Eigentum.",
+      "keywords": ["Leibzucht", "Eigen", "Witwe", "Rechtsverlust"],
+      "synonyms": ["liftucht", "Nießbrauch", "Eigentum"],
+      "sections": {
+        "1": "Keine Frau kann ihre Leibzucht oder ihr Erbe nach ihrem Tod als Eigen behalten, solange man beweisen kann, dass es ihr nur auf Lebenszeit gegeben ist. Behauptet sie, es sei ihr Eigen, und wird sie dessen mit Recht überführt, so hat sie beides verloren, Eigen und Leibzucht."
+      }
+    },
+    "lr-i-33": {
+      "title": "Das nachgeborene Kind",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Ein nach dem Tod des Vaters lebend geborenes Kind erbt",
+        "Beweis durch vier Männer, die es gehört haben, und zwei Geburtshelferinnen",
+        "Stirbt es danach, erbt die Mutter; Lehnsanwartschaften werden gebrochen"
+      ],
+      "significance": "Schutz des ungeborenen Erben und Regeln zum Lebendnachweis.",
+      "keywords": ["Nachgeborene", "Schwangerschaft", "Lebendgeburt", "Zeugen", "Hebamme", "Lehen"],
+      "synonyms": ["Postumus", "Geburtszeugen", "Gedinge"],
+      "sections": {
+        "1": "Nun hört von einer Frau, die nach dem Tod ihres Mannes ein Kind trägt und sich beim Begräbnis oder beim Dreißigsten als schwanger zu erkennen gibt: Wird das Kind lebend geboren und hat die Frau dafür das Zeugnis von vier Männern, die es gehört haben, und von zwei Frauen, die ihr bei der Geburt geholfen haben, so erhält das Kind das Erbe des Vaters. Stirbt es danach, so vererbt es auf die Mutter, wenn sie ihm ebenbürtig ist, und bricht alle Anwartschaften am Lehen des Vaters, weil es nach dem Tod des Vaters gelebt hat; so werden die Lehen dem Herrn frei, sofern das Kind vorgezeigt und als so groß befunden wird, dass es lebensfähig sein konnte. Wird es aber öffentlich zur Kirche gebracht, so kann jeder, der es sieht und hört, Zeuge dafür sein, dass es gelebt hat."
+      }
+    },
+    "lr-i-34": {
+      "title": "Veräußerung von Eigen",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Eigen darf mit Zustimmung der Erben veräußert werden, wenn eine halbe Hufe und eine Hofstätte bleiben",
+        "Aufgetragenes Eigen gilt erst nach Jahr und Tag lediger Gewere als Lehen des Herrn",
+        "Verweigert der Richter zu Unrecht, kann man vor dem König auflassen"
+      ],
+      "significance": "Grundbesitz bleibt an Erben, Gericht und Mindestbestand gebunden.",
+      "keywords": ["Eigen", "Veräußerung", "Erbenzustimmung", "Hufe", "Lehnsauftragung", "König"],
+      "synonyms": ["eruengelof", "Grundstücksverkehr", "Auflassung"],
+      "sections": {
+        "1": "Ohne Erlaubnis des Richters darf ein Mann sein Eigen mit Zustimmung der Erben weggeben, sofern er eine halbe Hufe behält und eine Hofstätte, auf der man einen Wagen wenden kann; davon soll er dem Richter seine Rechte leisten.",
+        "2": "Wer sein Eigen weggibt und es als Lehen zurückempfängt, dem Herrn nützt die Gabe nichts, solange er das Gut nicht Jahr und Tag in lediger Gewere gehabt hat. Danach kann er es ihm sicher zurück auflassen oder verleihen, so dass weder der Geber noch sein Erbe ein Eigen daran nachweisen kann.",
+        "3": "Verwehrt der Richter einem Mann zu Unrecht, sein Eigen zu vergeben, so darf er es, wenn der König in das sächsische Land kommt, vor diesem vergeben, so wie er es vor dem Richter hätte tun sollen, sofern man Zeugnis dafür hat, dass der Richter es zu Unrecht verweigert hat."
+      }
+    },
+    "lr-i-35": {
+      "title": "Schatzfund und Silberabbau",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Schätze tiefer als die Pflugschar gehören dem König",
+        "Silberabbau nur mit Erlaubnis des Grundeigentümers; dieser erhält die Vogtei"
+      ],
+      "significance": "Früher Ansatz eines königlichen Bergregals.",
+      "keywords": ["Schatz", "Bergbau", "Silber", "König", "Regal", "Vogtei"],
+      "synonyms": ["Bergregal", "Schatzregal", "Fund"],
+      "sections": {
+        "1": "Jeder Schatz, der tiefer in der Erde vergraben liegt, als ein Pflug reicht, gehört der königlichen Gewalt.",
+        "2": "Silber darf niemand auf dem Grund eines anderen ohne den Willen dessen abbauen, dem der Grund gehört; gibt dieser aber die Erlaubnis, so steht ihm die Vogtei darüber zu."
+      }
+    },
+    "lr-i-36": {
+      "title": "Zu früh oder zu spät geborene Kinder",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Ein lebensfähiges Kind, das zu früh nach der Heirat geboren wird, kann angefochten werden",
+        "Ebenso ein Kind, das zu lange nach dem Tod des Mannes geboren wird"
+      ],
+      "significance": "Vermutungen zur Ehelichkeit anhand der Schwangerschaftsdauer.",
+      "keywords": ["Ehelichkeit", "Geburt", "Anfechtung", "Schwangerschaft"],
+      "synonyms": ["Vaterschaft", "Legitimität"],
+      "sections": {
+        "1": "Wenn eine Frau zum ersten Mal einen Mann heiratet und vor der rechten Zeit ein Kind bekommt, und zwar so, dass das Kind lebensfähig ist, so kann man es in seinem Recht anfechten, weil es zu früh geboren ist.",
+        "2": "Bekommt sie nach dem Tod ihres Mannes ein Kind nach Ablauf der rechten Zeit, so kann man es anfechten, weil es zu spät geboren ist."
+      }
+    },
+    "lr-i-37": {
+      "title": "Ehe nach Ehebruch oder Vergewaltigung",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Wer öffentlich Ehebruch begeht oder eine Frau vergewaltigt und sie später heiratet,",
+        "kann mit ihr keine ehelichen Kinder bekommen"
+      ],
+      "significance": "Ehehindernis aus vorangegangenem Unrecht.",
+      "keywords": ["Ehebruch", "Notzucht", "Ehe", "eheliche Kinder"],
+      "synonyms": ["Vergewaltigung", "Ehehindernis"],
+      "sections": {
+        "1": "Wer öffentlich mit der Frau eines anderen Mannes Ehebruch begeht oder eine Frau oder Jungfrau vergewaltigt und sie danach zur Ehe nimmt, bekommt mit ihr niemals eheliche Kinder."
+      }
+    },
+    "lr-i-38": {
+      "title": "Rechtlose und Geächtete",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Lohnkämpfer, Spielleute, unehelich Geborene und überführte Diebe/Räuber sind rechtlos",
+        "Wer Jahr und Tag in der Reichsacht ist, verliert Eigen und Lehen",
+        "Rückkehr in das Recht nur durch Tjost vor dem kaiserlichen Heer"
+      ],
+      "significance": "Zentrale Bestimmung zur Rechtlosigkeit als Minderung des Rechtsstatus.",
+      "keywords": ["Rechtlosigkeit", "Acht", "Reichsacht", "Spielleute", "Kämpen", "uneheliche Geburt"],
+      "synonyms": ["rechtlos", "Oberacht", "echtlos", "Lohnkämpfer"],
+      "sections": {
+        "1": "Lohnkämpfer und ihre Kinder, Spielleute und alle, die unehelich geboren sind, ferner die Diebstahl oder Raub durch Sühne oder Rückgabe beglichen haben und deswegen vor Gericht überführt worden sind, oder die Leib, Haut und Haar ausgelöst haben – sie alle sind rechtlos.",
+        "2": "Wer Jahr und Tag in der Acht des Reiches ist, den erklärt man für rechtlos und spricht ihm Eigen und Lehen ab: das Lehen fällt dem Herrn heim, das Eigen der königlichen Gewalt. Holen die Erben es nicht binnen Jahr und Tag mit ihrem Eid aus der königlichen Gewalt, so verlieren sie es zusammen mit ihm, es sei denn, echte Not hat sie daran gehindert, vor Gericht zu erscheinen; die Not muss man aber, wie es Recht ist, nachweisen. Das Eigen von Dienstleuten kann nicht in die königliche Gewalt kommen und auch nicht aus der Gewalt ihres Herrn, wenn sie sich an ihrem Recht verwirken.",
+        "3": "Eheliche Kinder kann der rechtlose Mann danach nicht mehr bekommen. Wer Jahr und Tag in der Reichsacht ist und dem nach Ablauf dieser Frist Ehe und Recht abgesprochen werden, kann sich danach zwar noch aus der Acht lösen, so dass ihm wegen der Acht niemand das Leben nehmen darf. In sein Recht kann er aber nicht zurückkehren, es sei denn, er tjostiert vor dem Heer des Kaisers, wenn dieser einen anderen König im Kampf angreift; so gewinnt er sein Recht zurück, nicht aber sein Gut, das ihm abgesprochen wurde."
+      }
+    },
+    "lr-i-39": {
+      "title": "Gottesurteil für Rechtlose",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Wer wegen Raub oder Diebstahl rechtlos ist, kann sich nicht mit Eid reinigen",
+        "Wahl: glühendes Eisen, Kesselfang oder Zweikampf gegen einen Kämpen"
+      ],
+      "significance": "Gottesurteile ersetzen den Eid, wenn die Eidesfähigkeit verloren ist.",
+      "keywords": ["Gottesurteil", "Ordal", "glühendes Eisen", "Kesselfang", "Zweikampf", "Eid"],
+      "synonyms": ["Ordal", "Kesselprobe", "Eisenprobe"],
+      "sections": {
+        "1": "Wer sein Recht durch Raub oder Diebstahl verloren hat, kann sich, wenn man ihn erneut wegen Diebstahls oder Raubes beschuldigt, nicht mit seinem Eid freischwören. Er hat drei Möglichkeiten zur Wahl: das glühende Eisen zu tragen, bis zum Ellenbogen in einen siedenden Kessel zu greifen oder sich gegen einen Kämpen zu verteidigen."
+      }
+    },
+    "lr-i-40": {
+      "title": "Treulosigkeit und Heerflucht",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Wer als treulos oder als Fahnenflüchtiger aus dem Reichsdienst überführt wird,",
+        "verliert Ehre und Lehnrecht, nicht aber das Leben"
+      ],
+      "significance": "Lehnrechtliche Treuepflicht wird mit Ehr- und Lehnsverlust sanktioniert.",
+      "keywords": ["Treue", "Heerflucht", "Ehre", "Lehnrecht", "Reichsdienst"],
+      "synonyms": ["Treubruch", "Fahnenflucht", "Felonie"],
+      "sections": {
+        "1": "Wer als treulos überführt wird oder als einer, der aus dem Heeresdienst des Reiches geflohen ist, dem spricht man seine Ehre und sein Lehnrecht ab, nicht aber sein Leben."
+      }
+    },
+    "lr-i-41": {
+      "title": "Klage gegen den Vormund: Absetzung",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Jungfrau oder Witwe kann gegen den Vormund klagen, der ihr Gut vorenthält",
+        "Erscheint er nach dreimaliger Ladung nicht, wird er abgesetzt („balemünden“)",
+        "Dann übernimmt der Richter die Vormundschaft und setzt die Frau wieder in ihr Gut ein"
+      ],
+      "significance": "Die Frau hat ein Klagerecht gegen Missbrauch der Vormundschaft.",
+      "keywords": ["Vormundschaft", "Witwe", "Jungfrau", "Absetzung", "Richter", "Ladung"],
+      "synonyms": ["balemunden", "Vormund", "uoremunde"],
+      "sections": {
+        "1": "Klagt eine Jungfrau oder eine Witwe nach Landrecht gegen ihren Vormund, dass er sie aus ihrem Eigen, ihrem Lehen oder ihrer Leibzucht verdrängt habe, und wird er deswegen zu drei Gerichtstagen geladen und erscheint er nicht spätestens am dritten Tag, um sich zu verantworten, so soll man ihn „balemünden“, das heißt: man soll ihm jede Vormundschaft absprechen. Dann ist der Richter Vormund der Frau und setzt sie von Gerichts wegen wieder in die Gewere des Gutes ein, aus der sie verdrängt worden war."
+      }
+    },
+    "lr-i-42": {
+      "title": "Mündigkeit und Altersvormundschaft",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Mit 21 Jahren ist der Mann zu seinen Tagen gekommen, mit 60 darüber hinaus",
+        "Vor und nach diesen Tagen kann er einen Vormund haben, muss aber nicht",
+        "Ist das Alter unbekannt, entscheidet die Körperbehaarung"
+      ],
+      "significance": "Altersstufen bestimmen die Handlungsfähigkeit vor Gericht.",
+      "keywords": ["Mündigkeit", "Alter", "Vormund", "21 Jahre", "60 Jahre", "Volljährigkeit"],
+      "synonyms": ["to sinen daghen comen", "Volljährigkeit", "Altersvormundschaft"],
+      "sections": {
+        "1": "Vor Erreichen seiner Tage und danach darf ein Mann einen Vormund haben, wenn er einen braucht, und darf auch darauf verzichten, wenn er will. Wer seinen Vormund nicht zur Hand hat, soll ihn zum nächsten Termin mitbringen, den das Gericht für seine Klage ansetzt. Mit einundzwanzig Jahren ist der Mann zu seinen Tagen gekommen. Mit sechzig Jahren ist er über seine Tage hinaus, so dass er einen Vormund haben darf, wenn er will; dadurch mindert er weder seine Buße noch sein Wergeld. Kennt man das Alter eines Menschen nicht, so soll man, wenn er Haare am Bart, an der Scham und unter jedem Arm hat, davon ausgehen, dass er zu seinen Tagen gekommen ist.",
+        "2": "Wenn das Kind zu seinen Jahren kommt, darf es Vormund seiner Frau sein und auch über das, was es betreuen soll, wenn es will, und dann auch im Kampf, auch wenn es seine vollen Tage noch nicht erreicht hat; denn so wie es sich selbst vertreten darf, so darf es auch seine Mündel vertreten."
+      }
+    },
+    "lr-i-43": {
+      "title": "Vom Gericht bestellte Vormünder für Frauen",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "In Notklagen ohne Kampf und bei handhafter Tat bestellt der Richter Frauen einen Vormund",
+        "Geht die Klage zum Kampf, kann jeder ebenbürtige Schwertmage Vormund sein"
+      ],
+      "significance": "Gerichtliche Ersatzvormundschaft sichert die Klagefähigkeit von Frauen.",
+      "keywords": ["Vormund", "Frauen", "Richter", "Notklage", "handhafte Tat", "Kampf"],
+      "synonyms": ["Ersatzvormund", "uoremunde", "Schwertmage"],
+      "sections": {
+        "1": "Bei einer Notklage, die nicht zum Kampf führt, darf der Richter den Frauen Vormünder geben, ebenso bei jeder handhaften Tat, wenn sie ihre rechten Vormünder nicht zur Hand haben. Führt die Klage aber zum Kampf, so darf jeder ihrer ebenbürtigen Schwertmagen ihr Vormund sein."
+      }
+    },
+    "lr-i-44": {
+      "title": "Vormund bei Klage gegen den eigenen Vormund",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Klagt eine Frau gegen ihren Vormund wegen ihres Gutes, bestellt das Gericht einen Vormund",
+        "Gilt auch für Eigen, das ihr der Mann als Ersatz oder Leibzucht gab"
+      ],
+      "significance": "Interessenkonflikte in der Vormundschaft werden durch das Gericht gelöst.",
+      "keywords": ["Vormund", "Interessenkonflikt", "Witwe", "Gericht"],
+      "synonyms": ["Ergänzungspfleger", "uoremunde"],
+      "sections": {
+        "1": "Klagt eine Jungfrau oder Witwe nach Landrecht gegen ihren Vormund, dass er ihr ihr Gut nehme, so soll ihr für diese Klage das Gericht einen Vormund geben, ebenso, wenn es um Eigen geht, das ihr Mann ihr als Ersatz oder auf Lebenszeit gegeben hat."
+      }
+    },
+    "lr-i-45": {
+      "title": "Ehe und Vormundschaft über die Frau",
+      "metaStatus": "draft",
+      "keyPoints": [
+        "Der Ehemann ist Vormund der Frau, auch wenn er ihr nicht ebenbürtig ist; sie tritt in sein Recht",
+        "Als Witwe fällt sie in das Recht ihrer Geburt zurück",
+        "Ohne Zustimmung des Mannes kann sie nicht über ihr Gut verfügen"
+      ],
+      "significance": "Die Rechtsstellung der Frau wechselt mit Ehe und Witwenschaft.",
+      "keywords": ["Ehe", "Vormundschaft", "Ebenbürtigkeit", "Witwe", "Verfügung"],
+      "synonyms": ["ghenotinne", "Geschlechtsvormundschaft", "Munt"],
+      "sections": {
+        "1": "Auch wenn ein Mann seiner Frau nicht ebenbürtig ist, ist er doch ihr Vormund, und sie ist seine Standesgenossin und tritt in sein Recht ein, sobald sie in sein Bett geht. Wenn er aber stirbt, ist sie von seinem Recht frei und erhält wieder das Recht ihrer Geburt; deshalb muss ihr Vormund ihr nächster ebenbürtiger Schwertmage sein und nicht der ihres Mannes.",
+        "2": "Eine Frau kann auch ohne Erlaubnis ihres Mannes nichts von ihrem Gut weggeben, kein Eigen verkaufen und keine Leibzucht auflassen, weil er mit ihr in der Gewere sitzt. Jungfrauen und unverheiratete Frauen dagegen verkaufen ihr Eigen ohne Erlaubnis ihres Vormunds, es sei denn, er ist Erbe daran."
+      }
+    }
+  }
+}

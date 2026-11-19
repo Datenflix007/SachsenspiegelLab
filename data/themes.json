@@ -1,0 +1,209 @@
+{
+  "_info": "Themenfelder nach den Tafelbildern (reference/tafelbilder/Bild1.png, Bild2.png). meta = Anzeigezeile, refs = maschinenlesbare Intervalle (Artikel from–to, optional §§). 'v. a.' = Schwerpunkte, keine abschließende Liste.",
+  "themes": [
+    {
+      "id": "grundlegung",
+      "group": "landrecht",
+      "title": "Grundlegung",
+      "meta": "Landrecht I · Art. 1–3",
+      "summary": "Herrschaft, Freiheitsgruppen, Heerschilde und grundlegende Ordnungskategorien.",
+      "refs": [{ "book": "lr-i", "from": 1, "to": 3 }]
+    },
+    {
+      "id": "ehe-familie-vormundschaft",
+      "group": "landrecht",
+      "title": "Ehe, Familie, Vormundschaft",
+      "meta": "v. a. LR I · Art. 10–24, 41–47 · LR III · Art. 73–76",
+      "summary": "Rechte und Pflichten innerhalb der Haus- und Familienordnung.",
+      "refs": [
+        { "book": "lr-i", "from": 10, "to": 24 },
+        { "book": "lr-i", "from": 41, "to": 47 },
+        { "book": "lr-iii", "from": 73, "to": 76 }
+      ]
+    },
+    {
+      "id": "erbrecht",
+      "group": "landrecht",
+      "title": "Erbrecht",
+      "meta": "v. a. LR I · Art. 3–6, 17, 24–33 · LR III · Art. 72, 80–81",
+      "summary": "Regeln zu Erbfolge, Verwandtschaft und Nachlass.",
+      "refs": [
+        { "book": "lr-i", "from": 3, "to": 6 },
+        { "book": "lr-i", "from": 17, "to": 17 },
+        { "book": "lr-i", "from": 24, "to": 33 },
+        { "book": "lr-iii", "from": 72, "to": 72 },
+        { "book": "lr-iii", "from": 80, "to": 81 }
+      ]
+    },
+    {
+      "id": "besitz-eigentum-gewere",
+      "group": "landrecht",
+      "title": "Besitz, Eigentum, Gewere",
+      "meta": "v. a. LR II · Art. 23–25, 41–44, 57 · LR III · Art. 4–5, 82–83",
+      "summary": "Regelungen zu Herrschaft über Sachen und rechtlicher Zuordnung.",
+      "refs": [
+        { "book": "lr-ii", "from": 23, "to": 25 },
+        { "book": "lr-ii", "from": 41, "to": 44 },
+        { "book": "lr-ii", "from": 57, "to": 57 },
+        { "book": "lr-iii", "from": 4, "to": 5 },
+        { "book": "lr-iii", "from": 82, "to": 83 }
+      ]
+    },
+    {
+      "id": "leihe-pfand-schuld",
+      "group": "landrecht",
+      "title": "Leihe, Pfand, Schuldverhältnisse",
+      "meta": "v. a. LR II · Art. 5–6, 41, 60 · LR III · Art. 22, 39–41",
+      "summary": "Konkrete Bestimmungen zu Nutzung, Sicherung und Verpflichtungen.",
+      "refs": [
+        { "book": "lr-ii", "from": 5, "to": 6 },
+        { "book": "lr-ii", "from": 41, "to": 41 },
+        { "book": "lr-ii", "from": 60, "to": 60 },
+        { "book": "lr-iii", "from": 22, "to": 22 },
+        { "book": "lr-iii", "from": 39, "to": 41 }
+      ]
+    },
+    {
+      "id": "gerichts-prozessrecht",
+      "group": "landrecht",
+      "title": "Gerichts- und Prozessrecht",
+      "meta": "v. a. LR I · Art. 55–71 · LR II · Art. 1–12, 63–72 · LR III · Art. 12–19, 23–36, 87–91",
+      "summary": "Klage, Beweis, Gerichtszuständigkeit und Verfahrensformen.",
+      "refs": [
+        { "book": "lr-i", "from": 55, "to": 71 },
+        { "book": "lr-ii", "from": 1, "to": 12 },
+        { "book": "lr-ii", "from": 63, "to": 72 },
+        { "book": "lr-iii", "from": 12, "to": 19 },
+        { "book": "lr-iii", "from": 23, "to": 36 },
+        { "book": "lr-iii", "from": 87, "to": 91 }
+      ]
+    },
+    {
+      "id": "straf-suehne-friedensrecht",
+      "group": "landrecht",
+      "title": "Straf-, Sühne- und Friedensrecht",
+      "meta": "v. a. LR II · Art. 13–16, 35–40, 64–72 · LR III · Art. 8–11, 45–51, 84–91",
+      "summary": "Unrecht, Ausgleich, Wergeld und Schutz des Friedens.",
+      "refs": [
+        { "book": "lr-ii", "from": 13, "to": 16 },
+        { "book": "lr-ii", "from": 35, "to": 40 },
+        { "book": "lr-ii", "from": 64, "to": 72 },
+        { "book": "lr-iii", "from": 8, "to": 11 },
+        { "book": "lr-iii", "from": 45, "to": 51 },
+        { "book": "lr-iii", "from": 84, "to": 91 }
+      ]
+    },
+    {
+      "id": "dorf-nachbarschaft-agrar",
+      "group": "landrecht",
+      "title": "Dorf-, Nachbarschafts- und Agrarrecht",
+      "meta": "v. a. LR II · Art. 27–29, 46–56, 59, 61–62 · LR III · Art. 79, 86",
+      "summary": "Alltag im Dorf: Grenzen, Nutzung, Schäden und gemeinschaftliche Ordnung.",
+      "refs": [
+        { "book": "lr-ii", "from": 27, "to": 29 },
+        { "book": "lr-ii", "from": 46, "to": 56 },
+        { "book": "lr-ii", "from": 59, "to": 59 },
+        { "book": "lr-ii", "from": 61, "to": 62 },
+        { "book": "lr-iii", "from": 79, "to": 79 },
+        { "book": "lr-iii", "from": 86, "to": 86 }
+      ]
+    },
+    {
+      "id": "heerschild-lehnsfaehigkeit",
+      "group": "lehnrecht",
+      "title": "Heerschild und Lehnsfähigkeit",
+      "meta": "Lehnrecht · Art. 1–2; 21 §§ 1–2",
+      "summary": "Rangstufen, Voraussetzungen und Grenzen der Lehnsfähigkeit.",
+      "refs": [
+        { "book": "lehnrecht", "from": 1, "to": 2 },
+        { "book": "lehnrecht", "from": 21, "to": 21, "sections": [1, 2] }
+      ]
+    },
+    {
+      "id": "lehnstreue-dienstpflichten",
+      "group": "lehnrecht",
+      "title": "Lehnstreue und Dienstpflichten",
+      "meta": "Lehnrecht · Art. 3–4; 76",
+      "summary": "Huldigung, Treue, Reichs- und Gerichtsdienst; Aufkündigung.",
+      "refs": [
+        { "book": "lehnrecht", "from": 3, "to": 4 },
+        { "book": "lehnrecht", "from": 76, "to": 76 }
+      ]
+    },
+    {
+      "id": "belehnung-gewere-gedinge",
+      "group": "lehnrecht",
+      "title": "Belehnung, Gewere und Gedinge",
+      "meta": "v. a. Lehnrecht · Art. 5–11, 13–17, 23–29",
+      "summary": "Vergabe, Besitzstellung, Anwartschaften und Rechtsnachweise.",
+      "refs": [
+        { "book": "lehnrecht", "from": 5, "to": 11 },
+        { "book": "lehnrecht", "from": 13, "to": 17 },
+        { "book": "lehnrecht", "from": 23, "to": 29 }
+      ]
+    },
+    {
+      "id": "lehnserbfolge-erneuerung",
+      "group": "lehnrecht",
+      "title": "Lehnserbfolge und Lehnserneuerung",
+      "meta": "v. a. Lehnrecht · Art. 6, 20–22, 31–32, 50",
+      "summary": "Nachfolge des Sohnes, erneute Belehnung und Fristen.",
+      "refs": [
+        { "book": "lehnrecht", "from": 6, "to": 6 },
+        { "book": "lehnrecht", "from": 20, "to": 22 },
+        { "book": "lehnrecht", "from": 31, "to": 32 },
+        { "book": "lehnrecht", "from": 50, "to": 50 }
+      ]
+    },
+    {
+      "id": "lehngericht-prozessrecht",
+      "group": "lehnrecht",
+      "title": "Lehngericht und Prozessrecht",
+      "meta": "v. a. Lehnrecht · Art. 12–19, 40–49, 63–69",
+      "summary": "Klage, Beweis, Urteil, Verfahrensregeln und Beteiligung der Vasallen.",
+      "refs": [
+        { "book": "lehnrecht", "from": 12, "to": 19 },
+        { "book": "lehnrecht", "from": 40, "to": 49 },
+        { "book": "lehnrecht", "from": 63, "to": 69 }
+      ]
+    },
+    {
+      "id": "lehensverlust-treubruch",
+      "group": "lehnrecht",
+      "title": "Lehensverlust und Treubruch",
+      "meta": "v. a. Lehnrecht · Art. 20 § 4, 38–39, 42–49, 76, 78 § 1",
+      "summary": "Entsagung, Entzug und gerichtliche Sicherung des Lehens.",
+      "refs": [
+        { "book": "lehnrecht", "from": 20, "to": 20, "sections": [4] },
+        { "book": "lehnrecht", "from": 38, "to": 39 },
+        { "book": "lehnrecht", "from": 42, "to": 49 },
+        { "book": "lehnrecht", "from": 76, "to": 76 },
+        { "book": "lehnrecht", "from": 78, "to": 78, "sections": [1] }
+      ]
+    },
+    {
+      "id": "gerichts-burglehen",
+      "group": "lehnrecht",
+      "title": "Gerichts- und Burglehen",
+      "meta": "Lehnrecht · Art. 61; 71 §§ 2–20; 72",
+      "summary": "Sonderregeln für belehnte Gerichte und Burgdienste.",
+      "refs": [
+        { "book": "lehnrecht", "from": 61, "to": 61 },
+        { "book": "lehnrecht", "from": 71, "to": 71, "sections": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20] },
+        { "book": "lehnrecht", "from": 72, "to": 72 }
+      ]
+    },
+    {
+      "id": "besondere-lehensformen",
+      "group": "lehnrecht",
+      "title": "Weitere besondere Lehensformen",
+      "meta": "Lehnrecht · Art. 71 §§ 21–22; 75; 77",
+      "summary": "Fahnenlehen, Frauenlehen und Bauermeisterlehen.",
+      "refs": [
+        { "book": "lehnrecht", "from": 71, "to": 71, "sections": [21, 22] },
+        { "book": "lehnrecht", "from": 75, "to": 75 },
+        { "book": "lehnrecht", "from": 77, "to": 77 }
+      ]
+    }
+  ]
+}

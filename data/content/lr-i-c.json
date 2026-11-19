@@ -1,0 +1,344 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR I 46–71. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-i-46": {
+      "title": "Vormundschaftspflicht für Frauen vor Gericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Jungfrauen und Frauen brauchen in jeder Klage einen Vormund", "Begründung: Man kann sie ihrer Worte und Taten vor Gericht nicht überführen"],
+      "significance": "Die prozessuale Stellung von Frauen ist an männliche Vertretung gebunden.",
+      "keywords": ["Frauen", "Vormund", "Prozess", "Klage"],
+      "synonyms": ["Geschlechtsvormundschaft", "uoremunde"],
+      "sections": {
+        "1": "Jungfrauen und Frauen müssen in jeder Klage Vormünder haben, weil man sie dessen, was sie vor Gericht sagen oder tun, nicht überführen kann."
+      }
+    },
+    "lr-i-47": {
+      "title": "Eid und Gewähr bei Frauen",
+      "metaStatus": "draft",
+      "keyPoints": ["Eide leisten Frauen selbst, nicht ihr Vormund", "Der rechte Vormund gelobt, empfängt und leistet Gewähr", "Ein gerichtlicher Vormund gilt nur für die Dauer des Gerichts"],
+      "significance": "Persönliche Eidespflicht trotz Vormundschaft.",
+      "keywords": ["Eid", "Gewähr", "Vormund", "Frauen", "Gericht"],
+      "synonyms": ["ghewere", "Sicherheit", "Bürgschaft"],
+      "sections": {
+        "1": "Wenn es bei Frauen zu einem Eid kommt, sollen sie ihn selbst leisten und nicht ihr Vormund. Ihr rechter Vormund soll aber für sie Gewähr geloben, empfangen und leisten.",
+        "2": "Der vom Gericht bestellte Vormund soll die Gewähr für sie geloben und empfangen und danach deswegen nichts zu befürchten haben, außer dass er die Wahrheit bekennen muss, wenn er von Gerichts wegen gefragt wird; seine Vormundschaft dauert aber nicht länger als die Gerichtssitzung. Zu jedem Gerichtstag darf der Richter einen eigenen Vormund bestellen."
+      }
+    },
+    "lr-i-48": {
+      "title": "Rechtlose und Lahme vor Gericht; Kämpen",
+      "metaStatus": "draft",
+      "keyPoints": ["Unehelich Geborene und Rechtlose haben keinen Vormund in Klage und Kampf", "Lahme klagen ohne Vormund; nur beim Kampf tritt ein Schwertmage oder gedungener Kämpe ein", "Mit Kämpen kann man keinen unbescholtenen Mann überführen"],
+      "significance": "Vertretung im gerichtlichen Zweikampf ist standesabhängig geregelt.",
+      "keywords": ["Kämpe", "Lahme", "Rechtlose", "Vormund", "Zweikampf"],
+      "synonyms": ["kempen", "Lohnkämpfer", "Stellvertreter"],
+      "sections": {
+        "1": "Alle, die unehelich geboren sind oder sich rechtlos gemacht haben, können in ihren Klagen und in ihrem Kampf keinen Vormund haben.",
+        "2": "Lahme Leute sollen ohne Vormund antworten und klagen, es sei denn, die Klage führt zum Kampf; dann soll ihr ebenbürtiger Schwertmage, wer es auch sei, ihr Vormund sein, wenn er es tun will. Kann der Lahme, wenn man ihn zum Kampf fordert, seinen rechten Vormund nicht bekommen, so darf er als Vormund nehmen, wer es für ihn tun will, oder wen er für Geld dingen kann, auch wenn man seinen rechten Vormund nachweisen könnte.",
+        "3": "Verteidigt er sich aber mit Kämpen, so darf ihn der Gegner ebenfalls mit Kämpen überführen, auch wenn er ihn zuerst nicht mit Kämpen gefordert hat, und das schadet ihm an seinem Recht nicht. Auf diese Weise darf man auch einen Toten verteidigen, wenn man ihn überführen will. Mit Kämpen darf sich jemand in dieser Weise verteidigen; einen unbescholtenen Mann kann er mit Kämpen aber nicht an seinem Recht überführen."
+      }
+    },
+    "lr-i-49": {
+      "title": "Aufschub des Kampfes bei Verwundung",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Verwundeter, der seinen Gegner zum Kampf fordert, aber zu schwach ist,", "erhält Aufschub, bis er selbst kämpfen kann, wenn kein Vormund für ihn eintritt"],
+      "significance": "Schutz des Klägers vor Rechtsverlust durch körperliche Schwäche.",
+      "keywords": ["Zweikampf", "Verwundung", "Aufschub", "Vormund"],
+      "synonyms": ["camp", "Vertagung"],
+      "sections": {
+        "1": "Fordert ein Verwundeter denjenigen zum Kampf, der ihn verwundet hat, und kann er den Kampf wegen körperlicher Schwäche nicht ausfechten und hat er keinen Vormund, der es für ihn tun will, so soll man ihm einen Termin setzen, bis er den Kampf selbst ausfechten kann."
+      }
+    },
+    "lr-i-50": {
+      "title": "Falsche Anklage als Friedensbrecher",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer einen anderen verletzt oder tötet und ihn dann vergeblich als Friedensbrecher anklagt, ist selbst des Verbrechens überführt", "Spielleute und unehelich Geborene sind keine Genossen von Dieben, gegen die man Kämpen führen dürfte"],
+      "significance": "Missbrauch der Friedensbruchklage wird gegen den Kläger gewendet.",
+      "keywords": ["Friedensbruch", "Anklage", "Tötung", "Spielleute", "Kämpen"],
+      "synonyms": ["vredebrekere", "Notwehr", "Verleumdung"],
+      "sections": {
+        "1": "Wer einen anderen verwundet oder tötet, ihn vor Gericht bringt und ihn als Friedensbrecher überführen will, dem es aber nicht gelingt, der ist selbst des Verbrechens überführt, das er an jenem begangen hat.",
+        "2": "Auch wenn jemand Spielmann oder unehelich geboren ist, ist er doch nicht der Genosse von Räubern oder Dieben, so dass man Kämpen gegen ihn aufbieten könnte."
+      }
+    },
+    "lr-i-51": {
+      "title": "Rechtlosigkeit, Ehe und Geburtsstand",
+      "metaStatus": "draft",
+      "keyPoints": ["Rechtlose können eine Ehe schließen; ihre Kinder sind ihnen ebenbürtig", "Wer von seinen vier Ahnen her unbescholten ist, kann an seiner Geburt nicht angefochten werden", "Für den Kampf unter Schöffenbaren muss man vier Ahnen und Hantgemal benennen"],
+      "significance": "Geburtsstand und Ahnenprobe als Voraussetzung des Kampfrechts.",
+      "keywords": ["Rechtlosigkeit", "Ehe", "Ahnen", "Hantgemal", "Schöffenbare", "Kebskind"],
+      "synonyms": ["hantghemal", "Ahnenprobe", "Stammgut"],
+      "sections": {
+        "1": "Mancher Mann ist rechtlos, der dennoch ehefähig ist; denn der rechtlose Mann darf eine Ehefrau nehmen und Kinder mit ihr bekommen, die ihm ebenbürtig sind. Diese dürfen sein Erbe und das ihrer Mutter nehmen, weil sie ihnen ebenbürtig sind, sofern sie sich nicht durch Unfreiheit von ihnen unterscheiden. Ein ehelicher Mann oder eine eheliche Frau nimmt aber das Erbe eines unehelichen Mannes nicht.",
+        "2": "Man sagt, kein Kind sei für seine Mutter ein Kebskind; das stimmt nicht. Eine Frau kann ein eheliches Kind bekommen, ein „Adelkind“, ein unfreies Kind und ein Kebskind. Ist sie unfrei, so kann man sie freilassen; ist sie eine Kebse, so kann sie einen Ehemann nehmen und danach mit ihm Kinder bekommen.",
+        "3": "Wer von seinen vier Ahnen her, das heißt von zwei Großvätern und zwei Großmüttern, und von Vater und Mutter her an seinem Recht unbescholten ist, den kann niemand an seiner Geburt anfechten, es sei denn, er hat sein Recht verwirkt.",
+        "4": "Fordert ein schöffenbarer freier Mann einen Standesgenossen zum Kampf, so muss er seine vier Ahnen und sein Hantgemal kennen und benennen; sonst verweigert ihm der andere den Kampf mit Recht.",
+        "5": "Wer sich eines anderen mit Kampf bemächtigt und dieser ihm mit Recht entgeht, der muss ihn gegen Buße freilassen."
+      }
+    },
+    "lr-i-52": {
+      "title": "Verfügungen über Eigen und fahrende Habe",
+      "metaStatus": "draft",
+      "keyPoints": ["Eigen und Leute nur mit Zustimmung der Erben und im echten Ding", "Fahrende Habe frei, solange man gerüstet ohne Hilfe aufs Pferd steigen kann", "Verfügungen in der Krankheit sind beschränkt; Frau und Gesinde haften nicht"],
+      "significance": "Schutz der Erben vor Verfügungen auf dem Sterbebett.",
+      "keywords": ["Verfügung", "Erbenzustimmung", "Krankheit", "fahrende Habe", "Dienstleute", "Tausch"],
+      "synonyms": ["eruen ghelof", "Testierfreiheit", "Schenkung", "Siechbett"],
+      "sections": {
+        "1": "Ohne Zustimmung der Erben und ohne echtes Ding darf niemand sein Eigen oder seine Leute weggeben. Doch tauschen die Herren ihre Dienstleute auch außerhalb des Gerichts, wenn man den Gegentausch nachweisen und bezeugen kann. Gibt jemand gegen das Recht ohne Zustimmung der Erben etwas weg, so bemächtigen sich die Erben des Gutes mit Urteilen, als wäre derjenige tot, der es gab, weil er es nicht geben durfte.",
+        "2": "Alle fahrende Habe darf ein Mann ohne Zustimmung der Erben weggeben, solange er mit Schwert und Schild gegürtet von einem Stein oder Stock, eine Daumelle hoch, ohne fremde Hilfe auf ein Pferd steigen kann, wobei man ihm Pferd und Steigbügel halten darf. Kann er das nicht mehr, so darf er nichts mehr geben, auflassen oder verleihen, wodurch er es dem entzöge, der nach seinem Tod darauf wartet.",
+        "3": "Was er aber zu Unrecht gegeben oder genommen hat, das darf er in die Gewere des anderen zurücklassen; dann kann er dort keine Gabe geltend machen, sondern nur das Recht, das er vorher daran hatte, bevor es ihm genommen wurde.",
+        "4": "Wenn jemand in seiner Krankheit seine Habe weggibt oder verpfändet, zu einer Zeit, da er das nicht mehr tun darf, so soll man deswegen weder die Frau noch das Gesinde beschuldigen, denn sie durften der Gabe des Mannes nicht widersprechen, ob sie recht war oder unrecht. Gibt man jemandem zu Unrecht etwas, so fordere man es mit Recht von dem zurück, dem es gegeben wurde. Die Frau haftet für kein Gut des Mannes außer für das, was bei ihr hinterlassen wurde."
+      }
+    },
+    "lr-i-53": {
+      "title": "Gewette an den Richter",
+      "metaStatus": "draft",
+      "keyPoints": ["Gewette schuldet, wer dem Gerüfte nicht folgt, Klagen nicht verfolgt oder Termine versäumt", "Wer Buße und Gewette nicht zahlt, wird vom Fronboten gepfändet – aber nur auf Urteil", "Bei Friedensbruch doppelte Sanktion: geistlich und weltlich"],
+      "significance": "Gewette sind Strafgelder an das Gericht, getrennt von der Buße an den Verletzten.",
+      "keywords": ["Gewette", "Buße", "Pfändung", "Fronbote", "Gerüfte", "Friedensbruch", "Bann"],
+      "synonyms": ["wedde", "böte", "Strafgeld", "Ordnungsgeld"],
+      "sections": {
+        "1": "Wer nicht folgt, wenn man das Gerüfte erhebt, oder seine Klage nicht nach Recht zu Ende führt, oder einen Mann zum Kampf ergreift, der ihm mit Recht entgeht, oder zu einem angesetzten Ding nicht rechtzeitig kommt oder es ganz versäumt, oder wer im Ding etwas gegen das Recht sagt oder tut, oder wer eine zuerkannte Schuld nicht innerhalb des Dings bezahlt: für jede dieser Sachen schuldet er dem Richter Gewette. Und bei jeder Schuld, für die der Verletzte seine Buße erhält, steht dem Richter sein Gewette zu. Oft aber schuldet man Gewette wegen ungebührlichen Verhaltens im Ding, wofür weder der Kläger noch der Beklagte eine Buße erhält.",
+        "2": "Spricht jemand ein Gut an, klagt darauf und wird mit Recht abgewiesen, so bleibt er ohne Buße und ohne Gewette, solange er sich des Gutes nicht bemächtigt.",
+        "3": "Wer Gewette und Buße nicht zur rechten Zeit zahlt, den soll der Fronbote dafür pfänden und das Pfand sogleich für die Schuld versetzen oder verkaufen. Der Fronbote darf aber nicht pfänden, ohne durch Urteil dazu ermächtigt zu sein.",
+        "4": "Niemand schuldet für eine Sache zweimal Gewette, es sei denn, er bricht den Frieden und verletzt außerdem den Bann; der muss nach geistlichem und nach weltlichem Recht Gewette zahlen und dem Buße leisten, den er verletzt hat."
+      }
+    },
+    "lr-i-54": {
+      "title": "Zinsleute und Grundherr",
+      "metaStatus": "draft",
+      "keyPoints": ["Pfändung des Zinsmanns nur bis zur Höhe des Jahreszinses", "Säumiger Zins verdoppelt sich täglich; Zahlung am Haus des Zinsmanns", "Der Zinsmann darf ohne Erlaubnis nicht graben, Holz hauen oder roden"],
+      "significance": "Grundherrschaftliche Abhängigkeit wird rechtlich begrenzt und geregelt.",
+      "keywords": ["Zins", "Zinsmann", "Grundherr", "Pfändung", "Zehnt", "Rodung"],
+      "synonyms": ["tins", "tinsman", "Abgabe", "Grundherrschaft", "Erbzinsgut"],
+      "sections": {
+        "1": "Kein Zinsmann muss für seinen Herrn eine Pfändung über den Zins hinaus dulden, den er jährlich zu zahlen hat.",
+        "2": "Wer seinen Zins nicht an den rechten Tagen zahlt, soll ihn am folgenden Tag doppelt zahlen, und so an jedem weiteren Tag, solange er ihn zurückhält, sofern der Herr ihm mit rechten Urteilen nachgeht und ihn in seinem Haus einfordert; denn der Mann ist nicht verpflichtet, seinen Zins außerhalb seines Hauses zu zahlen.",
+        "3": "Den Zins kann der Herr oder sein Bote, der das Land verpachtet, eher beweisen, als der Mann ihn bestreiten kann; ebenso den Zehnten von dem Gut, auf dem der Mann sitzt. Behauptet der Mann aber, er habe ihn bezahlt, so muss er das selbdritt beweisen, mit Leuten, die gesehen und gehört haben, dass er bezahlt hat, wenn man es ihm bestreiten will.",
+        "4": "Der Herr darf auf seinem Gut wegen des Geldes, das man ihm aus seinem Gut versprochen hat, ohne Erlaubnis des Richters pfänden.",
+        "5": "Kein Zinsmann darf ohne Erlaubnis des Herrn, dessen Zinsmann er ist, Stein- oder Lehmgruben graben, noch auf dem Zinsgut Holz hauen oder roden, es sei denn, es ist sein Erbzinsgut."
+      }
+    },
+    "lr-i-55": {
+      "title": "Wahl der Richter; Gograf bei handhafter Tat",
+      "metaStatus": "draft",
+      "keyPoints": ["Alle weltliche Gerichtsbarkeit geht auf Wahl zurück", "Richter ist nur, wer gewählt oder belehnt ist", "Bei handhafter Tat können mindestens drei Dörfer einen Gografen wählen"],
+      "significance": "Der Satz von der Wahl als Ursprung aller Gerichtsbarkeit ist eine Kernaussage zur Legitimation von Gerichtsgewalt.",
+      "keywords": ["Richterwahl", "Gograf", "handhafte Tat", "Gerichtsbarkeit", "Belehnung"],
+      "synonyms": ["kore", "gogreue", "Wahl", "belehnter Richter"],
+      "sections": {
+        "1": "Alle weltliche Gerichtsbarkeit hat ihren Ursprung in der Wahl; deshalb kann kein eingesetzter Mann Richter sein und auch sonst niemand, der nicht gewählter oder belehnter Richter ist.",
+        "2": "Kommt es aber zu einer handhaften Tat von Diebstahl oder Raub, bei der der Täter ergriffen wird, so darf man dafür einen Gografen wählen, und zwar mindestens aus drei Dörfern, die sich zum Richten versammeln, wenn sie den belehnten Richter nicht bekommen können."
+      }
+    },
+    "lr-i-56": {
+      "title": "Das Gogericht ist kein Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Am Gogericht gibt es kein Lehngut und keine Lehnsfolge", "Die Landleute wählen den Gografen frei", "Belehnt ein Herr dennoch damit, gilt Lehnrecht – bis die Landleute durch Wahl anders entscheiden"],
+      "significance": "Genossenschaftliche Wahl hat Vorrang vor herrschaftlicher Verleihung.",
+      "keywords": ["Gogericht", "Gograf", "Wahl", "Lehen", "Landleute"],
+      "synonyms": ["goschap", "gogreue", "Gemeinde"],
+      "sections": {
+        "1": "Am Gogericht gibt es von Rechts wegen kein Lehngut und keine Lehnsfolge, denn es ist die freie Wahl der Landleute, einen Gografen für jede handhafte Tat oder für eine bestimmte Zeit zu wählen. Verleiht es aber ein Herr, so soll er seinem Mann und dessen Kindern daran Lehnrecht gewähren, es sei denn, die Landleute brechen es ihnen beiden durch ihre rechte Wahl."
+      }
+    },
+    "lr-i-57": {
+      "title": "Zuständigkeit des Gografen",
+      "metaStatus": "draft",
+      "keyPoints": ["Der für eine handhafte Tat gewählte Gograf richtet nur binnen Tag und Nacht", "Danach ist der belehnte Richter zuständig"],
+      "significance": "Zeitliche Begrenzung der Notgerichtsbarkeit.",
+      "keywords": ["Gograf", "handhafte Tat", "Zuständigkeit", "Dieb", "Räuber"],
+      "synonyms": ["gogreue", "Notgericht"],
+      "sections": {
+        "1": "Wird der Dieb oder Räuber nicht binnen Tag und Nacht überführt, so hat der Gograf darüber keine Gerichtsgewalt; dann soll der belehnte Richter darüber richten. Dies gilt für den Gografen, den man für ein Verbrechen auf handhafter Tat wählt, um noch am selben Tag zu richten."
+      }
+    },
+    "lr-i-58": {
+      "title": "Belehnter Gograf; höhere Richter",
+      "metaStatus": "draft",
+      "keyPoints": ["Der auf längere Zeit gewählte Gograf wird vom Grafen oder Markgrafen belehnt", "Kommt der Graf, ruht das Gericht des Gografen; kommt der König, das des Grafen"],
+      "significance": "Gerichtshierarchie: Die Anwesenheit des höheren Richters verdrängt den niederen.",
+      "keywords": ["Graf", "Markgraf", "Gograf", "König", "Gerichtshierarchie"],
+      "synonyms": ["greue", "Instanz"],
+      "sections": {
+        "1": "Wen man aber auf längere Zeit wählt, den soll der Graf oder der Markgraf belehnen; vor ihm wird auch die Acht erwirkt, und er darf auch übernächtige Verbrechen richten. Wenn der Graf zum Ding des Gografen kommt, so soll das Ding des Gografen ruhen.",
+        "2": "Ebenso verhält es sich mit dem Grafen, wenn der König in seine Grafschaft kommt und beide anwesend sind. So ist es bei jedem Richter, wo der König anwesend ist, es sei denn, die Klage richtet sich gegen den König selbst."
+      }
+    },
+    "lr-i-59": {
+      "title": "Königsbann und echtes Ding",
+      "metaStatus": "draft",
+      "keyPoints": ["Klagen um Eigen nur an rechter Dingstätte unter Königsbann", "Den Bann verleiht der König; er muss beim Herrscherwechsel nicht erneuert werden", "Ohne Schultheiß kein echtes Ding des Grafen; Eröffnungsfragen zur Dingzeit"],
+      "significance": "Der Königsbann bindet die Hochgerichtsbarkeit an den König.",
+      "keywords": ["Königsbann", "echtes Ding", "Dingstätte", "Schultheiß", "Graf", "Eigen"],
+      "synonyms": ["coninghes ban", "Bannleihe", "Gerichtssitzung"],
+      "sections": {
+        "1": "Alle Klagen und alle Verbrechen darf der Richter in seinem Gerichtsbezirk richten, wo immer er sich befindet, außer wenn um Eigen geklagt wird. Darüber kann der Richter nur an der rechten Dingstätte und unter Königsbann richten. Unter Königsbann darf niemand Gericht halten, der den Bann nicht vom König empfangen hat. Wer den Bann einmal empfangen hat, braucht ihn nicht erneut zu empfangen, wenn der König stirbt. Innerhalb einer Vogtei kann es nur einen Königsbann geben. Wer unter Königsbann Gericht hält, ohne den Bann empfangen zu haben, soll seine Zunge verwirken.",
+        "2": "Kein Graf, der unter Königsbann Gericht hält, kann ein echtes Ding ohne seinen Schultheißen abhalten, vor dem er selbst sich zu Recht stellen muss. Deshalb soll er den Schultheißen zuerst um das Urteil fragen, ob es Dingzeit sei, und danach, ob er Störung und Unruhe im Ding verbieten dürfe. Wenn ihm das als Urteil gefunden ist, soll jeder durch seinen Vorsprecher klagen, was ihm fehlt, damit er sein Recht nicht versäumt."
+      }
+    },
+    "lr-i-60": {
+      "title": "Vorsprecher (I)",
+      "metaStatus": "draft",
+      "keyPoints": ["Man kann ohne Vorsprecher klagen, verliert dann aber die Möglichkeit, sich zu verbessern", "Der Richter gibt den zuerst erbetenen Vorsprecher", "Wer im Gericht wohnt oder Gut hat, darf das Amt des Vorsprechers nicht verweigern"],
+      "significance": "Der Vorsprecher schützt die Partei vor den Folgen formaler Versprecher.",
+      "keywords": ["Vorsprecher", "Klage", "Richter", "Verfahren", "Versprechen"],
+      "synonyms": ["uoresprake", "Fürsprech", "Anwalt", "Prozessvertreter"],
+      "sections": {
+        "1": "Jemand darf auch ohne Vorsprecher klagen und antworten, wenn er bereit ist, den Schaden zu tragen, der ihm daraus entstehen kann, wenn er sich verspricht und es nicht zurücknehmen kann, wie er es mit einem Vorsprecher dürfte, solange er dessen Wort nicht bestätigt hat.",
+        "2": "Der Richter soll den zum Vorsprecher geben, um den man zuerst bittet, und keinen anderen, es sei denn, dieser wird mit Recht davon befreit. Niemand darf es ablehnen, Vorsprecher zu sein innerhalb des Gerichts, in dem er wohnt oder Gut hat oder in dem er selbst Recht fordert – außer gegen seinen Verwandten, gegen seinen Herrn und gegen seinen Lehnsmann, wenn die Klage an Leib, Gesundheit oder an sein Recht geht.",
+        "3": "Wo jemand Recht fordert, dort soll er auch Recht gewähren und helfen."
+      }
+    },
+    "lr-i-61": {
+      "title": "Vorsprecher (II); Bürgen des Klägers",
+      "metaStatus": "draft",
+      "keyPoints": ["Kläger stellen erst Bürgen, wenn die Klage verhandelt wird", "Reihenfolge bei gleichzeitigen Anträgen bestimmt der Richter", "Jeder Unbescholtene außer Priestern darf Vorsprecher sein"],
+      "significance": "Ordnung des Verfahrens und der Vertretung vor Gericht. Die Oldenburger Hs. stellt die §§ von I 60 § 3 bis I 62 um.",
+      "keywords": ["Vorsprecher", "Bürgen", "Kläger", "Reihenfolge", "Priester"],
+      "synonyms": ["uoresprake", "borghe", "Sicherheitsleistung"],
+      "sections": {
+        "1": "Kein Kläger muss Bürgen stellen, bevor die Klage verhandelt wird. Wer keine Bürgen haben kann, weil er dort kein Erbe besitzt, den soll der Fronbote in Gewahrsam nehmen, wenn er wegen eines Verbrechens klagt oder die Klage gegen ihn gerichtet ist.",
+        "2": "Bitten zwei Männer zugleich um einen Vorsprecher, so entscheidet der Richter, wem er ihn zuerst geben will. Klagen sie auch zugleich, so entscheidet der Richter, wen er zuerst hören will, es sei denn, einer von ihnen kann beweisen, dass er zuerst geklagt hat.",
+        "3": "Ein stammelnder Mann darf, wenn er sich verspricht, seine Rede wiederholen; versäumt er jemanden, dessen Vorsprecher er ist, so darf dieser es mit einem anderen Vorsprecher wiederholen.",
+        "4": "Jeder Mann darf im Land Sachsen nach Landrecht Vorsprecher sein, sofern man ihn an seinem Recht nicht anfechten kann, ausgenommen Priester. Bürgen muss er aber stellen, wo er kein Erbe hat, für das Gewette des Richters und für die Buße, falls er sie verwirkt, sonst nicht.",
+        "5": "Wen jemand zum Vorsprecher nimmt, der muss für ihn in allen Klagen sprechen, die man gegen ihn erheben will oder die er selbst zu klagen hat, solange er ihm nicht mit Recht abgenommen wird oder einer vom anderen zurücktritt."
+      }
+    },
+    "lr-i-62": {
+      "title": "Verfahrensregeln: Klage, Gerüfte, Urteilsfrage",
+      "metaStatus": "draft",
+      "keyPoints": ["Niemand wird zur Klage gezwungen; wer das Gerüfte erhebt, muss die Klage verfolgen", "Gezogenes Schwert verfällt dem Richter; bloßes Gerüfte kostet drei Schillinge", "Der Richter fragt nach Urteilen; das zuerst erbetene wird zuerst gefunden"],
+      "significance": "Grundsätze eines geordneten, mündlichen Gerichtsverfahrens.",
+      "keywords": ["Klage", "Gerüfte", "Schwert", "Zeugnis", "Urteil", "Vorsprecher", "Gericht"],
+      "synonyms": ["rüchte", "Klagerecht", "Verfahrensordnung", "Urteilsfrage"],
+      "sections": {
+        "1": "Man soll niemanden zu einer Klage zwingen, die er vor Gericht nicht begonnen hat. Jeder darf über seinen Schaden schweigen, solange er will. Erhebt er aber das Gerüfte, so muss er die Sache nach Recht verfolgen, denn das ist der Beginn der Klage.",
+        "2": "Wer sein Schwert zum Schaden eines anderen zieht, dessen Schwert soll dem Richter gehören.",
+        "3": "Für ein bloßes Gerüfte schuldet jemand drei Schillinge Gewette, wenn er es nicht nach Recht verfolgt.",
+        "4": "Verfolgt er aber seine Klage nach Recht ohne Kampf und entgeht ihm der Gegner mit dem Unschuldseid, so bleibt er ohne Schaden, es sei denn, er hat ihn zum Kampf angesprochen.",
+        "5": "Kennt er den Namen des Friedensbrechers nicht, so verklage er ihn ohne Namen.",
+        "6": "Ein Zeugnis soll man binnen sechs Wochen erbringen, wenn der Mann sich dazu erbietet, oder sofort, wenn er will. Soll man aber Eigen bezeugen, so muss das sofort oder im nächsten Ding geschehen.",
+        "7": "Der Richter soll den Mann jedes Mal fragen, ob er das Wort seines Vorsprechers bestätigt, und er soll nach dem Urteil zwischen den Reden zweier Männer fragen. Fragt er aus Willkür und nicht nach Recht, so schadet und nützt das keinem von beiden.",
+        "8": "Welches Urteil man zuerst erbittet, das soll man auch zuerst finden.",
+        "9": "Der Kläger und der Beklagte dürfen sich zu jeder Sache dreimal beraten, und zwar so lange, bis der Fronbote sie wieder hereinruft.",
+        "10": "Überall dort ist Gericht, wo der Richter mit Urteilen richtet.",
+        "11": "Sobald jemand einen Vorsprecher hat, soll er vor Gericht nicht mehr selbst öffentlich sprechen; fragt ihn aber der Richter, ob er das Wort seines Vorsprechers bestätigt, so darf er Ja oder Nein sagen oder um Beratung bitten."
+      }
+    },
+    "lr-i-63": {
+      "title": "Gerichtlicher Zweikampf",
+      "metaStatus": "draft",
+      "keyPoints": ["Förmliche Herausforderung: Friedensbruch, Verwundung und Raub müssen zugleich geklagt werden", "Kampfverweigerung gegenüber schlechter Geborenen, nach Mittag und unter nahen Verwandten", "Genaue Regeln zu Ausrüstung, Kampfring, Eid und Säumnis"],
+      "significance": "Ausführlichste Verfahrensbeschreibung des Zweikampfs als Beweismittel.",
+      "keywords": ["Zweikampf", "Herausforderung", "Friedensbruch", "Kampfring", "Schild", "Schwert", "Eid", "Säumnis"],
+      "synonyms": ["camp", "Kampfgericht", "Gottesurteil", "warf"],
+      "sections": {
+        "1": "Wer einen Standesgenossen zum Kampf herausfordern will, muss den Richter bitten, dass er sich seines Friedensbrechers, den er dort sieht, nach Recht bemächtigen dürfe. Wird ihm das durch Urteil erlaubt, so frage er, wie er sich seiner bemächtigen soll, damit es seinem Recht dient; dann wird als Recht gefunden: in gebührender Weise bei seinem Halsausschnitt. Hat er sich seiner bemächtigt und ihn mit Erlaubnis wieder losgelassen, so soll er ihm mitteilen, warum er sich seiner bemächtigt hat; das kann er sofort tun, wenn er will, oder sich darüber beraten. Dann muss er ihn beschuldigen, dass er den Frieden an ihm gebrochen habe, entweder auf des Königs Straße oder im Dorf; auf welche Weise er ihn gebrochen hat, so soll er gegen ihn klagen. Dann beschuldige er ihn weiter, dass er ihn verwundet und ihm die Not zugefügt habe, die er wohl beweisen könne. Dann zeige er die Wunde oder die Narbe, wenn sie verheilt ist. Dann klage er weiter, dass er ihn seines Gutes beraubt und ihm so viel genommen habe, dass es nicht weniger wert sei, als dass es wohl einen Kampf rechtfertige. Diese drei Verbrechen soll er zugleich klagen. Verschweigt er eines davon, so hat er seinen Kampf verloren.",
+        "2": "Dann spreche er weiter: „Dort sah ich ihn selbst und beschrie ihn mit dem Gerüfte; bekennt er es, so ist es mir lieb; bekennt er es nicht, so will ich es ihm mit allem Recht beweisen, das mir das Landvolk zuerkennt, oder die Schöffen, wenn es unter Königsbann geschieht.“ Dann bitte jener um Sicherheit, die soll man ihm geben. Doch darf der Kläger seine Klage vor der Sicherheitsleistung noch verbessern. Ist die Sicherheit geleistet, so bietet jener seine Unschuld an, das ist ein Eid und ein echter Kampf, wenn er ihn rechtmäßig herausgefordert hat und dieser es trotz körperlicher Gebrechen ausfechten kann.",
+        "3": "Jeder darf den Kampf verweigern, wenn der Herausforderer schlechter geboren ist als er. Wer aber besser geboren ist, den kann der schlechter Geborene nicht mit Hinweis auf die bessere Geburt abweisen, wenn er von ihm angesprochen wird. Den Kampf darf man auch verweigern, wenn man nach Mittag herausgefordert wird, es sei denn, er war vorher begonnen. Der Richter soll dem Beschuldigten auch Schild und Schwert stellen, wenn er sie braucht. Den Kampf darf man auch gegenüber einem Verwandten verweigern, wenn beide verwandt sind, sofern man selbsiebt auf die Heiligen schwört, dass sie so nahe verwandt sind, dass sie von Rechts wegen nicht gegeneinander kämpfen dürfen.",
+        "4": "Der Richter soll jedem der beiden, die kämpfen sollen, zwei Boten geben, die darauf achten, dass man sie nach rechter Gewohnheit rüstet. Kleidung aus Leder und Leinen dürfen sie anziehen, so viel sie wollen. Kopf und Füße sollen vorn unbedeckt sein, und an den Händen dürfen sie nur dünne Handschuhe tragen, ein bloßes Schwert in der Hand und eines oder zwei umgegürtet, wie sie wollen, in der anderen Hand einen runden Schild, an dem nur Holz und Leder ist, außer dem Buckel, der aus Eisen sein darf, und einen ärmellosen Rock über der Rüstung. Dem Kampfring soll man bei Strafe des Halses Frieden gebieten, damit niemand sie in ihrem Kampf stört. Jedem von ihnen soll der Richter einen Mann geben, der seinen Stab trägt; der soll sie in nichts behindern, außer wenn einer von ihnen fällt, dann soll er den Stab dazwischenhalten, oder wenn einer verwundet wird und um den Stab bittet; auch das darf er nur mit Erlaubnis des Richters tun. Nachdem dem Kampfring Frieden geboten ist, sollen sie den Ring nach Recht begehren; den soll der Richter ihnen erlauben. Die eisernen Spitzen an den Schwertscheiden sollen sie abbrechen, wenn sie nicht vom Richter Erlaubnis haben. Vor den Richter sollen beide gerüstet treten und schwören, der eine: dass die Beschuldigung wahr sei, um die er ihn verklagt hat, der andere: dass er unschuldig sei, so wahr ihm Gott in seinem Kampf helfe. Die Sonne soll man ihnen gleich verteilen, wenn sie zum ersten Mal aufeinander zugehen. Wird der Beklagte besiegt, so richtet man über ihn. Siegt er, so lässt man ihn mit Gewette und Buße frei.",
+        "5": "Der Kläger soll zuerst in den Ring kommen; zögert der andere zu lange, so soll der Richter ihn durch den Fronboten in dem Haus vorladen lassen, in dem er sich rüstet, und zwei Schöffen mitschicken. So soll man ihn ein zweites und ein drittes Mal laden. Erscheint er auch auf die dritte Ladung nicht, so soll der Kläger aufstehen, sich zum Kampf bereit erklären, zwei Hiebe schlagen und einen Stich gegen den Wind führen. Damit hat er den anderen in der Sache besiegt, wegen der er ihn angesprochen hat, und der Richter soll über ihn richten, als wäre er im Kampf besiegt worden."
+      }
+    },
+    "lr-i-64": {
+      "title": "Überführung eines Toten",
+      "metaStatus": "draft",
+      "keyPoints": ["Einen bei Diebstahl oder Raub Erschlagenen überführt man wie einen Lebenden", "Sieben Zeugen genügen, außer ein Verwandter des Toten bietet den Kampf an"],
+      "significance": "Auch nach dem Tod kann die Ehre bzw. Rechtsstellung durch Verwandte verteidigt werden.",
+      "keywords": ["Toter", "Diebstahl", "Raub", "Zeugen", "Zweikampf", "Verwandte"],
+      "synonyms": ["Totenklage", "camp"],
+      "sections": {
+        "1": "Auf dieselbe Weise soll man auch einen Toten überführen, wenn man ihn bei Diebstahl oder Raub oder bei ähnlichen Taten erschlagen hat. Kann der Kläger den Toten aber mit dem Zeugnis von sieben Männern überführen, so muss er sich nicht zum Kampf gegen ihn erbieten. Bietet aber ein Verwandter des Toten, wer es auch sei, an, mit Kampf für ihn einzustehen, so entkräftet er damit jedes Zeugnis; denn dann kann man ihn ohne Kampf nicht überführen, es sei denn, er war verfestet."
+      }
+    },
+    "lr-i-65": {
+      "title": "Säumnis, Bürgen und Wergeldzahlung",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer nach Kampfgelöbnis nicht erscheint, gilt als überwunden", "Wer eine Leibes- oder Handstrafe löst, wird rechtlos", "Wergeld binnen zwölf Wochen; vorzeitige Zahlung zulässig"],
+      "significance": "Regeln zur Vollstreckung und Zahlung im Strafverfahren.",
+      "keywords": ["Säumnis", "Bürge", "Wergeld", "Zahlung", "Rechtlosigkeit"],
+      "synonyms": ["weregelt", "Manngeld", "borghe"],
+      "sections": {
+        "1": "Wie hier zuvor gesagt ist, so überführt man auch den, der zum Kampf ergriffen und herausgefordert worden ist, gelobt und Bürgen stellt, zu erscheinen, und zu den rechten Terminen nicht erscheint.",
+        "2": "Wer eine Leibes- oder Handstrafe ablöst, die ihm mit Recht auferlegt wurde, der ist rechtlos.",
+        "3": "Wer für einen Mann wegen eines Verbrechens bürgt, ihn vor Gericht zu bringen, und ihn nicht vorführen kann, der muss sein Wergeld zahlen; das schadet dem Bürgen aber nicht an seinem Recht.",
+        "4": "Wergeld zahlt man binnen zwölf Wochen von dem Zeitpunkt an, an dem es zuerkannt wurde. Jede Schuld darf man auch vor dem Fälligkeitstag bezahlen, sofern man sie an einem Ort zahlt, von dem derjenige, dem sie zusteht, sie unbehelligt wegbringen kann. Dafür soll der Zahlende aber, wenn nötig, das Zeugnis von zwei Männern haben, die gesehen haben, dass er bezahlt oder die Zahlung mit Silber oder mit damals gängigen Pfennigen angeboten hat und dass der andere sich damals zu Unrecht weigerte, sie anzunehmen."
+      }
+    },
+    "lr-i-66": {
+      "title": "Handhafte Tat und Verfestete",
+      "metaStatus": "draft",
+      "keyPoints": ["Auf handhafter Tat Gefangene werden sofort vor Gericht gebracht und selbsiebt überführt", "Dasselbe gilt für Verfestete", "Niemandem wird das Leben aufgrund einer Verfestung oder Acht abgesprochen, in die er nicht namentlich gekommen ist"],
+      "significance": "Namentliche Bestimmtheit als Voraussetzung schwerer Sanktion.",
+      "keywords": ["handhafte Tat", "Verfestung", "Acht", "Überführung", "selbsiebt"],
+      "synonyms": ["hanthafte dat", "uestinghe", "auf frischer Tat"],
+      "sections": {
+        "1": "Fängt man jemanden auf handhafter Tat, so soll man ihn, so wie er gefangen wurde, vor Gericht bringen, und der Kläger soll ihn selbsiebt überführen.",
+        "2": "Ebenso verfährt man mit dem Verfesteten, wenn man die Tat bezeugt, derentwegen er verfestet wurde.",
+        "3": "Doch soll man niemandem durch Verfestung oder Acht das Leben absprechen, in die er nicht namentlich gekommen ist."
+      }
+    },
+    "lr-i-67": {
+      "title": "Ladung und Verfestung",
+      "metaStatus": "draft",
+      "keyPoints": ["Abwesende Beklagte werden zum nächsten Ding geladen", "Bei Verbrechen dreimalige Ladung alle vierzehn Nächte, bei Schöffenbaren alle sechs Wochen unter Königsbann", "Wer zum dritten Termin nicht erscheint, wird verfestet"],
+      "significance": "Gestufte Ladungsfristen nach Stand des Beklagten.",
+      "keywords": ["Ladung", "Verfestung", "Frist", "Schöffenbare", "Königsbann"],
+      "synonyms": ["deghedinghen", "uestinghe", "Säumnis"],
+      "sections": {
+        "1": "Wen man vor Gericht verklagt und wer dort nicht anwesend ist, den soll man zum nächsten Ding laden. Wen man aber wegen eines Verbrechens verklagt, den soll man dreimal laden, jeweils mit einer Frist von vierzehn Nächten. Klagt man gegen einen freien schöffenbaren Mann wegen eines Verbrechens, so soll man ihn dreimal laden, jeweils mit einer Frist von sechs Wochen, unter Königsbann und an echter Dingstätte.",
+        "2": "Wer zum dritten Ding nicht erscheint, den verfestet man."
+      }
+    },
+    "lr-i-68": {
+      "title": "Verfestung wegen Gewalttaten",
+      "metaStatus": "draft",
+      "keyPoints": ["Verfestet wird nur bei Klagen, die an Leib oder Hand gehen", "Auch Knüppelschläge und blutige Verletzungen ohne Fleischwunde können zur Verfestung führen", "Wer sich aus der Verfestung zieht, erhält sein Recht zurück"],
+      "significance": "Die Verfestung ist Zwangsmittel gegen säumige Beschuldigte schwerer Taten.",
+      "keywords": ["Verfestung", "Körperverletzung", "Wunde", "Kampf", "Fleischwunde"],
+      "synonyms": ["uestinghe", "Friedlosigkeit", "Ächtung"],
+      "sections": {
+        "1": "Wegen keiner anderen Klage soll man jemanden verfesten als wegen einer, die an Leib oder Hand geht.",
+        "2": "Wer aber einen anderen mit Knüppeln schlägt, so dass die Schläge anschwellen, oder wer einen anderen blutig schlägt ohne Fleischwunde: Klagt der Verletzte es dem Richter oder dem Fronboten oder dem Bauermeister und den Bauern, zeigt er es bei frischer Tat vor und erscheint der Täter nicht binnen seiner rechten Fristen, um sich zu verantworten oder nach Recht Buße zu leisten, so soll man ihn verfesten.",
+        "3": "Mit einer blutigen Wunde ohne Fleischwunde, oder auch mit den Narben der Wunde und mit den förmlichen Kampfworten, kann ein Mann den anderen zum Kampf fordern.",
+        "4": "Auch ohne Fleischwunde kann man einen Menschen töten oder lähmen, mit Schlägen, Stößen, Würfen und auf vielerlei andere Weise, wodurch man Hand oder Leben verwirkt und der Verfestung verfällt.",
+        "5": "Aus welchem Grund auch immer jemand verfestet wird: Wird er während der Verfestung gefangen und vor Gericht gebracht, so geht es ihm ans Leben, wenn er der Tat und der Verfestung überführt wird. Löst er sich aber aus der Verfestung und erscheint ungefangen vor Gericht, so erhält er sein Recht, als wäre er nie verfestet worden."
+      }
+    },
+    "lr-i-69": {
+      "title": "Vorführung eines Toten oder Verwundeten",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer einen Toten oder Verwundeten vor Gericht bringt und als Friedensbrecher überführen will,", "wird selbst nach Friedensrecht gerichtet, wenn ihm das nicht gelingt"],
+      "significance": "Parallele zu LR I 50: Haftung des erfolglosen Anklägers.",
+      "keywords": ["Friedensbruch", "Anklage", "Toter", "Verwundeter", "Friedensrecht"],
+      "synonyms": ["vredebrekere", "Falschanklage"],
+      "sections": {
+        "1": "Wer einen Toten oder einen Verwundeten, den er gefangen hat, vor Gericht bringt und ihn als Friedensbrecher überführen will, mit oder ohne Kampf, dem es aber nicht gelingt, über den soll man nach Friedensrecht richten."
+      }
+    },
+    "lr-i-70": {
+      "title": "Einweisung in Gut; Pfändung wegen Schuld",
+      "metaStatus": "draft",
+      "keyPoints": ["Nach Klage in drei Dingen wird der Kläger in das Gut eingewiesen", "Der Beklagte kann die Einweisung binnen Jahresfrist mit Eid anfechten", "Pfändung bei Schulden: Fristen, Verwertung und Rückgabe des Überschusses"],
+      "significance": "Früher Ansatz eines geordneten Vollstreckungsverfahrens.",
+      "keywords": ["Einweisung", "Pfändung", "Schuld", "Pfand", "Frist", "Verkauf"],
+      "synonyms": ["inwisinghe", "pant", "Zwangsvollstreckung"],
+      "sections": {
+        "1": "Hat aber jemand in drei Dingen auf Gut geklagt, so soll man ihn darin einweisen und es ihm übertragen; niemand darf ihn daraus vertreiben, es sei denn mit rechter Klage. Die Einweisung kann der Beklagte binnen Jahresfrist durch Eid auf die Heiligen anfechten; er muss das Gut aber in den nächsten drei Dingen verteidigen, wenn man darauf klagt.",
+        "2": "Klagt man wegen einer Schuld gegen jemanden, der dort nicht dingpflichtig ist und dort auch nicht Rede und Antwort stehen muss, so soll man ihm von Gerichts wegen gebieten, binnen vierzehn Nächten zu zahlen oder sich von der Schuld mit Recht zu befreien. Tut er das nicht, so soll man ihn dafür pfänden und das Pfand dreimal für vierzehn Nächte zur Auslösung bereithalten, wenn man das verlangt. Verlangt man es nicht, so soll man es dennoch sechs Wochen unverbraucht aufbewahren. Befreit er sich in dieser Zeit nicht von der Schuld, so kann er sich danach nicht mehr davon befreien, es sei denn, echte Not hat ihn gehindert. Dann soll man das Pfand für die Schuld versetzen oder, wenn man es nicht versetzen kann, verkaufen; bleibt etwas übrig, so soll man es ihm zurückgeben. Fehlt aber noch etwas, so soll man ihn so lange weiter pfänden, bis der Gläubiger sein Geld hat.",
+        "3": "Wer wegen eines Verbrechens mit dem Gerüfte vor Gericht verklagt wird, bevor die Tat übernächtig ist: Kann der Kläger das Verbrechen selbsiebt bezeugen, so verfestet man den Täter sofort. Ist aber der Richter außerhalb seines Gerichtsbezirks, wenn das geschieht, so klage er es dem Fronboten an Stelle des Richters. Hat er für diese Klage Zeugen vom ersten Tag, so verfestet man den Täter, sobald der Richter in seinen Gerichtsbezirk zurückkehrt, so als wäre die Tat am selben Tag geschehen."
+      }
+    },
+    "lr-i-71": {
+      "title": "Verfestung, Grafenverfestung und Königsacht",
+      "metaStatus": "draft",
+      "keyPoints": ["Die Verfestung des Gografen oder belehnten Richters wird vor dem Grafen bezeugt", "Daraus folgt die Verfestung des Grafen, aus dieser die Acht des Königs"],
+      "significance": "Stufenfolge der Friedloslegung bis zur Reichsacht.",
+      "keywords": ["Verfestung", "Acht", "Graf", "Gograf", "König", "Reichsacht"],
+      "synonyms": ["uestinghe", "achte", "Oberacht", "Instanzenzug"],
+      "sections": {
+        "1": "Wenn der gewählte Gograf oder ein belehnter Richter ohne den Grafen jemanden verfestet und seine Verfestung vor dem Grafen bezeugt, so erwirkt er sofort die Verfestung des Grafen über den Betroffenen. Ebenso erwirkt der Graf mit seiner Verfestung die Acht des Königs."
+      }
+    }
+  }
+}
