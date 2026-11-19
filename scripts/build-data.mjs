@@ -36,7 +36,7 @@ const BOOKS = [
   { id: "lr-i", label: "Landrecht I", short: "LR I", part: "landrecht", count: 71, released: true },
   { id: "lr-ii", label: "Landrecht II", short: "LR II", part: "landrecht", count: 72, released: true },
   { id: "lr-iii", label: "Landrecht III", short: "LR III", part: "landrecht", count: 91, released: true },
-  { id: "lehnrecht", label: "Lehnrecht", short: "Lehnrecht", part: "lehnrecht", count: 80, released: false },
+  { id: "lehnrecht", label: "Lehnrecht", short: "Lehnrecht", part: "lehnrecht", count: 80, released: true },
 ];
 
 const SOURCE_NOTE =
@@ -82,6 +82,18 @@ async function main() {
       s.text = s.text.split(a).join(b);
     }
     s.ocr = c.level === "ocr" ? "corrected" : "cleaned";
+  }
+  // Eingeklammerte Kapitelzahlen der Hs. („(XXV.)“) und Restmarker entfernen
+  for (const s of allSections) {
+    s.text = s.text.replace(/\s*\((?:[IVXL]{1,7})\.?\)\s*/g, " ").replace(/\s{2,}/g, " ").trim();
+    // Lehnrecht: freistehende Kapitelzahlen der Oldenburger Hs. („XXXIX.“, „LVI.“, OCR „L1L“)
+    if (s.book === "lehnrecht") {
+      s.text = s.text
+        .replace(/(^|\s)[IVXL][IVXL1]{0,6}[.*](?=\s|$)/g, "$1")
+        .replace(/(^|\s)L1L(?=\s)/g, "$1")
+        .replace(/\s{2,}/g, " ")
+        .trim();
+    }
   }
 
   // --- Seitenschätzung nach Textmenge innerhalb der Buchgrenzen ---

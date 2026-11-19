@@ -817,6 +817,330 @@
      "he ne do it"
     ]
    ]
+  },
+  "lehnrecht-2#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "de solen /^rechtes daruen",
+     "de solen lenrechtes daruen"
+    ]
+   ]
+  },
+  "lehnrecht-5#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "en göd »§.l. lenen",
+     "en göd lenen"
+    ]
+   ]
+  },
+  "lehnrecht-7#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "swar dat Art. eme erst3} ledich",
+     "swar dat eme erst ledich"
+    ]
+   ]
+  },
+  "lehnrecht-11#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "al bebbe de heri'C des leiieS Sind in siner (///eirall l<> hestadende.",
+     "al hebbe de herre des lenes stad in siner ghewalt to bestadende."
+    ]
+   ]
+  },
+  "lehnrecht-11#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Sicor aller den mannen an creme Jene",
+     "Swar aller den mannen an ereme lene"
+    ]
+   ]
+  },
+  "lehnrecht-22#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "weghet {.2. al sin lif",
+     "weghet al sin lif"
+    ]
+   ]
+  },
+  "lehnrecht-24#5": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "so is de herre ane scult l)- fehlt Hs. dar stellt doppelt. Bs. dar. Taf. teghen. also he recht is. Hs. uordeL unde ane senden",
+     "so is de herre ane scult unde ane senden"
+    ]
+   ]
+  },
+  "lehnrecht-29#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "De man ne Art. \"29*§. 1. darf",
+     "De man ne darf"
+    ]
+   ]
+  },
+  "lehnrecht-46#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ne Art 46. mach",
+     "ne mach"
+    ]
+   ]
+  },
+  "lehnrecht-54#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     " J) fehlt Hs. J)er §. fehlt im Text; es steht aber unten die Bemerkung:, sterft auer deest. In der Tafel stehen die Anfangsworte des §.: Sterft enes mannes herre. Andere Hss. nicht ne bekant. Andere Ess. er eme de herre dach to lenrechte b. lenes ghewere?",
+     ""
+    ]
+   ]
+  },
+  "lehnrecht-57#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Lent en §. L herre",
+     "Lent en herre"
+    ]
+   ]
+  },
+  "lehnrecht-57#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "gode.. 58.",
+     "gode."
+    ]
+   ]
+  },
+  "lehnrecht-59#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "an- §J. deren",
+     "anderen"
+    ]
+   ]
+  },
+  "lehnrecht-59#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "he 128 IV. » clc claghe",
+     "he de claghe"
+    ]
+   ]
+  },
+  "lehnrecht-60#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "in deme Art 61. göde",
+     "in deme göde"
+    ]
+   ]
+  },
+  "lehnrecht-66#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Tud de man £.3. sin",
+     "Tud de man sin"
+    ]
+   ]
+  },
+  "lehnrecht-71#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Art. TL redet",
+     "redet"
+    ]
+   ]
+  },
+  "lehnrecht-72#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "De Art. coninch",
+     "De coninch"
+    ]
+   ]
+  },
+  "lehnrecht-72#10": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "borch be- §.io. reden",
+     "borch bereden"
+    ]
+   ]
+  },
+  "lehnrecht-76#7": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Weygheret hes (f 1351') mit",
+     "Weygheret hes mit"
+    ]
+   ]
+  },
+  "lehnrecht-79#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "urghe/^ghet undd fJkkheme mit ordelen (jlwboden",
+     "utgheleghet unde gheneme mit ordelen gheboden"
+    ]
+   ]
+  },
+  "lehnrecht-7#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Swe1 i cli herre",
+     "Swenne de herre"
+    ]
+   ]
+  },
+  "lehnrecht-10#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "herren was7 er",
+     "herren was, er"
+    ]
+   ]
+  },
+  "lehnrecht-13#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dat gö3 ane",
+     "dat göd ane"
+    ]
+   ]
+  },
+  "lehnrecht-22#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "orcunde heuet, VIL vnde",
+     "orcunde heuet, vnde"
+    ]
+   ]
+  },
+  "lehnrecht-23#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "wey- (f 1 gheren",
+     "weygheren"
+    ]
+   ]
+  },
+  "lehnrecht-23#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dar nie 11 ene",
+     "dar men ene"
+    ]
+   ]
+  },
+  "lehnrecht-33#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ghe- 1| loset",
+     "gheloset"
+    ]
+   ]
+  },
+  "lehnrecht-40#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "uor- 1| pleghen",
+     "uorpleghen"
+    ]
+   ]
+  },
+  "lehnrecht-55#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dat g5d wirt",
+     "dat göd wirt"
+    ]
+   ]
+  },
+  "lehnrecht-60#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dat g<5d si",
+     "dat göd si"
+    ]
+   ]
+  },
+  "lehnrecht-61#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "eck- 1| telos",
+     "echtelos"
+    ]
+   ]
+  },
+  "lehnrecht-66#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "de man II deme",
+     "de man deme"
+    ]
+   ]
+  },
+  "lehnrecht-68#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ne (f* 1 weddet",
+     "ne weddet"
+    ]
+   ]
+  },
+  "lehnrecht-69#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "tuch w7eseu",
+     "tuch wesen"
+    ]
+   ]
+  },
+  "lehnrecht-69#11": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "LIIIL Scheit",
+     "Scheit"
+    ]
+   ]
   }
  }
 }

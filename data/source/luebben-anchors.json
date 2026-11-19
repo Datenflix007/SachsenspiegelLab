@@ -1,5 +1,5 @@
 {
- "_info": "Anker je § in Handschriftenreihenfolge (Lübben 1879). id = Artikel, s = §, a = Anfangsworte exakt wie im bereinigten OCR-Text. {end:true} schließt den geprüften Bereich ab. Geprüft: Prolog, LR I–III (2026-11-19).",
+ "_info": "Anker je § in Handschriftenreihenfolge (Lübben 1879). id = Artikel, s = §, a = Anfangsworte exakt wie im bereinigten OCR-Text. {end:true} schließt den geprüften Bereich ab. Geprüft: Prolog, LR I–III, Lehnrecht (2026-11-19).",
  "landrecht": [
   {
    "id": "lr-prolog",
@@ -3382,5 +3382,1606 @@
    "a": "He ne mot nin bot"
   }
  ],
- "lehnrecht": []
+ "lehnrecht": [
+  {
+   "id": "lehnrecht-1",
+   "s": 1,
+   "a": "Swe lenrecht cunnen wille, de"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 1,
+   "a": "Papen, coplude, dorperc, wif unde"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 2,
+   "a": "Swelieh berre doch deser eneme"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 3,
+   "a": "Van ghetughe mach men se"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 4,
+   "a": "Of twe man en göd"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 5,
+   "a": "Swelik man to den hereschilde"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 6,
+   "a": "Of en man vulcomen an"
+  },
+  {
+   "id": "lehnrecht-2",
+   "s": 7,
+   "a": "Borchlen auer unde kerken"
+  },
+  {
+   "id": "lehnrecht-3",
+   "s": 1,
+   "a": "De man sal l)i plicht"
+  },
+  {
+   "id": "lehnrecht-4",
+   "s": 1,
+   "a": "Des rikes denest, dat deine"
+  },
+  {
+   "id": "lehnrecht-4",
+   "s": 2,
+   "a": "Swan auer de dudeschen enen"
+  },
+  {
+   "id": "lehnrecht-4",
+   "s": 3,
+   "a": "Oc sal dar uaren iewelik"
+  },
+  {
+   "id": "lehnrecht-4",
+   "s": 4,
+   "a": "De man sal oc sime"
+  },
+  {
+   "id": "lehnrecht-4",
+   "s": 5,
+   "a": "Swe en perd eder sines"
+  },
+  {
+   "id": "lehnrecht-5",
+   "s": 1,
+   "a": "Twen mannen mach de herre"
+  },
+  {
+   "id": "lehnrecht-5",
+   "s": 2,
+   "a": "Swe so dat göd in"
+  },
+  {
+   "id": "lehnrecht-6",
+   "s": 1,
+   "a": "De nader erft uppen sone"
+  },
+  {
+   "id": "lehnrecht-6",
+   "s": 2,
+   "a": "Swelich man auer des sones"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 1,
+   "a": "Swelich herre en göd lent"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 2,
+   "a": "lene mot auer sin ghedinghe"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 3,
+   "a": "Swe1 i cli herre en"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 4,
+   "a": "Of twe man en göd"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 5,
+   "a": "Swan en herre lent göd"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 6,
+   "a": "Iewelik nmbewiset göd, dat den"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 7,
+   "a": "Dat göd, dat erst ledicli"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 8,
+   "a": "Of deme manne uorsmat dat"
+  },
+  {
+   "id": "lehnrecht-7",
+   "s": 9,
+   "a": "In euer sake uan eme"
+  },
+  {
+   "id": "lehnrecht-8",
+   "s": 1,
+   "a": "Of se twene mit enen"
+  },
+  {
+   "id": "lehnrecht-8",
+   "s": 2,
+   "a": "De herre mot wol sinen"
+  },
+  {
+   "id": "lehnrecht-9",
+   "s": 1,
+   "a": "Swe enes herren man is,"
+  },
+  {
+   "id": "lehnrecht-9",
+   "s": 2,
+   "a": "Swelik man drie ordel scheid"
+  },
+  {
+   "id": "lehnrecht-10",
+   "s": 1,
+   "a": "Ittelike lüde segget, dat men"
+  },
+  {
+   "id": "lehnrecht-10",
+   "s": 2,
+   "a": "Is oc en man belent"
+  },
+  {
+   "id": "lehnrecht-10",
+   "s": 3,
+   "a": "Swan en herre sinen manne"
+  },
+  {
+   "id": "lehnrecht-10",
+   "s": 4,
+   "a": "Swem auer de herre weygheret"
+  },
+  {
+   "id": "lehnrecht-10",
+   "s": 5,
+   "a": "Heuet auer de herre en"
+  },
+  {
+   "id": "lehnrecht-11",
+   "s": 1,
+   "a": "Swelik god de man an"
+  },
+  {
+   "id": "lehnrecht-11",
+   "s": 2,
+   "a": "Of de herre sinen manne"
+  },
+  {
+   "id": "lehnrecht-11",
+   "s": 3,
+   "a": "In moleii linde in munte"
+  },
+  {
+   "id": "lehnrecht-11",
+   "s": 4,
+   "a": "Sicor aller den mannen an"
+  },
+  {
+   "id": "lehnrecht-11",
+   "s": 5,
+   "a": "Lent auer de herre dar"
+  },
+  {
+   "id": "lehnrecht-12",
+   "s": 1,
+   "a": "De man ne hebbe uan"
+  },
+  {
+   "id": "lehnrecht-12",
+   "s": 2,
+   "a": "L Des uorbannenen mannes eder"
+  },
+  {
+   "id": "lehnrecht-13",
+   "s": 1,
+   "a": "Of de herre sime manne"
+  },
+  {
+   "id": "lehnrecht-13",
+   "s": 2,
+   "a": "Lat auer en herre enen"
+  },
+  {
+   "id": "lehnrecht-13",
+   "s": 3,
+   "a": "Swar men iarlikes tins af"
+  },
+  {
+   "id": "lehnrecht-13",
+   "s": 4,
+   "a": "Ene wort eder enen morghen"
+  },
+  {
+   "id": "lehnrecht-14",
+   "s": 1,
+   "a": "En göd mach manighes herren,"
+  },
+  {
+   "id": "lehnrecht-14",
+   "s": 2,
+   "a": "Seghet eme en man göd"
+  },
+  {
+   "id": "lehnrecht-14",
+   "s": 3,
+   "a": "Dar umme ne sal niman"
+  },
+  {
+   "id": "lehnrecht-14",
+   "s": 4,
+   "a": "Swenne en man sime Lerren"
+  },
+  {
+   "id": "lehnrecht-15",
+   "s": 1,
+   "a": "Of cn herre sines manuea"
+  },
+  {
+   "id": "lehnrecht-15",
+   "s": 2,
+   "a": "Swan de man in den"
+  },
+  {
+   "id": "lehnrecht-15",
+   "s": 3,
+   "a": "Wil ene oc de herre"
+  },
+  {
+   "id": "lehnrecht-16",
+   "s": 1,
+   "a": "Niman ne darf anderwarf entfan"
+  },
+  {
+   "id": "lehnrecht-17",
+   "s": 1,
+   "a": "Swelikes mannes göd de herre"
+  },
+  {
+   "id": "lehnrecht-18",
+   "s": 1,
+   "a": "Of de herre sime manne"
+  },
+  {
+   "id": "lehnrecht-19",
+   "s": 1,
+   "a": "Of en man an sines"
+  },
+  {
+   "id": "lehnrecht-19",
+   "s": 2,
+   "a": "De man mach aller sculdegbingbe"
+  },
+  {
+   "id": "lehnrecht-20",
+   "s": 1,
+   "a": "Swenne de sone na des"
+  },
+  {
+   "id": "lehnrecht-20",
+   "s": 2,
+   "a": "Swelekeme manne men sin göd"
+  },
+  {
+   "id": "lehnrecht-20",
+   "s": 3,
+   "a": "Swar de sone deme uader"
+  },
+  {
+   "id": "lehnrecht-20",
+   "s": 4,
+   "a": "Of en herre to unrecbte"
+  },
+  {
+   "id": "lehnrecht-20",
+   "s": 5,
+   "a": "Biscope god unde uanlen sal"
+  },
+  {
+   "id": "lehnrecht-21",
+   "s": 1,
+   "a": "De sone bebalt des uader"
+  },
+  {
+   "id": "lehnrecht-21",
+   "s": 2,
+   "a": "Of de sone in des"
+  },
+  {
+   "id": "lehnrecht-22",
+   "s": 1,
+   "a": "Na des uader dode de"
+  },
+  {
+   "id": "lehnrecht-22",
+   "s": 2,
+   "a": "Dus spreke de man"
+  },
+  {
+   "id": "lehnrecht-22",
+   "s": 3,
+   "a": "Of de berre weygheret mit"
+  },
+  {
+   "id": "lehnrecht-22",
+   "s": 4,
+   "a": "Swar auer den manne sin"
+  },
+  {
+   "id": "lehnrecht-22",
+   "s": 5,
+   "a": "Ghebut auer de berre den"
+  },
+  {
+   "id": "lehnrecht-23",
+   "s": 1,
+   "a": "De herre ne sal oc"
+  },
+  {
+   "id": "lehnrecht-23",
+   "s": 2,
+   "a": "Swen auer de herre to"
+  },
+  {
+   "id": "lehnrecht-23",
+   "s": 3,
+   "a": "De herre sal sinen manne"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 1,
+   "a": "Sweii, auer de herre ordeles"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 2,
+   "a": "Swan de herre deine manne"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 3,
+   "a": "Sinen ghetucb sal auer he"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 4,
+   "a": "Swelik desser seuene dar to"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 5,
+   "a": "Benimpt it eme auer echte"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 6,
+   "a": "Of de man enes herren"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 7,
+   "a": "To deme utghelegheden daghe sal"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 8,
+   "a": "Swera echte not irret, dat"
+  },
+  {
+   "id": "lehnrecht-24",
+   "s": 9,
+   "a": "Of uanenisse den man irret,"
+  },
+  {
+   "id": "lehnrecht-25",
+   "s": 1,
+   "a": "Alse hir uore gheredet is,"
+  },
+  {
+   "id": "lehnrecht-25",
+   "s": 2,
+   "a": "Swene de herre binnen iare"
+  },
+  {
+   "id": "lehnrecht-25",
+   "s": 3,
+   "a": "Swen de herre sterft, de"
+  },
+  {
+   "id": "lehnrecht-25",
+   "s": 4,
+   "a": "Ieghelikes mannes iartale beghint in"
+  },
+  {
+   "id": "lehnrecht-25",
+   "s": 5,
+   "a": "Lent het auer, er het"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 1,
+   "a": "Uli. Kindere iartale is drutteyn"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 2,
+   "a": "Sprict ieman dat kint len"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 3,
+   "a": "Of de herre nicht truvven"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 4,
+   "a": "Niman mach des andren tuch"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 5,
+   "a": "Swo iunc dat kint is"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 6,
+   "a": "Swen it kint binnen sinen"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 7,
+   "a": "In aneuelle nis nin lenrecht"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 8,
+   "a": "De wile dat kint uan"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 9,
+   "a": "Nin mau ue mach ene"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 10,
+   "a": "Let men auer eu uorlent"
+  },
+  {
+   "id": "lehnrecht-26",
+   "s": 11,
+   "a": "We}'gheret dat kint lenrecht to"
+  },
+  {
+   "id": "lehnrecht-27",
+   "s": 1,
+   "a": "Sterft en man, de sone"
+  },
+  {
+   "id": "lehnrecht-27",
+   "s": 2,
+   "a": "Sterft eues herren soue in"
+  },
+  {
+   "id": "lehnrecht-28",
+   "s": 1,
+   "a": "De sone ne mot oc"
+  },
+  {
+   "id": "lehnrecht-28",
+   "s": 2,
+   "a": "Of de herre lat des"
+  },
+  {
+   "id": "lehnrecht-29",
+   "s": 1,
+   "a": "De man ne Art."
+  },
+  {
+   "id": "lehnrecht-29",
+   "s": 2,
+   "a": "De herre nis nicht plichtich"
+  },
+  {
+   "id": "lehnrecht-29",
+   "s": 3,
+   "a": "Lent de herre göd enen"
+  },
+  {
+   "id": "lehnrecht-29",
+   "s": 4,
+   "a": "Swelik der kindere sine iartale"
+  },
+  {
+   "id": "lehnrecht-29",
+   "s": 5,
+   "a": "Sint enes mannes sone, de"
+  },
+  {
+   "id": "lehnrecht-30",
+   "s": 1,
+   "a": "Swe sime herren eder sime"
+  },
+  {
+   "id": "lehnrecht-31",
+   "s": 1,
+   "a": "Diu ghet en man sime"
+  },
+  {
+   "id": "lehnrecht-32",
+   "s": 1,
+   "a": "Men mach uele broderen en"
+  },
+  {
+   "id": "lehnrecht-32",
+   "s": 2,
+   "a": "De wile se it to samene hebbet, sterft"
+  },
+  {
+   "id": "lehnrecht-32",
+   "s": 3,
+   "a": "De wile se en god"
+  },
+  {
+   "id": "lehnrecht-32",
+   "s": 4,
+   "a": "Ofte mer lüde den en"
+  },
+  {
+   "id": "lehnrecht-33",
+   "s": 1,
+   "a": "Swat en herre uan motwillen"
+  },
+  {
+   "id": "lehnrecht-33",
+   "s": 2,
+   "a": "Swan aue?' de herre mit"
+  },
+  {
+   "id": "lehnrecht-33",
+   "s": 3,
+   "a": "Segnet auer de herre, he"
+  },
+  {
+   "id": "lehnrecht-34",
+   "s": 1,
+   "a": "Belent wif eder maghet ne"
+  },
+  {
+   "id": "lehnrecht-35",
+   "s": 1,
+   "a": "Lent de herre kinderen eres"
+  },
+  {
+   "id": "lehnrecht-35",
+   "s": 2,
+   "a": "Swar auer de uader unde"
+  },
+  {
+   "id": "lehnrecht-36",
+   "s": 1,
+   "a": "V* Let en man sirne"
+  },
+  {
+   "id": "lehnrecht-37",
+   "s": 1,
+   "a": "Let de uader sime sone"
+  },
+  {
+   "id": "lehnrecht-37",
+   "s": 2,
+   "a": "Swe sin eruelen uplet unde"
+  },
+  {
+   "id": "lehnrecht-37",
+   "s": 3,
+   "a": "Swe de rechten ghewere an"
+  },
+  {
+   "id": "lehnrecht-38",
+   "s": 1,
+   "a": "Swe dem oueren heren uplat"
+  },
+  {
+   "id": "lehnrecht-38",
+   "s": 2,
+   "a": "Mach auer de man dat"
+  },
+  {
+   "id": "lehnrecht-38",
+   "s": 3,
+   "a": "Lenes were ne mach ninman"
+  },
+  {
+   "id": "lehnrecht-38",
+   "s": 4,
+   "a": "Men ne sal nimanne uan"
+  },
+  {
+   "id": "lehnrecht-39",
+   "s": 1,
+   "a": "Swem sin göd mit, lenrechte"
+  },
+  {
+   "id": "lehnrecht-39",
+   "s": 2,
+   "a": "Dwinct de herre sinen man"
+  },
+  {
+   "id": "lehnrecht-39",
+   "s": 3,
+   "a": "Of en man eme andren"
+  },
+  {
+   "id": "lehnrecht-39",
+   "s": 4,
+   "a": "En man mach sinen husghenot"
+  },
+  {
+   "id": "lehnrecht-40",
+   "s": 1,
+   "a": "Of se twene en god"
+  },
+  {
+   "id": "lehnrecht-40",
+   "s": 2,
+   "a": "Swelike were men nicht bescheden"
+  },
+  {
+   "id": "lehnrecht-40",
+   "s": 3,
+   "a": "Godes ordel ne mot men"
+  },
+  {
+   "id": "lehnrecht-41",
+   "s": 1,
+   "a": "Of de herre unde de"
+  },
+  {
+   "id": "lehnrecht-42",
+   "s": 1,
+   "a": "Of de herre den man"
+  },
+  {
+   "id": "lehnrecht-42",
+   "s": 2,
+   "a": "Segnet de herre, dat be"
+  },
+  {
+   "id": "lehnrecht-43",
+   "s": 1,
+   "a": "Vordelt de herre sinen manne"
+  },
+  {
+   "id": "lehnrecht-43",
+   "s": 2,
+   "a": "Doch heuet"
+  },
+  {
+   "id": "lehnrecht-44",
+   "s": 1,
+   "a": "Sterft de man in der iartale, dat"
+  },
+  {
+   "id": "lehnrecht-44",
+   "s": 2,
+   "a": "Cumpt it auer an enen andren"
+  },
+  {
+   "id": "lehnrecht-44",
+   "s": 3,
+   "a": "(XXVI.) Alse dicke alse enes"
+  },
+  {
+   "id": "lehnrecht-45",
+   "s": 1,
+   "a": "In des herren deghedinghen mach"
+  },
+  {
+   "id": "lehnrecht-45",
+   "s": 2,
+   "a": "De sone ne antwordet nicht deme herren"
+  },
+  {
+   "id": "lehnrecht-45",
+   "s": 3,
+   "a": "Sprict de man den herren an umme"
+  },
+  {
+   "id": "lehnrecht-45",
+   "s": 4,
+   "a": "Swen men sin göd in siner antworde"
+  },
+  {
+   "id": "lehnrecht-46",
+   "s": 1,
+   "a": "Nicht wan dre sake ne"
+  },
+  {
+   "id": "lehnrecht-46",
+   "s": 2,
+   "a": "Heuet de man twe herren"
+  },
+  {
+   "id": "lehnrecht-46",
+   "s": 3,
+   "a": "Nyn herre ne mot oc"
+  },
+  {
+   "id": "lehnrecht-47",
+   "s": 1,
+   "a": "Of en man sime gode"
+  },
+  {
+   "id": "lehnrecht-47",
+   "s": 2,
+   "a": "Swein desser manne tosta unde"
+  },
+  {
+   "id": "lehnrecht-48",
+   "s": 1,
+   "a": "Of en herre sines mannes"
+  },
+  {
+   "id": "lehnrecht-48",
+   "s": 2,
+   "a": "De man ne sal sines"
+  },
+  {
+   "id": "lehnrecht-49",
+   "s": 1,
+   "a": "Nimpt en berre sime manne"
+  },
+  {
+   "id": "lehnrecht-49",
+   "s": 2,
+   "a": "Lent en herre twen mannen"
+  },
+  {
+   "id": "lehnrecht-50",
+   "s": 1,
+   "a": "Varet de berre ut den"
+  },
+  {
+   "id": "lehnrecht-50",
+   "s": 2,
+   "a": "Also alse de man sine iartale"
+  },
+  {
+   "id": "lehnrecht-50",
+   "s": 3,
+   "a": "Hut sie de berre eder"
+  },
+  {
+   "id": "lehnrecht-50",
+   "s": 4,
+   "a": "Steift en man ouer mere"
+  },
+  {
+   "id": "lehnrecht-51",
+   "s": 1,
+   "a": "In » rechter iartale mach"
+  },
+  {
+   "id": "lehnrecht-52",
+   "s": 1,
+   "a": "Sprict en man göd an,"
+  },
+  {
+   "id": "lehnrecht-53",
+   "s": 1,
+   "a": "Lent de herre sines mannes"
+  },
+  {
+   "id": "lehnrecht-54",
+   "s": 1,
+   "a": "Swan de herre sinen seilt"
+  },
+  {
+   "id": "lehnrecht-54",
+   "s": 2,
+   "a": "Doch nis des mannes hereschilt"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 1,
+   "a": "Wirt enen manne god ghelent"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 2,
+   "a": "Al schuldeghinghe, de an ghewedde"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 4,
+   "a": "Göd, dat den manne gbelent"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 5,
+   "a": "De man nis nicht plichtich"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 6,
+   "a": "Göd mach de herre setten"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 7,
+   "a": "Swat auer de herre manlike"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 8,
+   "a": "Swe so seghet göd to"
+  },
+  {
+   "id": "lehnrecht-55",
+   "s": 9,
+   "a": "Swat de herre manlike J)"
+  },
+  {
+   "id": "lehnrecht-56",
+   "s": 1,
+   "a": "Oc mach de man göd"
+  },
+  {
+   "id": "lehnrecht-56",
+   "s": 2,
+   "a": "Sterft auer de vrowe, uan"
+  },
+  {
+   "id": "lehnrecht-56",
+   "s": 3,
+   "a": "Svve mer leninghe seghet in"
+  },
+  {
+   "id": "lehnrecht-56",
+   "s": 4,
+   "a": "Let oc de urowe ir"
+  },
+  {
+   "id": "lehnrecht-56",
+   "s": 5,
+   "a": "Ghedinghe an uorlenden göde mach"
+  },
+  {
+   "id": "lehnrecht-57",
+   "s": 1,
+   "a": "Lent en §. L herre"
+  },
+  {
+   "id": "lehnrecht-57",
+   "s": 2,
+   "a": "Üwen de steift ane eruen,"
+  },
+  {
+   "id": "lehnrecht-57",
+   "s": 3,
+   "a": "Vnderwint oc sie es ghene,"
+  },
+  {
+   "id": "lehnrecht-57",
+   "s": 4,
+   "a": "Sterft cn herre eder let"
+  },
+  {
+   "id": "lehnrecht-58",
+   "s": 1,
+   "a": "Kint mach kinde god lenen,"
+  },
+  {
+   "id": "lehnrecht-58",
+   "s": 2,
+   "a": "Swe so göd lent to"
+  },
+  {
+   "id": "lehnrecht-59",
+   "s": 1,
+   "a": "Vordinghet aucr en man god"
+  },
+  {
+   "id": "lehnrecht-59",
+   "s": 2,
+   "a": "Wird he auer dor dat"
+  },
+  {
+   "id": "lehnrecht-59",
+   "s": 3,
+   "a": "Den dat god oc aldus"
+  },
+  {
+   "id": "lehnrecht-59",
+   "s": 4,
+   "a": "Sprict auer de man, deme"
+  },
+  {
+   "id": "lehnrecht-60",
+   "s": 1,
+   "a": "Swe in unrechter were Bit"
+  },
+  {
+   "id": "lehnrecht-60",
+   "s": 2,
+   "a": "Molen auer eder munte unde"
+  },
+  {
+   "id": "lehnrecht-61",
+   "s": 1,
+   "a": "Leu ane richte ne mot"
+  },
+  {
+   "id": "lehnrecht-61",
+   "s": 2,
+   "a": "It ne mot oc nin"
+  },
+  {
+   "id": "lehnrecht-62",
+   "s": 1,
+   "a": "Nin man ne mach sime"
+  },
+  {
+   "id": "lehnrecht-62",
+   "s": 2,
+   "a": "Lent eme auer de herre"
+  },
+  {
+   "id": "lehnrecht-63",
+   "s": 1,
+   "a": "Swelk god deme manne ane"
+  },
+  {
+   "id": "lehnrecht-63",
+   "s": 2,
+   "a": "Dor de manichualde twiuughe des"
+  },
+  {
+   "id": "lehnrecht-64",
+   "s": 1,
+   "a": "De mau sal"
+  },
+  {
+   "id": "lehnrecht-64",
+   "s": 2,
+   "a": "Manscap mot de man uppen"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 1,
+   "a": "Umme iewelike scult mot de"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 2,
+   "a": "Uor middagbe unde baten bundenen"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 3,
+   "a": "Alse de berre degbedingbe begbinnen"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 4,
+   "a": "Heuet de man des rikes"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 5,
+   "a": "Swan de berre sinen manne"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 6,
+   "a": "De berre wint ghewedde uppen"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 7,
+   "a": "De tinsglielde nc snl uor"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 8,
+   "a": "Swar de herre sin ghewedde"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 9,
+   "a": "Is de man dar to"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 10,
+   "a": "Alse de herre beginnt siner"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 11,
+   "a": "Ne cunnen de man to"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 12,
+   "a": "De herre ne mach ninc"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 13,
+   "a": "Wel de herre den man"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 14,
+   "a": "Alse de sunne vndergad unde"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 15,
+   "a": "Vor middaghe mot de herre"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 16,
+   "a": "Swcnne men ene derdewarue esched"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 17,
+   "a": "In beslotencn hone noch linder"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 18,
+   "a": "Alse de herre des derden"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 19,
+   "a": "Swanne de tuch bi des"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 20,
+   "a": "Swanne de herre ghetugbet aldus"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 21,
+   "a": "So vraghe de herre, wat"
+  },
+  {
+   "id": "lehnrecht-65",
+   "s": 22,
+   "a": "De herre vnderwinde sie des"
+  },
+  {
+   "id": "lehnrecht-66",
+   "s": 1,
+   "a": "Cumpt de man to sime"
+  },
+  {
+   "id": "lehnrecht-66",
+   "s": 2,
+   "a": "Of de man auer uor"
+  },
+  {
+   "id": "lehnrecht-66",
+   "s": 3,
+   "a": "Tud de man £.3."
+  },
+  {
+   "id": "lehnrecht-66",
+   "s": 4,
+   "a": "Of de herre deme manne"
+  },
+  {
+   "id": "lehnrecht-66",
+   "s": 5,
+   "a": "Swelikes daghes de man sime"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 1,
+   "a": "Sweme de herre göd uordelt,"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 2,
+   "a": "Dese uare ne sal Dirnau"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 3,
+   "a": "De man nis deine berren"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 4,
+   "a": "Alse de herre sin ienreebt"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 5,
+   "a": "So schuldeghc ene de herre"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 6,
+   "a": "In aller rede vragbe men"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 7,
+   "a": "Twiscben twier manne rede sal"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 8,
+   "a": "Openbare ne mot de man"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 9,
+   "a": "Alse de man in ghespreke"
+  },
+  {
+   "id": "lehnrecht-67",
+   "s": 10,
+   "a": "Ladet de man sine husgbenoten"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 1,
+   "a": "De man weddet sime herren"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 2,
+   "a": "Nimpt men enen manne göd,"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 3,
+   "a": "XXIX* Set oc en man"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 4,
+   "a": "Vnderwint sie en man sines"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 5,
+   "a": "Doch nis de herre nicht"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 6,
+   "a": "Men nc uerboret oc. nin"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 7,
+   "a": "Of de man sie wischet"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 8,
+   "a": "Tcin punt weddet de man"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 9,
+   "a": "Iewelikes herren man heuet na"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 10,
+   "a": "Beyde böte unde wedde sal"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 11,
+   "a": "De man ne mot nicht"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 12,
+   "a": "De man ne weddet sime"
+  },
+  {
+   "id": "lehnrecht-68",
+   "s": 13,
+   "a": "Umme iewelike rede mot ok"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 1,
+   "a": "Swe des hereschildes daruet, de"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 2,
+   "a": "Swe ene balue boue oder"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 3,
+   "a": "Swelic man sime herren ordel"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 4,
+   "a": "Swe en ordel schelt, schuldeghet"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 5,
+   "a": "De man spreke aldus, alse"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 6,
+   "a": "Dar bidden se beyde der"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 7,
+   "a": "Is auer de herre buten"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 8,
+   "a": "Wird cn ordel beschulden dor"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 9,
+   "a": "L1L Wird en ordel ghesculden"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 10,
+   "a": "LIII. Irret de ghebundenen daghe,"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 11,
+   "a": "LIIIL Scheit en man en"
+  },
+  {
+   "id": "lehnrecht-69",
+   "s": 12,
+   "a": "Swe an enem manne den"
+  },
+  {
+   "id": "lehnrecht-70",
+   "s": 1,
+   "a": "LVI. Of twe dorp um"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 1,
+   "a": "Al dat hir uore gheredet"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 2,
+   "a": "Swe gherichte to lene heuet"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 3,
+   "a": "It ne mach nin man"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 4,
+   "a": "Twe man ne moghen in"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 5,
+   "a": "Swen de coninch in achte"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 6,
+   "a": "Swe so eghen to lene"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 7,
+   "a": "Of eghen in dat rike"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 8,
+   "a": "In borglcne is ghedinghe unde"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 9,
+   "a": "Borchlen ne mach nin borghere"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 10,
+   "a": "De berrc ne mach oc"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 11,
+   "a": "Sterft en man, de wile"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 12,
+   "a": "Ouerlent en herre sine horch"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 13,
+   "a": "An borcblene is aneuelle unde"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 14,
+   "a": "Lent en borghere sin borchlen"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 15,
+   "a": "De man uolghet borcblene unde"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 16,
+   "a": "Swe auer borghere unde borghe"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 17,
+   "a": "Van des rikes gode mot"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 18,
+   "a": "Uan borchlene nis he nicht"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 19,
+   "a": "Borchrecht ne mach de herre"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 20,
+   "a": "Van iewelkeme andren lene ane"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 21,
+   "a": "Uorste het dor dat uorste"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 22,
+   "a": "Vppe iewelic des uorsten len"
+  },
+  {
+   "id": "lehnrecht-71",
+   "s": 23,
+   "a": "Nin man ne mach oc"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 1,
+   "a": "De Art. coninch mot wol"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 2,
+   "a": "Niehl wan dor dre sake"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 3,
+   "a": "Of de herre sirne borghere"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 4,
+   "a": "Vordclt auer de berre sime"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 5,
+   "a": "Is en borghere mit ghesinde"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 6,
+   "a": "Recht len unde borchlen mach"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 7,
+   "a": "Wirt en horch mit walt"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 8,
+   "a": "Of en horch unde borchlen"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 9,
+   "a": "Vntsegbet de herre sinen borghere"
+  },
+  {
+   "id": "lehnrecht-72",
+   "s": 10,
+   "a": "Nin man ne mach recht len up"
+  },
+  {
+   "id": "lehnrecht-73",
+   "s": 1,
+   "a": "Vorlent de herre en göd,"
+  },
+  {
+   "id": "lehnrecht-73",
+   "s": 2,
+   "a": "Is auer en vry göd,"
+  },
+  {
+   "id": "lehnrecht-74",
+   "s": 1,
+   "a": "Heuet en man göd in"
+  },
+  {
+   "id": "lehnrecht-74",
+   "s": 2,
+   "a": "Lenesche were mot men tughen"
+  },
+  {
+   "id": "lehnrecht-75",
+   "s": 1,
+   "a": "It is güt, dat en"
+  },
+  {
+   "id": "lehnrecht-75",
+   "s": 2,
+   "a": "Of dit god cumpt in"
+  },
+  {
+   "id": "lehnrecht-75",
+   "s": 3,
+   "a": "Sprict en herre ener urowen"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 1,
+   "a": "De man mot wol sinen"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 2,
+   "a": "Rouet auer de herre den"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 3,
+   "a": "Untseghet de man deme herren,"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 4,
+   "a": "Swe göd sime herren uplet"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 5,
+   "a": "De man ne sal den"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 6,
+   "a": "Gbebut auer de herre sine"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 7,
+   "a": "Bedet de man leydes den"
+  },
+  {
+   "id": "lehnrecht-76",
+   "s": 8,
+   "a": "Tud en man sin göd"
+  },
+  {
+   "id": "lehnrecht-77",
+   "s": 1,
+   "a": "Len to burmesterschap ghelent erft"
+  },
+  {
+   "id": "lehnrecht-78",
+   "s": 1,
+   "a": "Al lenrecht hebhe ic to"
+  },
+  {
+   "id": "lehnrecht-78",
+   "s": 2,
+   "a": "Kecht were lichte beseheden, ne"
+  },
+  {
+   "id": "lehnrecht-78",
+   "s": 3,
+   "a": "Swe to allen dinghen gherne"
+  },
+  {
+   "id": "lehnrecht-79",
+   "s": 1,
+   "a": "Swen en here deghedinghet sime"
+  },
+  {
+   "id": "lehnrecht-79",
+   "s": 2,
+   "a": "Wirt aucr des rikes hereuart"
+  },
+  {
+   "id": "lehnrecht-79",
+   "s": 3,
+   "a": "Lantrechtes aucr nc mach en"
+  },
+  {
+   "id": "lehnrecht-80",
+   "s": 1,
+   "a": "Swe an den oneren herren"
+  },
+  {
+   "id": "lehnrecht-80",
+   "s": 2,
+   "a": "So uraglte de herre enes"
+  },
+  {
+   "id": "lehnrecht-80",
+   "s": 3,
+   "a": "Cumpt ghene uore, an den"
+  },
+  {
+   "id": "lehnrecht-80",
+   "s": 4,
+   "a": "S.vc mit ordelen anc tueb"
+  }
+ ]
 }

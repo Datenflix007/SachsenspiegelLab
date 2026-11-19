@@ -254,7 +254,9 @@ function applyAnchors(segs, anchors, log) {
       anchored: true,
     });
   });
-  return [...before.filter((x) => x.text), ...anchored, ...after.filter((x) => x.text)];
+  // Reste vor/nach dem Ankerbereich, die nur aus Kapitelzahlen o. ä. bestehen, verwerfen
+  const real = (x) => x.text && x.text.replace(/[^a-zäöüß]/gi, "").length >= 4;
+  return [...before.filter(real), ...anchored, ...after.filter(real)];
 }
 
 async function main() {

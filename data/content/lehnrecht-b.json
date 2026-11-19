@@ -1,0 +1,339 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu Lehnrecht 28–54. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lehnrecht-28": {
+      "title": "Keine Teilung des Lehens durch den Sohn",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Sohn darf das Gut des Mannes nicht durch Auflassung teilen, außer es stammt von mehreren Herren", "Bei rechtswidriger Teilung folgt der kleinere Teil dem größeren"],
+      "significance": "Einheit des Lehens gegenüber dem Herrn.",
+      "keywords": ["Teilung", "Auflassung", "Sohn", "Oberherr"],
+      "synonyms": ["twien", "Lehnsteilung"],
+      "sections": {
+        "1": "Der Sohn darf auch das Gut des Mannes nicht durch Auflassung teilen, es sei denn, er hat es von mehr als einem Herrn. Lässt er es aber gegen das Recht auf, so folgt der kleinere Teil dem größeren.",
+        "2": "Lässt der Herr den kleineren Teil des Gutes seines Mannes auf, den dieser von ihm hat, so braucht der Mann ihn von niemandem zu empfangen außer vom oberen Herrn."
+      }
+    },
+    "lehnrecht-29": {
+      "title": "Mehrere Söhne des Herrn und des Mannes",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Mann empfängt sein Gut nur von einem der Söhne des Herrn", "Der Herr muss das Vatergut nur einem Kind verleihen; in der Kinderfrist wählen die Kinder, danach der Herr", "Der mündige Bruder muss für unmündige Brüder Verzicht geloben"],
+      "significance": "Lehnsfolge bei mehreren Erben auf beiden Seiten.",
+      "keywords": ["Söhne", "Erbfolge", "Wahl", "Jahresfrist", "Verzicht"],
+      "synonyms": ["kindere", "Lehnserbfolge"],
+      "sections": {
+        "1": "Der Mann braucht sein Gut auch nur von einem der Söhne des Herrn zu empfangen, auch wenn es ihnen allen verliehen ist; der obere Herr muss aber entscheiden, an welchen er ihn weist, wenn die beiden Herren sich darüber nicht einigen.",
+        "2": "Der Herr ist nicht verpflichtet, nach dem Tod des Vaters mehr als einem Kind dessen Gut zu verleihen. Innerhalb der Jahresfrist der Kinder steht es in ihrer Wahl, welchen der Herr belehnen soll. Läuft die Jahresfrist ab, so steht es in der Wahl des Herrn, welchen er belehnen will von denen, die es mit Recht von ihm gemutet haben.",
+        "3": "Verleiht der Herr das Gut einem Kind nach seinem Willen, nicht nach dem Recht, so schadet das den anderen nicht daran, ihr Gut zu empfangen.",
+        "4": "Welches der Kinder seine Jahresfrist versäumt, von dem ist der Herr frei, es sei denn, es entschuldigt sich mit Eid auf die Heiligen.",
+        "5": "Mutet der mündige Sohn eines Mannes das Gut bei seinem Herrn und hat er Brüder, die noch unmündig sind, so muss er dem Herrn geloben, dass seine Brüder auf das Gut verzichten, bevor dieser es ihm verleiht, damit sie den Herrn nicht deswegen belangen, wenn sie mündig werden. Brechen die Kinder das und fordern sie das Gut nach Lehnrecht, so soll der Herr sowohl sie als auch den belangen, der für den Verzicht gelobt hatte, und ihm sein Gut absprechen lassen, wenn er die Ansprache nicht abwendet."
+      }
+    },
+    "lehnrecht-30": {
+      "title": "Lehensverleihung und Auflassung schaden nicht bei Rückkehr",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer sein Lehen dem Herrn oder dessen Kind entziehen will, indem er es weiterverleiht oder auflässt,", "schadet niemandem, wenn er es zurücknimmt und bis zum Tod in Gewere behält"],
+      "significance": "Unwirksame Umgehungsgeschäfte.",
+      "keywords": ["Auflassung", "Weiterverleihung", "Gewere", "Umgehung"],
+      "synonyms": ["Scheingeschäft"],
+      "sections": {
+        "1": "Wer seinem Herrn oder dessen Kind oder jemandem, der darauf wartet, sein Lehen entziehen will, indem er es weiterverleiht oder auflässt, der schadet damit niemandem, wenn er es zurücknimmt und es bis zu seinem Tod in Gewere behält."
+      }
+    },
+    "lehnrecht-31": {
+      "title": "Leibgedinge der Ehefrau am Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Weist der Mann seiner Frau Gut mit Zustimmung mündiger Söhne zu, können weder Herr noch Kinder es brechen", "Die Zustimmung unmündiger Kinder können diese später brechen, der Herr nicht"],
+      "significance": "Witwenversorgung aus Lehngut.",
+      "keywords": ["Leibgedinge", "Ehefrau", "Zustimmung", "Söhne", "Witwe"],
+      "synonyms": ["lifghedinghe", "Wittum"],
+      "sections": {
+        "1": "Gibt ein Mann seiner Frau Gut mit Zustimmung seiner Söhne, die mündig sind, so können weder der Herr noch die Kinder das brechen, wenn sie dafür Zeugnis hat. Stimmen die Kinder aber in ihrer Unmündigkeit zu, so können sie es brechen, nicht aber der Herr."
+      }
+    },
+    "lehnrecht-32": {
+      "title": "Gesamthandslehen der Brüder",
+      "metaStatus": "draft",
+      "keyPoints": ["Brüder können ein Gut zur gesamten Hand empfangen und ohne Erlaubnis des Herrn teilen", "Nach der Teilung hat keiner Recht am Teil des anderen – außer mit Gedinge", "In ungeteilter Gemeinschaft tritt das Kind eines Verstorbenen an dessen Stelle; Verfügungen nur gemeinsam"],
+      "significance": "Gesamtbelehnung als Mittel des Familienzusammenhalts.",
+      "keywords": ["Gesamthand", "Brüder", "Teilung", "Gedinge", "Folge"],
+      "synonyms": ["ghesammede hant", "Gesamtbelehnung", "Ganerben"],
+      "sections": {
+        "1": "Man kann vielen Brüdern ein Gut verleihen, wenn sie es zur gesamten Hand empfangen und gleiche Gewere daran haben. Wollen sie sich aber hinsichtlich des Gutes trennen, so teilen sie es untereinander ohne Erlaubnis des Herrn, wie sie wollen. Haben sie aber geteilt, so hat keiner Recht am Gut des anderen, wenn einer stirbt, es sei denn, ihm ist das Gedinge daran gesondert verliehen.",
+        "2": "Solange sie es gemeinsam haben und einer von ihnen stirbt, tritt sein Kind an die Stelle des Vaters und behält das Gut mit den Vettern, wie es sein Vater hatte.",
+        "3": "Solange die gemeinsam Belehnten ein Gut zusammen haben, kann keiner ohne den anderen einen Teil davon verleihen oder auflassen, wodurch er es dem anderen entzöge; denn woran der Mann keinen Teil empfangen hat, davon kann er auch keinen Teil verleihen oder auflassen. Was er aber davon verleiht oder auflässt, kann er selbst nicht brechen, sondern nur einer, der es mit ihm gemeinsam hat.",
+        "4": "Sind mehrere Leute mit einem Gut belehnt und ist es unter ihnen ungeteilt, so kann keiner von ihnen an einen anderen Herrn folgen, wenn ihr Herr stirbt, außer einer von ihnen."
+      }
+    },
+    "lehnrecht-33": {
+      "title": "Gewährschaft des Herrn für verliehenes Gut",
+      "metaStatus": "draft",
+      "keyPoints": ["Verleiht der Herr mutwillig Gut, das er nicht gewährleisten kann, muss er es ersetzen", "Wird er durch Lehnrecht zur Verleihung gezwungen und unterliegt dann, schuldet er keinen Ersatz", "Voraussetzung: der Mann hat sich nicht selbst versäumt"],
+      "significance": "Haftung des Lehnsherrn für Rechtsmängel.",
+      "keywords": ["Gewährschaft", "Ersatz", "Haftung", "Rechtsmangel"],
+      "synonyms": ["were", "werescap", "Eviktion"],
+      "sections": {
+        "1": "Was ein Herr aus freiem Willen seinem Mann verleiht, wofür er ihm keine Gewähr leisten kann, das soll er ihm ersetzen, sofern sich der Mann in seiner Jahresfrist nicht versäumt; das heißt, er muss sich des verliehenen Gutes bemächtigen und es, wenn jemand es ihm nimmt, binnen seiner rechten Frist verfolgen. Tut er das nicht, so ersetzt ihm der Herr das Gut nicht.",
+        "2": "Wird aber der Herr durch Lehnrecht gezwungen, Gut zu verleihen, und wird ihm dann mit Recht abgesprochen, dass er für seinen Mann an dem Gut Gewähr leisten könne, so braucht er dem Mann nichts zu ersetzen.",
+        "3": "Sagt aber der Herr, er wolle dem Mann Gewähr leisten, und heißt er ihn das Gut angreifen, und kann er ihm dann keine Gewähr leisten, so soll er es ihm ersetzen, es sei denn, der Mann hat sich selbst daran versäumt, so dass ihm die Gewere binnen seiner Jahresfrist ohne rechten Widerspruch entzogen wurde."
+      }
+    },
+    "lehnrecht-34": {
+      "title": "Belehnte Frauen und Heersteuer",
+      "metaStatus": "draft",
+      "keyPoints": ["Belehnte Frauen und Mädchen müssen keine Heerfahrt leisten", "Sie zahlen aber die festgesetzte Heersteuer", "Im Lehnrecht sind sie von Fristversäumnissen frei"],
+      "significance": "Frauen als Lehnsinhaberinnen ohne Kriegsdienst.",
+      "keywords": ["Frauen", "Heersteuer", "Heerfahrt", "Frauenlehen"],
+      "synonyms": ["heresture", "wif", "maghet"],
+      "sections": {
+        "1": "Belehnte Frauen oder Mädchen sind nicht verpflichtet, Heerfahrt zu leisten, sie sollen aber Heersteuer nach festgesetztem Recht geben; von Fristen (Gefahr der Versäumnis) sollen sie im Lehnrecht frei sein."
+      }
+    },
+    "lehnrecht-35": {
+      "title": "Belehnung der Kinder zu Lebzeiten des Vaters",
+      "metaStatus": "draft",
+      "keyPoints": ["Hat der Vater das Gut bis zum Tod allein in Gewere, müssen die Kinder binnen der Frist die Anerkennung begehren", "Ohne Gewere können sie nur mit Gedingerecht bezeugen – daher sollen sie Mannschaft anbieten", "Hatten Vater und Kinder gemeinsame Gewere, behalten die Kinder durch Zeugnis"],
+      "significance": "Unterschied zwischen bloßer Anwartschaft und gemeinsamer Gewere.",
+      "keywords": ["Kinder", "Gewere", "Gedinge", "Anerkennung", "Mitbelehnung"],
+      "synonyms": ["bekennen", "Mitbelehnung"],
+      "sections": {
+        "1": "Verleiht der Herr den Kindern das Gut ihres Vaters zu dessen Lebzeiten, und hat der Vater es allein bis zu seinem Tod in seiner Gewere, so sollen die Kinder nach dem Tod des Vaters zum Herrn kommen und bitten, dass er ihnen solches Gut anerkenne, wie er es ihnen verliehen hat. Das sollen sie binnen ihrer Jahresfrist begehren. Erkennt ihnen der Herr das Gut nicht an, so bieten sie an, es mit Zeugnis zu behaupten. Dieses Zeugnis kann der Herr leicht abweisen, da sie der Gewere entbehren, es sei denn, sie bezeugen die Belehnung nach Gedingerecht. Darum ist es für die Kinder gut, dass sie für das Gut ihres Vaters dem Herrn Mannschaft anbieten, denn ohne Gewere können sie daran kein Lehen beweisen, wenn der Herr es ihnen nicht anerkennt.",
+        "2": "Wo aber Vater und Kinder eine gemeinsame und gleiche Gewere an dem Gut haben, behalten die Kinder nach dem Tod des Vaters das Gut, wenn sie die Belehnung in der Jahresfrist gegen den Herrn bezeugen."
+      }
+    },
+    "lehnrecht-36": {
+      "title": "Bedingte Auflassung",
+      "metaStatus": "draft",
+      "keyPoints": ["Lässt ein Mann Gut auf, damit der Herr es einem anderen verleihe,", "darf der Herr es nicht selbst behalten"],
+      "significance": "Zweckgebundene Auflassung.",
+      "keywords": ["Auflassung", "Bedingung", "Weiterverleihung"],
+      "synonyms": ["uplaten", "Resignation"],
+      "sections": {
+        "1": "Lässt ein Mann seinem Herrn Gut unter der Bedingung auf, dass er es einem anderen verleihe, und will der Herr es selbst behalten und niemandem verleihen, so hat er kein Recht dazu; denn es ist ihm nicht aufgelassen, sondern um es jenem zu verleihen."
+      }
+    },
+    "lehnrecht-37": {
+      "title": "Auflassung an den Sohn; falsche Rechtsbehauptung",
+      "metaStatus": "draft",
+      "keyPoints": ["Lässt der Vater dem Sohn Gut auf, hat der Sohn es nicht als Erbe", "Wer sein Erbe auflässt und neu empfängt, hat kein Erbrecht mehr daran", "Wer ein höheres Recht behauptet und es nicht beweist, verliert alles"],
+      "significance": "Erbe und Erwerb unter Lebenden werden unterschieden.",
+      "keywords": ["Erbe", "Auflassung", "Sohn", "Gewere", "Beweislast"],
+      "synonyms": ["eruelen", "Erbgut"],
+      "sections": {
+        "1": "Lässt der Vater dem Sohn Gut vom Herrn her auf, so hat der Sohn daran kein Erbe, obwohl es seinem Vater gehörte, weil es nicht auf ihn vererbt ist.",
+        "2": "Wer sein Erbe auflässt und es erneut empfängt, hat daran kein Erbe. Wer sich auch ein anderes Recht an einem Gut zuschreibt, als er daran hat, und dieses Recht nicht beweist, der hat alles Recht an dem Gut verloren.",
+        "3": "Wer die rechte Gewere an einem Gut hat, der behält es mit mehr Recht als derjenige, der der rechten Gewere entbehrt."
+      }
+    },
+    "lehnrecht-38": {
+      "title": "Auflassung an den Oberherrn ohne Wissen des Herrn",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Afterlehen dem Oberherrn auflässt, schadet dem unwissenden Zwischenherrn nicht", "Der Zwischenherr schwört Unkenntnis und klagt; wer die erste Lehnsgewere mit sechs Mannen bezeugt, behält", "Zeuge der Lehnsgewere kann nur ein Belehnter des Herrn sein"],
+      "significance": "Schutz des Zwischenherrn in der Lehnskette.",
+      "keywords": ["Oberherr", "Auflassung", "Zwischenherr", "Lehnsgewere", "Zeugnis"],
+      "synonyms": ["ouere herre", "Afterlehen"],
+      "sections": {
+        "1": "Wer dem oberen Herrn solches Gut auflässt, wie er es vom niederen Herrn hat, und es selbst wieder zu Lehen empfängt oder ein anderer, und besitzt er es Jahr und Tag ohne rechten Widerspruch, und weiß der nichts davon, dem das Gut gehört, so verliert dieser dabei nichts, wenn er binnen seiner Jahresfrist schwört, er habe nicht gewusst, dass sein Mann das Gut aufgelassen hatte. Ergreift er es mit Klage, sobald er davon erfährt, so behält das Gut derjenige von beiden, der gegen den oberen Herrn die erste Lehnsgewere mit sechs Mannen bezeugen kann, die er vom oberen Herrn hat.",
+        "2": "Kann aber der Mann bezeugen, dass dem Herrn sein Gut nach Lehnrecht abgesprochen wurde oder er es aufgelassen hat, so ist das Zeugnis des Herrn abgewiesen. Auch wenn der Mann das Gut in Gewere hat, ist es darum dem Herrn als Lehnsgewere nicht entzogen.",
+        "3": "Zeuge der Lehnsgewere kann nur sein, wer vom Herrn belehnt ist. Für gewöhnliche Gewere ist jeder unbescholtene Mann in seinem Recht Zeuge.",
+        "4": "Man soll niemanden aus seiner Gewere weisen, sie sei ihm denn mit Recht abgewonnen."
+      }
+    },
+    "lehnrecht-39": {
+      "title": "Verlust der Gewere; erzwungene Auflassung",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer sein Gut durch Urteil verliert oder auflässt, verliert die Gewere", "Erzwungene Auflassung ist unschädlich, wenn der Mann binnen Jahresfrist klagt und obsiegt", "„In Willen und Worten ist kein Zwang, wenn die Tat nicht folgt“"],
+      "significance": "Grenzen der Wirksamkeit unfreiwilliger Auflassung.",
+      "keywords": ["Gewere", "Zwang", "Auflassung", "Untreue", "Unschuldseid"],
+      "synonyms": ["dwanc", "Nötigung"],
+      "sections": {
+        "1": "Wem sein Gut nach Lehnrecht abgesprochen wird oder wer es auflässt, der soll der Gewere entbehren. Doch kann der Mann in der Jahresfrist gegenüber seinem Herrn bestreiten, dass er ihm irgendein Gut aufgelassen habe, und dafür seinen Unschuldseid leisten. Verleiht aber der Herr das Gut einem anderen in Gegenwart dessen, der es aufgelassen hat, ohne dessen rechten Widerspruch, so kann dieser dafür keinen Unschuldseid mehr leisten.",
+        "2": "Zwingt der Herr seinen Mann untreu dazu, ihm sein Gut aufzulassen, so bleibt der Mann ohne Schaden, wenn er den Herrn binnen seiner Jahresfrist wegen der Gewalt verklagt und ihn darin mit Recht überführt. In Willen und Worten aber ist kein Zwang, wenn die Tat nicht folgt.",
+        "3": "Lässt ein Mann einem anderen vor seinem Herrn Gut auf, so hat dieser sofort die Gewere des Gutes, die dem ersten Mann gehörte, der es aufließ.",
+        "4": "Ein Mann kann seinen Hausgenossen (Lehnsgenossen) in mancher Sache leichter durch Zeugnis überführen als der Herr den Mann."
+      }
+    },
+    "lehnrecht-40": {
+      "title": "Streit um die Gewere: Dorfzeugnis und Gottesurteil",
+      "metaStatus": "draft",
+      "keyPoints": ["Sprechen zwei gleichrangig ein Gut an, befragt man Bauern und Nachbarn im Dorf", "Ist keine Klärung möglich, schwören beide – dann Teilung oder Wasserurteil", "Gottesurteil nur, wo die Wahrheit nicht anders zu ermitteln ist"],
+      "significance": "Gottesurteil als subsidiäres Beweismittel.",
+      "keywords": ["Gewere", "Nachbarn", "Dorfzeugnis", "Gottesurteil", "Wasserprobe"],
+      "synonyms": ["godes ordel", "water ordel", "Ordal"],
+      "sections": {
+        "1": "Sprechen zwei ein Gut gleichermaßen an und bieten gleiches Zeugnis an, um die Gewere zu behaupten, und hat keiner es vom anderen, so soll man beide in das Dorf verweisen, wo das Gut liegt, um die Gewere zu behaupten, und die Bauern und Nachbarn nach der Gewere fragen. Wer von beiden die größere Zahl als Zeugnis für das Gut hat, der behält die Gewere. Dieses Zeugnis soll der Herr anhören oder zwei seiner Mannen dorthin senden, die bei ihrer Huld für ihn bezeugen, wer von beiden die Gewere behauptet hat.",
+        "2": "Welche Gewere man wegen der Uneinigkeit der Nachbarn oder ihrer Unkenntnis nicht entscheiden kann, da soll man die Streitparteien schwören lassen, dass sie es nach Recht als ihr Lehen ausweisen. Wo beide es sich zusprechen und gleichermaßen auf die Heiligen beschwören, soll man es ihnen gleich teilen oder sie mit dem Wasserurteil scheiden.",
+        "3": "Ein Gottesurteil darf man nur dort vollziehen, wo man mit keinem Wissen sonst zur Wahrheit kommen kann."
+      }
+    },
+    "lehnrecht-41": {
+      "title": "Zeugnis von Herr und Mann über die Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Behaupten Herr und Mann beide die Gewere eines Gutes, geht das Zeugnis des Mannes vor"],
+      "significance": "Beweisvorrang des besitzenden Vasallen.",
+      "keywords": ["Gewere", "Zeugnis", "Beweisvorrang"],
+      "synonyms": ["were", "Besitzschutz"],
+      "sections": {
+        "1": "Sprechen Herr und Mann sich die Gewere eines Gutes zu und bieten beide an, es zu bezeugen, so geht das Zeugnis des Mannes vor, weil er dem Herrn das Gut nicht abspricht, auch wenn er es von ihm zu Lehen hat."
+      }
+    },
+    "lehnrecht-42": {
+      "title": "Vorwurf der Fristversäumnis",
+      "metaStatus": "draft",
+      "keyPoints": ["Wirft der Herr dem Mann Versäumnis beim Muten vor, entlastet sich der Mann mit Unschuldseid", "Es sei denn, der Herr bezeugt mit sechs Mannen ein Urteil nach Ablauf der Frist", "Beweist der Mann rechtzeitiges Muten, ist das Zeugnis des Herrn abgewiesen"],
+      "significance": "Beweislast bei behaupteter Verschweigung.",
+      "keywords": ["Mutung", "Jahresfrist", "Versäumnis", "Unschuldseid", "Zeugnis"],
+      "synonyms": ["uoriaren", "Verjährung", "Verschweigung"],
+      "sections": {
+        "1": "Beschuldigt der Herr den Mann, er habe sein Gut beim Muten oder beim Herausziehen verjähren lassen, so behält es der Mann mit seinem Unschuldseid, es sei denn, der Herr kann bezeugen, dass ihm nach der Jahresfrist vor seinen Mannen jeder Anspruch auf das Gut abgesprochen wurde. Das soll er mit sechs Mannen tun.",
+        "2": "Sagt der Herr, er habe seinem Mann jeden Anspruch auf das Gut absprechen lassen, und sagt der Mann, er habe es binnen seiner Jahresfrist gemutet oder herausgezogen, und kann der Mann das beweisen, so weist er das Zeugnis des Herrn mit seinem Zeugnis ab."
+      }
+    },
+    "lehnrecht-43": {
+      "title": "Absprechen auf Klage eines Dritten",
+      "metaStatus": "draft",
+      "keyPoints": ["Spricht der Herr das Gut auf Klage eines anderen ab, weist er den Kläger in die Gewere", "Der Verlierer kann binnen seiner Jahresfrist das Gut herausziehen; Ladung vierzehn Nächte vorher", "Bleibt der Kläger aus, wird der Beklagte frei gesprochen"],
+      "significance": "Verfahren um konkurrierende Ansprüche Dritter.",
+      "keywords": ["Klage", "Gewere", "Ladung", "Herausziehen", "echte Not"],
+      "synonyms": ["utten", "Lehnsprozess"],
+      "sections": {
+        "1": "Spricht der Herr seinem Mann Gut auf die Klage eines anderen Mannes hin ab, so soll der Herr den Kläger in die Gewere des Gutes weisen, die vorher dem gehörte, dem es abgesprochen ist.",
+        "2": "Doch hat jener seine Jahresfrist, sein Gut herauszuziehen. Zieht er es heraus, so soll der Herr ihm vor seinen Mannen einen Gerichtstag setzen und diesen dem Kläger vierzehn Nächte vorher ankündigen. Kommt jener und der Kläger nicht, so spricht man ihn frei, es sei denn, echte Not hindert den Kläger; wird diese nachgewiesen, so verliert er nichts."
+      }
+    },
+    "lehnrecht-44": {
+      "title": "Tod während der Frist zum Herausziehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Stirbt der Mann in der Frist zum Herausziehen, vererbt er das Recht auf den Sohn", "Freies Gut kann er erst nach dem Herausziehen weiterverleihen", "Mit jedem Herrenwechsel erneuert sich die Jahresfrist"],
+      "significance": "Fortbestand und Neubeginn der Fristen.",
+      "keywords": ["Jahresfrist", "Herausziehen", "Sohn", "Herrenwechsel"],
+      "synonyms": ["iartale", "utten"],
+      "sections": {
+        "1": "Stirbt der Mann in der Jahresfrist, in der er sein Gut herausziehen soll, so vererbt er das auf den Sohn und folgt einem anderen Herrn, wenn sein Herr stirbt oder es aufgelassen oder verkauft oder ihm abgesprochen hat. Er kann aber freies Gut nicht weiterverleihen, bevor er es gegen den Herrn herausgezogen hat.",
+        "2": "Kommt es aber an einen anderen Herrn, so braucht der Mann es nicht gegen diesen herauszuziehen, er soll ihm aber nach Lehnrecht folgen. Der Sohn braucht an Stelle des Vaters sein Gut nicht gegen den Herrn herauszuziehen, wenn der Vater stirbt.",
+        "3": "So oft das Lehen eines Mannes an einen anderen Herrn kommt, so oft erneuert sich seine Jahresfrist."
+      }
+    },
+    "lehnrecht-45": {
+      "title": "Verfügungen während des Verfahrens",
+      "metaStatus": "draft",
+      "keyPoints": ["Während Verfahren des Herrn kann der Mann Gut verleihen und vererben", "Der Sohn haftet nur für Gut, um das der Vater verklagt war, oder für darauf erkannte Gewette", "Wird Gut in seiner Gegenwart ohne Widerspruch abgesprochen, kann er es nicht mehr herausziehen"],
+      "significance": "Wirkung anhängiger Verfahren auf Verfügungen.",
+      "keywords": ["Verfahren", "Gewette", "Sohn", "Widerspruch", "Herausziehen"],
+      "synonyms": ["deghedinghe", "Rechtshängigkeit"],
+      "sections": {
+        "1": "Während der Verfahren des Herrn kann der Mann Gut verleihen und sein Gut auf seinen Sohn vererben.",
+        "2": "Der Sohn antwortet dem Herrn nicht an Stelle des Vaters, es sei denn, er hat Gut, um dessentwillen sein Vater verklagt war, oder dem Herrn ist ein Gewette auf sein Gut zuerkannt; das muss er an Stelle des Vaters zahlen oder sich nach Recht davon befreien.",
+        "3": "Spricht der Mann den Herrn um Lehen an, das er nicht in Gewere hat, und verhandelt der Herr darüber vor seinen Mannen, so kann der Mann während dieses Verfahrens das Gut nicht verleihen.",
+        "4": "Wem man sein Gut in seiner Gegenwart ohne rechten Widerspruch abspricht, der kann es nicht mehr herausziehen."
+      }
+    },
+    "lehnrecht-46": {
+      "title": "Drei Sachen, die der Herr bezeugen kann; mehrere Herren",
+      "metaStatus": "draft",
+      "keyPoints": ["Nur in drei Sachen kann der Herr gegen den Mann Zeugnis führen: Handlungen im Lehngericht, Gebot des Reichsdienstes, persönliche Ladung", "Mit zwei Mannen, die es gehört und gesehen haben", "Bei mehreren Herren dient der Mann dem ersten Gebieter und zahlt den anderen Heersteuer"],
+      "significance": "Begrenzte Beweismacht des Herrn.",
+      "keywords": ["Zeugnis", "Reichsdienst", "Heersteuer", "mehrere Herren", "Ladung"],
+      "synonyms": ["heresture", "ghetuch"],
+      "sections": {
+        "1": "Nur in drei Sachen kann der Herr gegen den Mann Zeugnis führen. Was der Mann im Lehngericht spricht, tut oder gelobt – will er es leugnen, so kann der Herr es ihm wohl bezeugen. Ist dem Mann der Reichsdienst mit Urteilen geboten und hat der Herr dafür Zeugen unter seinen Mannen, die es hörten, so kann er es ihm wohl bezeugen. Lädt der Herr auch seinen Mann selbst von Mund zu Mund mit Urteilen nach Lehnrecht – diese drei Sachen kann der Herr mit zwei seiner Mannen, die es hörten und sahen, leichter bezeugen, als der Mann sich davon reinigen kann.",
+        "2": "Hat der Mann zwei oder mehr Herren, die ihm alle den Reichsdienst mit Urteilen gebieten, so soll er mit dem fahren, der es ihm zuerst gebot, und allen anderen Heersteuer geben: den zehnten Schilling oder das zehnte Pfund dessen, was er jährlich von ihnen hat.",
+        "3": "Kein Herr darf seinem Mann den Reichsdienst gebieten, wenn er ihm nicht zuvor mit Urteilen geboten worden ist."
+      }
+    },
+    "lehnrecht-47": {
+      "title": "Zeugen beim Herrenwechsel",
+      "metaStatus": "draft",
+      "keyPoints": ["Folgt der Mann seinem Gut an einen anderen Herrn, beweist er es mit den Mannen des ersten Herrn", "Diese werden bei ihrer Huld befragt und nicht vereidigt – außer der neue Herr misstraut ihrer Huldigung", "Fehlen sie, treten die Lehnsgenossen des neuen Herrn ein"],
+      "significance": "Beweissicherung bei Lehnsübergang.",
+      "keywords": ["Herrenwechsel", "Zeugen", "Huld", "Lehnsgenossen"],
+      "synonyms": ["husghenoten", "Lehnsgenossen"],
+      "sections": {
+        "1": "Folgt ein Mann seinem Gut an einen anderen Herrn, nicht an den Sohn seines Herrn, und erkennt ihm dieser Herr das Gut nicht an, so soll der Mann es mit den Mannen des ersten Herrn behaupten. Diese soll man bei der Huld des ersten Herrn befragen und sie nicht vereidigen; nur wenn er nicht glaubt, dass sie ihrem Herrn gehuldigt haben, müssen sie das beschwören, bevor sie zeugen, oder das Zeugnis auf die Heiligen beteuern. Von diesen Zeugen braucht der Herr keinen pflichtgemäß zum Gerichtstag zu bringen, es sei denn, er ist ebenfalls sein Mann.",
+        "2": "Wem diese Mannen fehlen und wer doch so hoch zum Heerschild geboren ist, dass er Lehnrecht üben kann, der nutzt die Hausgenossen (Lehnsgenossen) des Herrn an Stelle jener Mannen, wo er sie braucht – die dort Mannen sind, wohin sein Gut gehört."
+      }
+    },
+    "lehnrecht-48": {
+      "title": "Auflassung durch den Herrn ohne Wissen des Mannes",
+      "metaStatus": "draft",
+      "keyPoints": ["Lässt der Herr das Gut des Mannes ohne dessen Wissen auf, folgt der Mann binnen seiner Jahresfrist", "Die Frist beginnt mit der Mitteilung oder Anforderung durch den neuen Belehnten", "Der Mann mahnt den Herrn, binnen sechs Wochen Gewähr zu leisten; sonst folgt er dem Oberherrn"],
+      "significance": "Vasallenschutz bei Verfügungen des Herrn.",
+      "keywords": ["Auflassung", "Jahresfrist", "Oberherr", "sechs Wochen", "Gewährschaft"],
+      "synonyms": ["uplaten", "werescap"],
+      "sections": {
+        "1": "Lässt ein Herr das Gut seines Mannes ohne dessen Wissen seinem Herrn auf und ist es dann einem anderen verliehen, so folge der Mann binnen seiner Jahresfrist seinem Gut. Die Jahresfrist des Mannes beginnt, wenn ihm sein Herr vor seinen Mannen ankündigt, dass er das Gut aufgelassen habe, oder wenn ihm der, dem es verliehen ist, es abfordert oder sich des Gutes bemächtigt und ihm das mit Boten des Herrn nachgewiesen wird.",
+        "2": "Der Mann soll das Gut seines Herrn nicht beim oberen Herrn muten, bevor er nicht das Wort seines Herrn gehört hat, dass er es aufgelassen habe oder sich daran versäumt habe. Erkennt der Herr das nicht an, so mahne ihn der Mann vor seinen Mannen mit Urteilen, dass er sein Gut binnen rechter Frist vertrete – das ist binnen sechs Wochen – und dafür Gewähr leiste. Weigert sich der Herr zu Unrecht und hat der Mann dafür Zeugnis, so folge er seinem Gut und bleibe ohne Schaden, auch wenn sein Herr es danach behält."
+      }
+    },
+    "lehnrecht-49": {
+      "title": "Klage beim Oberherrn; mehrere Anwartschaften",
+      "metaStatus": "draft",
+      "keyPoints": ["Nimmt der Herr Gut, verweigert Lehnrecht oder Gewährschaft, klagt der Mann beim Oberherrn", "Der Oberherr gebietet dem Herrn Recht zu tun; sonst belehnt er selbst", "Bei mehreren allgemeinen Anwartschaften hat der zuerst Belehnte Vorrang"],
+      "significance": "Rechtsschutz durch den Oberherrn.",
+      "keywords": ["Oberherr", "Rechtsverweigerung", "Klage", "Anwartschaft", "Priorität"],
+      "synonyms": ["ouere herre", "Lehnsappellation"],
+      "sections": {
+        "1": "Nimmt ein Herr seinem Mann Gut oder verweigert er ihm das Lehnrecht oder entzieht er ihm die Gewährschaft, die er ihm leisten soll, so klage das der Mann seinem oberen Herrn vor dessen Mannen. Dieser soll ihm mit Urteilen gebieten, selbst oder durch seinen Boten, so dass es zwei seiner Mannen hören, dass er Recht tue und für das Gut rechte Gewähr leiste. Tut er das nicht, so belehnt ihn der obere Herr und leistet ihm Gewähr, wenn der Mann es nach Lehnrecht bezeugt.",
+        "2": "Verleiht ein Herr zwei oder drei Mannen Gut, wo es ihm zuerst frei wird, so soll der, der zuerst belehnt wurde, das erste Gut bekommen, das ihm frei wird."
+      }
+    },
+    "lehnrecht-50": {
+      "title": "Abwesenheit von Herr und Mann; Fristbeginn",
+      "metaStatus": "draft",
+      "keyPoints": ["Ist der Herr außer Landes, beginnt die Frist erst mit seiner Rückkehr", "Verweigert der Herr zu Unrecht, wird seine eigene Frist verkürzt", "Verschanzt sich der Herr, schadet es dem Mann nicht; Frist bei Tod in der Fremde ab Kenntnis"],
+      "significance": "Fristhemmung bei Unerreichbarkeit.",
+      "keywords": ["Jahresfrist", "Abwesenheit", "Burg", "Tod", "Kenntnis"],
+      "synonyms": ["iartale", "Fristhemmung"],
+      "sections": {
+        "1": "Fährt der Herr binnen der Jahresfrist des Mannes, in der dieser sein Gut empfangen soll, außer Landes, so schadet das dem Mann an seinem Recht nicht. Wenn aber der Herr zurückkommt, beginnt die Jahresfrist des Mannes. Sieht aber der Mann den Herrn innerhalb der Frist, nachdem dieser zurückgekommen ist, bei Hof, im Haus oder vor Gericht und empfängt sein Gut nicht von ihm, so versäumt er sich an seinem Gut. Fährt auch der Mann binnen seiner Jahresfrist außer Landes, so verlängert er damit seine Frist nicht.",
+        "2": "So wie der Mann seine Jahresfrist verlängert, wenn er sein Gut mutet und der Herr es ihm zu Unrecht verweigert, so wird die Frist des Herrn verkürzt, wenn er ihm das Gut anbietet.",
+        "3": "Verbirgt sich der Herr oder schließt er sich auf einer Burg ein, so dass der Mann nicht zu ihm kommen kann, so schadet das dem Mann an seinem Recht nicht, wenn er Zeugnis hat, dass er seinen Herrn bei Hof und Haus aufsuchte, wo dessen Ein- und Ausfahrt ist, und Mannschaft für sein Gut anbot oder es nach Recht herauszog.",
+        "4": "Stirbt ein Mann übers Meer oder anderswo, so beginnt die Jahresfrist seiner Kinder, ihr Gut zu empfangen, sobald sie zuerst von seinem Tod erfahren. Stirbt aber der Herr eines Mannes ohne dessen Wissen, so beginnt die Jahresfrist der Mannen, ihr Gut zu empfangen, sobald sie zuerst von seinem Tod erfahren."
+      }
+    },
+    "lehnrecht-51": {
+      "title": "Abschwören von Gewetten",
+      "metaStatus": "draft",
+      "keyPoints": ["In rechter Jahresfrist kann der Mann alle in Abwesenheit erkannten Gewette mit Eid abwehren", "Es sei denn, der Herr behauptet sie mit Zeugnis"],
+      "significance": "Schutz vor Versäumnisurteilen.",
+      "keywords": ["Gewette", "Eid", "Abwesenheit", "Jahresfrist"],
+      "synonyms": ["ghewedde", "Bußgeld"],
+      "sections": {
+        "1": "In rechter Jahresfrist kann der Mann alle Gewette, die ohne seine Anwesenheit gegen ihn erkannt sind, gegenüber dem Herrn auf die Heiligen abschwören, es sei denn, der Herr behauptet sie mit Zeugnis, wie hier zuvor gesagt ist."
+      }
+    },
+    "lehnrecht-52": {
+      "title": "Bürgenstellung bei Klage ohne Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Gut ohne Gewere anspricht, muss dem Herrn Bürgen für Gewette und Buße stellen", "Hat er Gewere, ist diese sein Bürge"],
+      "significance": "Sicherheitsleistung im Lehnsprozess.",
+      "keywords": ["Bürge", "Gewette", "Buße", "Gewere", "Sicherheit"],
+      "synonyms": ["borghe", "Kaution"],
+      "sections": {
+        "1": "Spricht ein Mann Gut an, das der Herr besetzt hält, und entbehrt der Mann der Gewere daran, so muss er dem Herrn Bürgen für sein Gewette und die Buße der Mannen stellen, falls er sie verwirkt, die ihm der Herr nach Lehnrecht zuspricht – sofern er vom Herrn kein anderes Gut hat als das, was er ohne Gewere anspricht. Wo er aber die Gewere hat, soll seine Gewere sein Bürge sein, wenn er sie gegen den Herrn mit Zeugnis behauptet."
+      }
+    },
+    "lehnrecht-53": {
+      "title": "Weiterverleihung bricht nicht die erste Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Verleiht der Herr das Gut eines Mannes einem anderen, verliert der erste nicht seine Lehnsgewere", "Außer der Herr bezeugt ein Urteil, das die Gewere gebrochen hat", "Der Herr kann nur verleihen und gewährleisten, was er selbst in Gewere hat"],
+      "significance": "Nemo plus iuris – niemand kann mehr verleihen, als er hat.",
+      "keywords": ["Gewere", "Doppelverleihung", "Gewährschaft"],
+      "synonyms": ["were", "Doppelbelehnung"],
+      "sections": {
+        "1": "Verleiht der Herr das Gut seines Mannes einem anderen und gelobt er ihm mit Finger und Zunge, sein Gewährsmann zu sein, so soll der erste darum der ersten Lehnsgewere nicht entbehren, es sei denn, der Herr kann bezeugen, dass er ihm die Gewere nach Lehnrecht abgesprochen und gebrochen hat. Der Herr kann niemandem Gut verleihen und ihm dafür Gewähr leisten, wenn er es nicht selbst in Gewere hat."
+      }
+    },
+    "lehnrecht-54": {
+      "title": "Erniedrigung des Heerschilds",
+      "metaStatus": "draft",
+      "keyPoints": ["Erniedrigt ein Herr seinen Schild durch Mannschaft, verliert er die Lehen seiner Mannen", "Die Mannen empfangen dann vom Oberherrn oder werden an einen Ebenbürtigen ihres Herrn gewiesen", "Mannschaft gegenüber einem Gleichrangigen wegen Totschlagsühne erniedrigt nicht"],
+      "significance": "Rangverlust und seine Folgen für den Lehnsverband.",
+      "keywords": ["Heerschild", "Erniedrigung", "Mannschaft", "Oberherr", "Totschlag"],
+      "synonyms": ["schilt nederen", "Rangminderung"],
+      "sections": {
+        "1": "Wenn der Herr seinen Schild durch Mannschaft erniedrigt, hat er die Lehen all seiner Mannen verloren, soweit es nicht sein Eigen ist, und die Mannen sollen ihr Gut vom oberen Herrn empfangen, oder er soll sie an einen Ebenbürtigen ihres Herrn weisen. Ebenso tue der Mann, wenn sein Herr sein Gut erniedrigt und es von einem anderen Herrn empfängt als von dem, von dem er es vorher hatte.",
+        "2": "Doch ist der Heerschild eines Mannes nicht erniedrigt, wenn er Mann seines Ebenbürtigen wird und das Gut von ihm wegen eines Totschlags (als Sühne) empfängt, sofern die Mannschaft nicht vererbt wird."
+      }
+    }
+  }
+}

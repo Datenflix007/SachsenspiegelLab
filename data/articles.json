@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T21:50:14.820Z",
+ "generatedAt": "2026-11-19T22:07:34.347Z",
  "books": [
   {
    "id": "lr-i",
@@ -31,13 +31,13 @@
    "short": "Lehnrecht",
    "part": "lehnrecht",
    "count": 80,
-   "released": false
+   "released": true
   }
  ],
  "counts": {
   "verified": 0,
-  "draft": 233,
-  "missing": 82
+  "draft": 313,
+  "missing": 2
  },
  "articles": [
   {
@@ -10062,16 +10062,36 @@
    "part": "lehnrecht",
    "article": 1,
    "label": "Lehnrecht 1",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Heerschildordnung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Heerschild beginnt beim König und endet im siebenten",
+    "Die Laienfürsten haben den sechsten Schild in den siebenten gebracht, seit sie Lehnsleute der Bischöfe wurden"
+   ],
+   "significance": "Eröffnung des Lehnrechts mit der Rangordnung des Lehnsverbands (vgl. LR I 3).",
+   "keywords": [
+    "Heerschild",
+    "König",
+    "Laienfürsten",
+    "Bischöfe",
+    "Rangordnung"
+   ],
+   "synonyms": [
+    "herschilt",
+    "Heerschildordnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 121,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0121",
+     "label": "57r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-2",
@@ -10080,16 +10100,46 @@
    "part": "lehnrecht",
    "article": 2,
    "label": "Lehnrecht 2",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Lehnsunfähige und ihre Lehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Priester, Kaufleute, Bauern, Frauen, Rechtlose, unehelich Geborene und Nicht-Ritterbürtige haben kein Lehnrecht",
+    "Erhalten sie dennoch Lehen, gilt Lehnrecht nur gegenüber diesem Herrn, ohne Vererbung und Folge",
+    "Zeugnis und Urteil des Lehnsfähigen gehen vor; Burglehen und Kirchenlehen dürfen auch Priester und Frauen verleihen"
+   ],
+   "significance": "Lehnsfähigkeit ist an Stand und Geburt gebunden.",
+   "keywords": [
+    "Lehnsfähigkeit",
+    "Heerschild",
+    "Priester",
+    "Frauen",
+    "Bauern",
+    "Kaufleute",
+    "Folge"
+   ],
+   "synonyms": [
+    "lenrechtes daruen",
+    "Ritterbürtigkeit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 7,
+   "pages": [
+    {
+     "pageNumber": 121,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0121",
+     "label": "57r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 122,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0122",
+     "label": "57v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-3",
@@ -10098,16 +10148,37 @@
    "part": "lehnrecht",
    "article": 3,
    "label": "Lehnrecht 3",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Huldigung und Ehrerbietung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Mann muss seinem Herrn huldigen und schwören, treu und hold zu sein",
+    "Ohne Huldigung ist er im Lehnrecht nicht zeugnisfähig",
+    "Er soll den Herrn in Wort und Tat ehren, vor ihm aufstehen und ihn vorangehen lassen"
+   ],
+   "significance": "Grundformel der Lehnstreue.",
+   "keywords": [
+    "Huldigung",
+    "Treueid",
+    "Lehnstreue",
+    "Ehrerbietung"
+   ],
+   "synonyms": [
+    "hulde",
+    "truwe unde holt",
+    "Treue"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 122,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0122",
+     "label": "57v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-4",
@@ -10116,16 +10187,54 @@
    "part": "lehnrecht",
    "article": 4,
    "label": "Lehnrecht 4",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Reichsdienst und Romfahrt",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Reichsdienst nach sechswöchiger Ankündigung innerhalb deutscher Zunge; östlich der Saale gegen Wenden, Böhmen, Polen",
+    "Zur Romfahrt begleiten die sechs ersten Kurfürsten den König; Reichslehnsleute ziehen mit oder lösen sich mit dem zehnten Pfund",
+    "Kein Dienst, solange der Herr Schaden nicht ersetzt oder Recht verweigert"
+   ],
+   "significance": "Umfang und Grenzen der Heerfolgepflicht.",
+   "keywords": [
+    "Reichsdienst",
+    "Heerfahrt",
+    "Romfahrt",
+    "Kurfürsten",
+    "Saale",
+    "Wenden",
+    "Heersteuer"
+   ],
+   "synonyms": [
+    "hereuart",
+    "Heerfolge",
+    "Romzug"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 122,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0122",
+     "label": "57v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 123,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0123",
+     "label": "58r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 124,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0124",
+     "label": "58v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-5",
@@ -10134,16 +10243,38 @@
    "part": "lehnrecht",
    "article": 5,
    "label": "Lehnrecht 5",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gewere und Gedinge an einem Gut",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Herr kann ein Gut zwei Männern verleihen: dem einen die Gewere, dem anderen die Anwartschaft (Gedinge)",
+    "Am Gedinge gibt es keine Folge; Auflassung durch den Besitzer bricht das Gedinge",
+    "Beweis der Gewere mit Lehnsleuten des Herrn, des Gedinges mit Ohrenzeugen"
+   ],
+   "significance": "Grundbegriffe Gewere und Gedinge (Anwartschaft) im Lehnrecht.",
+   "keywords": [
+    "Gedinge",
+    "Anwartschaft",
+    "Gewere",
+    "Belehnung",
+    "Folge"
+   ],
+   "synonyms": [
+    "ghedinghe",
+    "Expektanz",
+    "Eventualbelehnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 124,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0124",
+     "label": "58v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-6",
@@ -10152,16 +10283,36 @@
    "part": "lehnrecht",
    "article": 6,
    "label": "Lehnrecht 6",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Vererbung der Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Vater vererbt dem Sohn die Gewere mit dem Gut – kein Nachweis nötig",
+    "Ohne Sohn fällt die Gewere an den Herrn, außer ein Gedinge ist verliehen und wird binnen Jahresfrist geltend gemacht"
+   ],
+   "significance": "Lehnserbfolge des Sohnes mit automatischem Übergang der Gewere.",
+   "keywords": [
+    "Lehnserbfolge",
+    "Gewere",
+    "Sohn",
+    "Heimfall",
+    "Gedinge"
+   ],
+   "synonyms": [
+    "lenerue",
+    "Heimfall"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 124,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0124",
+     "label": "58v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-7",
@@ -10170,16 +10321,52 @@
    "part": "lehnrecht",
    "article": 7,
    "label": "Lehnrecht 7",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Unbestimmte und bestimmte Anwartschaften",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Eine allgemeine Anwartschaft („wo zuerst frei“) bricht kein später verliehenes benanntes Gedinge",
+    "Bei Streit ohne Gewere entscheidet die frühere Belehnung",
+    "Wer ein freiwerdendes Lehen nicht binnen Jahr und Tag beansprucht, verliert den Anspruch"
+   ],
+   "significance": "Rangordnung konkurrierender Anwartschaften.",
+   "keywords": [
+    "Anwartschaft",
+    "Gedinge",
+    "Priorität",
+    "Fluchtsal",
+    "Jahr und Tag"
+   ],
+   "synonyms": [
+    "ghedinghe",
+    "Expektanz",
+    "vluchtsale"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 9,
+   "pages": [
+    {
+     "pageNumber": 124,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0124",
+     "label": "58v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 125,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0125",
+     "label": "59r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 126,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0126",
+     "label": "59v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-8",
@@ -10188,16 +10375,35 @@
    "part": "lehnrecht",
    "article": 8,
    "label": "Lehnrecht 8",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gemeinsames Lehen; Erklärung der Dienstpflicht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gemeinsam Belehnte dürfen zum Nachteil des anderen nichts verwirken oder auflassen",
+    "Der Herr kann von gemeinsam Belehnten verlangen, binnen sechs Wochen zu erklären, wer ihm dient"
+   ],
+   "significance": "Schutz der Mitbelehnten und Klarheit der Dienstpflicht.",
+   "keywords": [
+    "Gesamthand",
+    "Mitbelehnung",
+    "Dienst",
+    "Auflassung"
+   ],
+   "synonyms": [
+    "Gesamtbelehnung",
+    "ghesamnede hant"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 126,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0126",
+     "label": "59v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-9",
@@ -10206,16 +10412,43 @@
    "part": "lehnrecht",
    "article": 9,
    "label": "Lehnrecht 9",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Vorsprecher und Urteilsschelte im Lehnrecht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Jeder Lehnsmann darf Vorsprecher sein und Urteile finden, auch ohne Gut vom Herrn",
+    "Wer Urteile seiner Genossen schilt, muss einen belehnten Bürgen stellen",
+    "Wer dreimal erfolglos schilt, darf erst nach Besserung wieder schelten"
+   ],
+   "significance": "Begrenzung querulatorischer Urteilsschelte.",
+   "keywords": [
+    "Vorsprecher",
+    "Urteilsschelte",
+    "Bürge",
+    "Lehnsgericht"
+   ],
+   "synonyms": [
+    "ordel scelden",
+    "Berufung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 126,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0126",
+     "label": "59v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 127,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0127",
+     "label": "60r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-10",
@@ -10224,16 +10457,36 @@
    "part": "lehnrecht",
    "article": 10,
    "label": "Lehnrecht 10",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Belehnung ohne Bitte; Zuweisung des Gutes",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Gedinge kann ohne Bitte des Besitzers verliehen werden",
+    "Mit der Zuweisung erhält der Mann sofort die Gewere",
+    "Verweigert der Herr die Zuweisung, darf sich der Mann selbst eines freien Gutes bemächtigen"
+   ],
+   "significance": "Zuweisung (Bewisung) als Akt, der die Gewere verschafft.",
+   "keywords": [
+    "Gedinge",
+    "Zuweisung",
+    "Gewere",
+    "Selbsthilfe"
+   ],
+   "synonyms": [
+    "bewisen",
+    "Einweisung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 127,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0127",
+     "label": "60r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-11",
@@ -10242,16 +10495,46 @@
    "part": "lehnrecht",
    "article": 11,
    "label": "Lehnrecht 11",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Folge und Vererbung zugewiesener Güter",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Nicht besessenes und nicht zugewiesenes Gut folgt nicht und vererbt nicht – außer gewaltsam entzogenes, das verfolgt wird",
+    "Ganze Dörfer, Gerichte, Mühlen, Münze, Zoll, Zehnt folgen und vererben auch ohne Zuweisung",
+    "Verleiht der Herr mehr als er hat, gehen die zuerst Belehnten vor"
+   ],
+   "significance": "Wann ein Lehen ohne tatsächlichen Besitz Rechtswirkung hat.",
+   "keywords": [
+    "Folge",
+    "Vererbung",
+    "Zuweisung",
+    "Mühle",
+    "Zoll",
+    "Zehnt",
+    "Priorität"
+   ],
+   "synonyms": [
+    "uolghe",
+    "Lehnfolge"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 127,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0127",
+     "label": "60r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 128,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0128",
+     "label": "60v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-12",
@@ -10260,16 +10543,44 @@
    "part": "lehnrecht",
    "article": 12,
    "label": "Lehnrecht 12",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zeugnisfähigkeit im Lehnrecht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Zeuge kann nur sein, wer vom Herrn eine halbe Hufe oder fünf Schillinge Ertrag hat",
+    "Gebannte, Geächtete und Verfestete sind im betreffenden Gericht nicht zeugnis- und vorsprecherfähig"
+   ],
+   "significance": "Mindestbesitz als Voraussetzung lehnrechtlicher Zeugenschaft.",
+   "keywords": [
+    "Zeugnis",
+    "Hufe",
+    "Bann",
+    "Acht",
+    "Verfestung",
+    "Vorsprecher"
+   ],
+   "synonyms": [
+    "ghetuch",
+    "Zeugenfähigkeit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 128,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0128",
+     "label": "60v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 129,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0129",
+     "label": "61r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-13",
@@ -10278,16 +10589,44 @@
    "part": "lehnrecht",
    "article": 13,
    "label": "Lehnrecht 13",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Beweis der Lehnsgewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Nach Jahr und sechs Wochen unwidersprochener Gewere schwört der Mann allein und behält das Gut",
+    "Burglehen behält man nie ohne Zeugnis",
+    "Auf Zinsgut kann kein Lehen behauptet werden; einzelne Stücke behält der Mann mit Eid"
+   ],
+   "significance": "Beweiserleichterung durch längeren unangefochtenen Besitz.",
+   "keywords": [
+    "Gewere",
+    "Beweis",
+    "Eid",
+    "Burglehen",
+    "Zinsgut"
+   ],
+   "synonyms": [
+    "were",
+    "Besitzbeweis"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 129,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0129",
+     "label": "61r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 130,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0130",
+     "label": "61v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-14",
@@ -10296,16 +10635,44 @@
    "part": "lehnrecht",
    "article": 14,
    "label": "Lehnrecht 14",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Mehrere Herren an einem Gut; Gewährsherr",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Gut kann vielen Herren gehören, die Gewere hat aber nur einer – wer es nutzt und den Zins nimmt",
+    "Wer sein Gut vor seinem Herrn einem anderen Herrn zuschreibt, verliert es",
+    "Bei Streit mit dem Oberherrn muss der Lehnsherr das Gut binnen sechs Wochen verteidigen, sonst folgt der Mann dem Oberherrn"
+   ],
+   "significance": "Gestufte Lehnsverhältnisse und Gewährschaft des Herrn.",
+   "keywords": [
+    "Oberherr",
+    "Gewere",
+    "Gewährschaft",
+    "Lehnskette",
+    "Nutzung"
+   ],
+   "synonyms": [
+    "ouerste herre",
+    "Afterlehen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 130,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0130",
+     "label": "61v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 131,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0131",
+     "label": "62r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-15",
@@ -10314,16 +10681,43 @@
    "part": "lehnrecht",
    "article": 15,
    "label": "Lehnrecht 15",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Folge an den Oberherrn",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Bestreitet der Herr das Gut seines Mannes vor dem Oberherrn, folgt der Mann dem Oberherrn binnen seiner Fristen",
+    "Der Mann muss Gut und früheren Herrn benennen",
+    "Verweigert der Oberherr die Zuweisung, behält der Mann sie mit Zeugnis"
+   ],
+   "significance": "Schutz des Vasallen gegen Versäumnisse seines Herrn.",
+   "keywords": [
+    "Oberherr",
+    "Folge",
+    "Zuweisung",
+    "Zeugnis"
+   ],
+   "synonyms": [
+    "uolghe",
+    "Lehnfolge"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 131,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0131",
+     "label": "62r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 132,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0132",
+     "label": "62v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-16",
@@ -10332,16 +10726,35 @@
    "part": "lehnrecht",
    "article": 16,
    "label": "Lehnrecht 16",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Keine erneute Belehnung nach Rückerwerb",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer ein Gut auflässt oder verkauft und es wieder empfängt, braucht es nicht erneut zu empfangen,",
+    "es sei denn, er war ein Jahr und sechs Wochen ohne Gewere"
+   ],
+   "significance": "Kontinuität der Belehnung.",
+   "keywords": [
+    "Belehnung",
+    "Auflassung",
+    "Gewere",
+    "Frist"
+   ],
+   "synonyms": [
+    "untfan",
+    "Neubelehnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 132,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0132",
+     "label": "62v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-17",
@@ -10350,16 +10763,33 @@
    "part": "lehnrecht",
    "article": 17,
    "label": "Lehnrecht 17",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Weiterverleihung in Anwesenheit des Mannes",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Verleiht der Herr das Gut eines Mannes in dessen Anwesenheit ohne Widerspruch weiter,",
+    "kann dieser kein Recht mehr daran beweisen"
+   ],
+   "significance": "Schweigen als Rechtsverlust.",
+   "keywords": [
+    "Widerspruch",
+    "Rechtsverlust",
+    "Weiterverleihung"
+   ],
+   "synonyms": [
+    "Verschweigung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 132,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0132",
+     "label": "62v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-18",
@@ -10368,16 +10798,43 @@
    "part": "lehnrecht",
    "article": 18,
    "label": "Lehnrecht 18",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Ladung durch den Herrn und Gegenansprüche",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Während eines Verfahrens des Herrn muss dieser dem Mann auf dessen Ansprüche nicht antworten",
+    "Fällt dem Mann aber ein Gut an, muss der Herr ihm binnen der Fristen Lehnrecht gewähren"
+   ],
+   "significance": "Kein Verschleppen von Lehnsansprüchen durch Verfahrensführung.",
+   "keywords": [
+    "Ladung",
+    "Verfahren",
+    "Lehnrecht",
+    "Gegenanspruch",
+    "Frist"
+   ],
+   "synonyms": [
+    "deghedinghen",
+    "Prozessführung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 132,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0132",
+     "label": "62v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 133,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0133",
+     "label": "63r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-19",
@@ -10386,16 +10843,35 @@
    "part": "lehnrecht",
    "article": 19,
    "label": "Lehnrecht 19",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Vorsprecher; Reinigung durch Unschuldseid",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Bestätigt der Mann das Wort seines Vorsprechers nicht und beschuldigt der Herr diesen, wettet der Vorsprecher, außer er schwört",
+    "Allen Beschuldigungen, die nicht vor Gericht geschahen, entgeht der Mann mit Unschuldseid"
+   ],
+   "significance": "Unschuldseid als Regelbeweismittel im Lehnrecht.",
+   "keywords": [
+    "Vorsprecher",
+    "Unschuldseid",
+    "Beschuldigung",
+    "Gewette"
+   ],
+   "synonyms": [
+    "unschult",
+    "Reinigungseid"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 133,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0133",
+     "label": "63r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-20",
@@ -10404,16 +10880,46 @@
    "part": "lehnrecht",
    "article": 20,
    "label": "Lehnrecht 20",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Lehnserbe durch Lebenszeichen; Lehnsverlust",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Sohn wird Lehnserbe, wenn er nach dem Tod des Vaters so lange lebt, dass man seine Stimme in den vier Wänden hört",
+    "Wer sein Gut verliert oder auflässt, verliert auch die Anwartschaften daran",
+    "Sagt der Herr dem Mann zu Unrecht ab, behält der Mann das Gut lebenslang ohne Dienst; Fahnenlehen werden ungeteilt verliehen"
+   ],
+   "significance": "Lebendgeburt als Voraussetzung der Lehnsfolge; unrechte Absage des Herrn.",
+   "keywords": [
+    "Lehnserbe",
+    "Sohn",
+    "Gedinge",
+    "Absage",
+    "Fahnenlehen",
+    "Bischofsgut"
+   ],
+   "synonyms": [
+    "lenerue",
+    "untsegghen",
+    "uanlen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 133,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0133",
+     "label": "63r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 134,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0134",
+     "label": "63v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-21",
@@ -10422,16 +10928,37 @@
    "part": "lehnrecht",
    "article": 21,
    "label": "Lehnrecht 21",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Heerschild des Sohnes",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der ebenbürtige Sohn behält den Schild des Vaters, solange er ihn nicht durch Mannschaft erniedrigt",
+    "Nur ein Fahnenlehen erhöht den Schild",
+    "Lehen vererbt sich nur vom Vater auf den Sohn"
+   ],
+   "significance": "Heerschild als vererblicher, aber minderbarer Rang.",
+   "keywords": [
+    "Heerschild",
+    "Sohn",
+    "Ebenbürtigkeit",
+    "Fahnenlehen",
+    "Lehnserbfolge"
+   ],
+   "synonyms": [
+    "schilt",
+    "Rangvererbung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 134,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0134",
+     "label": "63v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-22",
@@ -10440,16 +10967,47 @@
    "part": "lehnrecht",
    "article": 22,
    "label": "Lehnrecht 22",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Mutung und Mannschaftsleistung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Binnen Jahr und Tag nach dem Tod des Vaters bietet der Sohn mit gefalteten Händen seine Mannschaft an",
+    "Feste Formel: dreimaliges Angebot vor Zeugen",
+    "Verweigert der Herr zu Unrecht, behält der Mann das Gut ohne Dienst und vererbt es"
+   ],
+   "significance": "Lebendige Beschreibung des Huldigungsrituals (Immixtio manuum).",
+   "keywords": [
+    "Mutung",
+    "Mannschaft",
+    "Handgang",
+    "Ritual",
+    "Jahr und Tag",
+    "Lehnserneuerung"
+   ],
+   "synonyms": [
+    "manscap",
+    "Kommendation",
+    "Handgang",
+    "sinnen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 134,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0134",
+     "label": "63v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 135,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0135",
+     "label": "64r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-23",
@@ -10458,16 +11016,44 @@
    "part": "lehnrecht",
    "article": 23,
    "label": "Lehnrecht 23",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Pflicht zur Annahme als Mann",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Herr darf die Mannschaft nur verweigern bei fehlendem Heerschild, Acht, Verfestung oder laufender Klage wegen Raubes",
+    "Nimmt er jemanden als Mann an, muss er ihm das gemutete Gut verleihen",
+    "Verleihung jederzeit und überall, außer in Kirchen und auf Kirchhöfen"
+   ],
+   "significance": "Leihezwang gegenüber dem rechtmäßigen Erben.",
+   "keywords": [
+    "Mannschaft",
+    "Leihezwang",
+    "Heerschild",
+    "Acht",
+    "Kirche"
+   ],
+   "synonyms": [
+    "manscap",
+    "Belehnungspflicht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 135,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0135",
+     "label": "64r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 136,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0136",
+     "label": "64v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-24",
@@ -10476,16 +11062,60 @@
    "part": "lehnrecht",
    "article": 24,
    "label": "Lehnrecht 24",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Beweis der Mutung und Benennung der Güter",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Herr muss verliehene Güter sofort oder binnen vierzehn Nächten benennen",
+    "Zeugenbeweis mit sieben vom Mann gewählten Lehnsleuten des Herrn; zwei genügen",
+    "Echte Not (Gefangenschaft, Krankheit, Reichsdienst, Landesnot) entschuldigt; Boten schwören"
+   ],
+   "significance": "Detailliertes Beweisverfahren zwischen Herr und Mann.",
+   "keywords": [
+    "Beweis",
+    "Zeugen",
+    "Benennung",
+    "echte Not",
+    "Boten",
+    "Lehnsgericht"
+   ],
+   "synonyms": [
+    "ghetuch",
+    "benomen",
+    "echtenot"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 9,
+   "pages": [
+    {
+     "pageNumber": 136,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0136",
+     "label": "64v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 137,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0137",
+     "label": "65r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 138,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0138",
+     "label": "65v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 139,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0139",
+     "label": "66r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-25",
@@ -10494,16 +11124,45 @@
    "part": "lehnrecht",
    "article": 25,
    "label": "Lehnrecht 25",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Folge beim Tod des Herrn; Jahresfristen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Stirbt der Herr oder verliert er sein Gut, folgt der Mann dem Oberherrn – ohne Erniedrigung",
+    "Weist der Oberherr nicht binnen Jahr und Tag zu, muss er selbst belehnen",
+    "So viele Schilde vom König abwärts, so viele Jahresfristen von je Jahr und sechs Wochen"
+   ],
+   "significance": "Stufenweise Fristberechnung im Lehnsverband.",
+   "keywords": [
+    "Jahresfrist",
+    "Oberherr",
+    "Folge",
+    "Tod des Herrn",
+    "Heerschild",
+    "Mutung"
+   ],
+   "synonyms": [
+    "iartale",
+    "Mutungsfrist"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 139,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0139",
+     "label": "66r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 140,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0140",
+     "label": "66v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-26",
@@ -10512,16 +11171,53 @@
    "part": "lehnrecht",
    "article": 26,
    "label": "Lehnrecht 26",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Lehen unmündiger Kinder",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Kinderjahresfrist: dreizehn Jahre und sechs Wochen ab Geburt; bis 21 Vormund aus den Lehnsleuten des Herrn",
+    "Der Herr ist Vormund am Gut, nimmt den Ertrag, das Kind kann sich nicht versäumen",
+    "Anfall (Vormundschaftslehen) ohne Lehnrecht und Folge; endet mit Mündigkeit"
+   ],
+   "significance": "Lehnsvormundschaft und Schutz minderjähriger Erben.",
+   "keywords": [
+    "Kind",
+    "Mündigkeit",
+    "Vormund",
+    "Anfall",
+    "Jahresfrist",
+    "Lehnsvormundschaft"
+   ],
+   "synonyms": [
+    "aneuelle",
+    "Lehnsvormundschaft",
+    "iartale"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 11,
+   "pages": [
+    {
+     "pageNumber": 140,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0140",
+     "label": "66v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 141,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0141",
+     "label": "67r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 142,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0142",
+     "label": "67v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-27",
@@ -10530,16 +11226,42 @@
    "part": "lehnrecht",
    "article": 27,
    "label": "Lehnrecht 27",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Tod während der Mutungsfrist",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Stirbt ein Mann mit Sohn in der Mutungsfrist, verliert der Sohn das Gut nicht",
+    "Stirbt der Sohn des Herrn in der Frist, folgen die Mannen ihrem Gut ohne Verlust"
+   ],
+   "significance": "Schutz vor Rechtsverlust durch Tod in laufender Frist.",
+   "keywords": [
+    "Mutungsfrist",
+    "Tod",
+    "Sohn",
+    "Folge"
+   ],
+   "synonyms": [
+    "iartale",
+    "Fristwahrung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 142,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0142",
+     "label": "67v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 143,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0143",
+     "label": "68r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-28",
@@ -10548,16 +11270,35 @@
    "part": "lehnrecht",
    "article": 28,
    "label": "Lehnrecht 28",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Keine Teilung des Lehens durch den Sohn",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Sohn darf das Gut des Mannes nicht durch Auflassung teilen, außer es stammt von mehreren Herren",
+    "Bei rechtswidriger Teilung folgt der kleinere Teil dem größeren"
+   ],
+   "significance": "Einheit des Lehens gegenüber dem Herrn.",
+   "keywords": [
+    "Teilung",
+    "Auflassung",
+    "Sohn",
+    "Oberherr"
+   ],
+   "synonyms": [
+    "twien",
+    "Lehnsteilung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 143,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0143",
+     "label": "68r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-29",
@@ -10566,16 +11307,44 @@
    "part": "lehnrecht",
    "article": 29,
    "label": "Lehnrecht 29",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Mehrere Söhne des Herrn und des Mannes",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Mann empfängt sein Gut nur von einem der Söhne des Herrn",
+    "Der Herr muss das Vatergut nur einem Kind verleihen; in der Kinderfrist wählen die Kinder, danach der Herr",
+    "Der mündige Bruder muss für unmündige Brüder Verzicht geloben"
+   ],
+   "significance": "Lehnsfolge bei mehreren Erben auf beiden Seiten.",
+   "keywords": [
+    "Söhne",
+    "Erbfolge",
+    "Wahl",
+    "Jahresfrist",
+    "Verzicht"
+   ],
+   "synonyms": [
+    "kindere",
+    "Lehnserbfolge"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 143,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0143",
+     "label": "68r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 144,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0144",
+     "label": "68v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-30",
@@ -10584,16 +11353,34 @@
    "part": "lehnrecht",
    "article": 30,
    "label": "Lehnrecht 30",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Lehensverleihung und Auflassung schaden nicht bei Rückkehr",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer sein Lehen dem Herrn oder dessen Kind entziehen will, indem er es weiterverleiht oder auflässt,",
+    "schadet niemandem, wenn er es zurücknimmt und bis zum Tod in Gewere behält"
+   ],
+   "significance": "Unwirksame Umgehungsgeschäfte.",
+   "keywords": [
+    "Auflassung",
+    "Weiterverleihung",
+    "Gewere",
+    "Umgehung"
+   ],
+   "synonyms": [
+    "Scheingeschäft"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 144,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0144",
+     "label": "68v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-31",
@@ -10602,16 +11389,36 @@
    "part": "lehnrecht",
    "article": 31,
    "label": "Lehnrecht 31",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Leibgedinge der Ehefrau am Lehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Weist der Mann seiner Frau Gut mit Zustimmung mündiger Söhne zu, können weder Herr noch Kinder es brechen",
+    "Die Zustimmung unmündiger Kinder können diese später brechen, der Herr nicht"
+   ],
+   "significance": "Witwenversorgung aus Lehngut.",
+   "keywords": [
+    "Leibgedinge",
+    "Ehefrau",
+    "Zustimmung",
+    "Söhne",
+    "Witwe"
+   ],
+   "synonyms": [
+    "lifghedinghe",
+    "Wittum"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 144,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0144",
+     "label": "68v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-32",
@@ -10620,16 +11427,45 @@
    "part": "lehnrecht",
    "article": 32,
    "label": "Lehnrecht 32",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gesamthandslehen der Brüder",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Brüder können ein Gut zur gesamten Hand empfangen und ohne Erlaubnis des Herrn teilen",
+    "Nach der Teilung hat keiner Recht am Teil des anderen – außer mit Gedinge",
+    "In ungeteilter Gemeinschaft tritt das Kind eines Verstorbenen an dessen Stelle; Verfügungen nur gemeinsam"
+   ],
+   "significance": "Gesamtbelehnung als Mittel des Familienzusammenhalts.",
+   "keywords": [
+    "Gesamthand",
+    "Brüder",
+    "Teilung",
+    "Gedinge",
+    "Folge"
+   ],
+   "synonyms": [
+    "ghesammede hant",
+    "Gesamtbelehnung",
+    "Ganerben"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 144,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0144",
+     "label": "68v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 145,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0145",
+     "label": "69r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-33",
@@ -10638,16 +11474,44 @@
    "part": "lehnrecht",
    "article": 33,
    "label": "Lehnrecht 33",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gewährschaft des Herrn für verliehenes Gut",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Verleiht der Herr mutwillig Gut, das er nicht gewährleisten kann, muss er es ersetzen",
+    "Wird er durch Lehnrecht zur Verleihung gezwungen und unterliegt dann, schuldet er keinen Ersatz",
+    "Voraussetzung: der Mann hat sich nicht selbst versäumt"
+   ],
+   "significance": "Haftung des Lehnsherrn für Rechtsmängel.",
+   "keywords": [
+    "Gewährschaft",
+    "Ersatz",
+    "Haftung",
+    "Rechtsmangel"
+   ],
+   "synonyms": [
+    "were",
+    "werescap",
+    "Eviktion"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 145,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0145",
+     "label": "69r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 146,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0146",
+     "label": "69v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-34",
@@ -10656,16 +11520,37 @@
    "part": "lehnrecht",
    "article": 34,
    "label": "Lehnrecht 34",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Belehnte Frauen und Heersteuer",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Belehnte Frauen und Mädchen müssen keine Heerfahrt leisten",
+    "Sie zahlen aber die festgesetzte Heersteuer",
+    "Im Lehnrecht sind sie von Fristversäumnissen frei"
+   ],
+   "significance": "Frauen als Lehnsinhaberinnen ohne Kriegsdienst.",
+   "keywords": [
+    "Frauen",
+    "Heersteuer",
+    "Heerfahrt",
+    "Frauenlehen"
+   ],
+   "synonyms": [
+    "heresture",
+    "wif",
+    "maghet"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 146,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0146",
+     "label": "69v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-35",
@@ -10674,16 +11559,37 @@
    "part": "lehnrecht",
    "article": 35,
    "label": "Lehnrecht 35",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Belehnung der Kinder zu Lebzeiten des Vaters",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Hat der Vater das Gut bis zum Tod allein in Gewere, müssen die Kinder binnen der Frist die Anerkennung begehren",
+    "Ohne Gewere können sie nur mit Gedingerecht bezeugen – daher sollen sie Mannschaft anbieten",
+    "Hatten Vater und Kinder gemeinsame Gewere, behalten die Kinder durch Zeugnis"
+   ],
+   "significance": "Unterschied zwischen bloßer Anwartschaft und gemeinsamer Gewere.",
+   "keywords": [
+    "Kinder",
+    "Gewere",
+    "Gedinge",
+    "Anerkennung",
+    "Mitbelehnung"
+   ],
+   "synonyms": [
+    "bekennen",
+    "Mitbelehnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 146,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0146",
+     "label": "69v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-36",
@@ -10692,16 +11598,41 @@
    "part": "lehnrecht",
    "article": 36,
    "label": "Lehnrecht 36",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Bedingte Auflassung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Lässt ein Mann Gut auf, damit der Herr es einem anderen verleihe,",
+    "darf der Herr es nicht selbst behalten"
+   ],
+   "significance": "Zweckgebundene Auflassung.",
+   "keywords": [
+    "Auflassung",
+    "Bedingung",
+    "Weiterverleihung"
+   ],
+   "synonyms": [
+    "uplaten",
+    "Resignation"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 146,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0146",
+     "label": "69v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 147,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0147",
+     "label": "70r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-37",
@@ -10710,16 +11641,37 @@
    "part": "lehnrecht",
    "article": 37,
    "label": "Lehnrecht 37",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Auflassung an den Sohn; falsche Rechtsbehauptung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Lässt der Vater dem Sohn Gut auf, hat der Sohn es nicht als Erbe",
+    "Wer sein Erbe auflässt und neu empfängt, hat kein Erbrecht mehr daran",
+    "Wer ein höheres Recht behauptet und es nicht beweist, verliert alles"
+   ],
+   "significance": "Erbe und Erwerb unter Lebenden werden unterschieden.",
+   "keywords": [
+    "Erbe",
+    "Auflassung",
+    "Sohn",
+    "Gewere",
+    "Beweislast"
+   ],
+   "synonyms": [
+    "eruelen",
+    "Erbgut"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 147,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0147",
+     "label": "70r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-38",
@@ -10728,16 +11680,44 @@
    "part": "lehnrecht",
    "article": 38,
    "label": "Lehnrecht 38",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Auflassung an den Oberherrn ohne Wissen des Herrn",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Afterlehen dem Oberherrn auflässt, schadet dem unwissenden Zwischenherrn nicht",
+    "Der Zwischenherr schwört Unkenntnis und klagt; wer die erste Lehnsgewere mit sechs Mannen bezeugt, behält",
+    "Zeuge der Lehnsgewere kann nur ein Belehnter des Herrn sein"
+   ],
+   "significance": "Schutz des Zwischenherrn in der Lehnskette.",
+   "keywords": [
+    "Oberherr",
+    "Auflassung",
+    "Zwischenherr",
+    "Lehnsgewere",
+    "Zeugnis"
+   ],
+   "synonyms": [
+    "ouere herre",
+    "Afterlehen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 147,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0147",
+     "label": "70r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 148,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0148",
+     "label": "70v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-39",
@@ -10746,16 +11726,37 @@
    "part": "lehnrecht",
    "article": 39,
    "label": "Lehnrecht 39",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Verlust der Gewere; erzwungene Auflassung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer sein Gut durch Urteil verliert oder auflässt, verliert die Gewere",
+    "Erzwungene Auflassung ist unschädlich, wenn der Mann binnen Jahresfrist klagt und obsiegt",
+    "„In Willen und Worten ist kein Zwang, wenn die Tat nicht folgt“"
+   ],
+   "significance": "Grenzen der Wirksamkeit unfreiwilliger Auflassung.",
+   "keywords": [
+    "Gewere",
+    "Zwang",
+    "Auflassung",
+    "Untreue",
+    "Unschuldseid"
+   ],
+   "synonyms": [
+    "dwanc",
+    "Nötigung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 148,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0148",
+     "label": "70v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-40",
@@ -10764,16 +11765,45 @@
    "part": "lehnrecht",
    "article": 40,
    "label": "Lehnrecht 40",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Streit um die Gewere: Dorfzeugnis und Gottesurteil",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Sprechen zwei gleichrangig ein Gut an, befragt man Bauern und Nachbarn im Dorf",
+    "Ist keine Klärung möglich, schwören beide – dann Teilung oder Wasserurteil",
+    "Gottesurteil nur, wo die Wahrheit nicht anders zu ermitteln ist"
+   ],
+   "significance": "Gottesurteil als subsidiäres Beweismittel.",
+   "keywords": [
+    "Gewere",
+    "Nachbarn",
+    "Dorfzeugnis",
+    "Gottesurteil",
+    "Wasserprobe"
+   ],
+   "synonyms": [
+    "godes ordel",
+    "water ordel",
+    "Ordal"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 148,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0148",
+     "label": "70v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 149,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0149",
+     "label": "71r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-41",
@@ -10782,16 +11812,33 @@
    "part": "lehnrecht",
    "article": 41,
    "label": "Lehnrecht 41",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zeugnis von Herr und Mann über die Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Behaupten Herr und Mann beide die Gewere eines Gutes, geht das Zeugnis des Mannes vor"
+   ],
+   "significance": "Beweisvorrang des besitzenden Vasallen.",
+   "keywords": [
+    "Gewere",
+    "Zeugnis",
+    "Beweisvorrang"
+   ],
+   "synonyms": [
+    "were",
+    "Besitzschutz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 149,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0149",
+     "label": "71r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-42",
@@ -10800,16 +11847,45 @@
    "part": "lehnrecht",
    "article": 42,
    "label": "Lehnrecht 42",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Vorwurf der Fristversäumnis",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wirft der Herr dem Mann Versäumnis beim Muten vor, entlastet sich der Mann mit Unschuldseid",
+    "Es sei denn, der Herr bezeugt mit sechs Mannen ein Urteil nach Ablauf der Frist",
+    "Beweist der Mann rechtzeitiges Muten, ist das Zeugnis des Herrn abgewiesen"
+   ],
+   "significance": "Beweislast bei behaupteter Verschweigung.",
+   "keywords": [
+    "Mutung",
+    "Jahresfrist",
+    "Versäumnis",
+    "Unschuldseid",
+    "Zeugnis"
+   ],
+   "synonyms": [
+    "uoriaren",
+    "Verjährung",
+    "Verschweigung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 149,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0149",
+     "label": "71r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 150,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0150",
+     "label": "71v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-43",
@@ -10818,16 +11894,37 @@
    "part": "lehnrecht",
    "article": 43,
    "label": "Lehnrecht 43",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Absprechen auf Klage eines Dritten",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Spricht der Herr das Gut auf Klage eines anderen ab, weist er den Kläger in die Gewere",
+    "Der Verlierer kann binnen seiner Jahresfrist das Gut herausziehen; Ladung vierzehn Nächte vorher",
+    "Bleibt der Kläger aus, wird der Beklagte frei gesprochen"
+   ],
+   "significance": "Verfahren um konkurrierende Ansprüche Dritter.",
+   "keywords": [
+    "Klage",
+    "Gewere",
+    "Ladung",
+    "Herausziehen",
+    "echte Not"
+   ],
+   "synonyms": [
+    "utten",
+    "Lehnsprozess"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 150,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0150",
+     "label": "71v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-44",
@@ -10836,16 +11933,36 @@
    "part": "lehnrecht",
    "article": 44,
    "label": "Lehnrecht 44",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Tod während der Frist zum Herausziehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Stirbt der Mann in der Frist zum Herausziehen, vererbt er das Recht auf den Sohn",
+    "Freies Gut kann er erst nach dem Herausziehen weiterverleihen",
+    "Mit jedem Herrenwechsel erneuert sich die Jahresfrist"
+   ],
+   "significance": "Fortbestand und Neubeginn der Fristen.",
+   "keywords": [
+    "Jahresfrist",
+    "Herausziehen",
+    "Sohn",
+    "Herrenwechsel"
+   ],
+   "synonyms": [
+    "iartale",
+    "utten"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 150,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0150",
+     "label": "71v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-45",
@@ -10854,16 +11971,44 @@
    "part": "lehnrecht",
    "article": 45,
    "label": "Lehnrecht 45",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Verfügungen während des Verfahrens",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Während Verfahren des Herrn kann der Mann Gut verleihen und vererben",
+    "Der Sohn haftet nur für Gut, um das der Vater verklagt war, oder für darauf erkannte Gewette",
+    "Wird Gut in seiner Gegenwart ohne Widerspruch abgesprochen, kann er es nicht mehr herausziehen"
+   ],
+   "significance": "Wirkung anhängiger Verfahren auf Verfügungen.",
+   "keywords": [
+    "Verfahren",
+    "Gewette",
+    "Sohn",
+    "Widerspruch",
+    "Herausziehen"
+   ],
+   "synonyms": [
+    "deghedinghe",
+    "Rechtshängigkeit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 150,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0150",
+     "label": "71v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 151,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0151",
+     "label": "72r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-46",
@@ -10872,16 +12017,44 @@
    "part": "lehnrecht",
    "article": 46,
    "label": "Lehnrecht 46",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Drei Sachen, die der Herr bezeugen kann; mehrere Herren",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Nur in drei Sachen kann der Herr gegen den Mann Zeugnis führen: Handlungen im Lehngericht, Gebot des Reichsdienstes, persönliche Ladung",
+    "Mit zwei Mannen, die es gehört und gesehen haben",
+    "Bei mehreren Herren dient der Mann dem ersten Gebieter und zahlt den anderen Heersteuer"
+   ],
+   "significance": "Begrenzte Beweismacht des Herrn.",
+   "keywords": [
+    "Zeugnis",
+    "Reichsdienst",
+    "Heersteuer",
+    "mehrere Herren",
+    "Ladung"
+   ],
+   "synonyms": [
+    "heresture",
+    "ghetuch"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 151,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0151",
+     "label": "72r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 152,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0152",
+     "label": "72v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-47",
@@ -10890,16 +12063,36 @@
    "part": "lehnrecht",
    "article": 47,
    "label": "Lehnrecht 47",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zeugen beim Herrenwechsel",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Folgt der Mann seinem Gut an einen anderen Herrn, beweist er es mit den Mannen des ersten Herrn",
+    "Diese werden bei ihrer Huld befragt und nicht vereidigt – außer der neue Herr misstraut ihrer Huldigung",
+    "Fehlen sie, treten die Lehnsgenossen des neuen Herrn ein"
+   ],
+   "significance": "Beweissicherung bei Lehnsübergang.",
+   "keywords": [
+    "Herrenwechsel",
+    "Zeugen",
+    "Huld",
+    "Lehnsgenossen"
+   ],
+   "synonyms": [
+    "husghenoten",
+    "Lehnsgenossen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 152,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0152",
+     "label": "72v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-48",
@@ -10908,16 +12101,44 @@
    "part": "lehnrecht",
    "article": 48,
    "label": "Lehnrecht 48",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Auflassung durch den Herrn ohne Wissen des Mannes",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Lässt der Herr das Gut des Mannes ohne dessen Wissen auf, folgt der Mann binnen seiner Jahresfrist",
+    "Die Frist beginnt mit der Mitteilung oder Anforderung durch den neuen Belehnten",
+    "Der Mann mahnt den Herrn, binnen sechs Wochen Gewähr zu leisten; sonst folgt er dem Oberherrn"
+   ],
+   "significance": "Vasallenschutz bei Verfügungen des Herrn.",
+   "keywords": [
+    "Auflassung",
+    "Jahresfrist",
+    "Oberherr",
+    "sechs Wochen",
+    "Gewährschaft"
+   ],
+   "synonyms": [
+    "uplaten",
+    "werescap"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 152,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0152",
+     "label": "72v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 153,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0153",
+     "label": "73r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-49",
@@ -10926,16 +12147,37 @@
    "part": "lehnrecht",
    "article": 49,
    "label": "Lehnrecht 49",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Klage beim Oberherrn; mehrere Anwartschaften",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Nimmt der Herr Gut, verweigert Lehnrecht oder Gewährschaft, klagt der Mann beim Oberherrn",
+    "Der Oberherr gebietet dem Herrn Recht zu tun; sonst belehnt er selbst",
+    "Bei mehreren allgemeinen Anwartschaften hat der zuerst Belehnte Vorrang"
+   ],
+   "significance": "Rechtsschutz durch den Oberherrn.",
+   "keywords": [
+    "Oberherr",
+    "Rechtsverweigerung",
+    "Klage",
+    "Anwartschaft",
+    "Priorität"
+   ],
+   "synonyms": [
+    "ouere herre",
+    "Lehnsappellation"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 153,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0153",
+     "label": "73r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-50",
@@ -10944,16 +12186,44 @@
    "part": "lehnrecht",
    "article": 50,
    "label": "Lehnrecht 50",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Abwesenheit von Herr und Mann; Fristbeginn",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ist der Herr außer Landes, beginnt die Frist erst mit seiner Rückkehr",
+    "Verweigert der Herr zu Unrecht, wird seine eigene Frist verkürzt",
+    "Verschanzt sich der Herr, schadet es dem Mann nicht; Frist bei Tod in der Fremde ab Kenntnis"
+   ],
+   "significance": "Fristhemmung bei Unerreichbarkeit.",
+   "keywords": [
+    "Jahresfrist",
+    "Abwesenheit",
+    "Burg",
+    "Tod",
+    "Kenntnis"
+   ],
+   "synonyms": [
+    "iartale",
+    "Fristhemmung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 153,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0153",
+     "label": "73r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 154,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0154",
+     "label": "73v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-51",
@@ -10962,16 +12232,35 @@
    "part": "lehnrecht",
    "article": 51,
    "label": "Lehnrecht 51",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Abschwören von Gewetten",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "In rechter Jahresfrist kann der Mann alle in Abwesenheit erkannten Gewette mit Eid abwehren",
+    "Es sei denn, der Herr behauptet sie mit Zeugnis"
+   ],
+   "significance": "Schutz vor Versäumnisurteilen.",
+   "keywords": [
+    "Gewette",
+    "Eid",
+    "Abwesenheit",
+    "Jahresfrist"
+   ],
+   "synonyms": [
+    "ghewedde",
+    "Bußgeld"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 154,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0154",
+     "label": "73v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-52",
@@ -10980,16 +12269,43 @@
    "part": "lehnrecht",
    "article": 52,
    "label": "Lehnrecht 52",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Bürgenstellung bei Klage ohne Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Gut ohne Gewere anspricht, muss dem Herrn Bürgen für Gewette und Buße stellen",
+    "Hat er Gewere, ist diese sein Bürge"
+   ],
+   "significance": "Sicherheitsleistung im Lehnsprozess.",
+   "keywords": [
+    "Bürge",
+    "Gewette",
+    "Buße",
+    "Gewere",
+    "Sicherheit"
+   ],
+   "synonyms": [
+    "borghe",
+    "Kaution"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 154,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0154",
+     "label": "73v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 155,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0155",
+     "label": "74r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-53",
@@ -10998,16 +12314,35 @@
    "part": "lehnrecht",
    "article": 53,
    "label": "Lehnrecht 53",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Weiterverleihung bricht nicht die erste Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Verleiht der Herr das Gut eines Mannes einem anderen, verliert der erste nicht seine Lehnsgewere",
+    "Außer der Herr bezeugt ein Urteil, das die Gewere gebrochen hat",
+    "Der Herr kann nur verleihen und gewährleisten, was er selbst in Gewere hat"
+   ],
+   "significance": "Nemo plus iuris – niemand kann mehr verleihen, als er hat.",
+   "keywords": [
+    "Gewere",
+    "Doppelverleihung",
+    "Gewährschaft"
+   ],
+   "synonyms": [
+    "were",
+    "Doppelbelehnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 155,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0155",
+     "label": "74r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-54",
@@ -11016,16 +12351,37 @@
    "part": "lehnrecht",
    "article": 54,
    "label": "Lehnrecht 54",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Erniedrigung des Heerschilds",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Erniedrigt ein Herr seinen Schild durch Mannschaft, verliert er die Lehen seiner Mannen",
+    "Die Mannen empfangen dann vom Oberherrn oder werden an einen Ebenbürtigen ihres Herrn gewiesen",
+    "Mannschaft gegenüber einem Gleichrangigen wegen Totschlagsühne erniedrigt nicht"
+   ],
+   "significance": "Rangverlust und seine Folgen für den Lehnsverband.",
+   "keywords": [
+    "Heerschild",
+    "Erniedrigung",
+    "Mannschaft",
+    "Oberherr",
+    "Totschlag"
+   ],
+   "synonyms": [
+    "schilt nederen",
+    "Rangminderung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 155,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0155",
+     "label": "74r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-55",
@@ -11034,16 +12390,55 @@
    "part": "lehnrecht",
    "article": 55,
    "label": "Lehnrecht 55",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
-   "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "title": "Lehen auf Treue, Satzung und rechtes Lehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gut „auf Treue“ verliehen, muss der Mann bei Rücklösung auflassen; der Herr kann lösen, muss aber nicht",
+    "Satzung (Pfand) ist kein Lehen: Pfand vor dem Landrichter, Belehnung vor den Mannen",
+    "Was der Herr „mannlich“ verleiht, ist rechtes Lehen, Erblehen, Burglehen oder Gedinge"
+   ],
+   "significance": "Abgrenzung von Lehen, Pfand und treuhänderischer Vergabe.",
+   "keywords": [
+    "Treue",
+    "Rücklösung",
+    "Pfand",
+    "Satzung",
+    "Landrichter",
+    "rechtes Lehen",
+    "Burglehen"
+   ],
+   "synonyms": [
+    "sattinghe",
+    "losinghe",
+    "Pfandlehen",
+    "Wiederkauf"
+   ],
+   "note": "Bei Lübben fehlt § 3 in der Zählung.",
+   "status": "draft",
+   "sectionCount": 8,
+   "pages": [
+    {
+     "pageNumber": 155,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0155",
+     "label": "74r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 156,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0156",
+     "label": "74v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 157,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0157",
+     "label": "75r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-56",
@@ -11052,16 +12447,45 @@
    "part": "lehnrecht",
    "article": 56,
    "label": "Lehnrecht 56",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Lehen mit einer Frau zur gesamten Hand",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Mann kann Gut mit einer Frau empfangen, sie vertreten und mit dem Gut folgen, weil sie keinen Heerschild hat",
+    "Stirbt die Frau, endet seine Vormundschaftsbelehnung",
+    "Lässt die Frau auf, verliert er; lässt er auf, verliert sie nicht – frei werdendes Gut fällt an sie"
+   ],
+   "significance": "Vormundschaftliche Mitbelehnung von Frauen.",
+   "keywords": [
+    "Frau",
+    "Vormundschaft",
+    "Gesamthand",
+    "Heerschild",
+    "Folge"
+   ],
+   "synonyms": [
+    "uoremuntscap",
+    "ghesamnede hant",
+    "Frauenlehen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 157,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0157",
+     "label": "75r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 158,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0158",
+     "label": "75v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-57",
@@ -11070,16 +12494,45 @@
    "part": "lehnrecht",
    "article": 57,
    "label": "Lehnrecht 57",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gedinge wird zum rechten Lehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Stirbt der Inhaber, geht die Gewere auf den Gedingeberechtigten über",
+    "Er muss den Herrn binnen Jahresfrist mit zwei Zeugen an die Belehnung erinnern",
+    "Er darf sich des Gutes sofort bemächtigen, muss aber sein Recht vertreten"
+   ],
+   "significance": "Umwandlung der Anwartschaft in vollgültiges Lehen.",
+   "keywords": [
+    "Gedinge",
+    "Anwartschaft",
+    "Gewere",
+    "Jahresfrist",
+    "Zeugen"
+   ],
+   "synonyms": [
+    "ghedinghe",
+    "wardinghe",
+    "Expektanz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 158,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0158",
+     "label": "75v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 159,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0159",
+     "label": "76r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-58",
@@ -11088,16 +12541,44 @@
    "part": "lehnrecht",
    "article": 58,
    "label": "Lehnrecht 58",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Belehnung durch Kinder; Fluchtsal",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Kind kann einem Kind Gut und Anfall verleihen; am Anfall gibt es keine Folge",
+    "Fluchtsal: Verleihung in Todesangst, Krankheit oder vor Landesflucht mit Rückforderungsabsicht",
+    "Fluchtsal ist gegen Gott, Recht und Treue; der Mann muss sie binnen sechs Wochen brechen"
+   ],
+   "significance": "Verbot der Fluchtsalbelehnung als Umgehung des Heimfalls.",
+   "keywords": [
+    "Fluchtsal",
+    "Kinder",
+    "Anfall",
+    "Treuebruch",
+    "Krankheit"
+   ],
+   "synonyms": [
+    "vluchtsale",
+    "Scheinbelehnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 159,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0159",
+     "label": "76r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 160,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0160",
+     "label": "76v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-59",
@@ -11106,16 +12587,44 @@
    "part": "lehnrecht",
    "article": 59,
    "label": "Lehnrecht 59",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Scheinauflassung zur Stärkung unrechter Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Gut zum Schein einem anderen überlässt und es dessen Leuten verleiht, verliert es",
+    "Lehen ohne Gewere entbehrt der Folge; Gewere ohne Belehnung ist unrecht",
+    "Der Beklagte muss sich mit Eid reinigen und binnen sechs Wochen die Gewere wiederherstellen"
+   ],
+   "significance": "Lehen und Gewere müssen zusammenfallen.",
+   "keywords": [
+    "Scheingeschäft",
+    "Gewere",
+    "Folge",
+    "Nachbarn",
+    "Unschuldseid"
+   ],
+   "synonyms": [
+    "unrechte were",
+    "Simulation"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 160,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0160",
+     "label": "76v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 161,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0161",
+     "label": "77r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-60",
@@ -11124,16 +12633,47 @@
    "part": "lehnrecht",
    "article": 60,
    "label": "Lehnrecht 60",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zinsgut und Lehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer in unrechter Gewere ohne Belehnung sitzt, kann sich nicht auf Zinsgut berufen",
+    "Burgen, Städte, Gerichte, Dienst und Mannengut kann niemand zu Zins ausgeben",
+    "Wer Zinsgut haben will, muss es selbst oder durch eigene Knechte bewirtschaften"
+   ],
+   "significance": "Herrschaftsrechte sind nicht zinsfähig.",
+   "keywords": [
+    "Zinsgut",
+    "Gericht",
+    "Burg",
+    "Stadt",
+    "Mühle",
+    "Münze",
+    "Zoll"
+   ],
+   "synonyms": [
+    "tinsgöd",
+    "Zinslehen",
+    "Pacht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 161,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0161",
+     "label": "77r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 162,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0162",
+     "label": "77v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-61",
@@ -11142,16 +12682,38 @@
    "part": "lehnrecht",
    "article": 61,
    "label": "Lehnrecht 61",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gerichtslehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gerichtslehen können Priester, Frauen und Rechtlose nicht haben",
+    "Richten darf erst, wer das Gericht empfangen hat",
+    "Stirbt der Herr, darf er binnen seiner Jahresfrist weiter richten"
+   ],
+   "significance": "Gerichtsbarkeit als Lehen mit persönlichen Voraussetzungen.",
+   "keywords": [
+    "Gerichtslehen",
+    "Richter",
+    "Priester",
+    "Frauen",
+    "Rechtlose"
+   ],
+   "synonyms": [
+    "richte",
+    "Gerichtsbarkeit",
+    "Bannleihe"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 162,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0162",
+     "label": "77v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-62",
@@ -11160,16 +12722,36 @@
    "part": "lehnrecht",
    "article": 62,
    "label": "Lehnrecht 62",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Amtmann und Lehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Amtmann kann dem Herrn kein Gut mit der Gewere entziehen, denn der Herr hat ihm alles anvertraut",
+    "Lehen innerhalb des Amtes muss er wie einer ohne Gewere bezeugen; keine Folge und Vererbung"
+   ],
+   "significance": "Amtsbesitz begründet keine Lehnsgewere.",
+   "keywords": [
+    "Amtmann",
+    "Gewere",
+    "Amt",
+    "Verwaltung"
+   ],
+   "synonyms": [
+    "amman",
+    "ammicht",
+    "Vogt"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 162,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0162",
+     "label": "77v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-63",
@@ -11178,16 +12760,48 @@
    "part": "lehnrecht",
    "article": 63,
    "label": "Lehnrecht 63",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Dienstlehen nach Hofrecht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gut ohne Mannschaft ist kein rechtes Lehen, z. B. Gut für Dienstleute nach Hofrecht",
+    "Jeder geborene Dienstmann soll Truchsess, Schenk, Kämmerer oder Marschall sein",
+    "Wegen der Vielfalt des Dienstrechts äußert sich der Autor nicht weiter"
+   ],
+   "significance": "Abgrenzung des Lehnrechts vom Dienstrecht der Ministerialen.",
+   "keywords": [
+    "Dienstmann",
+    "Hofrecht",
+    "Ministerialen",
+    "Hofämter",
+    "Truchsess",
+    "Schenk",
+    "Kämmerer",
+    "Marschall"
+   ],
+   "synonyms": [
+    "denestman",
+    "houerecht",
+    "Ministerialität"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 162,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0162",
+     "label": "77v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 163,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0163",
+     "label": "78r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-64",
@@ -11196,16 +12810,35 @@
    "part": "lehnrecht",
    "article": 64,
    "label": "Lehnrecht 64",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Mutung mit Mannschaft; Beweis der Mannschaft",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Jedes Gut ist mit Mannschaft zu muten, auch wenn man schon Mann des Herrn ist",
+    "Bestreitet der Herr die Mannschaft, kann der Mann sie mit Eid behaupten – er muss die Reliquien aber selbst beschaffen"
+   ],
+   "significance": "Mannschaft als Voraussetzung jeder Belehnung.",
+   "keywords": [
+    "Mutung",
+    "Mannschaft",
+    "Eid",
+    "Reliquien"
+   ],
+   "synonyms": [
+    "manscap",
+    "sinnen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 163,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0163",
+     "label": "78r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-65",
@@ -11214,16 +12847,84 @@
    "part": "lehnrecht",
    "article": 65,
    "label": "Lehnrecht 65",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Ablauf des Lehnsgerichtsverfahrens",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ladung mit Urteil, Ort und Frist (heute oder in sechs Tagen über vierzehn Nächte)",
+    "Dreimaliges Heischen durch Boten; Warten bis Sonnenuntergang; dreimal Termin",
+    "Kein Lehngericht in geschlossenen Höfen, unter Dach oder in Burgen; Urteil durch einen Mann; Herr nimmt Gut Jahr und Tag in Besitz"
+   ],
+   "significance": "Ausführlichste Verfahrensordnung des Lehnrechts mit wörtlichen Formeln.",
+   "keywords": [
+    "Ladung",
+    "Verfahren",
+    "Heischen",
+    "Sonnenuntergang",
+    "Gewette",
+    "Pfändung",
+    "Urteil",
+    "Formel"
+   ],
+   "synonyms": [
+    "deghedinc",
+    "eschen",
+    "Lehnsprozess",
+    "Kontumaz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 22,
+   "pages": [
+    {
+     "pageNumber": 163,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0163",
+     "label": "78r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 164,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0164",
+     "label": "78v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 165,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0165",
+     "label": "79r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 166,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0166",
+     "label": "79v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 167,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0167",
+     "label": "80r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 168,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0168",
+     "label": "80v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 169,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0169",
+     "label": "81r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-66",
@@ -11232,16 +12933,44 @@
    "part": "lehnrecht",
    "article": 66,
    "label": "Lehnrecht 66",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Herausziehen des Gutes",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Verschließt sich der Herr, zieht der Mann sein Gut vor seinen Lehnsgenossen heraus",
+    "Eidesformel: Das Gut sei ihm nicht so abgesprochen, wie er es von Rechts wegen entbehren sollte",
+    "Wer am Gerichtstag ausbleibt, verliert; an Diensttagen ist der Mann nicht zur Verhandlung verpflichtet"
+   ],
+   "significance": "Rechtsbehelf gegen Versäumnisurteile.",
+   "keywords": [
+    "Herausziehen",
+    "Eid",
+    "Lehnsgenossen",
+    "Steigbügel",
+    "Säumnis"
+   ],
+   "synonyms": [
+    "utten",
+    "Wiedereinsetzung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 169,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0169",
+     "label": "81r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 170,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0170",
+     "label": "81v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-67",
@@ -11250,16 +12979,54 @@
    "part": "lehnrecht",
    "article": 67,
    "label": "Lehnrecht 67",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Verhalten vor dem Lehngericht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Nur Mannen des Herrn dürfen in den Hof; Waffen, Sporen, Hut, Handschuhe, Ringe und Spangen ablegen",
+    "Vorsprecher, Beratung (Gespräch) und Frageordnung; der Mann spricht nicht offen, sondern flüstert dem Vorsprecher zu",
+    "Zur Beratung erhält der Mann seine Lehnsgenossen bis auf drei, die Urteil finden"
+   ],
+   "significance": "Lebendiges Bild der Gerichtsförmlichkeit mit Spott über „dumme Leute“, die an Förmeleien glauben.",
+   "keywords": [
+    "Gerichtsordnung",
+    "Waffen",
+    "Vorsprecher",
+    "Beratung",
+    "Förmlichkeit",
+    "Gefahr"
+   ],
+   "synonyms": [
+    "uare",
+    "ghespreke",
+    "Prozessgefahr",
+    "Formstrenge"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 10,
+   "pages": [
+    {
+     "pageNumber": 170,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0170",
+     "label": "81v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 171,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0171",
+     "label": "82r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 172,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0172",
+     "label": "82v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-68",
@@ -11268,16 +13035,53 @@
    "part": "lehnrecht",
    "article": 68,
    "label": "Lehnrecht 68",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gewette und Buße im Lehngericht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Mann wettet für jede gewettewürdige Schuld, außer er schwört sich frei",
+    "Das Gewette beträgt zehn Pfund; Fürsten mit Fahnenlehen zahlen dem König hundert Pfund",
+    "Keine Buße für Wischen, Schnäuzen, Spucken, Gähnen, Husten oder Fliegenverscheuchen – „auch wenn dumme Leute das meinen“"
+   ],
+   "significance": "Höhe und Grenzen der Lehnsbußen, mit Kritik an Formalismus.",
+   "keywords": [
+    "Gewette",
+    "Buße",
+    "zehn Pfund",
+    "Fahnenlehen",
+    "Sitzen",
+    "Gerichtsetikette"
+   ],
+   "synonyms": [
+    "wedde",
+    "böte",
+    "Bußgeld"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 13,
+   "pages": [
+    {
+     "pageNumber": 172,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0172",
+     "label": "82v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 173,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0173",
+     "label": "83r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 174,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0174",
+     "label": "83v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-69",
@@ -11286,16 +13090,67 @@
    "part": "lehnrecht",
    "article": 69,
    "label": "Lehnrecht 69",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
-   "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "title": "Urteilsschelte und Zug an den Oberherrn",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Schelten kann nur, wer den Heerschild hat; Mindestbesitz oder Bürgen",
+    "Formel der Urteilsschelte; Zug vor den oberen Herrn mit zwei Boten (genaue Kostenregeln)",
+    "Letzte Instanz ist das Reich: Der König ist Richter über Hals, Eigen und Lehen; Friedensbruch kostet zwei Gewette (weltlich und geistlich)"
+   ],
+   "significance": "Instanzenzug des Lehnrechts bis zum König.",
+   "keywords": [
+    "Urteilsschelte",
+    "Instanzenzug",
+    "König",
+    "Boten",
+    "Formel",
+    "Friedensbruch"
+   ],
+   "synonyms": [
+    "ordel scelden",
+    "Appellation",
+    "then"
+   ],
+   "note": "Die Abschnitte 8–12 enthalten bei Lübben Kapitelzahlen der Oldenburger Hs. (L–LV) im Text.",
+   "status": "draft",
+   "sectionCount": 12,
+   "pages": [
+    {
+     "pageNumber": 174,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0174",
+     "label": "83v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 175,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0175",
+     "label": "84r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 176,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0176",
+     "label": "84v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 177,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0177",
+     "label": "85r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 178,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0178",
+     "label": "85v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-70",
@@ -11304,16 +13159,37 @@
    "part": "lehnrecht",
    "article": 70,
    "label": "Lehnrecht 70",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Grenzstreit zweier Dörfer",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Streiten zwei Dörfer um eine Markgrenze, entscheiden die nächsten Nachbarn durch Zeugnis",
+    "Wer das meiste Zeugnis hat, behält",
+    "Bei unlösbarem Streit wie im Landrecht beschrieben"
+   ],
+   "significance": "Verweis vom Lehnrecht ins Landrecht.",
+   "keywords": [
+    "Grenze",
+    "Markscheide",
+    "Dorf",
+    "Nachbarn",
+    "Zeugnis"
+   ],
+   "synonyms": [
+    "marcschedinghe",
+    "Grenzstreit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 178,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0178",
+     "label": "85v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-71",
@@ -11322,16 +13198,69 @@
    "part": "lehnrecht",
    "article": 71,
    "label": "Lehnrecht 71",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Besondere Lehen: Gerichts-, Eigen-, Burg- und Fürstenlehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Drei Belehnungsarten weichen vom gemeinen Lehnrecht ab",
+    "Gerichtslehen kommt nicht an die vierte Hand außer dem Schultheißentum; Geächtete dürfen nicht richten",
+    "Burglehen: Wohnpflicht auf der Burg, kein Heer- und Hofdienst; Fürst ist, wer sein Fahnenlehen als Erster vom König empfängt"
+   ],
+   "significance": "Sonderregeln für Gerichts-, Eigen- und Burglehen sowie Definition des Reichsfürsten.",
+   "keywords": [
+    "Gerichtslehen",
+    "Schultheiß",
+    "Burglehen",
+    "Eigen",
+    "Fahnenlehen",
+    "Reichsfürst",
+    "Burgmann"
+   ],
+   "synonyms": [
+    "borchlen",
+    "uanlen",
+    "uorste",
+    "Burgmannen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 23,
+   "pages": [
+    {
+     "pageNumber": 178,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0178",
+     "label": "85v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 179,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0179",
+     "label": "86r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 180,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0180",
+     "label": "86v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 181,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0181",
+     "label": "87r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 182,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0182",
+     "label": "87v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-72",
@@ -11340,16 +13269,53 @@
    "part": "lehnrecht",
    "article": 72,
    "label": "Lehnrecht 72",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Burgrecht und Burglehensverfahren",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der König lädt einen Fürsten mit Brief und Siegel über sechs Wochen",
+    "Der Herr kann den Burgmann nur in drei Sachen laden: Untreue, Verlassen der Burg, Streit um Burglehen",
+    "Zerstörte Burg: Burglehen bleibt bis zum Wiederaufbau rechtes Lehen; mit Urteil zerstörte Burgen dürfen nicht wieder aufgebaut werden"
+   ],
+   "significance": "Eigenes Verfahrensrecht der Burgmannschaft.",
+   "keywords": [
+    "Burgrecht",
+    "Burgmann",
+    "König",
+    "Siegel",
+    "Burgbruch",
+    "Wiederaufbau"
+   ],
+   "synonyms": [
+    "borchrecht",
+    "Burghut",
+    "borchsate"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 10,
+   "pages": [
+    {
+     "pageNumber": 182,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0182",
+     "label": "87v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 183,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0183",
+     "label": "88r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 184,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0184",
+     "label": "88v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-73",
@@ -11358,16 +13324,36 @@
    "part": "lehnrecht",
    "article": 73,
    "label": "Lehnrecht 73",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Dienste von verliehenem Zinsgut",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Herr kann sich Dienste der Zinsleute vorbehalten, wenn er sie bei der Verleihung ausnimmt",
+    "Freies Gut, an einen Gast vergeben, schuldet nur das Vereinbarte – aber Gericht und Send sind zu besuchen"
+   ],
+   "significance": "Abgrenzung von Grund- und Lehnsherrschaft.",
+   "keywords": [
+    "Zinsleute",
+    "Dienst",
+    "freies Gut",
+    "Gast",
+    "Send"
+   ],
+   "synonyms": [
+    "tinsgelde",
+    "Grundherrschaft"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 184,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0184",
+     "label": "88v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-74",
@@ -11376,16 +13362,37 @@
    "part": "lehnrecht",
    "article": 74,
    "label": "Lehnrecht 74",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gewere aus Vormundschaft; Beweis der Lehnsgewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gewere aus Vormundschaft für Frau oder Kind oder ohne Wissen des Herrn begründet kein Lehen durch Eid allein",
+    "Lehnsgewere wird mit sechs Mannen des Herrn bezeugt",
+    "Bloße Gewere bezeugt man selbsiebent mit unbescholtenen Leuten"
+   ],
+   "significance": "Unterscheidung von Lehnsgewere und bloßer Gewere im Beweisrecht.",
+   "keywords": [
+    "Gewere",
+    "Vormundschaft",
+    "Beweis",
+    "sechs Mannen",
+    "selbsiebent"
+   ],
+   "synonyms": [
+    "lenesche were",
+    "blote were"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 184,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0184",
+     "label": "88v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-75",
@@ -11394,16 +13401,44 @@
    "part": "lehnrecht",
    "article": 75,
    "label": "Lehnrecht 75",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Frauenlehen mit männlichem Mitbelehnten",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Es ist gut, wenn ein Mann mit einer Frau zusammen empfängt, damit er beim Tod des Herrn folgen kann",
+    "Wer den anderen überlebt, hat Lehnrecht; nur „zur Hand der Frau“ Empfangenes endet mit ihrem Tod",
+    "Gegenüber einem Herrn, der Heimfall behauptet, behält die Frau mit Gewährschaft"
+   ],
+   "significance": "Praktische Absicherung von Frauen im Lehnsverband.",
+   "keywords": [
+    "Frauenlehen",
+    "Folge",
+    "Heerschild",
+    "Gesamthand",
+    "Gewährschaft"
+   ],
+   "synonyms": [
+    "vrowen göd",
+    "Mitbelehnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 184,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0184",
+     "label": "88v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 185,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0185",
+     "label": "89r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-76",
@@ -11412,16 +13447,53 @@
    "part": "lehnrecht",
    "article": 76,
    "label": "Lehnrecht 76",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Pfändung, Absage und Treue",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Mann darf den Herrn pfänden und verklagen, wenn ihm Recht verweigert wurde",
+    "Absage: Sagt der Mann ab, wird das Gut frei; sagt der Herr ab, verliert er das Gut des Mannes",
+    "Absage nur persönlich, mit Frist von Tag und Nacht bzw. sechs Wochen; heimliche Rüstung ist Untreue"
+   ],
+   "significance": "Fehde- und Absageregeln im Lehnsverhältnis (diffidatio).",
+   "keywords": [
+    "Absage",
+    "Fehde",
+    "Pfändung",
+    "Untreue",
+    "Geleit",
+    "Treue"
+   ],
+   "synonyms": [
+    "untsegghen",
+    "Diffidation",
+    "Lehnsaufkündigung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 8,
+   "pages": [
+    {
+     "pageNumber": 185,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0185",
+     "label": "89r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 186,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0186",
+     "label": "89v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 187,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0187",
+     "label": "90r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-77",
@@ -11430,16 +13502,45 @@
    "part": "lehnrecht",
    "article": 77,
    "label": "Lehnrecht 77",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Bauermeisterlehen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Das Lehen des Bauermeisters vererbt sich auf den Sohn, auch ohne Heerschild",
+    "Folge an einen anderen Herrn möglich, Weiterverleihen nicht",
+    "Kein Zeugnis und kein Urteil über heerschildvollkommene Männer"
+   ],
+   "significance": "Lehen für dörfliche Ämter außerhalb der Ritterschaft.",
+   "keywords": [
+    "Bauermeister",
+    "Dorf",
+    "Amtslehen",
+    "Vererbung",
+    "Heerschild"
+   ],
+   "synonyms": [
+    "burmester",
+    "Dorfschulze",
+    "Bauerschaft"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 187,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0187",
+     "label": "90r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 188,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0188",
+     "label": "90v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-78",
@@ -11448,16 +13549,37 @@
    "part": "lehnrecht",
    "article": 78,
    "label": "Lehnrecht 78",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Schlusswort des Lehnrechts",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "„Alles Lehnrecht habe ich zu Ende gebracht“",
+    "Befristete Lehen gibt es nicht: Belehnung währt lebenslang, außer bei Auflassung oder Urteil",
+    "Wer Recht spricht, gewinnt Hass; dieses Buch gewinnt viele Feinde unter denen, die gegen Gott und Recht streben"
+   ],
+   "significance": "Persönliches Nachwort Eikes zur Rechtsaufzeichnung und ihren Gegnern.",
+   "keywords": [
+    "Schlusswort",
+    "Eike von Repgow",
+    "Unrecht",
+    "Feinde",
+    "Lebenszeit"
+   ],
+   "synonyms": [
+    "Epilog",
+    "Nachwort"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 188,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0188",
+     "label": "90v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-79",
@@ -11466,16 +13588,44 @@
    "part": "lehnrecht",
    "article": 79,
    "label": "Lehnrecht 79",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Reichsdienst und Lehngericht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Während eines Lehnsverfahrens kann der Herr keine weitere Ladung ansetzen",
+    "Mannen im Reichsdienst können von ihren Herren nicht geladen werden",
+    "Reichsheerfahrt befreit vom Lehngericht, nicht aber vom Landrecht"
+   ],
+   "significance": "Vorrang des Reichsdienstes vor dem Lehngericht.",
+   "keywords": [
+    "Reichsdienst",
+    "Heerfahrt",
+    "Hoffahrt",
+    "Ladung",
+    "Landrecht"
+   ],
+   "synonyms": [
+    "des rikes denest",
+    "Reichsheerfahrt"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 188,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0188",
+     "label": "90v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 189,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0189",
+     "label": "91r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   },
   {
    "id": "lehnrecht-80",
@@ -11484,16 +13634,52 @@
    "part": "lehnrecht",
    "article": 80,
    "label": "Lehnrecht 80",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zuweisung an einen Nicht-Ebenbürtigen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Weist der Oberherr den Mann an einen Nicht-Ebenbürtigen seines Herrn, kann er widersprechen",
+    "Beweis: geringere Geburt selbsiebent, Erniedrigung durch Mannschaft selbdritt mit Heerschildfähigen",
+    "Wer mit Zeugnis widerlegt, muss nicht noch einmal gewiesen werden – der Herr muss selbst verleihen. „Amen.“"
+   ],
+   "significance": "Schutz vor Erniedrigung durch Zuweisung; Schluss des Lehnrechts.",
+   "keywords": [
+    "Zuweisung",
+    "Ebenbürtigkeit",
+    "Heerschild",
+    "Erniedrigung",
+    "Zeugnis"
+   ],
+   "synonyms": [
+    "wisinghe",
+    "unghenot",
+    "Ebenbürtigkeit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 189,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0189",
+     "label": "91r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 190,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0190",
+     "label": "91v",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    },
+    {
+     "pageNumber": 191,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0191",
+     "label": "92r",
+     "mappingStatus": "unverified",
+     "method": "estimate-lines"
+    }
+   ]
   }
  ]
 }

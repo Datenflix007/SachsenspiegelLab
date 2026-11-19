@@ -1,7 +1,7 @@
 {
  "edition": "August Lübben (Hg.): Der Sachsenspiegel, Landrecht und Lehnrecht, nach dem Oldenburger Codex picturatus von 1336. Oldenburg 1879",
  "sourceUrl": "https://archive.org/details/dersachsenspiege00lbbe",
- "generatedAt": "2026-11-19T19:39:12.331Z",
+ "generatedAt": "2026-11-19T21:53:26.263Z",
  "note": "Automatisch aus OCR erzeugt; OCR-Fehler möglich. segmentation=anchor: Gliederung manuell über Anker geprüft.",
  "sections": [
   {
@@ -5417,7 +5417,7 @@
    "articleId": "lehnrecht-1",
    "article": 1,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe lenrecht cunnen wille, de uolghe desses bokes lere. Aller erst sole wi merken, dat de herschilt an den coninghe beghint unde in den seueden leut. Doch h ebbet de leyen herren den sesten schilt in den seilenden ghebracht, sint se der bischope man worden, des er nicht ne was."
   },
   {
@@ -5425,7 +5425,7 @@
    "articleId": "lehnrecht-2",
    "article": 2,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Papen, coplude, dorperc, wif unde alle de rechtes daruet eder unechte gheborn sint unde al de nicht ne sin uan ridders art uan uader unde uan elderuader, de solen /^rechtes daruen."
   },
   {
@@ -5433,15 +5433,23 @@
    "articleId": "lehnrecht-2",
    "article": 2,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Swelieh berre doch deser eneme lent göd, uan den hebbet se lenrecht in den göde unde ne erft dat nicht in ere hindere unde daruet seluen der uolghc in enen anderen herren. Van ghetughe mach men se uorlegghcn in lenrechte unde ordel to uindene al de des herschildes daruet. Ir berre auer, uan den se lenrecht hebbet, de mot eren tueb liden unde ordel unde ne mach se uppe nemene mitten."
+   "segmentation": "anchor",
+   "text": "Swelieh berre doch deser eneme lent göd, uan den hebbet se lenrecht in den göde unde ne erft dat nicht in ere hindere unde daruet seluen der uolghc in enen anderen herren."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-2",
+   "article": 2,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Van ghetughe mach men se uorlegghcn in lenrechte unde ordel to uindene al de des herschildes daruet. Ir berre auer, uan den se lenrecht hebbet, de mot eren tueb liden unde ordel unde ne mach se uppe nemene mitten."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-2",
    "article": 2,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of twe man en göd anspreket ghelike unde tueb dar to bedet, en de to den hereschilde nicht gbeboren ne si unde en ander, de an lenrechte vuleomen si, des tueb sal uore ghan, de in den hereschilde vulcomen is, unde ghenes tuch si uorleghet."
   },
   {
@@ -5449,7 +5457,7 @@
    "articleId": "lehnrecht-2",
    "article": 2,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelik man to den hereschilde nicht gbeboren nis, de ne mach nicht weygheren göd to lenende, deme des herescbildes daruet unde ne mach ninen sinen herren uorlegghen, of he an enc uolgben sal, dannoch he des herescbildes nicht ne heuet."
   },
   {
@@ -5457,55 +5465,31 @@
    "articleId": "lehnrecht-2",
    "article": 2,
    "section": 6,
-   "segmentation": "auto",
-   "text": "Of en man vulcomen an den hereschilde uan papen eder uan wiue eder uan enen, de des herescbildes nicht ne heuet, bclent wirr, deme lene mach he nicht uolghen an enen andren herren; VIII. it ne si, dat en pape eder en wif des rikes göd bi core untfa unde den herescbilt dar af bebbe; dat göd moghen se"
+   "segmentation": "anchor",
+   "text": "Of en man vulcomen an den hereschilde uan papen eder uan wiue eder uan enen, de des herescbildes nicht ne heuet, bclent wirr, deme lene mach he nicht uolghen an enen andren herren; VIII. it ne si, dat en pape eder en wif des rikes göd bi core untfa unde den herescbilt dar af bebbe; dat göd moghen se lenen unde den göde mach men uolghen au enen andren herren."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-2",
    "article": 2,
    "section": 7,
-   "segmentation": "auto",
-   "text": "lenen unde den göde mach men uolghen au enen andren herren. Borchlen auer unde kerken unde alle len, dar en man den rike plichtich nis nicht af to denende, dar mach pape lenen unde wif, al ne hebbet se des herescildes nicht, unde den mach men uolghen in enen andren herren."
+   "segmentation": "anchor",
+   "text": "Borchlen auer unde kerken unde alle len, dar en man den rike plichtich nis nicht af to denende, dar mach pape lenen unde wif, al ne hebbet se des herescildes nicht, unde den mach men uolghen in enen andren herren."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-3",
    "article": 3,
    "section": 1,
-   "segmentation": "auto",
-   "text": "De man sal l)i plicht sinen herren hnlde don unde sweren, dat he eine also truwe unde also holt si; alse dor recht en man sinen herren solc, de wilc he sin man wesen wille unde sin göd hebben wille. De wile hct nicht ne dot, so ne mach he nemcncs tucb sin an lenrechte. He sal oc sinen herren mit worden unde mit dat, war he bi eine is, eren unde upstan keghen ene unde enc laten uorc gan. ¶ Na des uader dode de sone come binnen iare linde daghe to sime herren unde bede eme sine manscap mit ghesamneden handen unde ga eme also na, of de herre sta, dat, he ene rcken moghe. Sit he auer, so sal lie uor eine sie knen. Summe lude segget, dat he de hande solc wegghen deme herren to, des nis nielif; wante alse de man geyt to den Zu rren, dar lie stat, ( der knet uor ene dar he sit, so weghet {.2. al sin lif unde moten ok de bände waghen. Dus spreke de man, also he siues herren godes sint mit gheualdeden | handen: berre, ik sinne in iu soghedanes godes, als ik mit rechte an iu ghebracht bebbe, vnde bede iu mine manscap dar ummc enewarue, anderwarue, driddewarue, unde sette des iuwe man to tughe."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-3",
-   "article": 3,
-   "section": 3,
-   "segmentation": "auto",
-   "text": "Of de berre weygheret mit unrechte, dat he ene to manne Untfa, de man sal behalden dat göd, dar he sine manschap umme bot, unde besitte ane denest, unde ne darf es nimber gbesinnen; de wile be des leueude orcunde heuet, VIL vnde erft dat god an sin kint, unde mach dar mede belenen sine man, wante he heuet mit rechte behalden sin göd, dar eme rechtes af ghcweygheret was. De mau ne darf nicht anderwarue beden sine manscap, it ne si dat eme*) sin tueb sterue."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-3",
-   "article": 3,
-   "section": 4,
-   "segmentation": "auto",
-   "text": "Swar auer den manne sin god mit gbewalt nomen wird, de sal sine claghc iarlikes uornyen, dor dat be der ghewere daruet."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-3",
-   "article": 3,
-   "section": 5,
-   "segmentation": "auto",
-   "text": "Ghebut auer de berre den manne sin god, he sal dat altohant un/fan, eder he uorsumet sie dar an, wante de berre brect eme sine iartale mit den bedene, also de man sc lenghet mit deme sinnene."
+   "segmentation": "anchor",
+   "text": "De man sal l)i plicht sinen herren hnlde don unde sweren, dat he eine also truwe unde also holt si; alse dor recht en man sinen herren solc, de wilc he sin man wesen wille unde sin göd hebben wille. De wile hct nicht ne dot, so ne mach he nemcncs tucb sin an lenrechte. He sal oc sinen herren mit worden unde mit dat, war he bi eine is, eren unde upstan keghen ene unde enc laten uorc gan."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-4",
    "article": 4,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Des rikes denest, dat deine manne gheboden wirt mit ordelen ses weken uor den daghe, er he uaren solc, unde eine dat ghecundighet wirt, dat it twe man des herren hören, dat sal he deneu ]) l)i plicht hinnen dudeschci tunghen, de deme roniescheme rike underdan is. Alle de auer in osterbalf der sale helent sin, de solen denen to wenden, to bebem unde to polenen. Ses weken sal de man denen simc herren bi siner cost, ses weken uore unde ses weken na sal he des rikes vrede hebben unde scachtrowc, so dat ene nin sin herre to lenrechte deghedinghen ne mach noch des rikes denest beden."
   },
   {
@@ -5513,7 +5497,7 @@
    "articleId": "lehnrecht-4",
    "article": 4,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan auer de dudeschen enen coninch keset unde he to rome uaret na der wiginghe, so sint pliebtich ses uorsten mit eme to uarende, de de ersten in deme corc sin, de bischop uan meghenzen, uan trere, van colne, de palenzgrcuc uan den rine, de hertoghe van sassen, de maregreue uan brandenborch, dor dat den pauese wetelik si des coninghes redelike core."
   },
   {
@@ -5521,7 +5505,7 @@
    "articleId": "lehnrecht-4",
    "article": 4,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Oc sal dar uaren iewelik man mit tinen herren, de des rikes god to lene heuet, eder he sal losen de uart mit den tegheden punde, dat he iarlikes uan eme heuet. Desc hereuart sal men beden ses weken unde en iar unde die daghe uore er der samninghe, unde de hereuart lent den dudeschen, alse de coninch ghewigbet is."
   },
   {
@@ -5529,7 +5513,7 @@
    "articleId": "lehnrecht-4",
    "article": 4,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man sal oc sime herren denen dar mede, dat he eme ordelc uinde to lenrechte er mitdagbe unde buten gbebundenen daghen. Swat auer er middagbe unde buten gbebundenen daghen unde hüten uircldaghen mit ordelen begrepen wird, dat mot men wol lenden na middaghe unde in ghebundenen daghen, ane in uireldaghen."
   },
   {
@@ -5537,7 +5521,7 @@
    "articleId": "lehnrecht-4",
    "article": 4,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe en perd eder sines godes gight sime herren lent heuet, eder icht in sime deneste uorlorn, dat eine unuorgulden is, de wile nis be nicht plichtich sime herren to denende noch lenrecbtes to plegende. Weygheret auer de herre sinen manne rechtes, swen be uan im beclagbet wirt uor sinen mannen, de wile ne darf be nicht eine denen noch lenrecbtes pleghen."
   },
   {
@@ -5545,7 +5529,7 @@
    "articleId": "lehnrecht-5",
    "article": 5,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Twen mannen mach de herre en göd »§.l. lenen also dat en de were dar an hebbe unde de andere dat ghedinghe, of de andere an leneruen sterue, det in gheweren heuet. An ghedinghe nis nin uolgbe. Lat U oc ghene, det in gheweren heuet, dat ghedinghe is ghebroken, be ne untfat weder, de it ghelaten heuet unde sterue dar an."
   },
   {
@@ -5553,7 +5537,7 @@
    "articleId": "lehnrecht-5",
    "article": 5,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so dat göd in gheweren heuet, de mach it ghetugheu, of lies bedarf, mit des herren mannen, det weten, dat it sin len si. Det ghedinghe dar an heuet, de mot ghetughen mit den, det saghen unde borden, dat it eine lent si, dar dat he der were daruet."
   },
   {
@@ -5561,7 +5545,7 @@
    "articleId": "lehnrecht-6",
    "article": 6,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De nader erft uppen sone de ghewere des godes mit den göde; dor dat ne bedarf de sone nicht, dat men eme des uader göd bewise."
   },
   {
@@ -5569,7 +5553,7 @@
    "articleId": "lehnrecht-6",
    "article": 6,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelich man auer des sones daruet, de erft uppen herren de ghewere des godes, it ne si dat de herre dat ghedinghe dar an uorlent hebbe unde de beiende man dat behalde na rechte binnen siner iartale."
   },
   {
@@ -5577,7 +5561,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelich herre en göd lent sinen manne, swar dat Art. eme erst3} ledich werde, it si luttel eder uele, VII. unde dar na lent enen anderen en benomet ghedinghe, mit den ersten lene ne mach ghene desen sin benomde ghedinghe nicht breken, swan ghene sterft, det in gheweren heuet, wante it den herren nicht ledich ne wart; it ne si ofte men dat ghedinghe to ener vluchtsale lene binnen ghenes sukebedde, de it in gheweren heuet."
   },
   {
@@ -5585,7 +5569,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "lene mot auer sin ghedinghe tughen na dinghetes rechte uor den herren kegben den man, de sin god ansprict, al bekenne de herre eine beyden erer leninghe. Mit desser becantnisse des herren behalt de man sin göd kegben den herren an gbetucb, unde nicht kegbeu Binen husghenot."
   },
   {
@@ -5593,7 +5577,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe1 i cli herre en göd lent sinen manne, dar mede nis eine de ghewere nicht ghevernet keghen sinen herren, ofte eme sin herre des gödes nicht ne becant, dat doch sin man nan sinenthaluen in gheweren hadde."
   },
   {
@@ -5601,7 +5585,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of twe man en göd anspreket, de beyde der ghewere daruet, beyde solen se benomen de tid der leningbe, unde welieb | ere erst de leninghe tugben mach, de behalt dat göd mit rechte."
   },
   {
@@ -5609,7 +5593,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan en herre lent göd sinen manne, war it eme erst ledicli wird uan sines inannes dode, unde dar an nicht anders ne bescedet, de man sal dat erste god hebben, dat deine herren ledicli wird, it si ledicli eder uorlent."
   },
   {
@@ -5617,7 +5601,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Iewelik nmbewiset göd, dat den manne ghelent is, dat sal de man bebalden mit ghetughe, swen it eme ghelent wird, dar he der ghewere an daruet."
   },
   {
@@ -5625,7 +5609,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dat göd, dat erst ledicli wird, des sal sie de man underwinden, alne si es mer eder min, dan eme ghelent si, bet be siner leninghe de uulle bebbe."
   },
   {
@@ -5633,7 +5617,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of deme manne uorsmat dat len, dat deine herren ledicli wird, unde bet eme nicht to ne tud hinnen iare unde daghe, uan deme si de herre ledicli uortmer, be ne do sine unschult dar to, dat lies nicht ne wiste, dat it sinen herren ledich were."
   },
   {
@@ -5641,7 +5625,7 @@
    "articleId": "lehnrecht-7",
    "article": 7,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In euer sake uan eme lene ne moghen se twe nicht tueb sin, de wile se an deme lene nicht bedelt ne sin."
   },
   {
@@ -5649,7 +5633,7 @@
    "articleId": "lehnrecht-8",
    "article": 8,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of se twene mit enen lene belent des gödes wat le«t eneme manne, ir ne weder ne mach au den andren an deme göde sime manne nicht uordelen noch uplaten sinen herren, also als it deine andren scade, de wile se an deme gode unbedelt sin."
   },
   {
@@ -5657,31 +5641,47 @@
    "articleId": "lehnrecht-8",
    "article": 8,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De herre mot wol sinen mannen beden mit ordelen, de en göd uan eme hebbet, dat se sie binnen ses wTeken besceden, dat bet wete, uppe wen be sines denstes se, unde ne dot ses nicht, se werdet wecldehaft dar umme, unde men uordelt en ere göd,, of en ere here mit lenreebte uolghet."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-9",
+   "article": 9,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Swe enes herren man is, uorespreke mot he wol sin unde ordel vinclen bin lenrechte, al ne bebbe he nin göd uan den herren. Ordel siner manne ne mot he auer nicht scelden, he ne sette borghen enen beienden manne des herren, dat he mit rechte vulcome eder dat ordel mit rechte late."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-9",
+   "article": 9,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Swelik man drie ordel scheid nnde eine dat weder vunden wirt, dat het nicht also beschulden ne hebbe als it eme helpene si, nyn ordel ne mot he mer scelden, he ne hebbe ghebeteret, dat he an den dren ordelen missedede."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-10",
    "article": 10,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Swe enes herren man is, uorespreke mot he wol sin unde ordel vinclen bin lenrechte, al ne bebbe he nin göd uan den herren. Ordel siner manne ne mot he auer nicht scelden, he ne sette borghen enen beienden manne des herren, dat he mit rechte vulcome eder dat ordel mit rechte late. ¶ Ittelike lüde segget, dat men nyn ghedinghe lenen ne mote ane ghenes bede, det göd in gheweren heuet; des nis nicht, wante de man ghctu^t sine leningbe, of hes bedaruet, unde nemannes bede."
+   "segmentation": "anchor",
+   "text": "Ittelike lüde segget, dat men nyn ghedinghe lenen ne mote ane ghenes bede, det göd in gheweren heuet; des nis nicht, wante de man ghctu^t sine leningbe, of hes bedaruet, unde nemannes bede."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-10",
    "article": 10,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Swelik man drie ordel scheid nnde eine dat weder vunden wirt, dat het nicht also beschulden ne hebbe als it eme helpene si, nyn ordel ne mot he mer scelden, he ne hebbe ghebeteret, dat he an den dren ordelen missedede. ¶ Is oc en man belent uan sime herren mit enen punde eder mit twen, war it eme erst ledich wirt, lenrecht heuet he dar an; noch groter recht heuet dese dar an, dem it gheleghen is unde benomet wird."
+   "segmentation": "anchor",
+   "text": "Is oc en man belent uan sime herren mit enen punde eder mit twen, war it eme erst ledich wirt, lenrecht heuet he dar an; noch groter recht heuet dese dar an, dem it gheleghen is unde benomet wird."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-10",
    "article": 10,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan en herre sinen manne göd bewiset, dat he eme lent, tohant heuet de man de ghewere des godes, dat des herren was7 er het eme lende."
   },
   {
@@ -5689,7 +5689,7 @@
    "articleId": "lehnrecht-10",
    "article": 10,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swem auer de herre weygheret to bewisene sodan göd, alse he eme ghelent heuet, de man underwinde sie sogedanes godes, alse eme de herre ghelent heuet, war it eme ledich si, sunder bewisinghe."
   },
   {
@@ -5697,7 +5697,7 @@
    "articleId": "lehnrecht-10",
    "article": 10,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Heuet auer de herre en dorp eder ene stad bescheden, dar he eme sin god inne ghelent heuet, de man ne mot nicht in ene andere stad uami. Behalt he dat god, des he sie dus underwint ane bewisineghe iar unde dach ane rechte wedersprake sines herren, de herre ne mach dat eme nicht wandelen."
   },
   {
@@ -5705,7 +5705,7 @@
    "articleId": "lehnrecht-11",
    "article": 11,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelik god de man an sinen weren nicht ne heuet unde eme nicht ne bewiset is, deme ne mach he nicht uolghen an enen andren herren noch eruen an sinen sone. Swelik göd men auer nimpt deme manne mit ghewalt, unde het iruolghet mit rechter claghe, dat göd erft he uppe sinen sone unde uolghet eme suluen an enen andren herren, al darue he der ghewere, of he de rechten claghe tughet."
   },
   {
@@ -5713,7 +5713,7 @@
    "articleId": "lehnrecht-11",
    "article": 11,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre sinen manne lent en gantz dorp eder wingarden eder tegheden eder gherichte eder soghedanes dinghes icht, eder al dat he ledich heuet in ener stad, den lene uolghet de man unde erft it, al darue he der wisinghe."
   },
   {
@@ -5721,7 +5721,7 @@
    "articleId": "lehnrecht-11",
    "article": 11,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In moleii linde in munte unde in tolne und»' in wingarden unde in teglieden eder in duschedanen dinghen, of en man belent wirt; den lene uolghet he nnde erft it, al bebbe de heri'C des leiieS Sind in siner (///eirall l<> hestadende."
   },
   {
@@ -5729,7 +5729,7 @@
    "articleId": "lehnrecht-11",
    "article": 11,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sicor aller den mannen an creme Jene ghebrict, de wile de herve heuet an siner ghewalt des lenes stad, undc de bestadet, de wile sal de herre den mannen irvnllen iren seaden."
   },
   {
@@ -5737,7 +5737,7 @@
    "articleId": "lehnrecht-11",
    "article": 11,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lent auer de herre dar ut mer den he dar inne hebbe, de de ersten leninghe dar inne hebbet, de solen ir göd an der snluen stad hebben, unde de na bej lent werdet unde des dar inne nicht ne hebbet, de solen den herren irstadingbe manen."
   },
   {
@@ -5745,7 +5745,7 @@
    "articleId": "lehnrecht-12",
    "article": 12,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man ne hebbe uan sime herren ene halue honen eder en göd, dat uif scillinghe ghelde bewisdes godes, so ne mach lie nemanes ghethuch sin binnen lenrechte."
   },
   {
@@ -5753,7 +5753,7 @@
    "articleId": "lehnrecht-12",
    "article": 12,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "L Des uorbannenen mannes eder des uoraebteden mannes eder uoruesten mannes ghethuch mach men wol norleggben in deme gherichte, dar lie uorbannen eder uoruest eder in achte gbedan is. Voresprake ne moghen se oc nicht wesen. Clagbet se uppe iemanne, he ne darf ene nicht antworden, of he dit ghettigben mach. Doch moten se antworden bir under al den, de uppe se claghet."
   },
   {
@@ -5761,7 +5761,7 @@
    "articleId": "lehnrecht-13",
    "article": 13,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre sime manne hesect godes, dat de man ses weken unde en iar in sinen weren heuet ghehat, na des dat het untfenc, ane des herren rechte wedersprake, of de man de rechten gbewere dar an ghetugheu mach mit seuen mannen, des lenes gbewere steret he allene uppen hilgben undc behalt dat gö3 ane ghetuch, of men mit rechter claghe de gbewere eme nicht breken ne mach. Swar men mit seuen mannen tughen sal, dar mot men wol enen unde twintich man umme den ghetuch uraghen. Doch ne mach nin man in borchlene recht len behalden ane ghetuch, al heuet het göd in gheweren,"
   },
   {
@@ -5769,7 +5769,7 @@
    "articleId": "lehnrecht-13",
    "article": 13,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lat auer en herre enen man sitten mit sinen gode iar unde dach ane rechte wederrede, alse he dur recht sal, de wile he sines godes sinnen sal eder it utten sal, mit den gheweren ne mach he sinen herren an deme gode nicht uerneu, of he sie uoriaret, unde of hes dan an enen andren Leren thud, de Lerre ne belialdet alse recht is."
   },
   {
@@ -5777,7 +5777,7 @@
    "articleId": "lehnrecht-13",
    "article": 13,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar men iarlikes tins af ghift, dar ne macL io de man an deme gode nin len behalden* Sprict auer de man Jen dar an unde de Lerre but mit ghetughe sin tinsgöd dar an to behaldene, deine maiine ne helpt de gliewere nicht, Le ne mote sin len mit gLettigLe beLalden keglien den Lerren; dat mot de man billikere don, of Los vulcomen mach, dan de Lerre mote tinsgöd an des mannes lene behalden."
   },
   {
@@ -5785,47 +5785,71 @@
    "articleId": "lehnrecht-13",
    "article": 13,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ene wort eder enen morghen eder enen man mot de man wal uppen LiligLen beLalden keglien sinen Lerren ander al sinen gode, of Le dan in enen andren Lerren uolghct, of Let in rechten gheweren heuet."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-14",
+   "article": 14,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "En göd mach manighes herren, sin, also dat it en uan den andren Lebbc; doch mot enes de ghewere sin. Swet in mit unde in gulde heuet vnde den tins dar ut nimpt, it si wif eder man, de heuet de ghewere dar an; deme sal men dar af antworden, of dar ieman uppe niisse-dot. Doch ne het dat nyn recht were, dat de man mit ghewalt besit, ofte men de walt iruolghet mit rechter claghe unde dat ghetughen mach."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-14",
+   "article": 14,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Seghet eme en man göd uan enen andren herren an in sines herren ieghenwarde uan deme het heuet, heuet es de Lerre tncL siner manne, an deme gode ne heuet de man nin recht mer, gLene ne bebaldet, uan deme Let eine to segbet."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-14",
+   "article": 14,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Dar umme ne sal niman sines lenes gheweren benomen uor deme ouersten herren, de wile lies mit lenrechte weygLeren mach; wante de man nis nicht plichtich umme sines herren god den ouersten herren to antwordene, dat he an sinen weren heuet, al si he oc wol sin man. Mach auer de ouerste Lerre tugLen, dat sin man eme dat god upgLelaten Lcbbc eder eme mit reclite uordelt si, gliene, de de gliewere dar an Leuet, mot dat göd uorstan unde eme uolgLen an den ouersten Lerren»"
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-14",
+   "article": 14,
+   "section": 4,
+   "segmentation": "anchor",
+   "text": "Swenne en man sime Lerren göd besäet unde it eme untseglict uor sinen mannen, dat he uan eme heuet, dat god sal sime herren ledich sin. Heuet auer het uorlent unde underwint es sie de ouerste herre, de man, det göd in gheweren heuet, de Bai sinen herren mit ordelen Dianen, dat he sin göd aorsta unde des ouersten herren ansprake irleggbe mit rechte; dat sal lic don durch recht binnen ses weken. Weygberet auer de herre des to dondc weder recht, de man uolghe an den ouersten herren sime göde unde nc uorlese dar mede nicht, of it sin herre dar na behalde."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-15",
    "article": 15,
    "section": 1,
-   "segmentation": "auto",
-   "text": "En göd mach manighes herren, sin, also dat it en uan den andren Lebbc; doch mot enes de ghewere sin. Swet in mit unde in gulde heuet vnde den tins dar ut nimpt, it si wif eder man, de heuet de ghewere dar an; deme sal men dar af antworden, of dar ieman uppe niisse-dot. Doch ne het dat nyn recht were, dat de man mit ghewalt besit, ofte men de walt iruolghet mit rechter claghe unde dat ghetughen mach. ¶ Of cn herre sines manuea godes besäet uor den ouersten herren, eder het nicht henomet, wan het untfeyt unde het durch recht benomen sal, de man uolghe sime lene an den ouersten herren binnen sinen rechten deghedinghen jj. De herre mach sie uorspreken unde uorswighen in sime rechte unde nicht sine man, of sc dat göd uorstat na rechte."
+   "segmentation": "anchor",
+   "text": "Of cn herre sines manuea godes besäet uor den ouersten herren, eder het nicht henomet, wan het untfeyt unde het durch recht benomen sal, de man uolghe sime lene an den ouersten herren binnen sinen rechten deghedinghen jj. De herre mach sie uorspreken unde uorswighen in sime rechte unde nicht sine man, of sc dat göd uorstat na rechte."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-15",
    "article": 15,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Seghet eme en man göd uan enen andren herren an in sines herren ieghenwarde uan deme het heuet, heuet es de Lerre tncL siner manne, an deme gode ne heuet de man nin recht mer, gLene ne bebaldet, uan deme Let eine to segbet. ¶ Swan de man in den ouersten herren uolghet sime göde unde der leninghe eder der wisinghe an ene gheret, he is plichtich deme herren dat göd to henomene unde den herren, uan deme het ghehat hebbe, er mau ene belene eder wise."
+   "segmentation": "anchor",
+   "text": "Swan de man in den ouersten herren uolghet sime göde unde der leninghe eder der wisinghe an ene gheret, he is plichtich deme herren dat göd to henomene unde den herren, uan deme het ghehat hebbe, er mau ene belene eder wise."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-15",
    "article": 15,
    "section": 3,
-   "segmentation": "auto",
-   "text": "Dar umme ne sal niman sines lenes gheweren benomen uor deme ouersten herren, de wile lies mit lenrechte weygLeren mach; wante de man nis nicht plichtich umme sines herren god den ouersten herren to antwordene, dat he an sinen weren heuet, al si he oc wol sin man. Mach auer de ouerste Lerre tugLen, dat sin man eme dat god upgLelaten Lcbbc eder eme mit reclite uordelt si, gliene, de de gliewere dar an Leuet, mot dat göd uorstan unde eme uolgLen an den ouersten Lerren» ¶ Wil ene oc de herre nicht wisen, gbene sal de wisinghe behalden mit ghetughe keghen den herren mit siner manne rechte, dat he an ene also gheuolghet hebbe, alse he eme durch recht wisen sole. Ghetughet he dit keghen den ouersten herren, so ne bedarf he nines tughes keghen den herren, dar men ene wiset."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-15",
-   "article": 15,
-   "section": 4,
-   "segmentation": "auto",
-   "text": "Swenne en man sime Lerren göd besäet unde it eme untseglict uor sinen mannen, dat he uan eme heuet, dat god sal sime herren ledich sin. Heuet auer het uorlent unde underwint es sie de ouerste herre, de man, det göd in gheweren heuet, de Bai sinen herren mit ordelen Dianen, dat he sin göd aorsta unde des ouersten herren ansprake irleggbe mit rechte; dat sal lic don durch recht binnen ses weken. Weygberet auer de herre des to dondc weder recht, de man uolghe an den ouersten herren sime göde unde nc uorlese dar mede nicht, of it sin herre dar na behalde."
+   "segmentation": "anchor",
+   "text": "Wil ene oc de herre nicht wisen, gbene sal de wisinghe behalden mit ghetughe keghen den herren mit siner manne rechte, dat he an ene also gheuolghet hebbe, alse he eme durch recht wisen sole. Ghetughet he dit keghen den ouersten herren, so ne bedarf he nines tughes keghen den herren, dar men ene wiset."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-16",
    "article": 16,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Niman ne darf anderwarf entfan en göd, dat eme sin herre ghelent heuet, of het uplet eder uoreoft unde it auer weder untfeyt, he ne darue der were ses weken unde en iar."
   },
   {
@@ -5833,15 +5857,15 @@
    "articleId": "lehnrecht-17",
    "article": 17,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Swelikes mannes göd de herre enwech lent in sine antworde, des dat god is, ane des mannes rechte wedersprake, nin recht ne mach he mer an deme gode bereden, des len it er was. ¶ Len to burmesterschap ghelent erft de burmester uppen sone, al darue he des hereschildes, unde uolghet dar mede in enen andren herren; nicht ne mach het auer uorlenen. Mit den lene mach men ene wisen in cnen andren herren. Ninen herren nc mach be uorspreken in der uolghe, it si wif eder man. Van deme lene nc mach he nin tuch sin noch ordel ninden oucr cnen man vulcomen in deme herescilde."
+   "segmentation": "anchor",
+   "text": "Swelikes mannes göd de herre enwech lent in sine antworde, des dat god is, ane des mannes rechte wedersprake, nin recht ne mach he mer an deme gode bereden, des len it er was."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-18",
    "article": 18,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre sime manne to lenrechte deghedinghet, bin deghedinghe nis he nicht plichtich deme manne to antwordene, of he i ne ichtes schuldeghet, de wile sin sake unghelent is. Wirt auer des herren lenrecht ghevrist mit ordelen unde irsterft den manne cn göd an, it si ghedinge eder len, des he an dem herren sint eder but to behaldene mit rechte, de herre sal eme lenrecht don mit rechte binnen sinen ghedegbedinghen, al si des herren sculdeghinghe unuorendet. De herre machte anders an der schuldeghinghe toghen den man, bet dat he sie uoriarede an siner sinningbe."
   },
   {
@@ -5849,7 +5873,7 @@
    "articleId": "lehnrecht-19",
    "article": 19,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of en man an sines uorespraken wort nicht ne ied, unde of de herre den uorespraken sculdighet des, he mot darumme wedden, he ne swere dar uore, dat be anders nicht ghesproken ne hebbe, wen alse gbene bede, deme be to uorespraken gbegbeuen si."
   },
   {
@@ -5857,7 +5881,7 @@
    "articleId": "lehnrecht-19",
    "article": 19,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man mach aller sculdegbingbe untgan mit unschult, de ninman tngben ene mach, dat se uor ghericbte gbeschen si."
   },
   {
@@ -5865,7 +5889,7 @@
    "articleId": "lehnrecht-20",
    "article": 20,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swenne de sone na des uader dode leuet also langhe, dat men sine stcmne hören mach in ver wenden des huses, so is he beerft mit sines uader lene unde heuet dat gbevernt al den, de dat gbedinghe dar au hadden. De sone, de sterft er deme uadere, nis nin lenerue, waute he mit nine lene beerft nis; dor dat ne brect be nemenes gbedinghe an des uader lene."
   },
   {
@@ -5873,7 +5897,7 @@
    "articleId": "lehnrecht-20",
    "article": 20,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelekeme manne men sin göd uordelt eder he uplet, was eme ienich gbedinghe daran gheleghen, des daruet he mit den gode."
   },
   {
@@ -5881,7 +5905,7 @@
    "articleId": "lehnrecht-20",
    "article": 20,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar de sone deme uader nicht euenbordich nis unde de man weygheren mogben ir göd van eme to entfande, al leuet de sone na des uader dode, he ne uernet nemene nin gbedinghe an uorleghenen gode sines uader."
   },
   {
@@ -5889,7 +5913,7 @@
    "articleId": "lehnrecht-20",
    "article": 20,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of en herre to unrecbte sime manne untseghet, unde de man deme herren nicht, neweder dingbe noch len ne uerluset de man dar mede unde bebalt dat god ane denest oc to sime liue, mit deme be nicht uorebat uolgben ne mach."
   },
   {
@@ -5897,7 +5921,7 @@
    "articleId": "lehnrecht-20",
    "article": 20,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Biscope god unde uanlen sal de coningb gantz lenen unde nicht twien. Swe oc uan eme uorsten belent wird, de uanlen heuet, he ne darf dat len uan nemene untfan, de uanlenes daruet, al si be en gheboren uorste."
   },
   {
@@ -5905,7 +5929,7 @@
    "articleId": "lehnrecht-21",
    "article": 21,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De sone bebalt des uader seilt to lenrechte, de eme euenbordicA is, de wile he sie mit manscap nicht ne uornederer."
   },
   {
@@ -5913,15 +5937,55 @@
    "articleId": "lehnrecht-21",
    "article": 21,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de sone in des uader stad ne wil nicht man werden, dar mede nis sin seilt ne hoghet. It ne hoghet nicht des mannes seilt wan uanlen, of it eme ghelent wird. It ne erft niman nin len wan de uader uppen sone. &"
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-22",
+   "article": 22,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Na des uader dode de sone come binnen iare linde daghe to sime herren unde bede eme sine manscap mit ghesamneden handen unde ga eme also na, of de herre sta, dat, he ene rcken moghe. Sit he auer, so sal lie uor eine sie knen. Summe lude segget, dat he de hande solc wegghen deme herren to, des nis nielif; wante alse de man geyt to den Zu rren, dar lie stat, ( der knet uor ene dar he sit, so weghet {.2. al sin lif unde moten ok de bände waghen."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-22",
+   "article": 22,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Dus spreke de man, also he siues herren godes sint mit gheualdeden | handen: berre, ik sinne in iu soghedanes godes, als ik mit rechte an iu ghebracht bebbe, vnde bede iu mine manscap dar ummc enewarue, anderwarue, driddewarue, unde sette des iuwe man to tughe."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-22",
+   "article": 22,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Of de berre weygheret mit unrechte, dat he ene to manne Untfa, de man sal behalden dat göd, dar he sine manschap umme bot, unde besitte ane denest, unde ne darf es nimber gbesinnen; de wile be des leueude orcunde heuet, VIL vnde erft dat god an sin kint, unde mach dar mede belenen sine man, wante he heuet mit rechte behalden sin göd, dar eme rechtes af ghcweygheret was. De mau ne darf nicht anderwarue beden sine manscap, it ne si dat eme*) sin tueb sterue."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-22",
+   "article": 22,
+   "section": 4,
+   "segmentation": "anchor",
+   "text": "Swar auer den manne sin god mit gbewalt nomen wird, de sal sine claghc iarlikes uornyen, dor dat be der ghewere daruet."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-22",
+   "article": 22,
+   "section": 5,
+   "segmentation": "anchor",
+   "text": "Ghebut auer de berre den manne sin god, he sal dat altohant un/fan, eder he uorsumet sie dar an, wante de berre brect eme sine iartale mit den bedene, also de man sc lenghet mit deme sinnene."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-23",
    "article": 23,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De herre ne sal oc nemenes manschap uorspreken ane des de des herscildes daruet, eder des de in des rikes achte si eder des% de in deme sulucn gerichte uoruest is, eder <>/'(<> en de sulue*) herre beclaghet hebbe uor des laudes riebtere dor ruf unde uniine andere*) uugbericbte unde eme mit ordelen ghedeghedinghet is. In den deghedjngben ne darf de berre ene to manne nicht untfan."
   },
   {
@@ -5929,7 +5993,7 @@
    "articleId": "lehnrecht-23",
    "article": 23,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen auer de herre to manne un/uadp), he ne mach eme nicht wey- (f 1 gheren god to lenende, dat he mit rechte an ene bracht heuet, unde sine manscap vmme gheboden heuet."
   },
   {
@@ -5937,87 +6001,127 @@
    "articleId": "lehnrecht-23",
    "article": 23,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De herre sal sinen manne to aller tid vnde in allen Steden göd lenen, dar nie 11 ene des to rechte an gheret, wan allene in kerken eder in kerkhouen."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Sweii, auer de herre ordeles uraget sine man, of ghene eme sine manscap also gheboden hebbe alse he ene mit rechte to manne sole untfan, wey gheret eme dan sine man ordel to uindene ane sine scult, unde moghen se des mit rechte vulcomen, de herre is ane scult keghen den man, XII. vnde de man irwerft mit deine sinnene nicht mer, wan of ene de herre dar na sculdeghet, dat he sie keghen ene uoriaret hebbe, dat he sin unschult dar uore deste warlikere don mach."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Swan de herre deine manne göd lent, dat he mit rechte an ene bracht heuet, dat is he plichtich eme to haut to benomene, al dat lies wet; des he auer nicht ne wet, dat sal he eme beuomen ouer verteynacht; dar sal eme de herre deghedinghen uor sine man, swat he dar nicht ne benoniet, dar ne heuet he nicht rechtes mer an unde dat he eme benoniet, of is eme de herre nicht ne bekant, dat behalde he mit ghetughe altohant, of he mach; of he ne mach, so hebbe hes urist ouer verteynacht."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Sinen ghetucb sal auer he tohant benomen des herren manne also uele alse he wil; der sal de herre seuene bringhen, der de man gheret, unde nicht, der de herre wil."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 4,
+   "segmentation": "anchor",
+   "text": "Swelik desser seuene dar to ieghenwarde si, den ne darf de herre nicht bringhen, of he ene uraghet unime den tuch. Swelik er to deme daghe nicht ne cumpt, de de herre bringhen sal, mit deme heuet de man sinen tuch vulbracht keghen sinen herren. Ieghen sinen husghenot ne mach he dus mit tughe nicht vulcomen."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 5,
+   "segmentation": "anchor",
+   "text": "Benimpt it eme auer echte not, dat he nicht ne cumpt, de de tuch wesen sal, unde wird de bescheneghet na rechte, dar ne uorluset de herre nicbt mede. Ladet auer de herre den benomeden tuch, den he bringhen sal, also recht is, unde ne cumpt be nicht, de herre sal ene deghedinghen uore to rechte, unde nordet eme lest sin god, dat he uan eme heuet; so is de herre ane scult l)- fehlt Hs. dar stellt doppelt. Bs. dar. Taf. teghen. also he recht is. Hs. uordeL unde ane senden, of de man nicht nc cumpt, de lie mit lenrechte nicht uorbat dwinghen ne mach. De man mach sie vtoI dan irhalen mit enen andren tughe."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 6,
+   "segmentation": "anchor",
+   "text": "Of de man enes herren man to tughe beuomet, des de herre nicht bekant, dat he göd uan eine hebbe, unde dat uppen hilghen beweret, den ne darf de herre nicht vraghen iirame ninen gbetuch noch to daghe bringhen. Sweret it de herre, dar de man to iegbenwarde is, de tuch wesen sal ane rechte wedersprake, swat he godes uan deine herren hadde, dat is deme herren ledich. Wil oc de herre tuch leden uppe den man unde ne truwet des de man nicht, dat gheue si also belent uan deine herren, alse he moghe tuch wesen, dat mot de tuch behalden uppen hilighen unde mot dat god henomen, dar he tuch af wesen wille."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 7,
+   "segmentation": "anchor",
+   "text": "To deme utghelegheden daghe sal de man kesen seuene, de men uraghe umnie sinen tuch, under al den de de herre bringher, unde he suluen. Vulcumpt de man mit twen under den allen, he behalt-, ne dot hes nicht, he uerluset. He uei luset oc, of he to deme lenrechte nicht ne cumpt. De man behalt oc dat god ane tuch, of de herre to lenrechte nicht ne cumpt. Doch mach ir ieweder echt not untschuldeghen: vanenisse, suke, des rikes denest unde des laudes not, of it cn ander land anvechtet unde he dar to gheladet wirt mit gheruchte."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 8,
+   "segmentation": "anchor",
+   "text": "Swera echte not irret, dat he to lenrechte nicht ne cumpt, de sende dar sine boden, de sine not oc dar bescheneghen uppen hilghen. Of de herre nicht ne truwe, dat ghene des mannes recht bode si unde uan eine ghesand si, dat mot de bode weren uppen hilghen; he si eghen eder vri, men ne mach ene nicht uorlegghen. Doch stad in des herren core, wer he des boden recht tohant nenie eder des mannes to daghe, deme dat echte not benimpt, dat he nicht eomen ne mach."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-24",
+   "article": 24,
+   "section": 9,
+   "segmentation": "anchor",
+   "text": "Of uanenisse den man irret, dat he nicht ne cumpt to daghe noch boden ne sant, to deme nesten daghe, de eine gheleghet wird mit ordelen uan der tid, dat he ledich wird van uaugnisse, den sal he soken, als he ghenen solde, den eine echte not benamz)."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-25",
    "article": 25,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Sweii, auer de herre ordeles uraget sine man, of ghene eme sine manscap also gheboden hebbe alse he ene mit rechte to manne sole untfan, wey gheret eme dan sine man ordel to uindene ane sine scult, unde moghen se des mit rechte vulcomen, de herre is ane scult keghen den man, XII. vnde de man irwerft mit deine sinnene nicht mer, wan of ene de herre dar na sculdeghet, dat he sie keghen ene uoriaret hebbe, dat he sin unschult dar uore deste warlikere don mach. ¶ Alse hir uore gheredet is, also sal de man sinen göde an den oueren herren uolghen manscap to bedene, of de herre sterft eder sin göd nplet eder it eme uordelt wird, so bidde he den oueren herren, dat he eme dat god lene eder eme wise, dar het mit also groten eren hebbe, alse het hadde uan sinen ersten herren; wante it nis nicht recht, dat men iemene mit sinen göde nedere."
+   "segmentation": "anchor",
+   "text": "Alse hir uore gheredet is, also sal de man sinen göde an den oueren herren uolghen manscap to bedene, of de herre sterft eder sin göd nplet eder it eme uordelt wird, so bidde he den oueren herren, dat he eme dat god lene eder eme wise, dar het mit also groten eren hebbe, alse het hadde uan sinen ersten herren; wante it nis nicht recht, dat men iemene mit sinen göde nedere."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-25",
    "article": 25,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Swan de herre deine manne göd lent, dat he mit rechte an ene bracht heuet, dat is he plichtich eme to haut to benomene, al dat lies wet; des he auer nicht ne wet, dat sal he eme beuomen ouer verteynacht; dar sal eme de herre deghedinghen uor sine man, swat he dar nicht ne benoniet, dar ne heuet he ¶ Swene de herre binnen iare unde daghe nerghen ne wiset mit sinen munde, sint he heuet der wisinghe an eme ghegheret, den ne mot he sint nicht wisen unde sal eme clat göd suluen lenen."
+   "segmentation": "anchor",
+   "text": "Swene de herre binnen iare unde daghe nerghen ne wiset mit sinen munde, sint he heuet der wisinghe an eme ghegheret, den ne mot he sint nicht wisen unde sal eme clat göd suluen lenen."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-25",
    "article": 25,
    "section": 3,
-   "segmentation": "auto",
-   "text": "nicht rechtes mer an unde dat he eme benoniet, of is eme de herre nicht ne bekant, dat behalde he mit ghetughe altohant, of he mach; of he ne mach, so hebbe hes urist ouer verteynacht. Sinen ghetucb sal auer he tohant benomen des herren manne also uele alse he wil; der sal de herre seuene bringhen, der de man gheret, unde nicht, der de herre wil. ¶ Swen de herre sterft, de sone heuet, de man ne sal sines godes an den oueren herren nicht sinnen binnen des iuncheren iartale. Of dat kiiit sine iartale uersumet, de man heuet sine iartale dar na to uolghene sinen gode. Alse manich schilt, alse uan deme coninghe nederwart is, also manich iartale is to uolghene sime gode, manlikeme binnen ses weken unde enen iare."
+   "segmentation": "anchor",
+   "text": "Swen de herre sterft, de sone heuet, de man ne sal sines godes an den oueren herren nicht sinnen binnen des iuncheren iartale. Of dat kiiit sine iartale uersumet, de man heuet sine iartale dar na to uolghene sinen gode. Alse manich schilt, alse uan deme coninghe nederwart is, also manich iartale is to uolghene sime gode, manlikeme binnen ses weken unde enen iare."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-25",
    "article": 25,
    "section": 4,
-   "segmentation": "auto",
-   "text": "Swelik desser seuene dar to ieghenwarde si, den ne darf de herre nicht bringhen, of he ene uraghet unime den tuch. Swelik er to deme daghe nicht ne cumpt, de de herre bringhen sal, mit deme heuet de man sinen tuch vulbracht keghen sinen herren. Ieghen sinen husghenot ne mach he dus mit tughe nicht vulcomen. ¶ Ieghelikes mannes iartale beghint in der tid, alse sin here wird belent mit deme gode, dat he uan eme sal hebben; wante it ne mach nin herre göd lenen, er it eme ghelent werde, is ne hebbe eme de herre mit unrechte ghewernet to lene. Is oc sin herre buten lande eder gheuanghen, dat he sines godes nicht sinnen ne mach, he dot dar lenrecht mede unde underwint is sie to siner nüt, als of it eme ghelent si, erste he to sinen iaren comen si."
+   "segmentation": "anchor",
+   "text": "Ieghelikes mannes iartale beghint in der tid, alse sin here wird belent mit deme gode, dat he uan eme sal hebben; wante it ne mach nin herre göd lenen, er it eme ghelent werde, is ne hebbe eme de herre mit unrechte ghewernet to lene. Is oc sin herre buten lande eder gheuanghen, dat he sines godes nicht sinnen ne mach, he dot dar lenrecht mede unde underwint is sie to siner nüt, als of it eme ghelent si, erste he to sinen iaren comen si."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-25",
    "article": 25,
    "section": 5,
-   "segmentation": "auto",
-   "text": "Benimpt it eme auer echte not, dat he nicht ne cumpt, de de tuch wesen sal, unde wird de bescheneghet na rechte, dar ne uorluset de herre nicbt mede. Ladet auer de herre den benomeden tuch, den he bringhen sal, also recht is, unde ne cumpt be nicht, de herre sal ene deghedinghen uore to rechte, unde nordet eme lest sin god, dat he uan eme heuet; so is de herre ane scult l)- fehlt Hs. dar stellt doppelt. Bs. dar. Taf. teghen. also he recht is. Hs. uordeL unde ane senden, of de man nicht nc cumpt, de lie mit lenrechte nicht uorbat dwinghen ne mach. De man mach sie vtoI dan irhalen mit enen andren tughe. ¶ Lent het auer, er het untfa, he sal it eme stede halden. Swelik herre en god enes untfeyt, of sin herre sterft eder of het nplet, iewelik man, de uan deine nederen herren göd heuet, mach sie keghen ene uoriaren, al ne hebbes de herre nicht uutfanghen anderwarue, de wile he sie nicht uoriaret ne heuet; wante he ne mach de wile nicht sime herren an deme gode uernen mit der leninghe, de he dot, an der he wird mit rechte to dwunghen."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-25",
-   "article": 25,
-   "section": 6,
-   "segmentation": "auto",
-   "text": "Of de man enes herren man to tughe beuomet, des de herre nicht bekant, dat he göd uan eine hebbe, unde dat uppen hilghen beweret, den ne darf de herre nicht vraghen iirame ninen gbetuch noch to daghe bringhen. Sweret it de herre, dar de man to iegbenwarde is, de tuch wesen sal ane rechte wedersprake, swat he godes uan deine herren hadde, dat is deme herren ledich. Wil oc de herre tuch leden uppe den man unde ne truwet des de man nicht, dat gheue si also belent uan deine herren, alse he moghe tuch wesen, dat mot de tuch behalden uppen hilighen unde mot dat god henomen, dar he tuch af wesen wille."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-25",
-   "article": 25,
-   "section": 7,
-   "segmentation": "auto",
-   "text": "To deme utghelegheden daghe sal de man kesen seuene, de men uraghe umnie sinen tuch, under al den de de herre bringher, unde he suluen. Vulcumpt de man mit twen under den allen, he behalt-, ne dot hes nicht, he uerluset. He uei luset oc, of he to deme lenrechte nicht ne cumpt. De man behalt oc dat god ane tuch, of de herre to lenrechte nicht ne cumpt. Doch mach ir ieweder echt not untschuldeghen: vanenisse, suke, des rikes denest unde des laudes not, of it cn ander land anvechtet unde he dar to gheladet wirt mit gheruchte."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-25",
-   "article": 25,
-   "section": 8,
-   "segmentation": "auto",
-   "text": "Swera echte not irret, dat he to lenrechte nicht ne cumpt, de sende dar sine boden, de sine not oc dar bescheneghen uppen hilghen. Of de herre nicht ne truwe, dat ghene des mannes recht bode si unde uan eine ghesand si, dat mot de bode weren uppen hilghen; he si eghen eder vri, men ne mach ene nicht uorlegghen. Doch stad in des herren core, wer he des boden recht tohant nenie eder des mannes to daghe, deme dat echte not benimpt, dat he nicht eomen ne mach."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-25",
-   "article": 25,
-   "section": 9,
-   "segmentation": "auto",
-   "text": "Of uanenisse den man irret, dat he nicht ne cumpt to daghe noch boden ne sant, to deme nesten daghe, de eine gheleghet wird mit ordelen uan der tid, dat he ledich wird van uaugnisse, den sal he soken, als he ghenen solde, den eine echte not benamz)."
+   "segmentation": "anchor",
+   "text": "Lent het auer, er het untfa, he sal it eme stede halden. Swelik herre en god enes untfeyt, of sin herre sterft eder of het nplet, iewelik man, de uan deine nederen herren göd heuet, mach sie keghen ene uoriaren, al ne hebbes de herre nicht uutfanghen anderwarue, de wile he sie nicht uoriaret ne heuet; wante he ne mach de wile nicht sime herren an deme gode uernen mit der leninghe, de he dot, an der he wird mit rechte to dwunghen."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Uli. Kindere iartale is drutteyn iar unde ses weken uan erer bort. Doch doruen se des dar na, of se ieman bedeghedinghen wil uinine ere len, de wile se to eren daghen nicht comen ne sin, dat is en iar unde twintich, so moten sc nemen uoremunden encn eres herren man, de se uorsta to lenrechte; deme solen se de were mit vingheren unde mit tunghen loucn to behaldene unde to uorlescne. Des kindes iar ne sal men nicht rekenen uan der tid; dat it de moder untfenc, mer uan der tid, dat se it ghewan, unde leuendich in de werlt quam."
   },
   {
@@ -6025,7 +6129,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict ieman dat kint len an binnen sinen iaren, des men eme nicht bekant, dat mot de herre in des kindes stat bescheden mit des kindes mannen eder des kindes uoremunden, of deme kinde eder eine suluen dat aneuelle ghelent is. De herre is ymmer des kindes uoremunde in deme gode, dat dat kint uan eme heuet, de wile dat he dat aneuelle unuorlent heuet, unde sal dat ghelt des gtfdes nemen, bet dat kint corae to sinen iaren. Binnen sinen iaren ne mach dat kint sie nicht uorsumen to lenrechte."
   },
   {
@@ -6033,7 +6137,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre nicht truvven ne wil, dat dat kint to sinen iaren si comen, dat mot gheweren uppen hilghen dat kint, eder sin uoremunde eder en des herren man; sint ne mot de herre ut des kindes göde nin ghelt nemen."
   },
   {
@@ -6041,7 +6145,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Niman mach des andren tuch sin to lenrechte, de siluen binnen sinen iaren is."
   },
   {
@@ -6049,7 +6153,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swo iunc dat kint is na sines uader dode, of it sin uoremunde to deme herren brinet unde sines lenes an ene na rechte sint, de herre sal eme sin god lenen. Men sal auer eme borghen setten, of der kindere mer is dan en, dat de herre umbedeghedinghet bliue umme dat len."
   },
   {
@@ -6057,7 +6161,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen it kint binnen sinen iaren belent wird, dar gad tohant an der manne iartale ir göd to untfände uan deme kinde. De solen auer dar af denen den oueren herren, als en dat denest gheboden wird uan deme kinde eder uan des kindes uoremunde, alse recht is, of de herre dat aneuelle unuorlent heuet."
   },
   {
@@ -6065,7 +6169,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In aneuelle nis nin lenrecht noch nin volghe an dat len. Doch mot men in gherichte dat aneuelle vorlenen, dar nis auer nin uolghe au; men ne erft it nicht an den sone, so it nimpt ende, swen dat beiende kint sterft eder to sinen iaren campt."
   },
   {
@@ -6073,7 +6177,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De wile dat kint uan ghenaden eder uan rechte nicht ne heuet dat aneuelle, de wile nis it plichtich dat göd to benoniene, dat eme de herre ghelent heuet."
   },
   {
@@ -6081,7 +6185,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nin mau ue mach ene rechte were winnen mit leuiughe eder mit settinghe uoch mit uplatinghe au eues kindes göde, dat up it is irstoruen to lan^rechte eder to leurechte binnen sineu iaren, dar he eme sine rechten unde ersten were mede breken inoghe, de uppet kint erfd is, noch de, uppe den dat gheerfd wird mit unrechte binnen des kindes iaren."
   },
   {
@@ -6089,7 +6193,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Let men auer eu uorlent göd eme kinde up, also beschedenlike, dat het eme andren lene, leut het unde halt het stede, alse he to sinen iaren cumpt, so is de leninghe recht. Brect auer it de leninghe mit rechte, als it to sinen iaren cumpt, so behalt it de, det ghelaten hadde, wente het let also beschedenlike, dat men it ghenen lende unde anders nicht; durch dat, swen de leninghe mit rechte broken wird, de men do dede, so nis oc dat latent nicht, dat ghene do dede, wente het anders nicht ue let, mer dat men it gheneme leude."
   },
   {
@@ -6097,7 +6201,7 @@
    "articleId": "lehnrecht-26",
    "article": 26,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "We}'gheret dat kint lenrecht to donde sinen mannen, so it erst to sineu iaren cumpt, so solen se is anderwarue sinnen, eder se uoriaret sie keghen dat kiut."
   },
   {
@@ -6105,7 +6209,7 @@
    "articleId": "lehnrecht-27",
    "article": 27,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft en man, de sone heuet, in der iartale, dat he sin god untfan sal, dar mede nis deme sonen dat god nicht gheuernet, al ne had it de uader nicht untfanghen, de wile he sie nicht uoriaret ne hebbe."
   },
   {
@@ -6113,47 +6217,63 @@
    "articleId": "lehnrecht-27",
    "article": 27,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft eues herren soue in der iartale, dat de man god uan ein untfan soldew, se uolghet eren gode, swar it hene uaret, unde ne uerleset dar mede nicht."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-28",
+   "article": 28,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "De sone ne mot oc des mannes göd nicht * twien mit latene, it ne si dat het uan mer herren hebbe dan uan enen. Lat auer het weder recht, de minnere del uolghet deme merren."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-28",
+   "article": 28,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Of de herre lat des mannes god den minneren del, den he uan eme heuet, dat ne darf he uan nemene untfan wan uan deme oueren herren."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-29",
    "article": 29,
    "section": 1,
-   "segmentation": "auto",
-   "text": "De sone ne mot oc des mannes göd nicht * twien mit latene, it ne si dat het uan mer herren hebbe dan uan enen. Lat auer het weder recht, de minnere del uolghet deme merren."
+   "segmentation": "anchor",
+   "text": "De man ne Art. \"29*§. 1. darf oc nicht wan uan enen des herren sone sin god untfan, al si it en allen ghelent; de ouere herre mot dat auer bescheden, an welik eren he se wise, of sie de beienden herren dar umme nicht ne uorenet»"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-29",
    "article": 29,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Of de herre lat des mannes god den minneren del, den he uan eme heuet, dat ne darf he uan nemene untfan wan uan deme oueren herren. De man ne Art. \"29*§. 1. darf oc nicht wan uan enen des herren sone sin god untfan, al si it en allen ghelent; de ouere herre mot dat auer bescheden, an welik eren he se wise, of sie de beienden herren dar umme nicht ne uorenet» ¶ De herre nis nicht plichtich mer kinderen den enen to lenende eres nader göd na sime dode. Binnen der kindere iartale stet dat an eren koie, dat de herre belene, welleken sc willen, Cunipt it auer ut der iartale, so stat it an des herren kore, wcllekeren lic belene wille der, des mit reelitc an ene liebbet gbesunnen."
+   "segmentation": "anchor",
+   "text": "De herre nis nicht plichtich mer kinderen den enen to lenende eres nader göd na sime dode. Binnen der kindere iartale stet dat an eren koie, dat de herre belene, welleken sc willen, Cunipt it auer ut der iartale, so stat it an des herren kore, wcllekeren lic belene wille der, des mit reelitc an ene liebbet gbesunnen."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-29",
    "article": 29,
    "section": 3,
-   "segmentation": "auto",
-   "text": "Lent de herre göd enen kinde na sinen willen. nicht na rechte, dat ne scadet nicht den andren er god to"
+   "segmentation": "anchor",
+   "text": "Lent de herre göd enen kinde na sinen willen. nicht na rechte, dat ne scadet nicht den andren er god to untfande*"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-29",
    "article": 29,
    "section": 4,
-   "segmentation": "auto",
-   "text": "untfande* Swelik der kindere sine iartale uersumet, uan demc si de herre ledich, he nc benemes sie uppen hilghen."
+   "segmentation": "anchor",
+   "text": "Swelik der kindere sine iartale uersumet, uan demc si de herre ledich, he nc benemes sie uppen hilghen."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-29",
    "article": 29,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sint enes mannes sone, de to sinen iaren comen is, godes an sinen herren undc heuet he brodere, de binnen eren iaren sin, he mot derae herren louen, dat sine brodere des godes uertyen, er het eme lene, im de den herren nicht ne bedeghedinghen dar umme, swan se comen to iren iaren. Breket dit de kindere unde uorderet se dat göd to lenrechte, de herre sal beyde ene unde gheneme uordeghedinghen, de de ansprake uorlouede, unde uordelen eme sin göd, of he de, ansprake nicht irlecht."
   },
   {
@@ -6161,7 +6281,7 @@
    "articleId": "lehnrecht-30",
    "article": 30,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sime herren eder sime kinde eder iemene, de des wardene is, sin len uernen wil, of het lent eder let, nicht ne scadet it gheneme, of het wedernimpt unde in ghewere behalt bet an sinen dot."
   },
   {
@@ -6169,7 +6289,7 @@
    "articleId": "lehnrecht-31",
    "article": 31,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Diu ghet en man sime wiue göd mit der sonen gheloue, de to iren iaren comen sin, dat ne can noch de herre noch de kindere breken, ofte se es tuch heuet. Louet it auer de kindere binnen eren iaren, dat moghen se breken unde nicht de herre."
   },
   {
@@ -6177,23 +6297,23 @@
    "articleId": "lehnrecht-32",
    "article": 32,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Men mach uele broderen en göd lenen, of set mit ghesammeder hant untfan unde ghelike were dar an hebbet. Willet auer se sie Scheden mit deme göde, se delet it ander sie ane des herren orlof, wo se willet. Swen auer se delet, ir nyn ne heuet recht an des anderen göde, of ir en steift."
+   "segmentation": "anchor",
+   "text": "Men mach uele broderen en göd lenen, of set mit ghesammeder hant untfan unde ghelike were dar an hebbet. Willet auer se sie Scheden mit deme göde, se delet it ander sie ane des herren orlof, wo se willet. Swen auer se delet, ir nyn ne heuet recht an des anderen göde, of ir en steift. eme nc si anderwarue dat ghedinghe daran ghelent."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-32",
    "article": 32,
    "section": 2,
-   "segmentation": "auto",
-   "text": "eme nc si anderwarue dat ghedinghe daran ghelent. De wile se it to samene hebbet, sterft ir en, sin kind tred in des uader stad unde behalt dat göd mit den uedderen, als it sin uader hadde."
+   "segmentation": "anchor",
+   "text": "De wile se it to samene hebbet, sterft ir en, sin kind tred in des uader stad unde behalt dat göd mit den uedderen, als it sin uader hadde."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-32",
    "article": 32,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De wile se en god to samene hebbet, de to samene belent sint, ir nin ne mach ane den andren ninen del dar af lenen noch laten, dar bet deme andren mede nerne: wante des de man ninen del untfanghen ne heuet, des ne mach he ninen del noch lenen noch laten. Swat auer he dar af lent eder let, dat ne mach he suluen nicht breken, it ne breke der en, det mit eme ghemene heuet."
   },
   {
@@ -6201,7 +6321,7 @@
    "articleId": "lehnrecht-32",
    "article": 32,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ofte mer lüde den en mit ene gode belent sin, unde sint se umbescheden dar an, ir nin ne mach uolgben an enen andren herren, of ir berre sterft, wan erer en*"
   },
   {
@@ -6209,7 +6329,7 @@
    "articleId": "lehnrecht-33",
    "article": 33,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat en herre uan motwillen lent sincn manne, des he ene nicht gheweren ne mach, he sal it eme irstaden, erste sie de man in siner iartale nicht ne uorsume; he ne underwinde sie des gödes, dat eme gbelent is, unde of it eme ieman nimpt, dat he dan it binnen siner rechten tid iruolghe; of hes nicht ne dot, de herre ne irstadet eme des gödes nicht."
   },
   {
@@ -6217,7 +6337,7 @@
    "articleId": "lehnrecht-33",
    "article": 33,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan aue?' de herre mit lenrechte ghedwunghen wirt, dat he göd lene, wirt it eme mit rechte brokeD, dat he sines mannes were an deme göde nicht wesen ne mach, des ne darf he deme manne nicht irstaden*"
   },
   {
@@ -6225,7 +6345,7 @@
    "articleId": "lehnrecht-33",
    "article": 33,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Segnet auer de herre, he willes den manne gheweren unde het het ene angripen unde ne mach hes ene nicht gheweren, he sal it eme irstaden, de man ne hebbe sie suluen uorsumet dar an, so dat eme de ghewere ghe- 1| loset si ane rechte wedersprake binnen siner iartale."
   },
   {
@@ -6233,7 +6353,7 @@
    "articleId": "lehnrecht-34",
    "article": 34,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Belent wif eder maghet ne sint nicht plichtich hereuart to denende, mer heresture solen se gheuen na setten rechte; uare solen se ledich sin binnen lenrechte."
   },
   {
@@ -6241,7 +6361,7 @@
    "articleId": "lehnrecht-35",
    "article": 35,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lent de herre kinderen eres uader göd bi des uader liue, unde it de uader al ene in sinen weren heuet bet an sinen dot, na des uader dode komen de kindere to deme herren unde bidden, dat he bekenne eme sodanes gödes, alse he eme ghelent heuet. Deses solen se gheren binnen ir iartale. Ne bekant en de herre nicht des gödes, so beden se it mit ghetughe to behaldene. Den tuch mach de herre wol uorlegghen, so se der ghewere daruet, se ne moghen de lenmghe tughen na ghedinghes rechte. So is den kinderen gut, dat se uolgben ires uader gode manschap to bedene deme herren, wante se ne moghen ane ghewere nin len daran bereden, is ne bekenne eme de berre."
   },
   {
@@ -6249,7 +6369,7 @@
    "articleId": "lehnrecht-35",
    "article": 35,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar auer de uader unde de kindere ene mene unde like were hebbet an deme göde, de kindere bell aide t na des nader dode dat göd, of se irtuglict de leninghe in der iartale keglien den berre n."
   },
   {
@@ -6257,7 +6377,7 @@
    "articleId": "lehnrecht-36",
    "article": 36,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "V* Let en man sirne berren göd up also beschedenlike, dat liet enen andren lene, wil it de berre suluen bebalden unde gheneme nicht lenen, he ne heuet dar nin recht to, wante it nis eme nicht upghelaten, mer gheneme to lenende."
   },
   {
@@ -6265,7 +6385,7 @@
    "articleId": "lehnrecht-37",
    "article": 37,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Let de uader sime sone göd up uan sime berren, eruelen ne heuet de sone dar nicht an, al was it sines uader, went it up ene nicht ne erft is."
   },
   {
@@ -6273,7 +6393,7 @@
    "articleId": "lehnrecht-37",
    "article": 37,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sin eruelen uplet unde it anderwarf untfad, eruelen ne heuet he dar an nicht. Swelik man oc eme ander recht an göde seghet dan he daran hebbe, he ne vulcome des rechtes, he heuet al recht an deme göde uorlorn."
   },
   {
@@ -6281,7 +6401,7 @@
    "articleId": "lehnrecht-37",
    "article": 37,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe de rechten ghewere an eme göde heuet, de behalt it mit mer rechte den ghene, de der rechten ghewere daruet."
   },
   {
@@ -6289,7 +6409,7 @@
    "articleId": "lehnrecht-38",
    "article": 38,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe dem oueren heren uplat solik god, alse he uan den nederen herren heuet, untfeit het suluen weder to lene eder en ander, unde besit he dar mede iar unde dach ane rechte wedersprake unde ne wet des ghene nicht, an den dat göd dript, nicht ne mach he dar bi uorlesen, of he dat sweret binnen siner iartale, dat hes nicht ne wiste, dat sin man dat göd ghelaten hadde. Begript he dat mit claghe, alse it eme erst to wetene wirt, swelik ere den keghen den oueren herren de ersten lenes were ghetughen mach mit ses mannen, de he gehat hebbe uan deme oueren herren, de behalt dat göd."
   },
   {
@@ -6297,7 +6417,7 @@
    "articleId": "lehnrecht-38",
    "article": 38,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Mach auer de man dat tughen, dat deme herren sin god mit lenrechte uerdelt si eder het uppelaten hebbe, so si des herren tuch uorleghet. Al heuet de man dat god in gheweren mit der mit, dor dat nis sime herren de lenesche were deste uerner nicht."
   },
   {
@@ -6305,7 +6425,7 @@
    "articleId": "lehnrecht-38",
    "article": 38,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lenes were ne mach ninman ! tuch sin ane de uan deme herren belent is. Ghemener ghewere si tuch iewelik umbeschulden man an sime rechte."
   },
   {
@@ -6313,47 +6433,71 @@
    "articleId": "lehnrecht-38",
    "article": 38,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne sal nimanne uan sinen gheweren wiseu, se ne si eme mit rechte afgkewunneD."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-39",
+   "article": 39,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Swem sin göd mit, lenrechte wird uordelt eder het uplet, de sal der were daruen. Doch mach de man sime berren uorseken in der iartale, dat he eme ienich god ghelaten hebbe, dar he sine unscult dar to don. Lent auer de herre dat göd enen anderen in ghenes antworde, det ghelaten heuet ane rechte wedersprake, he ne mach nine unschult dar uore don ghene, det ghelaten heuet."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-39",
+   "article": 39,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Dwinct de herre sinen man untruweliken, dat he eme late sin göd, des bliue de man ane scaden, of he den herren beclaghe umme de walt binnen siner iartale unde ene dar mit rechte uorwint. In willen unde in worden so nis nin dwanc, dar ne uolghe de dat."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-39",
+   "article": 39,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Of en man eme andren göd uplet uor sime herren, tohant so heuet he de were des godes, de des ersten mannes was, de it let."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-39",
+   "article": 39,
+   "section": 4,
+   "segmentation": "anchor",
+   "text": "En man mach sinen husghenot menigher sake bet nortughen dan de herre den man."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-40",
    "article": 40,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Swem sin göd mit, lenrechte wird uordelt eder het uplet, de sal der were daruen. Doch mach de man sime berren uorseken in der iartale, dat he eme ienich god ghelaten hebbe, dar he sine unscult dar to don. Lent auer de herre dat göd enen anderen in ghenes antworde, det ghelaten heuet ane rechte wedersprake, he ne mach nine unschult dar uore don ghene, det ghelaten heuet. ¶ Of se twene en god ghelike anspreket unde liken tuch bedet to behaldene de were, unde dat ir ne weder uan den andren ne heuet, men sal en beyden in dat dorp bescheden, dar dat göd leghet, de were to behaldene, unde sal uraghen de bure unde de umineseten umme de were. Swelik er de merren meninghe \"heuet an deme gode to tughe, de behalt de were. Desen tuch sal de herre hören eder twe sine man dar senden, de sie uor- 1| pleghen bi sinen hulden, welik ir de were behalden hebbe. ¶ Nimpt en berre sime manne god eder weygberet be eme lenrechtes eder untfalt be eme der werescap, alse be ene gbeweren sal, dat clagbe de man sime oueren berren uor sinen mannen, de sal eme mit ordelen beden, suluen eder sin bode, dar dat twe sine man boren, dat be rcebt do unde des godes reebte gbewere si. Ne dot lies niebt, so lent eme de ouere berre unde si es sin gbewere, of it de man tugbet na lenreebte."
+   "segmentation": "anchor",
+   "text": "Of se twene en god ghelike anspreket unde liken tuch bedet to behaldene de were, unde dat ir ne weder uan den andren ne heuet, men sal en beyden in dat dorp bescheden, dar dat göd leghet, de were to behaldene, unde sal uraghen de bure unde de umineseten umme de were. Swelik er de merren meninghe \"heuet an deme gode to tughe, de behalt de were. Desen tuch sal de herre hören eder twe sine man dar senden, de sie uor- 1| pleghen bi sinen hulden, welik ir de were behalden hebbe."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-40",
    "article": 40,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Dwinct de herre sinen man untruweliken, dat he eme late sin göd, des bliue de man ane scaden, of he den herren beclaghe umme de walt binnen siner iartale unde ene dar mit rechte uorwint. In willen unde in worden so nis nin dwanc, dar ne uolghe de dat. ¶ Swelike were men nicht bescheden ne mach dor de twiunghe der ummeseten eder dor ir unwi/scap, so sal men de sakeweldighen beten sweren, dat se wisen na rechte solik len, alse ere si. Swar se sie beyde to segghet unde ghelike uppen hilighen behalt, dat sal men ene like delen eder mit water ordel se bescheden. ¶ Lent en herre twen mannen eder (Iren god, swar dat eme erst ledieh wirt, de dar erst belent wirt, de sal des ersten godes worden, dat eme ledieh wirt."
+   "segmentation": "anchor",
+   "text": "Swelike were men nicht bescheden ne mach dor de twiunghe der ummeseten eder dor ir unwi/scap, so sal men de sakeweldighen beten sweren, dat se wisen na rechte solik len, alse ere si. Swar se sie beyde to segghet unde ghelike uppen hilighen behalt, dat sal men ene like delen eder mit water ordel se bescheden."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-40",
    "article": 40,
    "section": 3,
-   "segmentation": "auto",
-   "text": "Of en man eme andren göd uplet uor sime herren, tohant so heuet he de were des godes, de des ersten mannes was, de it let. ¶ Godes ordel ne mot men nicht don, mer dar men der warheyt mit nyner witschap in cunde ne mach comen."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-40",
-   "article": 40,
-   "section": 4,
-   "segmentation": "auto",
-   "text": "En man mach sinen husghenot menigher sake bet nortughen dan de herre den man."
+   "segmentation": "anchor",
+   "text": "Godes ordel ne mot men nicht don, mer dar men der warheyt mit nyner witschap in cunde ne mach comen."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-41",
    "article": 41,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre unde de man enes gödes were en to seghet unde dat bedet to tughende, des mannes tuch gha uort, wente he den herren des gödes nicht untseghet, al heuet het uan eme to lene."
   },
   {
@@ -6361,7 +6505,7 @@
    "articleId": "lehnrecht-42",
    "article": 42,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre den man schuldeghet, » dat he sin göd hebbc an sinnende uoriaret eder an uttcnde, dat beha/t mit siner nnscbtilt de man, de herre ne moghet ghetughen, dat ime na der iartale uor sinen mannen al ansprake des godes si uordelt. Dat sal be don mit ses mannen."
   },
   {
@@ -6369,7 +6513,7 @@
    "articleId": "lehnrecht-42",
    "article": 42,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Segnet de herre, dat be sime manne al ansprake des gödes uordelt hebbc unde segnet de man, dat lies ghesunnen eder utgbetogben binnen siner iartale, mach de man deses vnllencoincn, he uorlegbet des herren tuen mit sime tughe."
   },
   {
@@ -6377,39 +6521,39 @@
    "articleId": "lehnrecht-43",
    "article": 43,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Vordelt de herre sinen manne göd dor enes andren mannes claghe, den clagbere sal de herre wiseu in de were des godes, de er ghenes was, dem it uordelt is* Doch heuet"
+   "segmentation": "anchor",
+   "text": "Vordelt de herre sinen manne göd dor enes andren mannes claghe, den clagbere sal de herre wiseu in de were des godes, de er ghenes was, dem it uordelt is*"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-43",
    "article": 43,
    "section": 2,
-   "segmentation": "auto",
-   "text": "ghene sine iartale ut to tendc sin god Tut bet auer ut, de herre sal eme degbedinghen uor sine man unde sal dat efoghedinc demc clagbere cundeghen uerteynacht uore» Cumpt ghene uore unde de clagbere nicht, men delt ene ledich, it ne beneme eme echt not; wirt de bewist, so"
+   "segmentation": "anchor",
+   "text": "Doch heuet ghene sine iartale ut to tendc sin god Tut bet auer ut, de herre sal eme degbedinghen uor sine man unde sal dat efoghedinc demc clagbere cundeghen uerteynacht uore» Cumpt ghene uore unde de clagbere nicht, men delt ene ledich, it ne beneme eme echt not; wirt de bewist, so ne uorluset he nicht. (XXIIII.)"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-44",
    "article": 44,
    "section": 1,
-   "segmentation": "auto",
-   "text": "ne uorluset he nicht. (XXIIII.) Sterft de man in der iartale, dat he sin god utten sal, be erft dat uppen sone unde uolghet an enen anderen heren, of sin herre sterft eder of bet uplet eder uoreoft eder it eme untseghet, Nicht ne mach he auer ledeghes gödes uorlenen, he ne hebbet utgbetoghen kegen"
+   "segmentation": "anchor",
+   "text": "Sterft de man in der iartale, dat he sin god utten sal, be erft dat uppen sone unde uolghet an enen anderen heren, of sin herre sterft eder of bet uplet eder uoreoft eder it eme untseghet, Nicht ne mach he auer ledeghes gödes uorlenen, he ne hebbet utgbetoghen kegen den herren. (XXV.)"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-44",
    "article": 44,
    "section": 2,
-   "segmentation": "auto",
-   "text": "den herren. (XXV.) Cumpt it auer an enen andren herren, de man ne darf it nicht keghen en utten, he sal eme auer uolghen mit lenrechte. De sone ne darf in des uader stad nicht utten sin göd keghen den herren, of de uader sterft."
+   "segmentation": "anchor",
+   "text": "Cumpt it auer an enen andren herren, de man ne darf it nicht keghen en utten, he sal eme auer uolghen mit lenrechte. De sone ne darf in des uader stad nicht utten sin göd keghen den herren, of de uader sterft."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-44",
    "article": 44,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "(XXVI.) Alse dicke alse enes mannes leu an enen andren herren cumpt, also dicke uornyet sie sin iartale."
   },
   {
@@ -6417,39 +6561,39 @@
    "articleId": "lehnrecht-45",
    "article": 45,
    "section": 1,
-   "segmentation": "auto",
-   "text": "In des herren deghedinghen mach de man göd lenen unde eruen sin göd"
+   "segmentation": "anchor",
+   "text": "In des herren deghedinghen mach de man göd lenen unde eruen sin göd uppe sinen sone. (XXVII.)"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-45",
    "article": 45,
    "section": 2,
-   "segmentation": "auto",
-   "text": "uppe sinen sone. (XXVII.) De sone ne antwordet nicht deme herren in des uader stad, it ne si, dat he göd hebbe, dar sin uader umme beclaghet were, eder of sime herren ghewedde irdelt si uppe sin göd; dat mot he gheuen eder mitreden na"
+   "segmentation": "anchor",
+   "text": "De sone ne antwordet nicht deme herren in des uader stad, it ne si, dat he göd hebbe, dar sin uader umme beclaghet were, eder of sime herren ghewedde irdelt si uppe sin göd; dat mot he gheuen eder mitreden na rechte in des uader stat. (XXVIII.)"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-45",
    "article": 45,
    "section": 3,
-   "segmentation": "auto",
-   "text": "rechte in des uader stat. (XXVIII.) Sprict de man den herren an umme len, dat he in gheweren nicht ne heuet, unde deghedinghet he eme uor sinen man, binnen den deghedinghen ne"
+   "segmentation": "anchor",
+   "text": "Sprict de man den herren an umme len, dat he in gheweren nicht ne heuet, unde deghedinghet he eme uor sinen man, binnen den deghedinghen ne mach de man des godes nicht lenen. (I.)"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-45",
    "article": 45,
    "section": 4,
-   "segmentation": "auto",
-   "text": "mach de man des godes nicht lenen. (I.) Swen men sin göd in siner antworde uordclt ane rechte wedersprake, de ne mach is nicht mer litten."
+   "segmentation": "anchor",
+   "text": "Swen men sin göd in siner antworde uordclt ane rechte wedersprake, de ne mach is nicht mer litten."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-46",
    "article": 46,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nicht wan dre sake ne Art 46. mach de herre uppe den man tughen. Wat de man binnen len rechte sprict eder dot eder louet, wil hes besaken, dat mot de herre wol uortughen. Is deine manne des rikes denest ghebodeu mit ordelen, nnde heuet es de herre tuch in sinen mannen, det horden, he mot ene wol uortugben. Deghedinghet oc de herre sime manne to lenrechte, he suluen eme suluen uan munde to munde mit ordelen, dese dre sake mot de herre bet highen mit twTen sinen mannen, det horden unde saghen, dan es de man moghe uuschuldich werden."
   },
   {
@@ -6457,7 +6601,7 @@
    "articleId": "lehnrecht-46",
    "article": 46,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Heuet de man twe herren eder mer, de eme alle des rikes denest bedet mit ordelen, de it eme erst bot, mit deine sal he Haren unde den andren allen heresture gheueu, den tegheden schilliuch eder punt, dat he iarlikes uan eme heuet."
   },
   {
@@ -6465,7 +6609,7 @@
    "articleId": "lehnrecht-46",
    "article": 46,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nyn herre ne mot oc des rikes denest beclen sime manne, it ne si eme uore mit ordelen gheboden."
   },
   {
@@ -6473,7 +6617,7 @@
    "articleId": "lehnrecht-47",
    "article": 47,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of en man sime gode uolghet in enen andren herren, nicht an sines herren sone, unde of de herre eme des godes nicht ne bekant, dat sal de man behalden mit des ersten herren mannen. De sal men uraghen bi des ersten herren hulden, unde ne sal se nicht besweren, mer of lies ne truwet nicht, dat se iren herren hehben hulde dan, dat moten se sweren, er se highen, edder den tuch uppen hilighen beweren. Deser highe ne sal de herre ninen to daghe bringben bi plicht, he ne si sin man also wol."
   },
   {
@@ -6481,7 +6625,7 @@
    "articleId": "lehnrecht-47",
    "article": 47,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swein desser manne tosta unde doch to den bereschilde boren is also ho, dat he lenrecht don mach, des herren husghenoten mittet de man in der manne stat, war he ere bedarf, de dar man sin, dar sin göd henen bort."
   },
   {
@@ -6489,7 +6633,7 @@
    "articleId": "lehnrecht-48",
    "article": 48,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of en herre sines mannes göd uplet sime herren ane des mannes witschap, of it dan enen anderen ghelent is, de man uolghe binnen siner iartale sime gode. Des mannes iartale beginnt, als eme sin herre cundeghet uor sinen mannen, dat he sin god ghelaten hebbe, cder gbene dat eme but, den it dar gbelent is, eder sie des godcs nnderwint, unde dat eme mit des berren boden bewist wird."
   },
   {
@@ -6497,31 +6641,47 @@
    "articleId": "lehnrecht-48",
    "article": 48,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man ne sal sines berren godcs sinnen an enen oueren berren, bc ne bore er sines berren wort, of bet gbelaten hebbe eder sie dar an uersumet. Ne bekaut es de berre niebt, de man mane ene uor sinen mannen mit ordelen, dat be sin god norsta binnen reebten degbedingben, dat is binnen ses weken, unde des sin gbewere si. Weygberet des de berre mit unrechte, unde beuet es de man hieb, be uolgbe sime gode unde bliues ane sebaden, of it sin berre dar na bebalt."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-49",
+   "article": 49,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Nimpt en berre sime manne god eder weygberet be eme lenrechtes eder untfalt be eme der werescap, alse be ene gbeweren sal, dat clagbe de man sime oueren berren uor sinen mannen, de sal eme mit ordelen beden, suluen eder sin bode, dar dat twe sine man boren, dat be rcebt do unde des godes reebte gbewere si. Ne dot lies niebt, so lent eme de ouere berre unde si es sin gbewere, of it de man tugbet na lenreebte."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-49",
+   "article": 49,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Lent en herre twen mannen eder (Iren god, swar dat eme erst ledieh wirt, de dar erst belent wirt, de sal des ersten godes worden, dat eme ledieh wirt."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-50",
    "article": 50,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Varet de berre ut den laude binnen des mannes iartale, dat be sin god untfan sal, dat ne scadet deme manne niebt to sime reebte. Wan auer de berre weder cumpt, so gat des mannes iartale an. Sud auer de man den berren binnen der iartale to boue eder to buse eder to degbedingben, na des de herre wedercomen is, unde untfeyt he sin god uan eme nicht, he uorsumet sie an sime gö*de. Varet oc de man ut deine lande binnen siner iartale, be ne lenet"
+   "segmentation": "anchor",
+   "text": "Varet de berre ut den laude binnen des mannes iartale, dat be sin god untfan sal, dat ne scadet deme manne niebt to sime reebte. Wan auer de berre weder cumpt, so gat des mannes iartale an. Sud auer de man den berren binnen der iartale to boue eder to buse eder to degbedingben, na des de herre wedercomen is, unde untfeyt he sin god uan eme nicht, he uorsumet sie an sime gö*de. Varet oc de man ut deine lande binnen siner iartale, be ne lenet de iartale dar mede nicht"
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-50",
    "article": 50,
    "section": 2,
-   "segmentation": "auto",
-   "text": "de iartale dar mede nicht Also alse de man sine iartale lenet, of be sines godes sinnet unde des eme de berre weygberet mit unrechte, also cort si eine de berre, of be eme dat god but."
+   "segmentation": "anchor",
+   "text": "Also alse de man sine iartale lenet, of be sines godes sinnet unde des eme de berre weygberet mit unrechte, also cort si eine de berre, of be eme dat god but."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-50",
    "article": 50,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Hut sie de berre eder beslut be sie up ener horch, dat de man to eme nicht comen ne moghe, dat ne scadet deme manne nicht to sime rechte, of hes tuch 'heuet, dat he sinen herren sochte to boue unde to huse, dar sin invart unde utfart si, unde manscap bode umine sin göd, eder it uttoghe na rechte."
   },
   {
@@ -6529,7 +6689,7 @@
    "articleId": "lehnrecht-50",
    "article": 50,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Steift en man ouer mere eder andersvvar, wanne sine kindere erst sinen dot irescket, dar gad an ire iartale ire göd to untfande. Sterft auer enes marines herre unweteliken deine manne, swanne se sinen dot erst ireschet, dar gad an ere iartale ere got to untfande."
   },
   {
@@ -6537,7 +6697,7 @@
    "articleId": "lehnrecht-51",
    "article": 51,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In » rechter iartale mach de man alle ghewedde, de np ene irdelt sin ane sine iegbenwarde, untsegghen uppen hilighen keghen den herren, de herre ne behalde se mit ghetughe, alse hir uore gheredet is."
   },
   {
@@ -6545,7 +6705,7 @@
    "articleId": "lehnrecht-52",
    "article": 52,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict en man göd an, des eme de herre besect, unde de man der were dar an daruet, he mot deme herren borghen setten sines gheweddes unde der manne böte, of he sc uorboret, de eme de herre to lenrechte beschede, ne heuet anders he nin göd uan deme herren wan dat, dat he ane were ansprict. Swar auer he de were an heuet, sin ghewere sal sin borghe sin, of he se behalt keghen den herren mit tughe."
   },
   {
@@ -6553,7 +6713,7 @@
    "articleId": "lehnrecht-53",
    "article": 53,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lent de herre sines mannes god enen andren imdc of hes sin were is mit uinghere unde mit tunghen, dor dat ne sal de ghcne der ersten lcnesghen were nicht daruen, de herre ne moghe dat tnghen, dat he eme de were mit lenrechte uordelt unde ghebroken hebbc. De herre ne mach nemene göd lcncn unde ene des gheweren, he ne hebbet suluen in gheweren."
   },
   {
@@ -6561,7 +6721,7 @@
    "articleId": "lehnrecht-54",
    "article": 54,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan de herre sinen seilt mit manscap nederet, al siner manne len heuet he uorlorn, dat sin eghen nicht nis, unde de man seien ir göd uan deme oueren herren untfan, eder he sal se wisen an irs herren ghenot. Dat sulue do de man, of sin herre sin göd nederet unde uan enen andren herren untfeyt, dan het er hadde."
   },
   {
@@ -6569,7 +6729,7 @@
    "articleId": "lehnrecht-54",
    "article": 54,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Doch nis des mannes hereschilt nicht ghenederet dar mede, of he sines ghenotes man wird unde den god uan eme untfeyt dorch dotslach, erste de manscap nicht gheerft ne werde. J) fehlt Hs. J)er §. fehlt im Text; es steht aber unten die Bemerkung:, sterft auer deest. In der Tafel stehen die Anfangsworte des §.: Sterft enes mannes herre. Andere Hss. nicht ne bekant. Andere Ess. er eme de herre dach to lenrechte b. lenes ghewere?"
   },
   {
@@ -6577,7 +6737,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt enen manne god ghelent nppe sine krttwe, dat het uplate, wanne it sin herre lose to bescedener tid, dat göd mach de herre losen, of he wil, unde mach it laten. Sterft oc de man ane lencruen, dat g5d wirt deine herren ledich, unde de herre nis nicht plichtich to gheuende ghenea eruen de losinghe des gödes. Derne dit göd aldus ghelent wirt uppe sine truwe, wil he sine truwe ]) breken unde besaken, dat lies icht laten sole, dar mot he wol sine umschult uore don, men nc moghes cne uortughen, dat he binnen lenreebte ghelouct hebbe."
   },
   {
@@ -6585,7 +6745,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Al schuldeghinghe, de an ghewedde gad unde binnen lenrechte ghesched, mach de herre de ghetughen tippen man mit twen sinen mannen, de behalt de herre« Dar auer de man sin len bi uerlesen mach, dat mot de herre sulf seuede tughen siner manne."
   },
   {
@@ -6593,7 +6753,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Göd, dat den manne gbelent wird uppe sine truwe, dar macb he lenrecht mede don sime manne unde erft it uppe sinen sone unde de ne dornen it nicht uplaten deme herren umme losinghe, se ne hebben it suluen ghelouet,"
   },
   {
@@ -6601,7 +6761,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man nis nicht plichtich sines berren louede to lestene, noch dat kint sines uader, umme sin god to latende."
   },
   {
@@ -6609,7 +6769,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Göd mach de herre setten ane manscap enen manne. Dat stat up des herren truwe, of het dem manne stede late; wil het auer eme breken mit siner unschult, dat mot he wol don, de man de nc moghe ene uortughen, dat het eme uor gerichte satte."
   },
   {
@@ -6617,7 +6777,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat auer de herre manlike lent, dat stat uppe des mannes truwe, wer het late eder do na sime louede, de herre nc moghe cne uortugben, dat het binnen lenrechte louede. Deme aldus göd ghelent wird, he nis plichtich dat god up to latende umme losinghe deme sone des herren noch mmanne, in den dat gheboret na sines herren dode, he ne hebbet eme louet to latene."
   },
   {
@@ -6625,7 +6785,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so seghet göd to sattinghe lent, de seghet unrechte, wante sattinghe ne mach neman lenen. Sal men göd setten, so dat it hclpcne si, dat mot sehen uor des laudes richtere, so dat men des de dingheplichtcn to tughe hebbe; sal auer leninghe sehen, de sal sehen uor des herren mannen, an den men des ghetuch hebbe. Ghelent sattun ghe dat nis weder len noch sattunghe."
   },
   {
@@ -6633,7 +6793,7 @@
    "articleId": "lehnrecht-55",
    "article": 55,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat de herre manlike J) lent, dat is recht len eder eruelen eder borchlen eder ghedinghe au enes benonieden naannes göde, swat so deme herren ledich werde."
   },
   {
@@ -6641,7 +6801,7 @@
    "articleId": "lehnrecht-56",
    "article": 56,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Oc mach de man göd untfan mit euer urowen, so dat he se an deme göde uorsta unde uolghe dar mede an enen andren herren, of ir herre sterue, dat ir der uolghe nicht ne tosta, wan se des herescildes daruet. De man heuet den herescilt unde de were uan der urowen half an deme gode, dor dat heuet he de uolghe dar an."
   },
   {
@@ -6649,7 +6809,7 @@
    "articleId": "lehnrecht-56",
    "article": 56,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft auer de vrowe, uan der haluen he de were heuet in deme göde, sin leninghe heuet ende, de he to uoremuntscap untfenc, eme ne si recht len eder ghedinghe dar an ghelent"
   },
   {
@@ -6657,7 +6817,7 @@
    "articleId": "lehnrecht-56",
    "article": 56,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Svve mer leninghe seghet in gode, dat men manlike lent, dan hir uore redet is, de seghet unrecht, it si herre eder man."
   },
   {
@@ -6665,7 +6825,7 @@
    "articleId": "lehnrecht-56",
    "article": 56,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Let oc de urowe ir göd up eder wirt it ere mit lenrechte uordelt, ghene ne heuet dar nicht an, det mit ere untfenc. Let auer het eder wirt it eme uerdelt mit lenrechte, se ne uorluset dar mede nicht, weilt se in den gheweren sit. Lenen ne mach he oc io nicht dar an weder der urowen willen, ane dat ene uorlent an cumpt unde dar he mit lenrechte to dwunghen wirt. Swat dar ledich an wirt, dat is der urowen ledich unde nicht deme herren noch deme manne, de dat mit ere untfenc."
   },
   {
@@ -6673,7 +6833,7 @@
    "articleId": "lehnrecht-56",
    "article": 56,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ghedinghe an uorlenden göde mach he uorlenen mit der urowen willen, unde wat dar ledich an wird, dor dat se beyde en vul recht hebbet mit ghesamneder hant an deme göde untfangen; he heuet de leninghe unde den herescilt, se heuet de suluen leninghe unde de ghewere."
   },
   {
@@ -6681,7 +6841,7 @@
    "articleId": "lehnrecht-57",
    "article": 57,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lent en §. L herre wiue eder manne ghedinghe an enes manncs göde, sterft ghene dar na, det in gheweren heuet, de ghewere des gödes ist uorstoruen uppe den, deme dat ghedinghe dar an ghelent was. Er was it sin len under ghedinghe unde under den bescede, of de ane leneruen storue, det in gheweren hadde; do he starf, do was it sin len ane ghedinghe, erste lies den herren innere, of lies nicht ne bekant, binnen siner rechten iartale, mit twier manne tughe, de de leninghe saghen unde horden, do liet eine ane were let."
   },
   {
@@ -6689,7 +6849,7 @@
    "articleId": "lehnrecht-57",
    "article": 57,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Üwen de steift ane eruen, det göd in ghewere heuet, de herre mot es sie wol underwinden, of lies sie nicht uorsint, dat he dat ghcdinglic dar an iemene lent hebbe."
   },
   {
@@ -6697,7 +6857,7 @@
    "articleId": "lehnrecht-57",
    "article": 57,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vnderwint oc sie es ghene, dem en wardinghe eder cn ghcdinglic dar an ghelent is er den v) de herre, he ne missedot nicht, erste het tohant uorsta unde sin recht dar an berede keghen sinen herren, wan hc ene dar umme sculdeghet* Niner iartale ne sal he denne dar mede beden, wente alsc hc sine iartale mit sinnene lcurt, also cortet sc de herre, of he eme dar uan recht but."
   },
   {
@@ -6705,7 +6865,7 @@
    "articleId": "lehnrecht-57",
    "article": 57,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft cn herre eder let he up sines mannes göd hinnen der iartale, als it den man an irstoruen is, vnde he den herren der leninghe inneren sal, he nolghc sime göde nicht uor en ghcdinglic mer uor cn recht len, alse hc an ene mit rechte gewist is. Derne ersten herren sal auer he beden dat göd to behaldenc mit tnghe; XX. wedersprect het mit unrechte, so behalt hc dat göd mit rechte, dar eme rechtes af ghewcyghered is unde heuet dar rechte uolghe an. Was it auer ghelatcn bi icnes liue, det in gheweren hadde, unde Avas he redelike unde rechte an ienen ghewist, dem it de herre let, eder hadde het uan eme untfanghen, so is al ghedinghe gebroken, dat de erste herre ghelent hadde in deme gode.. 58."
   },
   {
@@ -6713,7 +6873,7 @@
    "articleId": "lehnrecht-58",
    "article": 58,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Kint mach kinde god lenen, de wile se beyde binnen iren iaren sin, unde aneuelle, of it eme sulucn erst ghelent is. In den aneuelle nis auer nin uolghe, of de herre sterft, det ghelent heuet. Van sinen manne nirnpt de herre aneuelle alse in sines sulues göde, de wile de kinderc beyde binnen eren iaren sin."
   },
   {
@@ -6721,7 +6881,7 @@
    "articleId": "lehnrecht-58",
    "article": 58,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so göd lent to uluchtsale, he mot dar umme wedden sime herren, hc ne untschuldeghes sie na rechte, unde mot binnen ses weken de leninghe breken gheneme mit rechte, eder men uordclt eme sin göd. Vluchtsale het, wat de man lent an twiuele sines liues, an suke, eder alse he dat lant rumen wil, unde of hc gheneset eder weder cumpt, dat he dat göd weder hebben wil. Swe dus göd lent, it is weder god, weder recht unde weder sine truwe, wante he sime herren plichtich is truwe unde holt to wesende. He ne lent nicht dat sin is, he lent dat sines herren is eder enes anderen na sime dode, wan lies bi sinen liue nicht umberen ne wil."
   },
   {
@@ -6729,7 +6889,7 @@
    "articleId": "lehnrecht-59",
    "article": 59,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vordinghet aucr en man god to lateue enen an- §J. deren, det uan erae nicht ne wil nemen, lct het eine dan an sine were, unde lent he dat göd sinen luden na ghenes willen, dat set halden in leninghe ghenen rnede to sterkene sin unrechten ghcwere, schuldeghet ene dan sin herre dar urnme uor sinen mannen, dat he also dat ghelent heuet unde bekant hes, he heuet dat göd uorlorn, dat he ut siner were heuet ghelaten gheneme, de dar nine leninghe an ne heuet. Dit is also, of he des gödes ghetoghen hadde au enen andren herren uor sime herren unde uor sinen mannen."
   },
   {
@@ -6737,7 +6897,7 @@
    "articleId": "lehnrecht-59",
    "article": 59,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wird he auer dor dat beclaghet na lenrechte drie in siner ieghenwarde, meu uordelt eme dat göd; he ne thet binnen ses weken ut unde pleghe dar rechtes af, men uordelt eme alle ansprake dar an, dor dat he der were darüet noch se neman to lene uan eme ne heue."
   },
   {
@@ -6745,7 +6905,7 @@
    "articleId": "lehnrecht-59",
    "article": 59,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den dat god oc aldus ghelent is, de ne hebbet dar an nine uolghe, wente se der were daruet noch se neman uan en to lene ne heuet. Al len ane were daruet der uolge unde al were ane leninghe is unrecht; se ne hebbe en man beyde, so sin se beyde unrecht."
   },
   {
@@ -6753,47 +6913,63 @@
    "articleId": "lehnrecht-59",
    "article": 59,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict auer de man, deme dat göd ghelent is, de were au, de mot se tughen mit der niesten menie der umraesetenen keghen den oueren herren na 'deser schuldeginghe, swan iren herren sin recht ghebroken is. Versect es de man, det göd aldus heuet ghelent, des mot he sie untschuldeghen uppen hilighen, unde mot binnen ses weken sine man na lenrechte dwinghen, dat se dat göd weder in ere were nemen, unde gheneme sine were breken mit minnen eder mit rechte, de dar an leninghe heuet. Ne dot hes nicht binnen rechten deghedinghen, eme ne helpt de unscult nicht, de he dede, men ne uordele em sin göd, is ne erre eme unrecht walt unde he 128 IV. » clc claghe na rechte."
   },
   {
    "book": "lehnrecht",
-   "articleId": "lehnrecht-61",
-   "article": 61,
+   "articleId": "lehnrecht-60",
+   "article": 60,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe in unrechter were Bit ane leninghe, wil he sc behalden dar mede, dat he segghei, dat g<5d si sin tinsgöd, of it oc ghene bekant, an den lie is tud, so wethe men daf, dat borghe noch stede noch richte noeh denest oner manne göd nin man mach to tinsc don, nemelike sime ghenote eder manne honen sie, so dat it sin herre uan eme dulden dorue noeh de lnde noch de man, ouer de dal gherichte eder denest gad."
   },
   {
    "book": "lehnrecht",
+   "articleId": "lehnrecht-60",
+   "article": 60,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Molen auer eder munte unde allerhande toln, hone nnde god to tinse ntghedan eder to pleghe, ne mot anderwarne nin man to tinse don, so men dat dor recht liden dorne. Swe tinsgod redeliken wil hebben, de sal it snlnen arebeyden eder sine knechte, de he becosteghet mit spise nnde mit lone Dot het anderwarue Inden to tinse eder to pleghe, so is he snlnen en unrecht tinsman in deme Art 61. göde."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-61",
+   "article": 61,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Leu ane richte ne mot nin pape noch wif noch eck- 1| telos man hebben."
+  },
+  {
+   "book": "lehnrecht",
    "articleId": "lehnrecht-61",
    "article": 61,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Molen auer eder munte unde allerhande toln, hone nnde god to tinse ntghedan eder to pleghe, ne mot anderwarne nin man to tinse don, so men dat dor recht liden dorne. Swe tinsgod redeliken wil hebben, de sal it snlnen arebeyden eder sine knechte, de he becosteghet mit spise nnde mit lone Dot het anderwarue Inden to tinse eder to pleghe, so is he snlnen en unrecht tinsman in deme Art 61. göde."
+   "segmentation": "anchor",
+   "text": "It ne mot oc nin mau richten, er he dat richte untfanghen hebbe. Swan het auer enes untfeyt, sterft sin herre eder let het np, he mot wol richten binnen siner iartale, dat he dat richte untfau sal anderwarue."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-62",
    "article": 62,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Leu ane richte ne mot nin pape noch wif noch eck- 1| telos man hebben. ¶ Nin man ne mach sime herren god mit der were untferen, des amman he is, of het eme to lene seghet, wante eme sin herre al sin god in sine were beuolen heuet."
+   "segmentation": "anchor",
+   "text": "Nin man ne mach sime herren god mit der were untferen, des amman he is, of het eme to lene seghet, wante eme sin herre al sin god in sine were beuolen heuet."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-62",
    "article": 62,
    "section": 2,
-   "segmentation": "auto",
-   "text": "It ne mot oc nin mau richten, er he dat richte untfanghen hebbe. Swan het auer enes untfeyt, sterft sin herre eder let het np, he mot wol richten binnen siner iartale, dat he dat richte untfau sal anderwarue. ¶ Lent eme auer de herre god, des he eme seder nicht ne bekaut, dat mot he tughen alse ghene, de der were daruet, mit den, det sagheu unde horden, unde ne mach deme gode nicht uolghen an eneu andren herren noch erneu an sinen sone binnen ammichte."
+   "segmentation": "anchor",
+   "text": "Lent eme auer de herre god, des he eme seder nicht ne bekaut, dat mot he tughen alse ghene, de der were daruet, mit den, det sagheu unde horden, unde ne mach deme gode nicht uolghen an eneu andren herren noch erneu an sinen sone binnen ammichte."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-63",
    "article": 63,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelk god deme manne ane manscap ghelent wirt, dat ne het niu recht len, alse god, dat de herre sime denestmanue lent ane manscap to houereebte; dar sal he houerechtes af pleghcn unde nicht lenrechtes. Na houereebte sal iewelk denestman gheboren drozeete sin eder schenke eder kemerere eder marscbalc."
   },
   {
@@ -6801,7 +6977,7 @@
    "articleId": "lehnrecht-63",
    "article": 63,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dor de manichualde twiuughe des rechtes so ne sprek ik uan irme rechte nicht uorbat, wante under ieweliken biscope unde abbate unde ebbedischen segghet en de denestmanue suuderlik recht to."
   },
   {
@@ -6809,23 +6985,23 @@
    "articleId": "lehnrecht-64",
    "article": 64,
    "section": 1,
-   "segmentation": "auto",
-   "text": "De mau sal"
+   "segmentation": "anchor",
+   "text": "De mau sal ieghelikes gödes mit rnanscap sinnen, al si he des herren man."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-64",
    "article": 64,
    "section": 2,
-   "segmentation": "auto",
-   "text": "ieghelikes gödes mit rnanscap sinnen, al si he des herren man. Manscap mot de man uppen hilghen wol bebakten, der eme de berre bebect; be mot auer suluen de biligben Winnen."
+   "segmentation": "anchor",
+   "text": "Manscap mot de man uppen hilghen wol bebakten, der eme de berre bebect; be mot auer suluen de biligben Winnen."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Umme iewelike scult mot de berre sime manne to lenrecbte wol degbedingben, of de scult gbeweddes wert is."
   },
   {
@@ -6833,7 +7009,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Uor middagbe unde baten bundenen dagben uude in allen Steden mot de berre wol sines dcgbedingbes begbinnen am in kerken unde in kercbouen."
   },
   {
@@ -6841,7 +7017,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse de berre degbedingbe begbinnen wil, so uragbe he sinen man, dat it twe sin er man boren eder mer, of be eneme sinen manne to lenrecbte degbedingben mote umme sine scbuldegingbe. Swenne dat ordel gbevunden wirt uude gheuolghet, so sal eme de berre degbedingben uan deme suluen dagbe mit ordelen eder uan den nesten ses dagben ouer uerteynacht in en benomcden dorpe unde in ene benomde wort, de des herren ledicb eder uerleghen si. Vraghet de man den herren, war dat dorp ligghe, dar be eme heuet ghedegedingbet, he sal ene des berichten, wente uele dorp hebbet enen namen, de doch uerre untwe ligget."
   },
   {
@@ -6849,7 +7025,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Heuet de man des rikes göd van mer heren, be sal eme degbedingben uppes rikes göd. Heuet auer be sin eghen to lene, be sal eme degbedingben uppet eghen. Heuet auer he göd uan mer herren, dat len is des herren, al si it wol eghen, de berre mot wol degbedingben uppe iewelicb sin rechte len."
   },
   {
@@ -6857,7 +7033,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan de berre sinen manne aldus deghedinget, he mot wol sinen mannen, de dar to ieghenwarde sin, mit ordelen bedeu, dat se to sinen lenrecbte comen. Wellie ere nicht ne cumpt, den delt men wTeddehaft den herren, it ne erre ene eebtnot, dat he nicht comen ne moghe. Deman ne wirt nicht weddehaft, of be uor mitdaghe in dat lenxqcM cumpt, al si it uore begrepen."
   },
   {
@@ -6865,7 +7041,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De berre wint ghewedde uppen man, den dar ghedeghedinghet is mit ordelen in siner ieghenwarde, of lic tome daghe nicht ne cumpt, it nc erre ene echtnot, unde sines gbeweddes sal de herre uppes mannes god scn, dat lic uan eme heuet."
   },
   {
@@ -6873,7 +7049,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De tinsglielde nc snl uor sinen herren nin pant liden, wen nor also ucle gheldes, alsc lic deine herren iarlikes gheuen sal, im de of het noch under eme heuet."
   },
   {
@@ -6881,7 +7057,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar de herre sin ghewedde nicht ut panden nc mach in deme gode, dat de man uan cm heuet, dar underwinde he sie des godes vor dat wedde. Nc untredet de man dat ghewedde nicht na rechte binnen iarc unde daghe, men uordelt eme sin god dar umrae."
   },
   {
@@ -6889,7 +7065,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Is de man dar to iegenwarde, dar eme sin herre deghedinghet, also na dat he sine deghedinghe hären mach, of hes nicht hören nc wil unde sine oren bchut, dar mede ne mach he nicht weygheren sines heren deghedinghe to sokenc. Nis auer de man dar to ieghenwarde nicht, de herre sal eme den dach cundeghen eder sin bode, dat it twe sine man boren, eme suluen oder in sinen hone, dar sin utuare oder inuare si. Nc vint men auer sin nicht, unde ne heuet he soghedanes houes nicht, men snl cundeghen dit cZeghedinc up alsodan god, alse he uan deme heren heuet, uerteynacht er den utghelcgheden daghe. Dar sal de herre hringhen ton minnesten sesse siner manne vnde enen boden, de den man eschc, deme dar ghedeghedineghet is,"
   },
   {
@@ -6897,7 +7073,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse de herre beginnt siner deghedinghe, so vraghe he erst, of it deghedinghes tid si. Alse eme dat ghevunden wirt, so vraghe he, of hc nemen mote enen sinen man, de to lenrechte sin wort spreke. Swan dat ordel vunden si, so vraghe be io sine man, of ses uolghen."
   },
   {
@@ -6905,7 +7081,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ne cunnen de man to bant des ordclcs nicht uinden, gewinnet verteynacht dach, erste ir iewelich, den men vraghe na den andren, sin recht dar to do. Gheschet dit, so is dat lenrecht ghevrist verteynacht-, hir under sal men dat ordel uinden."
   },
   {
@@ -6913,7 +7089,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 12,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De herre ne mach ninc vrist gheuen na modwillen ane des clegheres willen vnde des, uppe den de daghe gad,"
   },
   {
@@ -6921,7 +7097,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 13,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wel de herre den man schuldeghen ener andren rede, alse de erste schuldeghinghe mit ordelen ghevrist wirt J), de man ne sal eme mit rechte nicht antworden, de wile de erste schuldeghinghe ungheendet is."
   },
   {
@@ -6929,7 +7105,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 14,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse de sunne vndergad unde de dach ende nimpt, so nis de man nicht mer plichtich deme herren to leurechte to antwordene, noch sine man ordei to vindene. Is auer des herren schuldeghinghe nngheendet, so mot he mit ordelen deghedinghen gheneme ouer verteynacht, de dar is hcsclmldeghet."
   },
   {
@@ -6937,7 +7113,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 15,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vor middaghe mot de herre sines deghedinghes wol beghinnen. Als eme de deghedinghes tid irdelt is unde he uorespreken ghenomen heuet, so vraghe he, of he icht mote laten eschen to leurechte enen sinen man, den he dar ghedeghedinghet heuet vmme schuldeghinghe. Als it ghevunden wirt, so vraghe he, we ene sole eschen. So vint men, cn sin bode, dar it hören twe sine man uppet ende des houes, dar de herre deghedinghet, unde spreke aldus: XXXIX. ich esche vor minen herren N. enewarue, anderwarue, driddewarue vmme sodane schuldeghinghe, als eme her ghedeghedinghet is. Nis he den dar nicht, so come de bode weder to deme herren unde segghe: herre, he ne was dar nicht noch nyn man, de sine not beschermde. Alse des de bode becant, so vraghe de herre, wat dar rechtes vmme si. So uinde men to rechte, dat men ene anderwarue esche vnde sint derdewarue. Dit mot men wol don mit enen boden, swe he si. Men mot sunderlike man hebben, also dicke alse men ene eschen sal."
   },
   {
@@ -6945,7 +7121,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 16,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swcnne men ene derdewarue esched unde he nicht ne cumpt, so vraghe de herre, wat dar rechtes vmme si. So vint men to rechte, he sole sines Warden, weilte de sunne nider ga, dat is to middaghe. Dar na vraghe de herre, of he sin ghewardet hebbe alse lenrecht si. Wanne dat ghevunden wirt, so deghedinghe eme dan de herre to enen andren male, unde wurde sin, alse he to dem ersten male dedc. Dit do he to deme derden male. Swellekern deser daghe de herre uorsumet unde deme manne nicht ne uolghet, alse lenrecht is, he bcuct al sine deghedinghe uorlorn. Dat erste degliedinc sal men cundeghen deme manne unde anders nyn."
   },
   {
@@ -6953,7 +7129,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 17,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In beslotencn hone noch linder dake noch in burghen ne raot de berre nin lenrecht halden."
   },
   {
@@ -6961,7 +7137,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 18,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse de herre des derden daghee sincs mannes wardet, bet de sunne undergad, so vragbe he, wat dar rechtes vmrac si. So vint men, dat be sine degbedinc tughen sal, dat erste, dat ander unde dat derde, ir iewelik mit twen sunderliken mannen. Dese tneb sal aldus luden: I. herc, ich plcgbe mi des bi iuwen hulden, dat gy N. deghedineghen in dese stat unde sin dar Warden, alse lenreebt is; dat sacb ik unde bordet unde bin des iuwe tuch. Na iewelkes mannes tugbe uraghe de berre, of he mit eme vulcomen si, alse it eme helpcnc si to sime rechte*"
   },
   {
@@ -6969,7 +7145,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 19,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swanne de tuch bi des herren bulden segbet, dat be wet uan der rede, der be gbevragbet is, oder bi des herren hulden sie vorpleget, dat he dar af nicht nc wete, so ne sal men cne nicht uorbat vraghen. De herre mot wol vraghen, wo manighen sinen man he wil, went he sinen tuch vulbringhe«"
   },
   {
@@ -6977,7 +7153,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 20,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swanne de herre ghetugbet aldus dre sine deghedinghe, so vragbe be, wat dar rechtes vmmc si, dat he beschuldeghe den man, de nicht uore comen nis. So uint men, dat men eme sin göd uordele, dat he uan dem hei reu heuet. So vraghe de herre, wer he dat don sole oder en sin man» So uint men eme, en sin man. De spreke aldus: V. alse minen herren to rechte is ghevunden, also uordele ik N. soghedan göd, alse he uan minen herren ghebat heuet."
   },
   {
@@ -6985,7 +7161,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 21,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "So vraghe de herre, wat he mit dem gode don sole, dat sime manne vordelt is. So vint men eme, he soles sie suluen underwinden oder en sin bode, dar twe sine man to ieghenwarde sin, unde sal it bebalden ane mit unde anc ghclt iar unde dach. Ne tud it de man dar under niebt ut, alse de iartale irgad, men uordelt eme alle sine ansprake an (lerne gode."
   },
   {
@@ -6993,7 +7169,7 @@
    "articleId": "lehnrecht-65",
    "article": 65,
    "section": 22,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De herre vnderwinde sie des gödes, dat deme manne uordelt is, sunderliken, swar it legbet. Sint dar auer dorp eder boue, de in ene borchwere oder in enen hof boret, swar de herre sie des boues vnderwint, dar mede heuet he sie underwunden al der houe inide al der borchwere, de in den hof höret"
   },
   {
@@ -7001,7 +7177,7 @@
    "articleId": "lehnrecht-66",
    "article": 66,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Cumpt de man to sime herren binnen siner iartale unde wil he sin göd litten, hat sie de herre eder beslut he eme de borch uore, dar he uppe is, unde heuet de man sine husghenoten des to tughe, dat he to deme herren queme gherne, of hes eme stade gbeue, he tud sin göd uor sine noten ut, alse he uor deme herren solde."
   },
   {
@@ -7009,15 +7185,23 @@
    "articleId": "lehnrecht-66",
    "article": 66,
    "section": 2,
-   "segmentation": "auto",
-   "text": "Of de man auer uor den herren cumpt, he bidde aller erst uorespraken, dar na der hilighen, unde swere ane steuere, dat eme sin göd ne so uordelt ne worde, alse hes dor recht daruen solde; dat eme got so helpe unde de hilighen. Des ne sal auer de man nicht don, de herre ne weyghere eme rechtes. Tud de man £.3. sin göd ut ane ordel, de herre mot eme wol deghedinghen ane ordel; tud het auer mit ordelen ut, de herre sal em deghedinghen mit ordelen. Ne cumpt de man to deme daghe nicht, men uordelt eme al ansprake an deme göde."
+   "segmentation": "anchor",
+   "text": "Of de man auer uor den herren cumpt, he bidde aller erst uorespraken, dar na der hilighen, unde swere ane steuere, dat eme sin göd ne so uordelt ne worde, alse hes dor recht daruen solde; dat eme got so helpe unde de hilighen. Des ne sal auer de man nicht don, de herre ne weyghere eme rechtes."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-66",
+   "article": 66,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Tud de man £.3. sin göd ut ane ordel, de herre mot eme wol deghedinghen ane ordel; tud het auer mit ordelen ut, de herre sal em deghedinghen mit ordelen. Ne cumpt de man to deme daghe nicht, men uordelt eme al ansprake an deme göde."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-66",
    "article": 66,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre deme manne oder de man II deme herren to lenrechte antworden beginnt, des ersten daghes oder des anderen oder des derden, unde dat lenrecht mit ordelen ghedaghet wirt, welic ir dar ne cumpt, de is ghewunnen in der schult oder he heuet uorlorn dat göd, unde ghene behalt it, de dar cumpt."
   },
   {
@@ -7025,7 +7209,7 @@
    "articleId": "lehnrecht-66",
    "article": 66,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelikes daghes de man sime herren den stegherep halt oder ordel uint eder denet mit ghift oder mit andren dinghen, des daghes nis he nicht plichtich sime herren to lenrechte to stände. Doch mot de herre wol sceden twier siner manne ansprake an en göd, al si ir en an sime deneste oder se beyde*"
   },
   {
@@ -7033,7 +7217,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sweme de herre göd uordelt, unde het uttut unde cumpt tome daghe, dar eme ghedeghedinghet is, m den hof ne mot he neman bringhen, he ne si des herren man. Brinct he dar in lüde, de des herren man nicht ne sin, he mot dar umme wedden uor iewelken sunderlike. Er he oc uor den herren come, he sal swert, metzes, sporen, hot, huuen, hantschen, cappen unde alle wapen uan em ton« Ofte de man an (lesen dincgben sie uorsutnet, he weddet dar nmme. Oc do he uan sie uingheren, uorespan unde al yseren, ringben uan gordelen unde spaughen dor dummer lüde wan."
   },
   {
@@ -7041,7 +7225,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dese uare ne sal Dirnau hebben ane de, dcnie de herre dar ghedegbedingbet heuet nmme sine schuldeghinghc. Swar auer de man den berren ausprict, wirt eine dar unnnc deghedinghet, be nis deine berren niuer uare plichtich, wen als en ander sin man."
   },
   {
@@ -7049,7 +7233,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man nis deine berren noch de herre den manne niebtes plichtich to antwordene lo lenreebte dor scaden, den ir en dem andren lieft ghedan, er be sin man worde."
   },
   {
@@ -7057,7 +7241,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse de herre sin ienreebt begrepen hebbe unde uorespreken ghenomen, so vraghe de herre den man, dem dar gbedegbedinget is, of be also comen si, also be sime berren to lenreebte stau wille. Dar ummc mot be sie wol bespicken unde weygbereu mit rechte, of be rnacb. Ne maeb lies mit reehte nicht weygheren, so come he weder unde segghe: here, ik bin here comen reebt to donde unde recht to uemende, also uer als ik dor reebt sab"
   },
   {
@@ -7065,7 +7249,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "So schuldeghc ene de herre bisunder nmme ievvclike sake unde bede ene to rechter antwordc. So bidde de man uorespreken unde gbesprekes; uorspreken auer uordelt men deme, de antwordet des berren sckuldeghinghe, er be uorespreken neme. De man ne beuet sime berren io niebt to antwordene, al sprict be ane uorespreken, de wile he sie des weret, dat be eme mit rechte iebt antwordenen sal."
   },
   {
@@ -7073,7 +7257,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In aller rede vragbe men den man, of be an sines uorespreken wort ie. Missesprict de uoresprake, de wile men an sin wort niebt ne ied, so ne schadet it eme nicht."
   },
   {
@@ -7081,7 +7265,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Twiscben twier manne rede sal de herre vraghen, wat dar rechtes umme si. Vraghet be na sinen modwillen, nicht na rechte, dat ne schadet deine manne nicht. Swe auer ordcles vraghet uor den andren, des ordel sal men erst uinden."
   },
   {
@@ -7089,7 +7273,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Openbare ne mot de man nicht spreken in lenreebte, mer runen stillcken to sime uorespreken. Vraghet auer de herre ene, of be an sines uorespreken wort ie, he mot wol spreken openbare ia eder nen eder gbesprekes bidden eder ordel scheiden."
   },
   {
@@ -7097,7 +7281,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse de man in ghespreke gad eder weder cumpt, so sal he weder comen, de dar gbesprekes bat unde bringben ene antworde der rede, dar he gbesprekes umme bat, unde sal bekennen eder uorsaken."
   },
   {
@@ -7105,7 +7289,7 @@
    "articleId": "lehnrecht-67",
    "article": 67,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ladet de man sine husgbenoten in sin ghespreke, de sal de berre eine gheuen al sunder dre, dor dat, of se to langhe spreken, dat he se mit ordelen weder lade. Der drier mot en ordel uinden unde twe uolgben. It ne stad auer in des herren willen nicht, wellek dre he bebalde. De man nimpt to uorespreken unde an sin ghespreke, wen he wil, erste he sime berre dre latc, we sc sin, unde den, de sin wort sprect."
   },
   {
@@ -7113,7 +7297,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man weddet sime herren umme iewelke schult, de weddes werd is, he ne bencme sie uppen hilighen. Doch mach de berre schuldegben sinen man der schu/t, dar he noch cd uore ne dot noch ne (f* 1 weddet. Schuldeghet auer ene de berre, dat het eme to laster eder to schaden hebbet ghesproken eder ghedan, des mot he sie untschnldeghen eder dar umme wedden."
   },
   {
@@ -7121,7 +7305,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nimpt men enen manne göd, dat he uan sime herren heuet, unde ne cundeghet het deine herren nicht unde ne iruolghet het mit rechter clagbe nicht, he weddet sime herren."
   },
   {
@@ -7129,7 +7313,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "XXIX* Set oc en man sin len ut ane sines herren orlof, uan dem het heuet, de herre mot eme wol beden mit ordelen, dat het lose binnen ses weken; ne dot hes nicht, he weddet dar umme."
   },
   {
@@ -7137,7 +7321,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vnderwint sie en man sines husgbenoten lenes mit unrechte, eder dot he eme smaheyd mit worden oder mit dat, de wile he wet, dat he in sines herren denest is, eder dot he unrechte den, de to cleme gode gheboren is, eder deme, det uan eme heuet to lene, dat göd, dat he uan den herren heuet, dar umme mot he deme herren wedden, eder he untseghedes sie uppen hilighen."
   },
   {
@@ -7145,7 +7329,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Doch nis de herre nicht plichtich to antwordene sime manne uor den oueren herren, he ne hebbe eme er rechtes gheweygberet uor sinen mannen, noch sime tinsg eitle, he ne hebbe eme er rechtes glieweygheret uor sinen tinsghenoten."
   },
   {
@@ -7153,7 +7337,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men nc uerboret oc. nin wedde, of he godc uolget undc sin uolghe uerleghet wird, eme ne werde borst an des godes ghetugbe."
   },
   {
@@ -7161,7 +7345,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de man sie wischet edcr snut eder utspygvd cdcr iescbed cder hostet eder nuset eder etat in anderhalft sincs uoresprekeo, dan he. ton ersten dede, eder sie nmme sud ghetoghentlike, eder vleghcn eder mughen eder bromese uan im striket binnen lenreebte, dar urame ne weddet he nicht, al wenet des dumme lüde."
   },
   {
@@ -7169,7 +7353,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Tcin punt weddet de man sime herren. Swelk uorste aucr uanenlen heuet, de weddet deme coninghe hundert punt soliker pennineghe, alse in der monte ganeb unde gheue sin, dar dat wyedde an ghewunnen is, dat punt bi twintich schillinghen."
   },
   {
@@ -7177,7 +7361,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Iewelikes herren man heuet na siner bort böte; wat auer iewelkes mannes böte si, dat vint men in den boke, dat uan lantrechte scghet. Heuet auer he sin recht uorwracht, so briet eme der böte, de eme an geboren is."
   },
   {
@@ -7185,7 +7369,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Beyde böte unde wedde sal men lesten ouer verteynacht to des herren nesteu huse, dar se ghewunnen wrerdet."
   },
   {
@@ -7193,7 +7377,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man ne mot nicht sitten binnen lenreebte ane des herren orlof; ne mach he nicht lengher stan, he ligghe. Schuldeghet ene des de herre, he mot dat uppen hilighen behalden, dat he nicht lengher stan ne moghe."
   },
   {
@@ -7201,7 +7385,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 12,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man ne weddet sime herren nicht wan drie in deme daghe."
   },
   {
@@ -7209,7 +7393,7 @@
    "articleId": "lehnrecht-68",
    "article": 68,
    "section": 13,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Umme iewelike rede mot ok de man wol drie ghespreke hebben vnde in deme ghespreke wesen also langbe, bet he mit ordelen werde dries weder gheladet; de ladinghe sal he auer boren. In deme boue sal be bliuen an sime spreke, dar eme ghedegbedingbet is."
   },
   {
@@ -7217,7 +7401,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe des hereschildes daruet, de ne mach nemans ordel scheiden, de den hereschilt heued."
   },
   {
@@ -7225,7 +7409,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe ene balue boue oder vif schilliughe ghcldes heuet iarlikes uan sime herren, de mach ordel scheiden unde tuch w7eseu. De des nicht ne heuet, scbelt be en ordel, he mot borgb^i setten, dat he mit rechte vulcome oder dat ordel mit wedde eder mit böte late. Sin borgbe ne mot nin man siu, he ne si uan den herren belent."
   },
   {
@@ -7233,7 +7417,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelic man sime herren ordel uint unde des en ander nicht ne uolghet, de sal en ander uinden, of it eme de herre but. Swelk erme de nieste meninghe uolghet, de behalt unde ghene ne uerluset dar raede noch wedde noch böte dem dar brüst wirt, wante be nin ordel ne schalt."
   },
   {
@@ -7241,7 +7425,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe en ordel schelt, schuldeghet men en, dat het nicht dor rechtes willen ne do, men dor toghen, des mot he untgan Uppen hilighen eder he weddet dar umme."
   },
   {
@@ -7249,7 +7433,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man spreke aldus, alse he en ordel schelt, iewelken manne bi sime namen to: hestu N. unde bistu N«, so heuestu minen herren unde dinen, mi unde di to lenrechte en unrecht ordel vunden, dat scheldic unde te des dar, dar ik des dor recht then sal, unde bidde dar umme enes ordeles, war ic des dor recht then sole. So uint men to rechte, uor den oueren herren des godes."
   },
   {
@@ -7257,7 +7441,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dar bidden se beyde der boden to; de sal en de herre gheuen, twe sine manne, welke he wil, dor dat se tuch sin, we sin ordel behalde oder uorlese. Dese boden sal de herre becosteghen; beres unde brodes sal men eme en noch gheuen, unde dre richte to iewelken etene unde enen beker wines, twe richte den knechten; ire perde sal men uore beslan, nicht hindene. Vif garuen iewelken perde under dach unde under nacht eder also uele dorschenes uoders, alse dar uore boret Achte solen der perde sin, sesse der knecbte, vere ridene unde twe to uote. Min moten se wol uoren, mer auer nicht. In dre n daghen solen sie de boden irheben, det ordel uant unde de it schaZt, unde solen dat ordel binnen ses weken weder bringhen."
   },
   {
@@ -7265,7 +7449,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Is auer de herre buten lande, an den men des ordeles tud, swan he erst weder cumpt an dudesche art, de romeschen rike underdan is, unde he sinen come vreschet, so sal men dat ordel weder bringhen ouer ses weken uan deme dagke* So sal de man uore comen, de beschuldeghet was, to antwordene, alse he to deme ersten daghe dede, of eme de dach mit ordelen wirt ghecundeghet, alse hir uore gheredet is, eme suluen to houe unde to huse oder up al solik göd, alse he uan deme herren heuet."
   },
   {
@@ -7273,7 +7457,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wird cn ordel beschulden dor len, dat des herren eghen is, men sal to lcste dar mede uor dat rike ten, wautc de coningh to richtere ghecoren is ouer iewelkes mannes hals, eghen undc lern Dor dat so heuet al lantrecht im de lenrccht beghin an eine, wante de hereschilt an emc beginnt. L. Dat sulue denest is ok de man plichtich uan sime eghenen sinen herren to donde, of het uan eme to lene heuet, dat he eme plichtich is to donde van des rikes gode LI. Ne sohle men uor den eoninghe len an eghene nicht besceden, so nc moste he nin ordel uinden, de mit eghene belent is, ouer den, de des rikes göd to lene hedcle, noch ghene ouer desen."
   },
   {
@@ -7281,7 +7465,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "L1L Wird en ordel ghesculden dor enes mannes sakc, dem to lenrechte ghedinghet is, undc heuet he twiger hande göd eder dricr hande, an welken oueren herren de nieste dcl sines godes dript, uor den sal men bescelden dat beschuldeghede ordel."
   },
   {
@@ -7289,7 +7473,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "LIII. Irret de ghebundenen daghe, dat dat ordel nicht ne mach ghesceden werden binnen siner rechten tid, so de bundenen daghe erst lendet, dar na ouer ses weken sal men dat ordel weder bringhen."
   },
   {
@@ -7297,7 +7481,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "LIIIL Scheit en man en ordel na der vulbort, unde ne vuleumpt lies nicht mit rechte, he mot dat boten deme, cle dat ordel uant unde al den, de is uolghedcn, he ne hebbe ghesprekes ghebeden uor der vulbort. De herre ne wint auer nicht wan en wedde dar an, wante it nis nicht recht, dat men enen manne um ene sake twie eder drie wedde ♦ LV."
   },
   {
@@ -7305,7 +7489,7 @@
    "articleId": "lehnrecht-69",
    "article": 69,
    "section": 12,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe an enem manne den urede eder de uire briet, de mot twie wedden dor ene sake, deme werliken undc deme gestliken richtere, unde de, an deme de urede ghebroken is, nc wint dar nicht mede wan eyne böte, wante he mot ene rechte were louen, er mcn ene de böte loue, dat he de sake nicht nc uordere."
   },
   {
@@ -7313,31 +7497,15 @@
    "articleId": "lehnrecht-70",
    "article": 70,
    "section": 1,
-   "segmentation": "auto",
-   "text": "LVI. Of twe dorp um ene marcschedinghe twiet, de nesten, de dar bi iigget, solen se lieschcden mit tughe* Swclk er den mesten tuch heuet, de behalt. LVII. Twiet men auer in deme tughe so sere, dat nien se nicht bescheden ne mach, so beschede men dat; alse hir uore redet is in deme lantrechte. LVIII. ¶ Swen en here deghedinghet sime manne to lenrechte unde sinen mannen bud mit ordelen dar to comende, binnen den deghedinghen ne mach he nin ander utlegghen, dat he en beden moghe to sokende. En ne mach nin ander er herre deghedinghen binnen deghedinghen, wen se in des rikes deneste sin, de wile se irme herren lenrechtes helpen solen uan des rikes haluen af irme gode. Dit moten se auer uppen hilighen gheweren, se suluen eder ere boden."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-70",
-   "article": 70,
-   "section": 2,
-   "segmentation": "auto",
-   "text": "Wirt aucr des rikes hereuart eder hofuart urghe/^ghet undd fJkkheme mit ordelen (jlwboden to rechter tid, deine sin herre deghedinghet heuet to lenrechte, he is des deghedinghes ledieh, wente it emc des rikes not benimpt, erste de not werde bcsccncghet na rechte to den lenrechte."
-  },
-  {
-   "book": "lehnrecht",
-   "articleId": "lehnrecht-70",
-   "article": 70,
-   "section": 3,
-   "segmentation": "auto",
-   "text": "Lantrechtes aucr nc mach en man mit des rikes deneste nicht ledich werden, vvante he mot lantrecht liden ouer sie, de wile he in des rikes deneste is."
+   "segmentation": "anchor",
+   "text": "LVI. Of twe dorp um ene marcschedinghe twiet, de nesten, de dar bi iigget, solen se lieschcden mit tughe* Swclk er den mesten tuch heuet, de behalt. LVII. Twiet men auer in deme tughe so sere, dat nien se nicht bescheden ne mach, so beschede men dat; alse hir uore redet is in deme lantrechte. LVIII."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Al dat hir uore gheredet is, dat is uan menen lenrechte Art. TL redet; noch sal ik iu dre leninghe bescheden unde segghen, war se twien uan menen lenrechte."
   },
   {
@@ -7345,7 +7513,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe gherichte to lene heuet uan deme coninghe nederwart, dat ne mach nicht comen an de verden hant ane schultedorn al ene, wante nin greue dingen ne mach ane beienden schütteten."
   },
   {
@@ -7353,7 +7521,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "It ne mach nin man oc nin richte lenen, dat eme ghelent is, it ne si en sunderlik richte, dat in sin gherichte bore, alse grafschap in der marke unde in ander uanlen, dat mot he wol uorlenen unde ne mot it dan mit rechte nicht ouer en iar ledich behalden."
   },
   {
@@ -7361,7 +7529,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Twe man ne moghen in enen richte nin mene lenrecht hebben; dat ghedinghe mach men auer dar an uorlenen als in anderen lene."
   },
   {
@@ -7369,7 +7537,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen de coninch in achte ghedan heuet, de ne mach oc nicht richten mit rechte, noch swen sin gherichte is uordclt, de wile het nicht utghetoghen ne heuet, V. noch de, uppe den da£ gherichte irsterft, de wile het nicht untfanghen heuet, it beneme eme echte not, dat he des nicht untfan ne moghe, swen he to sinen iaren comen is."
   },
   {
@@ -7377,7 +7545,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so eghen to lene heuet, dar nis nin uolghe an. Doch gad de leninghe bet iu de seueden hant, als ander len, dat des rikes göd is. Deser nin ne mach den andren wo\\ghe uorsegghen noch lenrechtes an deme gode weygheren, ane de oucre herre, des eghen dat is. De sulue herre, det göd lent, mot it wol weder nemen, of lies bedarf, erste het den manne mit liker wesle an des rikes göde irstade."
   },
   {
@@ -7385,7 +7553,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of eghen in dat rike irsterft eder dat men dat in en godes hus ghift, den man, det to lene heuet, ne mach men ut der uolghe nicht wisen."
   },
   {
@@ -7393,7 +7561,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In borglcne is ghedinghe unde wedde als in andren lene."
   },
   {
@@ -7401,7 +7569,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Borchlen ne mach nin borghere lenen. Lent auer de borghere sin borchlen enen andren, wen it de herre ireschet, de mach wol mid ordelen eme beden, dat he sin borchlen binnen ses weken untwerre unde weder neme. Ne dot hes nicht, he mach em uordelen sin borchlen. Sterft de borchere, er dit gbesche, unde beuet de beiende man dat god an lenesgher weren ane recbte wedersprake ber ghebracht, bc uolghet sime göde binnen siner rechten iartale an den oucrcn herren, erste het ghetugbe alse lenrecht is. Swcren mot de man, dat he nin des herren borchlen dar an ne wiste, do bct untfene."
   },
   {
@@ -7409,7 +7577,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De berrc ne mach oc siner manne len nicht uplaten unde to borcblene untfan* Dot het aaer mit unrechte, so sinnen se an den oueren herren der lcninglic oder der wisinghe in den man, de en lenrecht mit deme gode don moghe."
   },
   {
@@ -7417,7 +7585,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft en man, de wile sin wif kint dreghet unde is dat ghedinghe an sime gode uorlcgben, ghene, deme dat ghedinghe ghelcnt is dar an, de sal besitten mit deme gode bct to der tid, dat dat wif enen sonen winne J). De sone ne verret oc nemene nin ghedinghe, he ne werde leuendich gheboren unde lenede na des uaders dode."
   },
   {
@@ -7425,7 +7593,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 12,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ouerlent en herre sine horch ganz oder let he se sime unghenoten, de borghere ne sin nicht plichtich to uolgende an ghenen mit eren borcblene, se behaldet it, uan deme se it ghehat hebbet, uor ir rechte len oder se uolghet dar mede in den, deme het ghelcnt heuet uor en recht len; ir ghebow upper borch sal men ene ghelden, of se ne willet nicht bliuen."
   },
   {
@@ -7433,7 +7601,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 13,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "An borcblene is aneuelle unde wedde des herren unde ghedinghe als in anderen lene."
   },
   {
@@ -7441,7 +7609,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 14,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lent en borghere sin borchlen eneme to lene, he ne can it eme mit lenrechte nicht breken; he daruet auer der uolghe dar an, it ne come also, alse hir uore gheredet is."
   },
   {
@@ -7449,7 +7617,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 15,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man uolghet borcblene unde erft it sime sone, al si beyde borch unde borchlen eghen des herren, det eme ghelent heuet oder ir ander."
   },
   {
@@ -7457,7 +7625,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 16,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe auer borghere unde borghe heuet, sterft he, de wile sin kint oder andre sine cruen to lantrechte oder to lenrechte umbelent sin mit der borch, de borghere sin plichtich en allen to swerende truwe unde holt to wesende, alse borghere eren herren solen wesen, se sin wif eder man, unde ire borch en to haldene weder aller niallekeme na borghere rechte. Dit sal don ir iewelicb, de wile he sin borghere wesen wil I. Sin borchlen ne darf he auer nicht mer dan uan ir eneme untfan."
   },
   {
@@ -7465,7 +7633,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 17,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Van des rikes gode mot men wol borchlen lenen, alne si de horch eghen."
   },
   {
@@ -7473,7 +7641,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 18,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Uan borchlene nis he nicht plichtich sinen herren to denende noch hofvart noch hereuart, mer upper horch sal he wonen unde se weren, of ses bedarf unde sime herren ordel uinden to borchrechte."
   },
   {
@@ -7481,7 +7649,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 19,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Borchrecht ne mach de herre nerghene hebben mer uppe sinen borghen. Ordel uinden unde tuch weseu ne mot nin man, he ne hebbe borchlen uan deme herren. Oc ne mach men uan borglene noch ordel uinden noch tuch wesen ouer den, de recht len beuet, noch ghene ouer desen."
   },
   {
@@ -7489,7 +7657,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 20,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Van iewelkeme andren lene ane borchlen mot de man ordel uinden ouer den andren unde tuch wesen, de an deme hereschilde is vulcomen, ane uppe uorsten uanlen. De uorste mach auer ordel uinden unde tuch wesen ouer iewelken man des rikes."
   },
   {
@@ -7497,7 +7665,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 21,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Uorste het dor dat uorste des rikes, dat J) sin uanlen |, dar he uorste af wesen sal, niman uor em untfan ne sal. Swen it uor em en ander untfeyd, det eme lent, so nis he de uordereste in der leninghe nicht; dor dat ne mach he in der leninghe nin uorste sin. Swe uanlen heuet unde uorste is, de ne sal ninen leyen to heren hebben ane den coninch."
   },
   {
@@ -7505,7 +7673,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 22,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vppe iewelic des uorsten len ane uanlen mot iewelk man, de uan sinen herren belent is, ghetuch wesen unde ordel uinden, of he anme hereschilde vulcomen is."
   },
   {
@@ -7513,7 +7681,7 @@
    "articleId": "lehnrecht-71",
    "article": 71,
    "section": 23,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nin man ne mach oc weygheren to lenrechte ordel to uindene, tuch unde uoresprake to wesene, de herre uppen man unde de man uppen herren, de mach uppen mach."
   },
   {
@@ -7521,7 +7689,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De Art. coninch mot wol deghedinghen to lenrechte enen uorsten ouer ses weken mit sime breue unde mit sime ingheseghele in ene beschedene stad. Nine wort ne bedarf he benomen in sinen deghedinghen, mer, war he openbare dinghet, dar is de hof. De borchdoren solen open sin, dar de herre to borchrechte inne deghedinghet. In beslotenen wenden unde under dake ne darf nin man ordel uinden."
   },
   {
@@ -7529,7 +7697,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Niehl wan dor dre sake mach de herre deghedinghen sime borghere: of he sie noruntruet keghen ene eder of he der horch, dar he borgbere is, a/swich dot oder of en borgbere uppen andren claghet unime borcblen."
   },
   {
@@ -7537,7 +7705,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of de herre sirne borghere deghedingbet to borchrechte ummc dese schult, lie suluen eder sin bode sal emc cundegben dat ^ghedinch, eme suluen eder in sinen hof, dar it twe sine borghere boren; so sal he eine uolghcn mit borchrechte an enen beschedenen hof, also dat lenrecht hir uore lert."
   },
   {
@@ -7545,7 +7713,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vordclt auer de berre sime borghere sin borchlen, dat sal he binnen ses weken utten eder men uordelt emc alle ansprake dar an."
   },
   {
@@ -7553,7 +7721,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Is en borghere mit ghesinde uan der horch gheuaren, unde but eme de berre weder up to uarene unde wirt eme dat ghecundcghcl in sinen hof, dar it twe siner borgbere boret, ne uaret he hinnen ses weken nicht weder up, men uordelt eme sin borchlen, it ne neme eme echtnot. Kumpt auer de borghere up binnen ses weken, unde blift he ene nacht dar uppe, men ne mach eme nicht uordelen sin borchlen. Brinct auer ene de herre mit ordeien up, so ne mot he nicht afuaren mit ghesinde ane des berren orlof."
   },
   {
@@ -7561,7 +7729,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Recht len unde borchlen mach en man mit euer leninghe untfan, erste he beyder leninghe sunderliken tuch bebbe."
   },
   {
@@ -7569,7 +7737,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt en horch mit walt ghebroken, eder let se de herre togan, eder wirt se brohen dor unrecht, dar de borghere unschuldech an is, he ne sal sines borchlenes dor dat nicht daruen. Dat borchlen si de wilc sin rechte len, bet de horch werde weder gbebowet mit muren eder mit planken also uerre, dat men se mit euer doren moghe beschütten. Doch ne mot men nine horch weder bowen, de mit ordeien ghebroken wirt."
   },
   {
@@ -7577,7 +7745,7 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of en horch unde borchlen nicht in ene walt ne boret unde na des berren dode sunderliken berren ledich werdet, unde dat borchlen twict wird uan der horch, de bordiere volghcn cren borchlene, dar dat höret, wante it is dan ir rechte len, sint se der borchsate dar af ledich sin."
   },
   {
@@ -7585,15 +7753,23 @@
    "articleId": "lehnrecht-72",
    "article": 72,
    "section": 9,
-   "segmentation": "auto",
-   "text": "Vntsegbet de herre sinen borghere sin len, it si sin rechte len ane sinen hof uppe der borch, unde uolghe darmede in den oueren herren, alse hir uore redet is; den sal men eme sin ghebow ghelden. XXXYIII. Nin man ne mach recht len up ener borch be- §.io. reden, dar de herre dore Warden unde wachtere becosteghet."
+   "segmentation": "anchor",
+   "text": "Vntsegbet de herre sinen borghere sin len, it si sin rechte len ane sinen hof uppe der borch, unde uolghe darmede in den oueren herren, alse hir uore redet is; den sal men eme sin ghebow ghelden."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-72",
+   "article": 72,
+   "section": 10,
+   "segmentation": "anchor",
+   "text": "Nin man ne mach recht len up ener borch be- §.io. reden, dar de herre dore Warden unde wachtere becosteghet."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-73",
    "article": 73,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vorlent de herre en göd, dar de tinsgelden to boren sint oder sie in dat tinsgelt gheeoft hebbet unde ichteswat denestes dar af plichtich sin to donde, dat denest mach de herre ledich behalden, of het ut beschedet, alse he dat göd uorlent."
   },
   {
@@ -7601,7 +7777,7 @@
    "articleId": "lehnrecht-73",
    "article": 73,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Is auer en vry göd, dar neman tinsrecht an ne heuet noch dar to gheboren nis, unde bestadet he dat göd enen gaste, uordret ieman to deme deneste bede eder herberghe, dat is unrecht, wente he ne sal nicht dar af don, wen alse he weder sinen herren bedinghet heuet. Richte auer unde senet sal he dar af soken."
   },
   {
@@ -7609,7 +7785,7 @@
    "articleId": "lehnrecht-74",
    "article": 74,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Heuet en man göd in gheweren ane leninghe uan uoremuntschap sines wiues oder kindes oder let en man sime brodere göd in gheweren ane des herren willen unde witschap, sterft de beiende man de wile, ghene, de de were dar an heuet, sprict he dar len an, dat ne mach he al ene uppen hilghen nicht behalden, he mot it tughen, of ghene, det ghedinghe dar an hadde, oder de herre, den it ledich wird, but to tilgende, dat sin man dat göd in sinen leneschen weren hadde bet an sinen dot."
   },
   {
@@ -7617,7 +7793,7 @@
    "articleId": "lehnrecht-74",
    "article": 74,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lenesche were mot men tughen mit ses mannen des herren. Ene blote were tughet en man sulf seuede unbeschuldener lüde an eren rechte, swe se sin."
   },
   {
@@ -7625,7 +7801,7 @@
    "articleId": "lehnrecht-75",
    "article": 75,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "It is güt, dat en man der vrowen urünt ir göd mit ir untfa dor dat, of ir here sterft unde de urowe nicht uolghen ne mach, wente se des hereschildes daruet, dat de mau uolghe sime göde na sime rechte, wente he den hereschilt heuet. Sweliker der twier den andren uorleuet, de heuet lenrecht in deme göde keghen den herren, det en ghelent heuet. Had it auer de man to der vrowen hant untfanghen unde anders nicht, na der urowen dode ne heuet he dar nicht rechtes an."
   },
   {
@@ -7633,7 +7809,7 @@
    "articleId": "lehnrecht-75",
    "article": 75,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Of dit god cumpt in enen andren herren, lent het en beyden dan alse he uan rechte sal, wcntc «e beyde cn lenrecht dar an hebbet, so hebbet set uan eine, alse sc it uan den ersten lierren badden. Vorsprict auer de herre der vrowen uolghe unde lent het den manne al ene, de heuet vol lenrecht dar an to lenende unde to latenc mit der urowcn willen, went sc in den weren sit unde he mach it eruen sinen kinde."
   },
   {
@@ -7641,7 +7817,7 @@
    "articleId": "lehnrecht-75",
    "article": 75,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict en herre ener urowen göd an, dat se in ghewcren heuet eder ieman, de des hereschildes daruct unde seghet it eme de herre ledich uan siues mannes dode, unde seghet it ir de vrowe to uan enen andren, de noch leuet, gheweret se de herre des gödes na lenrechte, de urowe behalt it."
   },
   {
@@ -7649,7 +7825,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man mot wol sinen herren panden dor schult unde uor unrecht beclaghen, dar he eme rechtes umme weygheret heuet uor sinen mannen unde hes tnch heuet."
   },
   {
@@ -7657,7 +7833,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Rouet auer de herre den man, he mot dat wol unde iewelik ungherecht up ene claghen uor sinen lantrichtere, unde mot sie eme wol weren unde ne dar im dor dat sin göd nicht laten, of he den herren sinen mannen also uerre heuet beclaghet, dat he eme rechtes weygheret heuet."
   },
   {
@@ -7665,7 +7841,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Untseghet de man deme herren, dat göd si deme herren ledich, dat he uan ene hadde. Untseghet oc de herre den manne, he heuet dat god uorlorn, dat de man uan eme hadde, it ne si des herren eghen, unde de man uolghe dar mede in den oueren herren. Is it auer enes herren eghen oder bort it in en godeshus, dar it nicht ut comen ne mach, unde de man dar mede nicht uorbat uolghen ne mach, dat göd behalt de man ane denest to sime liue unde erft it in sin kint unde dot dar lenrecht mede, of de herre deme manne untseghet unde de man den herren nicht."
   },
   {
@@ -7673,7 +7849,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe göd sime herren uplet eder untseget eder im uordelt wirf sulik göd, alse he uan eme heuet, de sal daruen allerhande dinghetes mit sament deme gode, dat he uan eme hadde."
   },
   {
@@ -7681,7 +7857,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man ne sal den herren noch de herre den manne dor recht nicht untseggen, wan he suluen emc suluen, unde dar na ne sal ir nin den andren schaden binnen enen daghe unde binnen ener nacht."
   },
   {
@@ -7689,7 +7865,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Gbebut auer de herre sine sanininghe uppen man eder de man uppen herren, er he eme untsegge, unde untsegbet he eme dan, als he sie beret heuet to ghenes scaden, unde uaret he up ene mit der samninghe, he dot untruwelike, wente de herre sime manne noch de man sime berren mit rade noch mit dade nicht scbaden ne sal, er he em untseggbe. Heren unde mannes valsche rat gheliket wol untruer dat."
   },
   {
@@ -7697,7 +7873,7 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Bedet de man leydes den berren uan emc unde to eme to comenc, alse he eme untsegghen wil, dat sal he eme gheuen. Weygheret hes (f 1351') mit unrechte, so untseege eme de man to sime nesten hus eder to sime nesten houe, dat it boren, de dar inne sin, oder he untseggbe eme, dar des landes richtere unde berren degbedinc hebbet, unde late sime herren sin god up in der suluen stad. Deses untseggendes sal de man tuch hebben an twen des berren manneu, of hes bedarf, unde ne sal deme berren nicht scaden binnen ses weken. Dit sulue do de herre, of he den manne dus untsegbet. Wil is auer de man uorseken, dat he sime herren untsegbet hebbe aldus, des mot de man bet unschuldich werden, den is ene de herre mote uor tughen, lieft he eme untsegbet in sine antworde, unde of de herre den heuet sin göd uorlent, dar he to ieghenwarde was."
   },
   {
@@ -7705,15 +7881,23 @@
    "articleId": "lehnrecht-76",
    "article": 76,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Tud en man sin göd ut kegben sinen herren, dat eme uordelt was, de heuet al gedinghe, dat eme was gbelent, dar mede utghetoghen. Lent auer eme de herre dat god anderwarf, dat he mit rechte uorloren hadde, an dem gbedinghe ne heuet he nicht, dat he eme lent hadde, he ne uutfad anderwarf na ghedinges rechte."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-77",
+   "article": 77,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Len to burmesterschap ghelent erft de burmester uppen sone, al darue he des hereschildes, unde uolghet dar mede in enen andren herren; nicht ne mach het auer uorlenen. Mit den lene mach men ene wisen in cnen andren herren. Ninen herren nc mach be uorspreken in der uolghe, it si wif eder man. Van deme lene nc mach he nin tuch sin noch ordel ninden oucr cnen man vulcomen in deme herescilde."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-78",
    "article": 78,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Al lenrecht hebhe ic to ende bracht. Doch segghet summe lüde, dat mer lemVighe sin, de ende nemen to beschedener tid, alse schütten, dat ende mit deme scilde, unde bowlen ende, alse de man dar nicht mer uppe sit. Dit is al unrecht, wente leninghe, de de herre deme manne dot, sal waren to sime liue, he ne latet üp, eder it ne werde emc uordelt mit lcnrcchtc."
   },
   {
@@ -7721,7 +7905,7 @@
    "articleId": "lehnrecht-78",
    "article": 78,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Kecht were lichte beseheden, ne were der so ucle nicht, de unrechtes gheret nndc dot dor iren uromen, unde dat se to rechte segghet. Dcde men ene dat, it duchte en unrecht, wente it nis niraan so unrecht, it ne dunke eme unbildic sin, dot men eme unrecht. Dor dat bedarf men menichualder rede, er men de lüde des in künde bringe, war an men rechte do, unde er men se lere, wo se unrecht mit rechte uorleggben unde to rechte bringhen."
   },
   {
@@ -7729,15 +7913,39 @@
    "articleId": "lehnrecht-78",
    "article": 78,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe to allen dinghen gherne rechte sprect, de wint dar af manighen hat. Des sal sie de urome man trösten dor got unde dor sine ere. Dit bok wint manighen vient, wente alle de weder got vnde weder recht streuet, de werdet desen boke gram, wente en is let dat recht, dat it imber openet wird, wante ir unrecht daruan schinbar wird."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-79",
+   "article": 79,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Swen en here deghedinghet sime manne to lenrechte unde sinen mannen bud mit ordelen dar to comende, binnen den deghedinghen ne mach he nin ander utlegghen, dat he en beden moghe to sokende. En ne mach nin ander er herre deghedinghen binnen deghedinghen, wen se in des rikes deneste sin, de wile se irme herren lenrechtes helpen solen uan des rikes haluen af irme gode. Dit moten se auer uppen hilighen gheweren, se suluen eder ere boden."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-79",
+   "article": 79,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "Wirt aucr des rikes hereuart eder hofuart urghe/^ghet undd fJkkheme mit ordelen (jlwboden to rechter tid, deine sin herre deghedinghet heuet to lenrechte, he is des deghedinghes ledieh, wente it emc des rikes not benimpt, erste de not werde bcsccncghet na rechte to den lenrechte."
+  },
+  {
+   "book": "lehnrecht",
+   "articleId": "lehnrecht-79",
+   "article": 79,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "Lantrechtes aucr nc mach en man mit des rikes deneste nicht ledich werden, vvante he mot lantrecht liden ouer sie, de wile he in des rikes deneste is."
   },
   {
    "book": "lehnrecht",
    "articleId": "lehnrecht-80",
    "article": 80,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe an den oneren herren siner leninghe eder wisinghe mit sime gode sinnet, wiset he ene dan in sines herren unghenot, so de man dat erst irueret binnen der iartale, dat he uolghen sal, so wedderrede he de wisinghe uor dem ouersten herren. Wil de herre, he mot to hant segghen, dor wat he nicht uolghen ne sole; wil he auer, he mach eme deghedi;?ghen uor sine man enes unde nicht mer, dar ne werde ordel sculden eder ordeles urist mit rechte ghewunnen. So mot de man segghen, wer he de wisinghe uorspreke mit der ergheren bort eder mit manscap, dar sie ghene mede ghenederet hebbe, an elene men en wiset, eder sin uader eder sin elderuader."
   },
   {
@@ -7745,7 +7953,7 @@
    "articleId": "lehnrecht-80",
    "article": 80,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "So uraglte de herre enes ordeles, ofte he gheneghe rede gliedern hebbe, de eme helfende si. Vint men to rechte, he ne hebbe, so mot he uolghen an ghenen eder he mot dat ordel scelden. Vint men to rechte, he hebbe rechte rede, erste he ir mit tughe vulcome, heuet he dan de wisinghe uoresproken mit der ergheren bort, dat mot he tughen sulf seuede unbeschuldener lüde an eren rechte, swe se sin-, heuet he de wisinghe uersproken mit manscap, dar he sie mede ghenederet hebbe, de, an den man ene wiset eder sin uader eder siu elderuader, dat mot he tughen sulf derde solker lüde an eren rechte, de ton herescilde boren sin, se sin des herren man eder nicht. Sint se des herren man, de herre beplichtighe sc bi sinen hulden to deine tnghe; ne sin se sine man nicht, se moten ghenen bistan an deme tughe mit eren ede, dat de herre, an den men ene wiset, sines ersten herren ghenot an deme hereschilde nicht ne si."
   },
   {
@@ -7753,7 +7961,7 @@
    "articleId": "lehnrecht-80",
    "article": 80,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Cumpt ghene uore, an den de tuch gad unde but sine unschult dar uore, he ne mach des mannes tuch mit siner unscult nicht breken. But he dan sinen tuch dar to, dat he sines eisten herren ghenot wol si an der bort unde in deme hereschilde, he ne mach mit sime tughe ghenes tuch nicht uorlegghen, wante de man mot bet sie suluen unde sin göd deme herren mit ghetughe untbreken, den de herre mote ene unde sin göd tmder sie then mit simc tugbe."
   },
   {
@@ -7761,7 +7969,7 @@
    "articleId": "lehnrecht-80",
    "article": 80,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "S.vc mit ordelen anc tueb sines herren wiainghe. uorleghet, den njot de herre wol wiseu SLuderwarne. Swe auer de wisinghe mit gbetugbe uorleghet, den mot de herre nerghen wisen unde mot it eme suluen lenen, wante de man nis nicht plichtich to tugbende dickere dan enes limine en godz) keghen sinen herren, dat lie uan eme heuet. Amen."
   }
  ]

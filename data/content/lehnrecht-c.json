@@ -1,0 +1,186 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu Lehnrecht 55–66. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lehnrecht-55": {
+      "title": "Lehen auf Treue, Satzung und rechtes Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Gut „auf Treue“ verliehen, muss der Mann bei Rücklösung auflassen; der Herr kann lösen, muss aber nicht", "Satzung (Pfand) ist kein Lehen: Pfand vor dem Landrichter, Belehnung vor den Mannen", "Was der Herr „mannlich“ verleiht, ist rechtes Lehen, Erblehen, Burglehen oder Gedinge"],
+      "significance": "Abgrenzung von Lehen, Pfand und treuhänderischer Vergabe.",
+      "keywords": ["Treue", "Rücklösung", "Pfand", "Satzung", "Landrichter", "rechtes Lehen", "Burglehen"],
+      "synonyms": ["sattinghe", "losinghe", "Pfandlehen", "Wiederkauf"],
+      "note": "Bei Lübben fehlt § 3 in der Zählung.",
+      "sections": {
+        "1": "Wird einem Mann Gut auf seine Treue hin verliehen, dass er es auflasse, wenn sein Herr es zu bestimmter Zeit einlöse, so kann der Herr dieses Gut einlösen, wenn er will, und es auch lassen. Stirbt der Mann ohne Lehnserben, so wird das Gut dem Herrn frei, und der Herr ist nicht verpflichtet, jenes Erben den Lösungspreis zu geben. Will der, dem das Gut so auf Treue verliehen wird, seine Treue brechen und leugnen, dass er es auflassen solle, so kann er dafür wohl seinen Unschuldseid leisten, es sei denn, man kann ihm bezeugen, dass er es im Lehngericht gelobt hat.",
+        "2": "Jede Beschuldigung, die auf ein Gewette geht und im Lehngericht geschieht, kann der Herr gegen den Mann mit zwei seiner Mannen bezeugen; dann behält sie der Herr. Wo aber der Mann sein Lehen dadurch verlieren kann, muss der Herr selbsiebent mit seinen Mannen zeugen.",
+        "4": "Mit Gut, das dem Mann auf seine Treue verliehen wird, kann er seinen Mann belehnen und es auf seinen Sohn vererben; diese brauchen es dem Herrn zur Einlösung nicht aufzulassen, es sei denn, sie haben es selbst gelobt.",
+        "5": "Der Mann ist nicht verpflichtet, das Gelöbnis seines Herrn zu erfüllen, und das Kind nicht das seines Vaters, ihr Gut aufzulassen.",
+        "6": "Gut kann der Herr einem Mann ohne Mannschaft verpfänden. Das steht auf der Treue des Herrn, ob er es dem Mann beständig lässt; will er es aber mit seinem Unschuldseid brechen, so kann er das wohl, es sei denn, der Mann kann ihm bezeugen, dass er es ihm vor Gericht verpfändet hat.",
+        "7": "Was aber der Herr als Mannlehen verleiht, das steht auf der Treue des Mannes, ob er es auflässt oder seinem Gelöbnis gemäß handelt, es sei denn, der Herr kann ihm bezeugen, dass er es im Lehngericht gelobt hat. Wem Gut so verliehen wird, der ist nicht verpflichtet, es zur Einlösung dem Sohn des Herrn oder jemandem aufzulassen, an den es nach dem Tod seines Herrn gehört, es sei denn, er hat ihm gelobt, es aufzulassen.",
+        "8": "Wer sagt, er verleihe Gut als Pfandsatzung, der spricht unrecht, denn eine Satzung kann niemand verleihen. Soll man Gut verpfänden, so dass es wirksam ist, muss das vor dem Landrichter geschehen, so dass man die Dingpflichtigen zu Zeugen hat; soll aber eine Belehnung geschehen, so soll sie vor den Mannen des Herrn geschehen, an denen man dafür Zeugnis hat. Eine verliehene Satzung ist weder Lehen noch Satzung.",
+        "9": "Was der Herr als Mannlehen verleiht, ist rechtes Lehen oder Erblehen oder Burglehen oder ein Gedinge am Gut eines benannten Mannes oder an dem, was dem Herrn zuerst frei wird."
+      }
+    },
+    "lehnrecht-56": {
+      "title": "Lehen mit einer Frau zur gesamten Hand",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Mann kann Gut mit einer Frau empfangen, sie vertreten und mit dem Gut folgen, weil sie keinen Heerschild hat", "Stirbt die Frau, endet seine Vormundschaftsbelehnung", "Lässt die Frau auf, verliert er; lässt er auf, verliert sie nicht – frei werdendes Gut fällt an sie"],
+      "significance": "Vormundschaftliche Mitbelehnung von Frauen.",
+      "keywords": ["Frau", "Vormundschaft", "Gesamthand", "Heerschild", "Folge"],
+      "synonyms": ["uoremuntscap", "ghesamnede hant", "Frauenlehen"],
+      "sections": {
+        "1": "Auch kann der Mann Gut zusammen mit einer Frau empfangen, so dass er sie an dem Gut vertritt und damit einem anderen Herrn folgt, wenn ihr Herr stirbt, da ihr die Folge nicht zusteht, weil sie des Heerschilds entbehrt. Der Mann hat den Heerschild, und die Gewere an dem Gut hat er von der Frau her; darum hat er die Folge daran.",
+        "2": "Stirbt aber die Frau, von der her er die Gewere an dem Gut hat, so endet seine Belehnung, die er als Vormundschaft empfangen hatte, es sei denn, ihm ist rechtes Lehen oder ein Gedinge daran verliehen.",
+        "3": "Wer behauptet, es gebe an Gut, das man als Mannlehen verleiht, mehr Belehnungsarten als hier vorher gesagt ist, der spricht unrecht, sei es Herr oder Mann.",
+        "4": "Lässt die Frau ihr Gut auf oder wird es ihr nach Lehnrecht abgesprochen, so hat der, der es mit ihr empfing, nichts mehr daran. Lässt aber er es auf oder wird es ihm nach Lehnrecht abgesprochen, so verliert sie dadurch nichts, weil sie in der Gewere sitzt. Er kann auch nie gegen den Willen der Frau daran verleihen, außer was als verliehenes Lehen anfällt und wozu er nach Lehnrecht gezwungen wird. Was daran frei wird, das wird der Frau frei und nicht dem Herrn noch dem Mann, der es mit ihr empfing.",
+        "5": "Ein Gedinge an verliehenem Gut kann er mit dem Willen der Frau verleihen, und was daran frei wird, weil sie beide volles Recht zur gesamten Hand an dem Gut empfangen haben: er hat die Belehnung und den Heerschild, sie hat dieselbe Belehnung und die Gewere."
+      }
+    },
+    "lehnrecht-57": {
+      "title": "Gedinge wird zum rechten Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Stirbt der Inhaber, geht die Gewere auf den Gedingeberechtigten über", "Er muss den Herrn binnen Jahresfrist mit zwei Zeugen an die Belehnung erinnern", "Er darf sich des Gutes sofort bemächtigen, muss aber sein Recht vertreten"],
+      "significance": "Umwandlung der Anwartschaft in vollgültiges Lehen.",
+      "keywords": ["Gedinge", "Anwartschaft", "Gewere", "Jahresfrist", "Zeugen"],
+      "synonyms": ["ghedinghe", "wardinghe", "Expektanz"],
+      "sections": {
+        "1": "Verleiht ein Herr einer Frau oder einem Mann ein Gedinge am Gut eines Mannes und stirbt danach der, der es in Gewere hat, so ist die Gewere des Gutes auf den übergegangen, dem das Gedinge daran verliehen war. Vorher war es sein Lehen unter Gedinge und unter der Bedingung, dass der Inhaber ohne Lehnserben sterbe; als dieser starb, wurde es sein Lehen ohne Gedinge, sofern er den Herrn – wenn dieser es nicht anerkennt – binnen seiner rechten Jahresfrist mit dem Zeugnis zweier Mannen daran erinnert, die die Belehnung sahen und hörten, als er sie ihm ohne Gewere erteilte.",
+        "2": "Wenn der, der das Gut in Gewere hat, ohne Erben stirbt, kann sich der Herr dessen wohl bemächtigen, wenn er sich nicht erinnert, dass er das Gedinge daran jemandem verliehen hat.",
+        "3": "Bemächtigt sich auch dessen der, dem eine Anwartschaft oder ein Gedinge daran verliehen ist, früher als der Herr, so tut er nichts Unrechtes, sofern er es sofort vertritt und sein Recht daran gegen seinen Herrn beweist, wenn dieser ihn deswegen beschuldigt. Er soll dann keine Jahresfrist verlangen; denn so wie er seine Frist mit dem Muten verlängert, so verkürzt sie der Herr, wenn er ihm dafür Recht anbietet.",
+        "4": "Stirbt ein Herr oder lässt er das Gut seines Mannes auf, binnen der Jahresfrist, nachdem es dem Mann angestorben ist und er den Herrn an die Belehnung erinnern soll, so folge er seinem Gut nicht als Gedinge, sondern als rechtes Lehen, wie er an ihn mit Recht gewiesen ist. Dem ersten Herrn soll er aber anbieten, das Gut mit Zeugnis zu behaupten; widerspricht dieser zu Unrecht, so behält er das Gut mit Recht, weil ihm Recht verweigert wurde, und hat daran rechte Folge. Wurde es aber zu Lebzeiten dessen aufgelassen, der es in Gewere hatte, und war dieser ordnungsgemäß an jenen gewiesen, dem es der Herr aufließ, oder hatte er es von ihm empfangen, so ist alles Gedinge gebrochen, das der erste Herr an dem Gut verliehen hatte."
+      }
+    },
+    "lehnrecht-58": {
+      "title": "Belehnung durch Kinder; Fluchtsal",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Kind kann einem Kind Gut und Anfall verleihen; am Anfall gibt es keine Folge", "Fluchtsal: Verleihung in Todesangst, Krankheit oder vor Landesflucht mit Rückforderungsabsicht", "Fluchtsal ist gegen Gott, Recht und Treue; der Mann muss sie binnen sechs Wochen brechen"],
+      "significance": "Verbot der Fluchtsalbelehnung als Umgehung des Heimfalls.",
+      "keywords": ["Fluchtsal", "Kinder", "Anfall", "Treuebruch", "Krankheit"],
+      "synonyms": ["vluchtsale", "Scheinbelehnung"],
+      "sections": {
+        "1": "Ein Kind kann einem Kind Gut verleihen, solange beide unmündig sind, und auch den Anfall, wenn er ihm selbst zuerst verliehen ist. Am Anfall gibt es aber keine Folge, wenn der Herr stirbt, der ihn verliehen hat. Von seinem Mann nimmt der Herr den Anfall wie an seinem eigenen Gut, solange beide Kinder unmündig sind.",
+        "2": "Wer Gut als Fluchtsal verleiht, muss dafür seinem Herrn wetten, es sei denn, er entschuldigt sich nach Recht, und muss binnen sechs Wochen die Belehnung jenem gegenüber mit Recht brechen, oder man spricht ihm sein Gut ab. Fluchtsal heißt, was der Mann in Zweifel um sein Leben, in Krankheit oder wenn er das Land verlassen will, verleiht, mit der Absicht, das Gut wiederzuhaben, wenn er genest oder zurückkommt. Wer so Gut verleiht, handelt gegen Gott, gegen das Recht und gegen seine Treue, denn er ist seinem Herrn verpflichtet, treu und hold zu sein. Er verleiht nicht, was sein ist; er verleiht, was nach seinem Tod seinem Herrn oder einem anderen gehört, während er es zu Lebzeiten nicht entbehren will."
+      }
+    },
+    "lehnrecht-59": {
+      "title": "Scheinauflassung zur Stärkung unrechter Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Gut zum Schein einem anderen überlässt und es dessen Leuten verleiht, verliert es", "Lehen ohne Gewere entbehrt der Folge; Gewere ohne Belehnung ist unrecht", "Der Beklagte muss sich mit Eid reinigen und binnen sechs Wochen die Gewere wiederherstellen"],
+      "significance": "Lehen und Gewere müssen zusammenfallen.",
+      "keywords": ["Scheingeschäft", "Gewere", "Folge", "Nachbarn", "Unschuldseid"],
+      "synonyms": ["unrechte were", "Simulation"],
+      "sections": {
+        "1": "Verpflichtet sich aber ein Mann, Gut einem anderen zu überlassen, der es nicht von ihm nehmen will, lässt er es ihm dann in seine Gewere und verleiht er das Gut seinen Leuten nach jenes Willen, damit sie es in Belehnung halten, um jenem seine unrechte Gewere zu stärken, und beschuldigt ihn dann sein Herr vor seinen Mannen, dass er es so verliehen habe, und gesteht er das, so hat er das Gut verloren, das er aus seiner Gewere jenem überlassen hat, der daran keine Belehnung hat. Das ist so, als hätte er das Gut vor seinem Herrn und dessen Mannen einem anderen Herrn zugesprochen.",
+        "2": "Wird er aber deswegen nach Lehnrecht dreimal in seiner Gegenwart verklagt, so spricht man ihm das Gut ab; zieht er es nicht binnen sechs Wochen heraus und steht darum Recht, so spricht man ihm jeden Anspruch daran ab, weil er der Gewere entbehrt und niemand es von ihm zu Lehen hat.",
+        "3": "Auch die, denen das Gut so verliehen ist, haben daran keine Folge, weil sie der Gewere entbehren und niemand es von ihnen zu Lehen hat. Jedes Lehen ohne Gewere entbehrt der Folge, und jede Gewere ohne Belehnung ist unrecht; hat nicht ein Mann beides, so sind beide unrecht.",
+        "4": "Spricht aber der Mann, dem das Gut verliehen ist, die Gewere an, so muss er sie mit der größten Zahl der Nachbarn gegen den oberen Herrn bezeugen, nach dieser Beschuldigung, wenn ihrem Herrn sein Recht gebrochen ist. Leugnet es der Mann, der das Gut so verliehen hat, so muss er sich auf die Heiligen entlasten und binnen sechs Wochen seine Mannen nach Lehnrecht zwingen, dass sie das Gut wieder in seine Gewere geben, und jenes Gewere, der daran Belehnung hat, durch Güte oder Recht brechen. Tut er das nicht binnen rechter Frist, so hilft ihm der Unschuldseid nicht, den er leistete, und man spricht ihm sein Gut ab, es sei denn, unrechte Gewalt hindert ihn und er klagt darüber nach Recht."
+      }
+    },
+    "lehnrecht-60": {
+      "title": "Zinsgut und Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer in unrechter Gewere ohne Belehnung sitzt, kann sich nicht auf Zinsgut berufen", "Burgen, Städte, Gerichte, Dienst und Mannengut kann niemand zu Zins ausgeben", "Wer Zinsgut haben will, muss es selbst oder durch eigene Knechte bewirtschaften"],
+      "significance": "Herrschaftsrechte sind nicht zinsfähig.",
+      "keywords": ["Zinsgut", "Gericht", "Burg", "Stadt", "Mühle", "Münze", "Zoll"],
+      "synonyms": ["tinsgöd", "Zinslehen", "Pacht"],
+      "sections": {
+        "1": "Wer in unrechter Gewere ohne Belehnung sitzt und sie damit behaupten will, dass er sagt, das Gut sei sein Zinsgut – auch wenn jener es anerkennt, an den der Zins geht –, der soll wissen, dass niemand Burgen, Städte, Gerichte, Dienst oder Gut von Mannen zu Zins ausgeben kann, namentlich nicht seinem Ebenbürtigen oder einem höheren Mann, so dass es sein Herr von ihm dulden müsste, weder die Leute noch die Mannen, über die das Gericht oder der Dienst geht.",
+        "2": "Mühlen aber und Münze und allerlei Zölle, Höfe und Gut, zu Zins oder Pacht ausgegeben, darf niemand anderweitig zu Zins ausgeben, so dass man das von Rechts wegen dulden müsste. Wer Zinsgut redlich haben will, soll es selbst bearbeiten oder durch seine Knechte, die er mit Speise und Lohn verköstigt. Gibt er es anderen Leuten zu Zins oder Pacht, so ist er selbst ein unrechter Zinsmann an dem Gut."
+      }
+    },
+    "lehnrecht-61": {
+      "title": "Gerichtslehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Gerichtslehen können Priester, Frauen und Rechtlose nicht haben", "Richten darf erst, wer das Gericht empfangen hat", "Stirbt der Herr, darf er binnen seiner Jahresfrist weiter richten"],
+      "significance": "Gerichtsbarkeit als Lehen mit persönlichen Voraussetzungen.",
+      "keywords": ["Gerichtslehen", "Richter", "Priester", "Frauen", "Rechtlose"],
+      "synonyms": ["richte", "Gerichtsbarkeit", "Bannleihe"],
+      "sections": {
+        "1": "Lehen mit Gericht darf kein Priester, keine Frau und kein rechtloser Mann haben.",
+        "2": "Es darf auch niemand richten, bevor er das Gericht empfangen hat. Hat er es aber einmal empfangen und stirbt sein Herr oder lässt er es auf, so darf er wohl binnen seiner Jahresfrist richten, in der er das Gericht erneut empfangen soll."
+      }
+    },
+    "lehnrecht-62": {
+      "title": "Amtmann und Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Amtmann kann dem Herrn kein Gut mit der Gewere entziehen, denn der Herr hat ihm alles anvertraut", "Lehen innerhalb des Amtes muss er wie einer ohne Gewere bezeugen; keine Folge und Vererbung"],
+      "significance": "Amtsbesitz begründet keine Lehnsgewere.",
+      "keywords": ["Amtmann", "Gewere", "Amt", "Verwaltung"],
+      "synonyms": ["amman", "ammicht", "Vogt"],
+      "sections": {
+        "1": "Niemand kann seinem Herrn, dessen Amtmann er ist, Gut mit der Gewere entziehen, wenn er es als sein Lehen ausgibt, denn sein Herr hat ihm all sein Gut in seine Gewere anvertraut.",
+        "2": "Verleiht ihm aber der Herr Gut, das er ihm später nicht anerkennt, so muss er es wie einer bezeugen, der der Gewere entbehrt, mit denen, die es sahen und hörten, und kann mit dem Gut während des Amtes weder einem anderen Herrn folgen noch es auf seinen Sohn vererben."
+      }
+    },
+    "lehnrecht-63": {
+      "title": "Dienstlehen nach Hofrecht",
+      "metaStatus": "draft",
+      "keyPoints": ["Gut ohne Mannschaft ist kein rechtes Lehen, z. B. Gut für Dienstleute nach Hofrecht", "Jeder geborene Dienstmann soll Truchsess, Schenk, Kämmerer oder Marschall sein", "Wegen der Vielfalt des Dienstrechts äußert sich der Autor nicht weiter"],
+      "significance": "Abgrenzung des Lehnrechts vom Dienstrecht der Ministerialen.",
+      "keywords": ["Dienstmann", "Hofrecht", "Ministerialen", "Hofämter", "Truchsess", "Schenk", "Kämmerer", "Marschall"],
+      "synonyms": ["denestman", "houerecht", "Ministerialität"],
+      "sections": {
+        "1": "Welches Gut dem Mann ohne Mannschaft verliehen wird, das heißt nicht rechtes Lehen, so wie Gut, das der Herr seinem Dienstmann ohne Mannschaft nach Hofrecht verleiht; davon soll dieser Hofrecht üben und nicht Lehnrecht. Nach Hofrecht soll jeder geborene Dienstmann Truchsess oder Schenk oder Kämmerer oder Marschall sein.",
+        "2": "Wegen der vielfältigen Verschiedenheit des Rechts spreche ich von ihrem Recht nicht weiter, denn unter jedem Bischof, Abt und jeder Äbtissin schreiben sich die Dienstleute ein besonderes Recht zu."
+      }
+    },
+    "lehnrecht-64": {
+      "title": "Mutung mit Mannschaft; Beweis der Mannschaft",
+      "metaStatus": "draft",
+      "keyPoints": ["Jedes Gut ist mit Mannschaft zu muten, auch wenn man schon Mann des Herrn ist", "Bestreitet der Herr die Mannschaft, kann der Mann sie mit Eid behaupten – er muss die Reliquien aber selbst beschaffen"],
+      "significance": "Mannschaft als Voraussetzung jeder Belehnung.",
+      "keywords": ["Mutung", "Mannschaft", "Eid", "Reliquien"],
+      "synonyms": ["manscap", "sinnen"],
+      "sections": {
+        "1": "Der Mann soll jedes Gut mit Mannschaft muten, auch wenn er schon Mann des Herrn ist.",
+        "2": "Die Mannschaft, die ihm der Herr bestreitet, kann der Mann wohl auf die Heiligen behaupten; er muss aber die Reliquien selbst beschaffen."
+      }
+    },
+    "lehnrecht-65": {
+      "title": "Ablauf des Lehnsgerichtsverfahrens",
+      "metaStatus": "draft",
+      "keyPoints": ["Ladung mit Urteil, Ort und Frist (heute oder in sechs Tagen über vierzehn Nächte)", "Dreimaliges Heischen durch Boten; Warten bis Sonnenuntergang; dreimal Termin", "Kein Lehngericht in geschlossenen Höfen, unter Dach oder in Burgen; Urteil durch einen Mann; Herr nimmt Gut Jahr und Tag in Besitz"],
+      "significance": "Ausführlichste Verfahrensordnung des Lehnrechts mit wörtlichen Formeln.",
+      "keywords": ["Ladung", "Verfahren", "Heischen", "Sonnenuntergang", "Gewette", "Pfändung", "Urteil", "Formel"],
+      "synonyms": ["deghedinc", "eschen", "Lehnsprozess", "Kontumaz"],
+      "sections": {
+        "1": "Wegen jeder Schuld kann der Herr seinen Mann nach Lehnrecht laden, wenn die Schuld ein Gewette wert ist.",
+        "2": "Vor Mittag und außerhalb gebundener Tage und an allen Orten kann der Herr sein Verfahren beginnen, außer in Kirchen und auf Kirchhöfen.",
+        "3": "Wenn der Herr ein Verfahren beginnen will, so frage er seinen Mann – so dass es zwei seiner Mannen oder mehr hören –, ob er einen seiner Mannen nach Lehnrecht wegen seiner Beschuldigung laden dürfe. Wird das Urteil gefunden und ihm gefolgt, so soll der Herr ihn mit Urteilen vom selben Tag an oder auf die nächsten sechs Tage über vierzehn Nächte in ein benanntes Dorf und an einen benannten Ort laden, der dem Herrn frei oder verliehen sei. Fragt der Mann den Herrn, wo das Dorf liege, in das er ihn geladen hat, so soll er ihm Auskunft geben, denn viele Dörfer haben einen Namen und liegen doch weit auseinander.",
+        "4": "Hat der Mann Reichsgut von mehreren Herren, so soll er ihn auf das Reichsgut laden. Hat er aber sein Eigen zu Lehen, so soll er ihn auf das Eigen laden. Hat er aber Gut von mehreren Herren, so ist das Lehen des Herrn, auch wenn es sein Eigen ist; der Herr kann ihn auf jedes seiner rechten Lehen laden.",
+        "5": "Wenn der Herr seinen Mann so lädt, kann er seinen Mannen, die dabei anwesend sind, mit Urteilen gebieten, zu seinem Lehngericht zu kommen. Wer von ihnen nicht kommt, den erklärt man dem Herrn gegenüber gewettepflichtig, es sei denn, echte Not hindert ihn zu kommen. Der Mann wird nicht gewettepflichtig, wenn er vor Mittag zum Lehngericht kommt, auch wenn es schon begonnen hat.",
+        "6": "Der Herr gewinnt ein Gewette gegen den Mann, der mit Urteilen in seiner Gegenwart geladen ist, wenn er zum Termin nicht kommt, es sei denn, echte Not hindert ihn; und sein Gewette soll der Herr auf das Gut des Mannes setzen, das dieser von ihm hat.",
+        "7": "Der Zinspflichtige soll vor seinem Herrn kein Pfand erleiden außer für so viel Geld, wie er dem Herrn jährlich zu geben hat, sofern er noch unter ihm sitzt.",
+        "8": "Wo der Herr sein Gewette an dem Gut, das der Mann von ihm hat, nicht auspfänden kann, da bemächtige er sich des Gutes für das Gewette. Löst der Mann das Gewette nicht binnen Jahr und Tag nach Recht aus, so spricht man ihm sein Gut darum ab.",
+        "9": "Ist der Mann anwesend, wo ihn sein Herr lädt, so nahe, dass er die Ladung hören kann, und will er sie nicht hören und hält sich die Ohren zu, so kann er sich damit nicht weigern, der Ladung seines Herrn zu folgen. Ist aber der Mann nicht anwesend, so soll der Herr oder sein Bote ihm den Tag ankündigen, so dass es zwei seiner Mannen hören, ihm selbst oder in seinem Hof, wo seine Aus- und Einfahrt ist. Findet man ihn aber nicht und hat er keinen solchen Hof, so soll man die Ladung auf solchem Gut ankündigen, wie er es vom Herrn hat, vierzehn Nächte vor dem angesetzten Tag. Dorthin soll der Herr mindestens sechs seiner Mannen bringen und einen Boten, der den Mann heische, der dort geladen ist.",
+        "10": "Wenn der Herr sein Verfahren beginnt, so frage er zuerst, ob es Gerichtszeit sei. Wird ihm das gefunden, so frage er, ob er einen seiner Mannen nehmen dürfe, der im Lehngericht für ihn spreche. Wenn das Urteil gefunden ist, so frage er jedes Mal seine Mannen, ob sie folgen.",
+        "11": "Können die Mannen das Urteil nicht sofort finden, so gewinnen sie einen Tag über vierzehn Nächte, sofern jeder, den man nach dem anderen fragt, dazu seinen Eid leistet. Geschieht das, so ist das Lehngericht vierzehn Nächte vertagt; in dieser Zeit soll man das Urteil finden.",
+        "12": "Der Herr kann keine Frist nach Belieben geben ohne den Willen des Klägers und dessen, gegen den das Verfahren geht.",
+        "13": "Will der Herr den Mann einer anderen Sache beschuldigen, während die erste Beschuldigung mit Urteilen vertagt ist, so soll der Mann ihm von Rechts wegen nicht antworten, solange die erste Beschuldigung unbeendet ist.",
+        "14": "Wenn die Sonne untergeht und der Tag endet, ist der Mann nicht mehr verpflichtet, dem Herrn im Lehngericht zu antworten, noch seine Mannen, Urteil zu finden. Ist aber die Beschuldigung des Herrn unbeendet, so muss er den Beschuldigten mit Urteilen über vierzehn Nächte neu laden.",
+        "15": "Vor Mittag kann der Herr sein Verfahren wohl beginnen. Ist ihm die Gerichtszeit zuerkannt und hat er einen Vorsprecher genommen, so frage er, ob er einen seiner Mannen, den er wegen einer Beschuldigung geladen hat, zum Lehngericht heischen lassen dürfe. Wird es gefunden, so frage er, wer ihn heischen solle. Dann findet man: ein Bote von ihm, so dass es zwei seiner Mannen am Ende des Hofes hören, wo der Herr Gericht hält, und er spreche so: „Ich heische vor meinen Herrn N. zum ersten, zum zweiten, zum dritten Mal wegen solcher Beschuldigung, wie ihm hierher geladen ist.“ Ist er dann nicht da, so komme der Bote zum Herrn zurück und sage: „Herr, er war nicht da, noch irgendein Mann, der seine Not vertrat.“ Wenn der Bote das bestätigt, so frage der Herr, was darum Recht sei. Dann findet man zu Recht, dass man ihn ein zweites und danach ein drittes Mal heische. Das kann man mit einem Boten tun, wer er auch sei. Man muss aber jedes Mal, so oft man ihn heischen soll, besondere Mannen (als Zeugen) haben.",
+        "16": "Wenn man ihn zum dritten Mal geheischt hat und er nicht kommt, so frage der Herr, was darum Recht sei. Dann findet man zu Recht, er solle auf ihn warten, bis die Sonne untergeht, das heißt nach Mittag. Danach frage der Herr, ob er auf ihn gewartet habe, wie es Lehnrecht ist. Wird das gefunden, so lade ihn der Herr ein zweites Mal und verfahre, wie er es beim ersten Mal tat. Das tue er auch zum dritten Mal. Versäumt der Herr einen dieser Tage und verfährt er gegen den Mann nicht, wie es Lehnrecht ist, so hat er sein ganzes Verfahren verloren. Den ersten Gerichtstag soll man dem Mann ankündigen und keinen anderen.",
+        "17": "In geschlossenen Höfen, unter Dach und in Burgen darf der Herr kein Lehngericht halten.",
+        "18": "Wenn der Herr am dritten Tag auf seinen Mann gewartet hat, bis die Sonne untergeht, so frage er, was darum Recht sei. Dann findet man, dass er seine Ladungen bezeugen soll, die erste, die zweite und die dritte, jede mit zwei besonderen Mannen. Dieses Zeugnis soll so lauten: „Herr, ich versichere bei Eurer Huld, dass Ihr N. an diesen Ort geladen habt und auf ihn gewartet habt, wie es Lehnrecht ist; das sah und hörte ich und bin dafür Euer Zeuge.“ Nach dem Zeugnis jedes Mannes frage der Herr, ob er damit vollkommen bewiesen habe, so dass es ihm zu seinem Recht helfe.",
+        "19": "Wenn der Zeuge bei der Huld des Herrn sagt, dass er von der Sache weiß, nach der er gefragt ist, oder bei der Huld des Herrn versichert, dass er davon nichts weiß, so soll man ihn nicht weiter fragen. Der Herr kann so viele seiner Mannen fragen, wie er will, bis er sein Zeugnis vollbringt.",
+        "20": "Wenn der Herr so seine drei Ladungen bezeugt hat, so frage er, was darum Recht sei, dass er den Mann beschuldige, der nicht erschienen ist. Dann findet man, dass man ihm sein Gut abspreche, das er vom Herrn hat. Dann frage der Herr, ob er das tun solle oder einer seiner Mannen. Dann findet man ihm: einer seiner Mannen. Der spreche so: „Wie meinem Herrn zu Recht gefunden ist, so spreche ich N. solches Gut ab, wie er es von meinem Herrn gehabt hat.“",
+        "21": "Dann frage der Herr, was er mit dem Gut tun solle, das seinem Mann abgesprochen ist. Dann findet man ihm, er solle sich dessen selbst oder durch seinen Boten bemächtigen, wobei zwei seiner Mannen anwesend sind, und es ohne Nutzung und ohne Einkünfte Jahr und Tag behalten. Zieht der Mann es in dieser Zeit nicht heraus und verstreicht die Jahresfrist, so spricht man ihm jeden Anspruch an dem Gut ab.",
+        "22": "Der Herr bemächtige sich des Gutes, das dem Mann abgesprochen ist, Stück für Stück, wo es liegt. Sind aber Dörfer oder Höfe dabei, die zu einem Burgbezirk oder zu einem Hof gehören, so hat er sich, wo er sich des Hofes bemächtigt, damit aller Hufen und des ganzen Burgbezirks bemächtigt, die zu dem Hof gehören."
+      }
+    },
+    "lehnrecht-66": {
+      "title": "Herausziehen des Gutes",
+      "metaStatus": "draft",
+      "keyPoints": ["Verschließt sich der Herr, zieht der Mann sein Gut vor seinen Lehnsgenossen heraus", "Eidesformel: Das Gut sei ihm nicht so abgesprochen, wie er es von Rechts wegen entbehren sollte", "Wer am Gerichtstag ausbleibt, verliert; an Diensttagen ist der Mann nicht zur Verhandlung verpflichtet"],
+      "significance": "Rechtsbehelf gegen Versäumnisurteile.",
+      "keywords": ["Herausziehen", "Eid", "Lehnsgenossen", "Steigbügel", "Säumnis"],
+      "synonyms": ["utten", "Wiedereinsetzung"],
+      "sections": {
+        "1": "Kommt der Mann binnen seiner Jahresfrist zu seinem Herrn und will sein Gut herausziehen, verbirgt sich aber der Herr oder verschließt er ihm die Burg, auf der er ist, und hat der Mann seine Lehnsgenossen zum Zeugnis, dass er gern zum Herrn gekommen wäre, wenn dieser es ihm gestattet hätte, so zieht er sein Gut vor seinen Genossen heraus, wie er es vor dem Herrn tun sollte.",
+        "2": "Kommt der Mann aber vor den Herrn, so bitte er zuallererst um einen Vorsprecher, danach um die Reliquien, und schwöre ohne Stabeid, dass ihm sein Gut nicht so abgesprochen worden sei, wie er es von Rechts wegen entbehren sollte; so helfe ihm Gott und die Heiligen. Das soll der Mann aber nicht tun, wenn ihm der Herr nicht das Recht verweigert.",
+        "3": "Zieht der Mann sein Gut ohne Urteil heraus, so kann der Herr ihn ohne Urteil laden; zieht er es aber mit Urteilen heraus, so soll der Herr ihn mit Urteilen laden. Kommt der Mann zum Termin nicht, so spricht man ihm jeden Anspruch an dem Gut ab.",
+        "4": "Beginnt der Herr dem Mann oder der Mann dem Herrn im Lehngericht zu antworten, am ersten, zweiten oder dritten Tag, und wird das Lehngericht mit Urteilen vertagt, so ist derjenige, der nicht erscheint, in der Sache überwunden oder hat das Gut verloren, und der andere, der erscheint, behält es.",
+        "5": "An welchem Tag der Mann seinem Herrn den Steigbügel hält oder ihm Urteil findet oder ihm mit Gaben oder anderen Dingen dient, an dem Tag ist er nicht verpflichtet, seinem Herrn vor Lehngericht zu stehen. Doch kann der Herr wohl den Streit zweier seiner Mannen um ein Gut entscheiden, auch wenn einer oder beide in seinem Dienst sind."
+      }
+    }
+  }
+}

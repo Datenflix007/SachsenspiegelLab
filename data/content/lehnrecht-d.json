@@ -1,0 +1,241 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu Lehnrecht 67–80. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lehnrecht-67": {
+      "title": "Verhalten vor dem Lehngericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Nur Mannen des Herrn dürfen in den Hof; Waffen, Sporen, Hut, Handschuhe, Ringe und Spangen ablegen", "Vorsprecher, Beratung (Gespräch) und Frageordnung; der Mann spricht nicht offen, sondern flüstert dem Vorsprecher zu", "Zur Beratung erhält der Mann seine Lehnsgenossen bis auf drei, die Urteil finden"],
+      "significance": "Lebendiges Bild der Gerichtsförmlichkeit mit Spott über „dumme Leute“, die an Förmeleien glauben.",
+      "keywords": ["Gerichtsordnung", "Waffen", "Vorsprecher", "Beratung", "Förmlichkeit", "Gefahr"],
+      "synonyms": ["uare", "ghespreke", "Prozessgefahr", "Formstrenge"],
+      "sections": {
+        "1": "Wem der Herr Gut abspricht und wer es herauszieht und zum Termin kommt, an dem er geladen ist, der darf niemanden in den Hof bringen, der nicht Mann des Herrn ist. Bringt er Leute hinein, die nicht Mannen des Herrn sind, so muss er für jeden einzeln wetten. Bevor er vor den Herrn kommt, soll er Schwert, Messer, Sporen, Hut, Haube, Handschuhe, Kappe und alle Waffen ablegen. Versäumt sich der Mann in diesen Dingen, so wettet er dafür. Auch tue er Fingerringe, Vorspann und alles Eisen ab, die Ringe von Gürteln und Spangen – wegen des Wahns dummer Leute.",
+        "2": "Diese Gefahr (der Formstrenge) soll niemand haben außer dem, den der Herr wegen seiner Beschuldigung geladen hat. Wo aber der Mann den Herrn anspricht und deswegen geladen wird, ist er dem Herrn zu keiner anderen Gefahr verpflichtet als jeder andere seiner Mannen.",
+        "3": "Weder der Mann dem Herrn noch der Herr dem Mann ist verpflichtet, im Lehngericht für Schaden zu antworten, den einer dem anderen zugefügt hat, bevor er sein Mann wurde.",
+        "4": "Wenn der Herr sein Lehngericht eröffnet und einen Vorsprecher genommen hat, so frage er den geladenen Mann, ob er so gekommen sei, dass er seinem Herrn im Lehngericht stehen wolle. Darüber kann er sich wohl beraten und es mit Recht verweigern, wenn er kann. Kann er es nicht mit Recht verweigern, so komme er zurück und sage: „Herr, ich bin hierher gekommen, Recht zu tun und Recht zu nehmen, soweit ich von Rechts wegen soll.“",
+        "5": "Dann beschuldige ihn der Herr gesondert wegen jeder Sache und fordere ihn zu rechter Antwort auf. Dann bitte der Mann um einen Vorsprecher und um Beratung; den Vorsprecher spricht man aber dem ab, der auf die Beschuldigung des Herrn antwortet, bevor er einen Vorsprecher nimmt. Der Mann muss seinem Herrn nie antworten, auch wenn er ohne Vorsprecher spricht, solange er sich dagegen wehrt, dass er ihm mit Recht antworten müsse.",
+        "6": "Bei jeder Rede frage man den Mann, ob er sich zum Wort seines Vorsprechers bekenne. Verspricht sich der Vorsprecher, solange man sich nicht zu seinem Wort bekennt, so schadet es ihm nicht.",
+        "7": "Zwischen den Reden zweier Mannen soll der Herr fragen, was darum Recht sei. Fragt er nach seinem Belieben und nicht nach Recht, so schadet das dem Mann nicht. Wer aber vor dem anderen nach einem Urteil fragt, dessen Urteil soll man zuerst finden.",
+        "8": "Der Mann darf im Lehngericht nicht offen sprechen, sondern soll leise seinem Vorsprecher zuflüstern. Fragt ihn aber der Herr, ob er sich zum Wort seines Vorsprechers bekenne, so darf er offen Ja oder Nein sagen, um Beratung bitten oder ein Urteil schelten.",
+        "9": "Wenn der Mann zur Beratung geht oder zurückkommt, so soll der, der um Beratung bat, zurückkommen und eine Antwort auf die Rede bringen, um derentwillen er um Beratung bat, und soll bekennen oder leugnen.",
+        "10": "Lädt der Mann seine Lehnsgenossen zu seiner Beratung, so soll der Herr sie ihm alle geben außer dreien, damit er sie, wenn sie zu lange beraten, mit Urteilen zurückrufen kann. Von den dreien muss einer das Urteil finden und zwei folgen. Es steht aber nicht im Belieben des Herrn, welche drei er behält. Der Mann nimmt zum Vorsprecher und in seine Beratung, wen er will, sofern er seinem Herrn drei lässt, wer sie auch seien, und den, der sein Wort spricht."
+      }
+    },
+    "lehnrecht-68": {
+      "title": "Gewette und Buße im Lehngericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Mann wettet für jede gewettewürdige Schuld, außer er schwört sich frei", "Das Gewette beträgt zehn Pfund; Fürsten mit Fahnenlehen zahlen dem König hundert Pfund", "Keine Buße für Wischen, Schnäuzen, Spucken, Gähnen, Husten oder Fliegenverscheuchen – „auch wenn dumme Leute das meinen“"],
+      "significance": "Höhe und Grenzen der Lehnsbußen, mit Kritik an Formalismus.",
+      "keywords": ["Gewette", "Buße", "zehn Pfund", "Fahnenlehen", "Sitzen", "Gerichtsetikette"],
+      "synonyms": ["wedde", "böte", "Bußgeld"],
+      "sections": {
+        "1": "Der Mann wettet seinem Herrn für jede Schuld, die eines Gewettes wert ist, es sei denn, er entschuldigt sich auf die Heiligen. Doch kann der Herr seinen Mann einer Schuld beschuldigen, für die er weder einen Eid leistet noch wettet. Beschuldigt ihn aber der Herr, er habe ihm zur Schande oder zum Schaden gesprochen oder gehandelt, so muss er sich entschuldigen oder dafür wetten.",
+        "2": "Nimmt man einem Mann Gut, das er von seinem Herrn hat, und zeigt er das dem Herrn nicht an und verfolgt es nicht mit rechter Klage, so wettet er seinem Herrn.",
+        "3": "Verpfändet ein Mann sein Lehen ohne Erlaubnis seines Herrn, von dem er es hat, so kann der Herr ihm mit Urteilen gebieten, es binnen sechs Wochen auszulösen; tut er das nicht, so wettet er dafür.",
+        "4": "Bemächtigt sich ein Mann zu Unrecht des Lehens seines Lehnsgenossen, oder tut er ihm Schmach mit Worten oder Taten, während er weiß, dass dieser im Dienst seines Herrn ist, oder tut er dem Unrecht, der zu dem Gut geboren ist, oder dem, der es von ihm zu Lehen hat, an dem Gut, das er vom Herrn hat, so muss er dafür dem Herrn wetten oder sich auf die Heiligen entlasten.",
+        "5": "Doch ist der Herr nicht verpflichtet, seinem Mann vor dem oberen Herrn zu antworten, es sei denn, er hat ihm zuvor vor seinen Mannen das Recht verweigert; ebenso nicht seinem Zinsmann, es sei denn, er hat ihm zuvor vor seinen Zinsgenossen das Recht verweigert.",
+        "6": "Man verwirkt auch kein Gewette, wenn man seinem Gut folgt und die Folge abgewiesen wird, es sei denn, es mangelt am Zeugnis über das Gut.",
+        "7": "Wischt oder schnäuzt sich der Mann, spuckt er aus, gähnt, hustet oder niest er, oder steht er auf der anderen Seite seines Vorsprechers als zuerst, oder sieht er sich ungebührlich um, oder verscheucht er Fliegen, Mücken oder Bremsen im Lehngericht, so wettet er dafür nicht, auch wenn dumme Leute das meinen.",
+        "8": "Zehn Pfund wettet der Mann seinem Herrn. Ein Fürst aber, der ein Fahnenlehen hat, wettet dem König hundert Pfund solcher Pfennige, wie sie in der Münze gang und gäbe sind, wo das Gewette gewonnen wurde, das Pfund zu zwanzig Schillingen.",
+        "9": "Jeder Mann eines Herrn hat Buße nach seiner Geburt; wie hoch die Buße jedes Mannes ist, findet man in dem Buch, das vom Landrecht spricht. Hat er aber sein Recht verwirkt, so entgeht ihm die Buße, die ihm angeboren ist.",
+        "10": "Buße und Gewette soll man über vierzehn Nächte im nächsten Haus des Herrn leisten, wo sie gewonnen werden.",
+        "11": "Der Mann darf im Lehngericht nicht ohne Erlaubnis des Herrn sitzen; kann er nicht länger stehen, so liege er. Beschuldigt ihn der Herr deswegen, muss er auf die Heiligen beschwören, dass er nicht länger stehen konnte.",
+        "12": "Der Mann wettet seinem Herrn nicht öfter als dreimal am Tag.",
+        "13": "Zu jeder Rede kann der Mann auch dreimal Beratung haben und so lange in der Beratung bleiben, bis er mit Urteilen dreimal zurückgerufen wird; den Ruf muss er aber hören. Er soll in dem Hof bei seiner Beratung bleiben, in den er geladen ist."
+      }
+    },
+    "lehnrecht-69": {
+      "title": "Urteilsschelte und Zug an den Oberherrn",
+      "metaStatus": "draft",
+      "keyPoints": ["Schelten kann nur, wer den Heerschild hat; Mindestbesitz oder Bürgen", "Formel der Urteilsschelte; Zug vor den oberen Herrn mit zwei Boten (genaue Kostenregeln)", "Letzte Instanz ist das Reich: Der König ist Richter über Hals, Eigen und Lehen; Friedensbruch kostet zwei Gewette (weltlich und geistlich)"],
+      "significance": "Instanzenzug des Lehnrechts bis zum König.",
+      "keywords": ["Urteilsschelte", "Instanzenzug", "König", "Boten", "Formel", "Friedensbruch"],
+      "synonyms": ["ordel scelden", "Appellation", "then"],
+      "note": "Die Abschnitte 8–12 enthalten bei Lübben Kapitelzahlen der Oldenburger Hs. (L–LV) im Text.",
+      "sections": {
+        "1": "Wer des Heerschilds entbehrt, kann niemandes Urteil schelten, der den Heerschild hat.",
+        "2": "Wer eine halbe Hufe oder fünf Schillinge jährliche Einkünfte von seinem Herrn hat, kann Urteile schelten und Zeuge sein. Wer das nicht hat und ein Urteil schilt, muss Bürgen stellen, dass er es mit Recht durchsetzt oder das Urteil mit Gewette oder Buße fallen lässt. Sein Bürge kann nur sein, wer vom Herrn belehnt ist.",
+        "3": "Wer seinem Herrn ein Urteil findet, dem ein anderer nicht folgt, der soll ein anderes finden, wenn es ihm der Herr gebietet. Welchem von beiden die größte Zahl folgt, der behält, und der andere verliert dadurch weder Gewette noch Buße, wenn er unterliegt, weil er kein Urteil gescholten hat.",
+        "4": "Wer ein Urteil schilt und beschuldigt wird, er tue es nicht um des Rechts willen, sondern um zu verzögern, der muss sich davon auf die Heiligen reinigen oder dafür wetten.",
+        "5": "Der Mann spreche so, wenn er ein Urteil schilt, zu jedem Mann bei seinem Namen: „Heißt du N. und bist du N., so hast du meinem und deinem Herrn, mir und dir im Lehngericht ein unrechtes Urteil gefunden; das schelte ich und ziehe es dorthin, wohin ich es von Rechts wegen ziehen soll, und bitte darum um ein Urteil, wohin ich es von Rechts wegen ziehen soll.“ Dann findet man zu Recht: vor den oberen Herrn des Gutes.",
+        "6": "Dazu bitten beide um Boten; die soll der Herr ihnen geben, zwei seiner Mannen, welche er will, damit sie Zeugen seien, wer sein Urteil behält oder verliert. Diese Boten soll der Herr verköstigen: Bier und Brot soll man ihnen genug geben und drei Gerichte zu jeder Mahlzeit und einen Becher Wein, zwei Gerichte den Knechten; ihre Pferde soll man vorn beschlagen, nicht hinten. Fünf Garben für jedes Pferd über Tag und Nacht oder so viel gedroschenes Futter, wie dem entspricht. Acht Pferde sollen es sein, sechs Knechte, vier reitend und zwei zu Fuß. Weniger dürfen sie wohl führen, aber nicht mehr. Innerhalb von drei Tagen sollen sich die Boten mit dem Urteilsfinder und dem Schelter aufmachen und das Urteil binnen sechs Wochen zurückbringen.",
+        "7": "Ist aber der Herr, an den man das Urteil zieht, außer Landes, so soll man das Urteil, sobald er zuerst wieder in deutsches Land kommt, das dem römischen Reich untertan ist, und man von seiner Ankunft erfährt, sechs Wochen nach diesem Tag zurückbringen. Dann soll der Beschuldigte vorkommen, um zu antworten, wie er es am ersten Tag tat, wenn ihm der Tag mit Urteilen angekündigt wird, wie hier zuvor gesagt ist: ihm selbst bei Hof und Haus oder auf all solchem Gut, wie er es vom Herrn hat.",
+        "8": "Wird ein Urteil um Lehen gescholten, das Eigen des Herrn ist, so soll man es zuletzt vor das Reich ziehen, denn der König ist zum Richter über jedes Mannes Hals, Eigen und Lehen gewählt. Darum hat alles Landrecht und Lehnrecht seinen Anfang bei ihm, denn der Heerschild beginnt bei ihm. Denselben Dienst ist der Mann auch von seinem Eigen seinem Herrn zu leisten verpflichtet, wenn er es von ihm zu Lehen hat, wie er ihm vom Reichsgut zu leisten verpflichtet ist. Würde man vor dem König Lehen an Eigen und Reichsgut nicht unterscheiden, so könnte keiner, der mit Eigen belehnt ist, über einen Urteil finden, der Reichsgut zu Lehen hat, noch jener über diesen.",
+        "9": "Wird ein Urteil in der Sache eines Mannes gescholten, der zum Lehngericht geladen ist, und hat er zweierlei oder dreierlei Gut, so soll man das gescholtene Urteil vor den oberen Herrn ziehen, dem der größte Teil seines Gutes gehört.",
+        "10": "Hindern die gebundenen Tage, dass das Urteil nicht binnen seiner rechten Frist entschieden werden kann, so soll man das Urteil sechs Wochen nach dem Ende der gebundenen Tage zurückbringen.",
+        "11": "Schilt ein Mann ein Urteil nach der Zustimmung (Folge) und setzt er es nicht mit Recht durch, so muss er dem, der das Urteil fand, und allen, die ihm folgten, Buße zahlen, es sei denn, er hat vor der Zustimmung um Beratung gebeten. Der Herr aber gewinnt dabei nur ein Gewette, denn es ist nicht recht, dass man einen Mann um einer Sache willen zwei- oder dreimal wetten lässt.",
+        "12": "Wer an einem Mann den Frieden oder die Feiertage bricht, muss um einer Sache willen zweimal wetten, dem weltlichen und dem geistlichen Richter; und der, an dem der Friede gebrochen ist, gewinnt dabei nur eine Buße, denn er muss rechte Gewähr geloben, bevor man ihm die Buße gelobt, dass er die Sache nicht weiter verfolgt."
+      }
+    },
+    "lehnrecht-70": {
+      "title": "Grenzstreit zweier Dörfer",
+      "metaStatus": "draft",
+      "keyPoints": ["Streiten zwei Dörfer um eine Markgrenze, entscheiden die nächsten Nachbarn durch Zeugnis", "Wer das meiste Zeugnis hat, behält", "Bei unlösbarem Streit wie im Landrecht beschrieben"],
+      "significance": "Verweis vom Lehnrecht ins Landrecht.",
+      "keywords": ["Grenze", "Markscheide", "Dorf", "Nachbarn", "Zeugnis"],
+      "synonyms": ["marcschedinghe", "Grenzstreit"],
+      "sections": {
+        "1": "Streiten zwei Dörfer um eine Markgrenze, so sollen die nächsten, die dabei liegen, sie durch Zeugnis entscheiden. Wer von ihnen das meiste Zeugnis hat, der behält. Streitet man aber im Zeugnis so sehr, dass man sie nicht entscheiden kann, so entscheide man es, wie hier zuvor im Landrecht gesagt ist."
+      }
+    },
+    "lehnrecht-71": {
+      "title": "Besondere Lehen: Gerichts-, Eigen-, Burg- und Fürstenlehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Drei Belehnungsarten weichen vom gemeinen Lehnrecht ab", "Gerichtslehen kommt nicht an die vierte Hand außer dem Schultheißentum; Geächtete dürfen nicht richten", "Burglehen: Wohnpflicht auf der Burg, kein Heer- und Hofdienst; Fürst ist, wer sein Fahnenlehen als Erster vom König empfängt"],
+      "significance": "Sonderregeln für Gerichts-, Eigen- und Burglehen sowie Definition des Reichsfürsten.",
+      "keywords": ["Gerichtslehen", "Schultheiß", "Burglehen", "Eigen", "Fahnenlehen", "Reichsfürst", "Burgmann"],
+      "synonyms": ["borchlen", "uanlen", "uorste", "Burgmannen"],
+      "sections": {
+        "1": "Alles, was hier zuvor gesagt ist, ist vom gemeinen Lehnrecht gesagt; nun will ich euch noch drei Belehnungsarten erklären und sagen, worin sie vom gemeinen Lehnrecht abweichen.",
+        "2": "Wer ein Gericht vom König abwärts zu Lehen hat, das kann nicht an die vierte Hand kommen außer dem Schultheißentum allein, denn kein Graf kann ohne belehnten Schultheißen Gericht halten.",
+        "3": "Niemand kann ein Gericht, das ihm verliehen ist, weiterverleihen, es sei denn ein besonderes Gericht, das zu seinem Gericht gehört, wie eine Grafschaft in der Mark und in anderen Fahnenlehen; das kann er weiterverleihen und darf es dann von Rechts wegen nicht länger als ein Jahr frei behalten.",
+        "4": "Zwei Mannen können an einem Gericht kein gemeinsames Lehnrecht haben; das Gedinge kann man aber daran verleihen wie an anderen Lehen.",
+        "5": "Wen der König in die Acht getan hat, der kann von Rechts wegen nicht richten, ebenso nicht der, dem sein Gericht abgesprochen ist, solange er es nicht herausgezogen hat, und nicht der, auf den das Gericht vererbt ist, solange er es nicht empfangen hat – es sei denn, echte Not hindert ihn, es zu empfangen, nachdem er mündig geworden ist.",
+        "6": "Wer Eigen zu Lehen hat, hat daran keine Folge. Doch geht die Belehnung bis in die siebente Hand wie bei anderen Lehen, die Reichsgut sind. Keiner von diesen kann dem anderen die Folge versagen oder das Lehnrecht an dem Gut verweigern, außer dem oberen Herrn, dessen Eigen es ist. Derselbe Herr, der das Gut verleiht, kann es wohl zurücknehmen, wenn er es braucht, sofern er den Mann mit gleichem Tausch an Reichsgut entschädigt.",
+        "7": "Fällt Eigen an das Reich oder wird es einem Gotteshaus gegeben, so kann man den Mann, der es zu Lehen hat, nicht aus der Folge weisen.",
+        "8": "An Burglehen gibt es Gedinge und Gewette wie an anderem Lehen.",
+        "9": "Burglehen kann kein Burgmann weiterverleihen. Verleiht aber der Burgmann sein Burglehen einem anderen, so kann der Herr, wenn er es erfährt, ihm mit Urteilen gebieten, sein Burglehen binnen sechs Wochen zu befreien und zurückzunehmen. Tut er das nicht, so kann er ihm sein Burglehen absprechen. Stirbt der Burgmann, bevor das geschieht, und hat der belehnte Mann das Gut in Lehnsgewere ohne rechten Widerspruch hergebracht, so folgt er seinem Gut binnen seiner rechten Jahresfrist an den oberen Herrn, sofern er es bezeugt, wie es Lehnrecht ist. Schwören muss der Mann, dass er nicht wusste, dass es Burglehen des Herrn war, als er es empfing.",
+        "10": "Der Herr kann auch die Lehen seiner Mannen nicht auflassen und als Burglehen empfangen. Tut er es aber zu Unrecht, so muten sie beim oberen Herrn die Belehnung oder die Zuweisung an einen Mann, der ihnen mit dem Gut Lehnrecht tun kann.",
+        "11": "Stirbt ein Mann, während seine Frau ein Kind trägt, und ist das Gedinge an seinem Gut verliehen, so soll der, dem das Gedinge daran verliehen ist, das Gut besitzen bis zu der Zeit, da die Frau einen Sohn gebiert. Der Sohn entzieht aber niemandem ein Gedinge, wenn er nicht lebend geboren wird und nach des Vaters Tod lebt.",
+        "12": "Verleiht ein Herr seine Burg ganz weiter oder lässt er sie einem Nicht-Ebenbürtigen auf, so sind die Burgmannen nicht verpflichtet, jenem mit ihrem Burglehen zu folgen; sie behalten es von dem, von dem sie es hatten, als ihr rechtes Lehen, oder sie folgen damit dem, dem er es verliehen hat, als rechtes Lehen; ihre Bauten auf der Burg soll man ihnen bezahlen, wenn sie nicht bleiben wollen.",
+        "13": "An Burglehen gibt es Anfall und Gewette des Herrn und Gedinge wie an anderen Lehen.",
+        "14": "Verleiht ein Burgmann sein Burglehen einem zu Lehen, so kann er es ihm nach Lehnrecht nicht brechen; dieser entbehrt aber der Folge daran, es sei denn, es kommt so, wie hier zuvor gesagt ist.",
+        "15": "Der Mann folgt dem Burglehen und vererbt es seinem Sohn, auch wenn Burg und Burglehen Eigen des Herrn sind, der es ihm verliehen hat, oder eines anderen.",
+        "16": "Wer Burgmannen und Burgen hat und stirbt, während sein Kind oder seine anderen Erben nach Landrecht oder Lehnrecht mit der Burg noch unbelehnt sind, so sind die Burgmannen verpflichtet, ihnen allen zu schwören, treu und hold zu sein, wie Burgmannen ihren Herren sein sollen, seien es Frauen oder Männer, und ihre Burg ihnen gegen jedermann nach Burgmannenrecht zu halten. Das soll jeder tun, solange er ihr Burgmann sein will. Sein Burglehen braucht er aber nur von einem von ihnen zu empfangen.",
+        "17": "Vom Reichsgut kann man wohl Burglehen verleihen, auch wenn die Burg Eigen ist.",
+        "18": "Vom Burglehen ist man nicht verpflichtet, seinem Herrn Hof- oder Heerfahrt zu leisten, sondern man soll auf der Burg wohnen und sie verteidigen, wenn es nötig ist, und seinem Herrn nach Burgrecht Urteil finden.",
+        "19": "Burgrecht kann der Herr nirgends halten außer auf seinen Burgen. Urteil finden und Zeuge sein darf darin niemand, der kein Burglehen vom Herrn hat. Auch kann man vom Burglehen aus weder Urteil finden noch Zeuge sein über den, der rechtes Lehen hat, noch jener über diesen.",
+        "20": "Von jedem anderen Lehen außer Burglehen kann der Mann, der im Heerschild vollkommen ist, über den anderen Urteil finden und Zeuge sein, außer über fürstliche Fahnenlehen. Der Fürst aber kann über jeden Mann des Reiches Urteil finden und Zeuge sein.",
+        "21": "Fürst des Reiches heißt er deshalb, weil niemand vor ihm sein Fahnenlehen empfangen soll, um dessentwillen er Fürst sein soll. Empfängt es ein anderer vor ihm, der es ihm verleiht, so ist er nicht der Erste in der Belehnung; darum kann er in dieser Belehnung kein Fürst sein. Wer Fahnenlehen hat und Fürst ist, soll keinen Laien zum Herrn haben außer dem König.",
+        "22": "Über jedes Lehen des Fürsten außer dem Fahnenlehen kann jeder Mann, der von seinem Herrn belehnt ist, Zeuge sein und Urteil finden, wenn er im Heerschild vollkommen ist.",
+        "23": "Niemand kann sich auch weigern, im Lehngericht Urteil zu finden, Zeuge und Vorsprecher zu sein – der Herr gegen den Mann und der Mann gegen den Herrn, wer es (nach seinem Stand) vermag."
+      }
+    },
+    "lehnrecht-72": {
+      "title": "Burgrecht und Burglehensverfahren",
+      "metaStatus": "draft",
+      "keyPoints": ["Der König lädt einen Fürsten mit Brief und Siegel über sechs Wochen", "Der Herr kann den Burgmann nur in drei Sachen laden: Untreue, Verlassen der Burg, Streit um Burglehen", "Zerstörte Burg: Burglehen bleibt bis zum Wiederaufbau rechtes Lehen; mit Urteil zerstörte Burgen dürfen nicht wieder aufgebaut werden"],
+      "significance": "Eigenes Verfahrensrecht der Burgmannschaft.",
+      "keywords": ["Burgrecht", "Burgmann", "König", "Siegel", "Burgbruch", "Wiederaufbau"],
+      "synonyms": ["borchrecht", "Burghut", "borchsate"],
+      "sections": {
+        "1": "Der König kann einen Fürsten mit seinem Brief und seinem Siegel über sechs Wochen an einen bestimmten Ort zum Lehngericht laden. Er braucht in seinen Ladungen keinen Ort zu benennen, sondern wo er öffentlich Gericht hält, da ist der Hof. Die Burgtore sollen offen sein, wo der Herr nach Burgrecht Gericht hält. In geschlossenen Wänden und unter Dach braucht niemand Urteil zu finden.",
+        "2": "Nur um dreier Sachen willen kann der Herr seinen Burgmann laden: wenn er ihm gegenüber untreu handelt, wenn er die Burg, deren Burgmann er ist, im Stich lässt, oder wenn ein Burgmann gegen einen anderen um Burglehen klagt.",
+        "3": "Lädt der Herr seinen Burgmann nach Burgrecht wegen dieser Schuld, so soll er selbst oder sein Bote ihm die Ladung ankündigen, ihm selbst oder in seinem Hof, so dass es zwei seiner Burgmannen hören; dann soll er gegen ihn nach Burgrecht an einem bestimmten Hof verfahren, wie es das Lehnrecht hier zuvor lehrt.",
+        "4": "Spricht aber der Herr seinem Burgmann sein Burglehen ab, so soll er es binnen sechs Wochen herausziehen, oder man spricht ihm jeden Anspruch daran ab.",
+        "5": "Ist ein Burgmann mit seinem Gesinde von der Burg gezogen und gebietet ihm der Herr, wieder hinaufzuziehen, und wird ihm das in seinem Hof angekündigt, so dass es zwei seiner Burgmannen hören, und zieht er nicht binnen sechs Wochen wieder hinauf, so spricht man ihm sein Burglehen ab, es sei denn, echte Not hindert ihn. Kommt aber der Burgmann binnen sechs Wochen hinauf und bleibt eine Nacht oben, so kann man ihm sein Burglehen nicht absprechen. Bringt ihn aber der Herr mit Urteilen hinauf, so darf er nicht ohne Erlaubnis des Herrn mit Gesinde wegziehen.",
+        "6": "Rechtes Lehen und Burglehen kann ein Mann mit einer Belehnung empfangen, sofern er für beide Belehnungen gesondert Zeugnis hat.",
+        "7": "Wird eine Burg mit Gewalt gebrochen oder lässt der Herr sie verfallen oder wird sie zu Unrecht gebrochen, woran der Burgmann unschuldig ist, so soll er deswegen seines Burglehens nicht entbehren. Das Burglehen sei so lange sein rechtes Lehen, bis die Burg mit Mauern oder Planken so weit wieder aufgebaut ist, dass man sie mit einem Tor verschließen kann. Doch darf man keine Burg wieder aufbauen, die mit Urteilen gebrochen wurde.",
+        "8": "Gehören Burg und Burglehen nicht in eine Hand und werden sie nach dem Tod des Herrn verschiedenen Herren frei, und wird das Burglehen von der Burg getrennt, so folgen die Burgmannen ihrem Burglehen, wohin es gehört, denn es ist dann ihr rechtes Lehen, da sie des Burgsitzes ledig sind.",
+        "9": "Spricht der Herr seinem Burgmann sein Lehen ab, so sei es sein rechtes Lehen außer seinem Hof auf der Burg, und er folge damit dem oberen Herrn, wie hier zuvor gesagt ist; den Bau soll man ihm bezahlen.",
+        "10": "Niemand kann rechtes Lehen auf einer Burg beweisen, auf der der Herr Torwächter und Wächter verköstigt."
+      }
+    },
+    "lehnrecht-73": {
+      "title": "Dienste von verliehenem Zinsgut",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Herr kann sich Dienste der Zinsleute vorbehalten, wenn er sie bei der Verleihung ausnimmt", "Freies Gut, an einen Gast vergeben, schuldet nur das Vereinbarte – aber Gericht und Send sind zu besuchen"],
+      "significance": "Abgrenzung von Grund- und Lehnsherrschaft.",
+      "keywords": ["Zinsleute", "Dienst", "freies Gut", "Gast", "Send"],
+      "synonyms": ["tinsgelde", "Grundherrschaft"],
+      "sections": {
+        "1": "Verleiht der Herr ein Gut, zu dem die Zinspflichtigen gehören oder in dessen Zinsrecht sie sich eingekauft haben und von dem sie gewisse Dienste zu leisten haben, so kann der Herr den Dienst frei behalten, wenn er ihn ausnimmt, als er das Gut verleiht.",
+        "2": "Ist es aber ein freies Gut, an dem niemand Zinsrecht hat und zu dem niemand geboren ist, und gibt er das Gut einem Gast aus, und fordert jemand von diesem Dienst, Bede oder Herberge, so ist das unrecht, denn er soll davon nur leisten, was er mit seinem Herrn ausgemacht hat. Gericht und Send soll er aber davon besuchen."
+      }
+    },
+    "lehnrecht-74": {
+      "title": "Gewere aus Vormundschaft; Beweis der Lehnsgewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Gewere aus Vormundschaft für Frau oder Kind oder ohne Wissen des Herrn begründet kein Lehen durch Eid allein", "Lehnsgewere wird mit sechs Mannen des Herrn bezeugt", "Bloße Gewere bezeugt man selbsiebent mit unbescholtenen Leuten"],
+      "significance": "Unterscheidung von Lehnsgewere und bloßer Gewere im Beweisrecht.",
+      "keywords": ["Gewere", "Vormundschaft", "Beweis", "sechs Mannen", "selbsiebent"],
+      "synonyms": ["lenesche were", "blote were"],
+      "sections": {
+        "1": "Hat ein Mann Gut in Gewere ohne Belehnung aus der Vormundschaft für seine Frau oder sein Kind, oder lässt ein Mann seinem Bruder Gut in Gewere ohne Willen und Wissen des Herrn, und stirbt der Belehnte inzwischen, und spricht der, der die Gewere daran hat, Lehen daran an, so kann er das nicht allein auf die Heiligen behaupten; er muss es bezeugen, wenn der, der das Gedinge daran hatte, oder der Herr, dem es frei wird, anbietet zu beweisen, dass sein Mann das Gut bis zu seinem Tod in seiner Lehnsgewere hatte.",
+        "2": "Lehnsgewere muss man mit sechs Mannen des Herrn bezeugen. Eine bloße Gewere bezeugt ein Mann selbsiebent mit unbescholtenen Leuten in ihrem Recht, wer sie auch seien."
+      }
+    },
+    "lehnrecht-75": {
+      "title": "Frauenlehen mit männlichem Mitbelehnten",
+      "metaStatus": "draft",
+      "keyPoints": ["Es ist gut, wenn ein Mann mit einer Frau zusammen empfängt, damit er beim Tod des Herrn folgen kann", "Wer den anderen überlebt, hat Lehnrecht; nur „zur Hand der Frau“ Empfangenes endet mit ihrem Tod", "Gegenüber einem Herrn, der Heimfall behauptet, behält die Frau mit Gewährschaft"],
+      "significance": "Praktische Absicherung von Frauen im Lehnsverband.",
+      "keywords": ["Frauenlehen", "Folge", "Heerschild", "Gesamthand", "Gewährschaft"],
+      "synonyms": ["vrowen göd", "Mitbelehnung"],
+      "sections": {
+        "1": "Es ist gut, dass ein Mann, der Freund der Frau, ihr Gut mit ihr empfängt, damit, wenn ihr Herr stirbt und die Frau nicht folgen kann, weil sie des Heerschilds entbehrt, der Mann dem Gut nach seinem Recht folge, da er den Heerschild hat. Wer von den beiden den anderen überlebt, hat Lehnrecht an dem Gut gegenüber dem Herrn, der es ihnen verliehen hat. Hat der Mann es aber nur zur Hand der Frau empfangen und nicht anders, so hat er nach dem Tod der Frau kein Recht daran.",
+        "2": "Kommt dieses Gut an einen anderen Herrn und verleiht er es dann beiden, wie er von Rechts wegen soll, weil sie beide ein Lehnrecht daran haben, so haben sie es von ihm so, wie sie es vom ersten Herrn hatten. Verweigert aber der Herr der Frau die Folge und verleiht es dem Mann allein, so hat dieser volles Lehnrecht daran, mit dem Willen der Frau zu verleihen und aufzulassen, weil sie in der Gewere sitzt, und er kann es seinem Kind vererben.",
+        "3": "Spricht ein Herr Gut einer Frau an, das sie in Gewere hat, oder einer anderen Person, die des Heerschilds entbehrt, und erklärt der Herr es durch den Tod seines Mannes für frei, die Frau aber sagt, sie habe es von einem anderen, der noch lebt, so behält die Frau es, wenn dieser Herr ihr nach Lehnrecht für das Gut Gewähr leistet."
+      }
+    },
+    "lehnrecht-76": {
+      "title": "Pfändung, Absage und Treue",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Mann darf den Herrn pfänden und verklagen, wenn ihm Recht verweigert wurde", "Absage: Sagt der Mann ab, wird das Gut frei; sagt der Herr ab, verliert er das Gut des Mannes", "Absage nur persönlich, mit Frist von Tag und Nacht bzw. sechs Wochen; heimliche Rüstung ist Untreue"],
+      "significance": "Fehde- und Absageregeln im Lehnsverhältnis (diffidatio).",
+      "keywords": ["Absage", "Fehde", "Pfändung", "Untreue", "Geleit", "Treue"],
+      "synonyms": ["untsegghen", "Diffidation", "Lehnsaufkündigung"],
+      "sections": {
+        "1": "Der Mann kann seinen Herrn wohl um Schuld pfänden und wegen Unrecht verklagen, wenn ihm dieser darum vor seinen Mannen das Recht verweigert hat und er dafür Zeugnis hat.",
+        "2": "Beraubt aber der Herr den Mann, so kann dieser das und jedes Unrecht vor seinem Landrichter gegen ihn einklagen und sich wohl gegen ihn wehren, und braucht deswegen sein Gut nicht aufzulassen, wenn er den Herrn vor seinen Mannen so weit verklagt hat, dass dieser ihm das Recht verweigerte.",
+        "3": "Sagt der Mann dem Herrn ab, so wird das Gut, das er von ihm hatte, dem Herrn frei. Sagt aber der Herr dem Mann ab, so hat er das Gut verloren, das der Mann von ihm hatte, wenn es nicht Eigen des Herrn ist, und der Mann folgt damit dem oberen Herrn. Ist es aber Eigen eines Herrn oder gehört es einem Gotteshaus, aus dem es nicht herauskommen kann, und kann der Mann damit nicht weiter folgen, so behält der Mann das Gut ohne Dienst auf Lebenszeit, vererbt es auf sein Kind und übt damit Lehnrecht, wenn der Herr dem Mann absagt und nicht der Mann dem Herrn.",
+        "4": "Wer seinem Herrn Gut auflässt oder absagt oder wem solches Gut abgesprochen wird, wie er es von ihm hat, der soll aller Gedinge zusammen mit dem Gut entbehren, das er von ihm hatte.",
+        "5": "Der Mann soll dem Herrn und der Herr dem Mann von Rechts wegen nur persönlich absagen, und danach soll keiner dem anderen binnen eines Tages und einer Nacht schaden.",
+        "6": "Bietet aber der Herr seine Mannschaft gegen den Mann auf oder der Mann gegen den Herrn, bevor er ihm absagt, und sagt er ihm dann ab, nachdem er sich zu dessen Schaden gerüstet hat, und zieht er mit dem Aufgebot gegen ihn, so handelt er untreu, denn der Herr soll seinem Mann und der Mann seinem Herrn weder mit Rat noch mit Tat schaden, bevor er ihm absagt. Falscher Rat von Herrn und Mann gleicht wohl der Untreue.",
+        "7": "Bittet der Mann den Herrn um Geleit von ihm weg und zu ihm hin, wenn er ihm absagen will, so soll er es ihm geben. Verweigert er es zu Unrecht, so sage ihm der Mann in seinem nächsten Haus oder seinem nächsten Hof ab, so dass es die hören, die darin sind, oder er sage ihm dort ab, wo der Landrichter und Herren Gericht halten, und lasse seinem Herrn sein Gut am selben Ort auf. Für diese Absage soll der Mann Zeugnis an zwei Mannen des Herrn haben, wenn er es braucht, und soll dem Herrn binnen sechs Wochen nicht schaden. Dasselbe tue der Herr, wenn er dem Mann so absagt. Will aber der Mann leugnen, dass er seinem Herrn so abgesagt habe, so kann sich der Mann leichter entlasten, als der Herr es ihm bezeugen kann – es sei denn, er hat ihm in seiner Gegenwart abgesagt, oder der Herr hat sein Gut in seiner Gegenwart weiterverliehen.",
+        "8": "Zieht ein Mann sein Gut gegen seinen Herrn heraus, das ihm abgesprochen war, so hat er alle Gedinge, die ihm verliehen waren, damit mit herausgezogen. Verleiht ihm aber der Herr das Gut, das er mit Recht verloren hatte, ein zweites Mal, so hat er an dem Gedinge, das er ihm verliehen hatte, kein Recht, es sei denn, er empfängt es erneut nach Gedingerecht."
+      }
+    },
+    "lehnrecht-77": {
+      "title": "Bauermeisterlehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Das Lehen des Bauermeisters vererbt sich auf den Sohn, auch ohne Heerschild", "Folge an einen anderen Herrn möglich, Weiterverleihen nicht", "Kein Zeugnis und kein Urteil über heerschildvollkommene Männer"],
+      "significance": "Lehen für dörfliche Ämter außerhalb der Ritterschaft.",
+      "keywords": ["Bauermeister", "Dorf", "Amtslehen", "Vererbung", "Heerschild"],
+      "synonyms": ["burmester", "Dorfschulze", "Bauerschaft"],
+      "sections": {
+        "1": "Ein Lehen, das zum Bauermeisteramt verliehen ist, vererbt der Bauermeister auf seinen Sohn, auch wenn er des Heerschilds entbehrt, und folgt damit einem anderen Herrn; weiterverleihen kann er es aber nicht. Mit diesem Lehen kann man ihn an einen anderen Herrn weisen. Er kann bei der Folge keinen Herrn ablehnen, sei es Frau oder Mann. Von diesem Lehen aus kann er weder Zeuge sein noch Urteil finden über einen im Heerschild vollkommenen Mann."
+      }
+    },
+    "lehnrecht-78": {
+      "title": "Schlusswort des Lehnrechts",
+      "metaStatus": "draft",
+      "keyPoints": ["„Alles Lehnrecht habe ich zu Ende gebracht“", "Befristete Lehen gibt es nicht: Belehnung währt lebenslang, außer bei Auflassung oder Urteil", "Wer Recht spricht, gewinnt Hass; dieses Buch gewinnt viele Feinde unter denen, die gegen Gott und Recht streben"],
+      "significance": "Persönliches Nachwort Eikes zur Rechtsaufzeichnung und ihren Gegnern.",
+      "keywords": ["Schlusswort", "Eike von Repgow", "Unrecht", "Feinde", "Lebenszeit"],
+      "synonyms": ["Epilog", "Nachwort"],
+      "sections": {
+        "1": "Alles Lehnrecht habe ich zu Ende gebracht. Doch sagen manche Leute, es gebe mehr Belehnungen, die zu bestimmter Zeit enden, wie das Schultheißenamt, das mit dem Schild endet, und Burglehen, die enden, wenn der Mann nicht mehr darauf sitzt. Das ist alles unrecht, denn eine Belehnung, die der Herr dem Mann gibt, soll zu dessen Lebzeiten währen, es sei denn, er lässt sie auf oder sie wird ihm nach Lehnrecht abgesprochen.",
+        "2": "Recht wäre leicht zu entscheiden, wenn es nicht so viele gäbe, die Unrecht begehren und tun um ihres Vorteils willen und es für Recht ausgeben. Täte man ihnen dasselbe an, so dünkte es sie Unrecht; denn niemand ist so ungerecht, dass es ihn nicht ungebührlich dünkt, wenn man ihm Unrecht tut. Darum bedarf es vieler Worte, bevor man die Leute dahin bringt zu erkennen, worin man recht handelt, und bevor man sie lehrt, wie sie Unrecht mit Recht abwehren und zu Recht bringen.",
+        "3": "Wer in allen Dingen gern Recht spricht, gewinnt dadurch viel Hass. Darüber soll sich der rechtschaffene Mann um Gottes und seiner Ehre willen trösten. Dieses Buch gewinnt viele Feinde, denn alle, die gegen Gott und gegen das Recht streben, werden diesem Buch gram, weil ihnen das Recht leid ist, wenn es immer offengelegt wird, da ihr Unrecht dadurch sichtbar wird."
+      }
+    },
+    "lehnrecht-79": {
+      "title": "Reichsdienst und Lehngericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Während eines Lehnsverfahrens kann der Herr keine weitere Ladung ansetzen", "Mannen im Reichsdienst können von ihren Herren nicht geladen werden", "Reichsheerfahrt befreit vom Lehngericht, nicht aber vom Landrecht"],
+      "significance": "Vorrang des Reichsdienstes vor dem Lehngericht.",
+      "keywords": ["Reichsdienst", "Heerfahrt", "Hoffahrt", "Ladung", "Landrecht"],
+      "synonyms": ["des rikes denest", "Reichsheerfahrt"],
+      "sections": {
+        "1": "Wenn ein Herr seinen Mann zum Lehngericht lädt und seinen Mannen mit Urteilen gebietet, dorthin zu kommen, so kann er während dieses Verfahrens kein anderes ansetzen, das er ihnen zu besuchen gebieten könnte. Auch kann ein anderer Herr sie während des Verfahrens nicht laden, wenn sie im Reichsdienst sind, solange sie ihrem Herrn wegen ihres Gutes vom Reich aus zum Lehnrecht helfen sollen. Das müssen sie aber auf die Heiligen beschwören, sie selbst oder ihre Boten.",
+        "2": "Wird aber eine Reichsheerfahrt oder Hoffahrt angesetzt und dem mit Urteilen zu rechter Zeit geboten, den sein Herr zum Lehngericht geladen hat, so ist er von der Ladung frei, weil ihn die Not des Reiches hindert, sofern die Not nach Recht vor dem Lehngericht glaubhaft gemacht wird.",
+        "3": "Vom Landrecht aber kann ein Mann durch Reichsdienst nicht frei werden, denn er muss das Landrecht über sich ergehen lassen, auch während er im Reichsdienst ist."
+      }
+    },
+    "lehnrecht-80": {
+      "title": "Zuweisung an einen Nicht-Ebenbürtigen",
+      "metaStatus": "draft",
+      "keyPoints": ["Weist der Oberherr den Mann an einen Nicht-Ebenbürtigen seines Herrn, kann er widersprechen", "Beweis: geringere Geburt selbsiebent, Erniedrigung durch Mannschaft selbdritt mit Heerschildfähigen", "Wer mit Zeugnis widerlegt, muss nicht noch einmal gewiesen werden – der Herr muss selbst verleihen. „Amen.“"],
+      "significance": "Schutz vor Erniedrigung durch Zuweisung; Schluss des Lehnrechts.",
+      "keywords": ["Zuweisung", "Ebenbürtigkeit", "Heerschild", "Erniedrigung", "Zeugnis"],
+      "synonyms": ["wisinghe", "unghenot", "Ebenbürtigkeit"],
+      "sections": {
+        "1": "Wer beim oberen Herrn mit seinem Gut die Belehnung oder Zuweisung mutet, und weist dieser ihn dann an einen, der seinem Herrn nicht ebenbürtig ist, so widerspreche der Mann, sobald er es erfährt, binnen der Jahresfrist, in der er folgen soll, der Zuweisung vor dem obersten Herrn. Will es der Herr, so muss er sofort sagen, warum er nicht folgen solle; will er aber, so kann er ihn einmal und nicht öfter vor seine Mannen laden, es sei denn, ein Urteil wird gescholten oder eine Urteilsfrist mit Recht gewonnen. Dann muss der Mann sagen, ob er die Zuweisung wegen geringerer Geburt ablehnt oder wegen Mannschaft, durch die sich derjenige erniedrigt hat, an den man ihn weist, oder dessen Vater oder Großvater.",
+        "2": "Dann frage der Herr um ein Urteil, ob er genügenden Grund vorgebracht habe, der ihm helfe. Findet man zu Recht, er habe keinen, so muss er jenem folgen oder das Urteil schelten. Findet man zu Recht, er habe einen rechten Grund, sofern er ihn mit Zeugnis beweist: Hat er die Zuweisung wegen geringerer Geburt abgelehnt, so muss er das selbsiebent mit unbescholtenen Leuten in ihrem Recht bezeugen, wer sie auch seien; hat er die Zuweisung wegen Mannschaft abgelehnt, durch die sich derjenige, an den man ihn weist, oder dessen Vater oder Großvater erniedrigt habe, so muss er das selbdritt mit solchen Leuten in ihrem Recht bezeugen, die zum Heerschild geboren sind, ob sie Mannen des Herrn sind oder nicht. Sind sie Mannen des Herrn, so verpflichte der Herr sie bei ihrer Huld zum Zeugnis; sind sie nicht seine Mannen, so müssen sie jenem mit ihrem Eid im Zeugnis beistehen, dass der Herr, an den man ihn weist, seinem ersten Herrn im Heerschild nicht ebenbürtig sei.",
+        "3": "Kommt jener vor, gegen den das Zeugnis geht, und bietet seinen Unschuldseid dagegen an, so kann er das Zeugnis des Mannes mit seinem Unschuldseid nicht brechen. Bietet er dann sein eigenes Zeugnis dafür an, dass er seinem ersten Herrn an Geburt und Heerschild wohl ebenbürtig sei, so kann er mit seinem Zeugnis jenes Zeugnis nicht abweisen, denn der Mann kann sich selbst und sein Gut dem Herrn leichter mit Zeugnis entziehen, als der Herr ihn und sein Gut mit seinem Zeugnis an sich ziehen kann.",
+        "4": "Wer die Zuweisung seines Herrn mit Urteilen ohne Zeugnis abweist, den kann der Herr wohl anderswohin weisen. Wer aber die Zuweisung mit Zeugnis abweist, den darf der Herr nirgends mehr hinweisen und muss ihm das Gut selbst verleihen, denn der Mann ist nicht verpflichtet, gegen seinen Herrn um ein Gut, das er von ihm hat, öfter als einmal Zeugnis zu führen. Amen."
+      }
+    }
+  }
+}

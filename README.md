@@ -47,8 +47,9 @@ Unterseite von [datenflix007.github.io](https://datenflix007.github.io/), rein s
 
 | Teil | Status |
 |---|---|
-| Vorrede + Landrecht I (Etappe a) | Text aus der Edition, Übertragung, Metadaten – **Entwurf** |
-| Landrecht II, III, Lehnrecht | im Verzeichnis, noch ohne Transkription (Etappen b–d) |
+| Vorrede, Landrecht I–III, Lehnrecht | Text aus der Edition (Lübben 1879), freie Übertragung, Metadaten – **Entwurf** (313 Artikel) |
+| LR I 26, LR II 19 | fehlen in der Oldenburger Hs. – Status **missing** |
+| LR I 1–3 (Seiten 14–17, 33) | Seitenzuordnung manuell geprüft; übrige Seiten geschätzt |
 
 Titel, Kernpunkte und „Bedeutung“ von LR I 1–3 stammen wörtlich aus den Tafelbildern (`metaStatus: verified`).
 Alle übrigen erzeugten Inhalte sind Entwürfe. Den Status **verified** setzt nur der Projektinhaber.
