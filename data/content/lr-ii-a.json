@@ -1,0 +1,330 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR II 1–24. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-ii-1": {
+      "title": "Eidliche Bündnisse gegen das Reich",
+      "metaStatus": "draft",
+      "keyPoints": ["Fürsten oder Herren, die sich eidlich verbünden, ohne das Reich auszunehmen,", "handeln gegen das Reich"],
+      "significance": "Schwurbündnisse sind nur zulässig, wenn die Treue zum Reich vorbehalten bleibt.",
+      "keywords": ["Eid", "Bündnis", "Fürsten", "Reich", "Treue"],
+      "synonyms": ["Einung", "Schwurbund"],
+      "sections": {
+        "1": "Wenn Fürsten oder Herren sich mit Eiden gegenseitig Sicherheit geloben und dabei das Reich nicht ausnehmen, so haben sie damit gegen das Reich gehandelt."
+      }
+    },
+    "lr-ii-2": {
+      "title": "Versäumtes echtes Ding",
+      "metaStatus": "draft",
+      "keyPoints": ["Versäumt der Graf sein echtes Ding, trägt allein der Kläger den Nachteil", "Bei Verbrechensklagen muss dann von vorn begonnen werden"],
+      "significance": "Formstrenge des Verfahrens: Fristen hängen am ordnungsgemäßen Gerichtstag.",
+      "keywords": ["Graf", "echtes Ding", "Versäumnis", "Klage"],
+      "synonyms": ["Gerichtstag", "dinc"],
+      "sections": {
+        "1": "Versäumt der Graf sein echtes Ding, so verliert dadurch allein der Kläger. Versäumt er eines der Dinge, die wegen eines Verbrechens angesetzt werden, so muss man mit der Klage ganz von vorn beginnen."
+      }
+    },
+    "lr-ii-3": {
+      "title": "Ladung bei Klagen um Eigen und Lehen; Kampffristen",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer um Eigen oder Lehen in seiner Gewere verklagt wird, erhält Frist bis zum nächsten Ding", "Unvorbereitet zum Kampf Geforderte erhalten Frist nach Stand: Schöffenbare sechs Wochen, Dienstleute vierzehn Nächte", "Sonst muss sofort geantwortet werden"],
+      "significance": "Verteidigungsfristen schützen vor Überrumpelung und sind standesabhängig.",
+      "keywords": ["Ladung", "Frist", "Kampf", "Eigen", "Lehen", "Schöffenbare", "Dienstmann"],
+      "synonyms": ["deghedinghen", "Termin"],
+      "sections": {
+        "1": "Verklagt man einen Mann in seiner Anwesenheit um Eigen oder Lehen, das er in rechter Gewere hat, so soll man ihm einen Termin zum nächsten Ding setzen, wenn er sagt: „Hierfür bin ich nicht hierher geladen worden.“ Bei der zweiten Klage bitte er um den Termin; den soll man ihm gewähren, danach soll er antworten.",
+        "2": "Fordert man einen Mann zum Kampf, der unvorbereitet gekommen ist und dem für diese Sache dort kein Termin gesetzt war, so soll er, wenn er darum bittet, eine Frist nach seinem Stand erhalten, um sich darauf vorzubereiten – erst wenn der Kampf gelobt ist, nicht vorher: der freie schöffenbare Mann sechs Wochen, der Dienstmann vierzehn Nächte, ebenso andere freie Leute.",
+        "3": "In allen anderen Sachen, deretwegen man den Mann beschuldigt, soll er sofort antworten, indem er leugnet oder bekennt."
+      }
+    },
+    "lr-ii-4": {
+      "title": "Lösung aus der Verfestung",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer sich aus der Verfestung ziehen will, erhält Geleit und schwört sich frei", "Der Richter lässt ihn mit derselben Form wieder aus, mit der er verfestet wurde", "Bürgen für das Erscheinen; Säumnis kostet die Bürgschaft"],
+      "significance": "Die Verfestung ist kein endgültiges Urteil, sondern Zwangsmittel mit geregeltem Ausweg.",
+      "keywords": ["Verfestung", "Geleit", "Bürgen", "Eid", "echte Not"],
+      "synonyms": ["uestinghe", "Friede", "Sicherheit"],
+      "sections": {
+        "1": "Wer sich aus der Verfestung lösen will, dem soll der Richter Frieden (Geleit) gewähren, damit er vor Gericht kommen kann, wenn man das für ihn begehrt. Wenn er sich mit Eid auf die Heiligen herauszieht, sollen ihn der Richter und das Land mit Fingern und Zungen wieder herauslassen, so wie man ihn in die Verfestung gebracht hat. Verweigert man ihm das zu Unrecht und zieht er sich mit Eid heraus, so ist er ein unverfesteter Mann. Dann soll man ihm ebenfalls Frieden gewähren, und er soll Bürgen stellen, zu drei Dingen zu erscheinen, wenn man es von ihm fordert; dort soll er sich zur Antwort erbieten, falls jemand gegen ihn klagen will. Klagt binnen drei Dingen niemand gegen ihn, so spricht man ihn von der Klage frei.",
+        "2": "Zieht sich aber jemand aus der Verfestung, wenn der Kläger nicht anwesend ist, und gelobt er oder stellt er Bürgen, zu Recht zu erscheinen, und kommt dann nicht, so hat der Richter die Bürgschaft gewonnen und nicht der Kläger, sofern er ihn wieder in die Verfestung bringt, wie er es von Rechts wegen soll.",
+        "3": "Wer aber Bürgen gestellt hat, zu erscheinen, und durch echte Not verhindert ist, vor Gericht zu kommen, dessen echte Not soll sein Bürge benennen und auf die Heiligen beschwören, und kein anderer Bote."
+      }
+    },
+    "lr-ii-5": {
+      "title": "Keine Bürgen bei ausreichendem Eigen; Zahlungsfristen",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Eigen über dem Wert seines Wergelds hat, stellt keine Bürgen", "Schuld binnen vierzehn Nächten, Gewette binnen sechs Wochen", "Zahlung am Haus des Gläubigers bei Tageslicht"],
+      "significance": "Grundbesitz ersetzt Sicherheitsleistung; Fristen ordnen die Vollstreckung.",
+      "keywords": ["Bürgen", "Eigen", "Wergeld", "Frist", "Zahlung", "Gewette"],
+      "synonyms": ["borghe", "Sicherheit", "Zahlungsort"],
+      "sections": {
+        "1": "Wer so viel Eigen hat, dass es mehr wert ist als sein Wergeld, der braucht keinen Bürgen zu stellen, wenn man ihn wegen eines Verbrechens verklagt.",
+        "2": "Eine vor Gericht zuerkannte Schuld soll man binnen vierzehn Nächten bezahlen, das Gewette binnen sechs Wochen, die Buße nach dem Gewette binnen vierzehn Nächten. Erhält aber jemand seine Buße vor dem Gewette, so soll man sie binnen sechs Wochen leisten und das Gewette danach binnen vierzehn Nächten. Bezahlen soll man am Haus dessen, dem man es schuldet, bei Sonnenschein, wenn er im Gerichtsbezirk ein Haus hat, sonst am Haus des Richters, wenn jener dort kein Haus hat."
+      }
+    },
+    "lr-ii-6": {
+      "title": "Buße, Beweis bezahlter Schuld, Dingversäumnis",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer seine Buße vor Gericht verwirkt, hat keinen Anspruch mehr", "Bezahlte Schuld beweist man selbdritt", "Unwidersprochene Gaben und Urteile können später nicht mehr angefochten werden"],
+      "significance": "Sofortiger Widerspruch ist Voraussetzung späterer Anfechtung.",
+      "keywords": ["Buße", "Beweis", "Zahlung", "Dingpflicht", "Widerspruch"],
+      "synonyms": ["böte", "wederreden"],
+      "sections": {
+        "1": "Wer seine rechte Buße vor Gericht durch Worte verwirkt, hat keine Buße mehr.",
+        "2": "Jede bezahlte Schuld soll der Mann selbdritt beweisen, mit Leuten, die es gesehen und gehört haben.",
+        "3": "Wer nicht zum Ding kommt, obwohl er dazu verpflichtet ist, den erklärt man für gewettepflichtig, es sei denn, er kann sich mit Recht entschuldigen.",
+        "4": "Welche Gabe jemand geschehen sieht oder welches Urteil er finden hört, wenn er dem nicht sofort widerspricht, so kann er es später nicht mehr anfechten."
+      }
+    },
+    "lr-ii-7": {
+      "title": "Echte Not",
+      "metaStatus": "draft",
+      "keyPoints": ["Vier Gründe echter Not: Gefangenschaft, Krankheit, Gottesdienst außer Landes, Reichsdienst", "Wer dadurch am Erscheinen gehindert ist, bleibt ohne Schaden, wenn ein Bote es nachweist"],
+      "significance": "Klassische Definition der Entschuldigungsgründe im sächsischen Prozess.",
+      "keywords": ["echte Not", "Gefangenschaft", "Krankheit", "Pilgerfahrt", "Reichsdienst", "Säumnis"],
+      "synonyms": ["echtenot", "Entschuldigung", "Hinderungsgrund"],
+      "sections": {
+        "1": "Vier Dinge nennt man echte Not: Gefangenschaft, Krankheit, Gottesdienst außer Landes und Reichsdienst. Hindert eine dieser Sachen einen Mann daran, zum Ding zu kommen, und wird das durch einen seiner Boten, wer es auch sei, nach Recht glaubhaft gemacht, so bleibt er ohne Schaden und erhält Aufschub bis zum nächsten Ding, nachdem er von der echten Not frei ist."
+      }
+    },
+    "lr-ii-8": {
+      "title": "Klage gegen Abwesende",
+      "metaStatus": "draft",
+      "keyPoints": ["Klagt jemand gegen einen Abwesenden und verfolgt die Klage nicht, schuldet er Gewette und Buße", "Verfolgt er sie, haftet er nicht, auch wenn der Beklagte freikommt – außer bei kämpflicher Ladung"],
+      "significance": "Schutz vor leichtfertigen Klagen.",
+      "keywords": ["Klage", "Abwesenheit", "Gewette", "Buße", "Freispruch"],
+      "synonyms": ["Verleumdung", "Klagerücknahme"],
+      "sections": {
+        "1": "Wer wegen eines Verbrechens gegen jemanden klagt, der nicht anwesend ist, und wenn dieser später erscheint, die Klage aber nicht gegen ihn erhebt, so muss er dem Richter Gewette und jenem Buße zahlen, und man spricht jenen von der Klage frei. Verfolgt er aber seine Klage zu Ende, so leidet er dafür keine Not, auch wenn ihm der andere mit Recht entgeht, es sei denn, er hätte ihn zum Kampf geladen."
+      }
+    },
+    "lr-ii-9": {
+      "title": "Säumnis nach Einlassung; Bürgen beider Parteien",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer sich eingelassen hat und zum Termin nicht kommt, ist in der Klage überwunden", "Der Richter nimmt von Kläger und Beklagtem Bürgen", "Vertagte Gefangene werden gegen Bürgschaft freigegeben, außer bei handhafter Tat"],
+      "significance": "Sicherung des Verfahrens durch Bürgschaft.",
+      "keywords": ["Säumnis", "Bürgen", "Gefangener", "Vertagung", "handhafte Tat"],
+      "synonyms": ["borghe", "Kaution"],
+      "sections": {
+        "1": "Wer begonnen hat zu antworten und dem durch Urteile ein Termin gesetzt wird, der ist, wenn er nicht erscheint, in der Klage überwunden.",
+        "2": "Der Richter soll auch vom Kläger und vom Beklagten Bürgen dafür nehmen, dass sie zu Recht erscheinen; sie sollen auch ihr Recht vor dem Gericht wahrnehmen.",
+        "3": "Wird die Klage um einen Gefangenen durch Urteile auf einen anderen Tag vertagt, so soll man ihn gegen Bürgen freigeben, es sei denn, er ist auf handhafter Tat gefangen worden."
+      }
+    },
+    "lr-ii-10": {
+      "title": "Gebundene Tage",
+      "metaStatus": "draft",
+      "keyPoints": ["Verfestete dürfen an gebundenen Tagen festgenommen, aber nicht gerichtet werden", "An gebundenen Tagen nur Friedenseide; kein Gericht", "Friedensbruch wird durch gebundene Tage, Kirche oder Kirchhof nicht geschützt"],
+      "significance": "Kirchliche Festzeiten begrenzen weltliches Gerichtshandeln.",
+      "keywords": ["gebundene Tage", "Festzeit", "Friede", "Eid", "Bürgen", "Kirche"],
+      "synonyms": ["ghebunden daghe", "Gottesfriede"],
+      "sections": {
+        "1": "Den verfesteten Mann darf man an gebundenen Tagen festnehmen. Richten darf man über ihn aber nicht, es sei denn bei handhafter Tat.",
+        "2": "Niemand ist verpflichtet, vor Gericht höhere Bürgen zu stellen, als sein Wergeld beträgt, es sei denn für eine Schuld, die er bekennt oder die mit Recht gegen ihn erwiesen wird.",
+        "3": "An gebundenen Tagen darf man nur den Frieden schwören, und auch gegen den Mann, der auf handhafter Tat gefangen ist.",
+        "4": "Wer an gebundenen Tagen den Frieden bricht, den schützen die gebundenen Tage nicht; ebenso wenig schützen ihn Kirche oder Kirchhof bei einer Tat, die er darin begeht.",
+        "5": "Was man sonst an gebundenen Tagen ohne Verbrechen tut, darüber darf der Richter über den anwesenden Mann richten und ihm gebieten, dass er zur rechten Zeit bekenne und Buße leiste oder leugne. Gericht halten darf er an gebundenen Tagen aber nicht.",
+        "6": "Wo man aber Eide gelobt, soll man sie am nächsten ungebundenen Tag leisten."
+      }
+    },
+    "lr-ii-11": {
+      "title": "Gelobte Eide und Zahlungstermine",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer einen gelobten Eid nicht rechtzeitig leistet, ist in der Schuld überwunden", "Ist er bereit und der Gegner fehlt, wird er frei", "Wer Geld nicht annimmt, verliert nur den Termin, nicht das Geld"],
+      "significance": "Termintreue entscheidet über Gewinn oder Verlust im Verfahren.",
+      "keywords": ["Eid", "Termin", "Schuld", "Zahlung", "Einreiten"],
+      "synonyms": ["Einlager", "inriden"],
+      "sections": {
+        "1": "Wer einen Eid für eine Schuld gelobt und ihn nicht zur rechten Zeit leistet, der ist in der Schuld überwunden, für die er den Eid gelobt hatte, es sei denn, echte Not hindert ihn, die man nachweisen kann. War der Eid vor Gericht gelobt, so muss er dem Richter Gewette und dem Mann, dem er den Eid gelobt hatte, Buße geben.",
+        "2": "Ist der Mann bereit, seinen gelobten Eid zur rechten Zeit zu leisten, und will der andere ihn nicht abnehmen oder ist er nicht dort, wo der Eid zu leisten ist, so ist er des Eides und der Schuld ledig, für die er den Eid gelobt hatte, wenn er dafür Zeugen hat.",
+        "3": "Wenn man aber Silber oder Pfennige zahlen soll und der Gläubiger am rechten Tag nicht wartet oder sie nicht annimmt, so verliert er damit nicht sein Geld, wohl aber den Termin. Hatte der Schuldner auch gelobt, dafür einzureiten (Einlager zu halten), so ist er des Einreitens ledig, nicht aber des Geldes oder der Schuld, für die er einreiten sollte.",
+        "4": "An gebundenen Tagen darf man kein Gericht halten."
+      }
+    },
+    "lr-ii-12": {
+      "title": "Urteilfinden und Urteilsschelte",
+      "metaStatus": "draft",
+      "keyPoints": ["Kein Urteil über Herrn, Lehnsmann oder Verwandten in Sachen an Leib, Ehre oder Gesundheit", "Gescholtene Urteile gehen an höhere Richter, zuletzt an den König – mit genauen Regeln zu Boten und Kosten", "Schelte durch Zweikampf sieben gegen sieben; Formeln und Sitzordnung beim Urteilen"],
+      "significance": "Zentrale Regelung des Instanzenzugs und der Urteilsschelte im sächsischen Recht.",
+      "keywords": ["Urteil", "Urteilsschelte", "Schöffenbare", "König", "Mark", "Grafschaft", "Königsbann", "Zweikampf"],
+      "synonyms": ["ordel", "Urteilsschelten", "Berufung", "Instanzenzug"],
+      "sections": {
+        "1": "Niemand darf ein Urteil über seinen Herrn, seinen Lehnsmann oder seinen Verwandten finden, wenn es an Leib, Ehre oder Gesundheit geht.",
+        "2": "Schöffenbare freie Leute dürfen über jeden Mann Urteile finden. Über sie aber darf niemand ein Urteil finden, das an Leib, Ehre oder Erbe geht, und auch ihr Urteil nicht schelten, wenn er ihnen nicht ebenbürtig ist.",
+        "3": "Außerhalb des Königsbanns darf jeder Mann, der an seinem Recht vollkommen ist, über den anderen Urteile finden und schelten, in solchen Sachen, die man ohne Königsbann richten kann.",
+        "4": "Schilt man ein Urteil, so soll man es an den höheren Richter ziehen, zuletzt vor den König; dazu soll der Richter seine Boten mitgeben, die hören, wer von beiden vor dem König obsiegt. Die Boten sollen schöffenbar frei sein, wenn es in einer Grafschaft geschieht. Geschieht es aber in einer Mark, so können es Leute jeder Art sein, sofern sie an ihrem Recht vollkommen sind. Sie soll der Richter verköstigen: Brot und Bier soll er ihnen genug geben und drei Gerichte zum Essen, die an diesem Tag üblich sind, und einen Becher Wein; zwei Gerichte soll man den Knechten geben, fünf Garben jedem Pferd für Tag und Nacht, und man soll die Pferde vorher beschlagen. Sechs Knechte sollen es sein, acht Pferde. Sobald sie den König innerhalb sächsischen Landes antreffen, sollen sie zu Hof fahren und danach binnen sechs Wochen das Urteil zurückbringen.",
+        "5": "Wer das Urteil schilt und damit nicht durchdringt, muss dem Richter Gewette zahlen, dem, dessen Urteil er gescholten hat, Buße geben und dem Richter die Kosten ersetzen, die er mit den Boten aufgewendet hat.",
+        "6": "Kein gescholtenes Urteil darf man aus einer Grafschaft in eine Mark ziehen, es sei denn, der Graf hat die Grafschaft vom Markgrafen. Das ist so, weil es in der Mark keinen Königsbann gibt und ihr Recht abweicht; deshalb soll man es vor das Reich ziehen.",
+        "7": "Wer um ein Urteil gefragt wird und es nicht finden kann, muss darauf schwören, dass er es nicht finden kann; dann fragt man einen anderen, danach den dritten und vierten; der letzte erhält so lange Aufschub, wie der Partei, um deren Urteil es geht, ein Termin gesetzt ist.",
+        "8": "Schilt ein Sachse ein Urteil und zieht es an seine vordere Hand und an die größere Zahl, so muss er darum selbsiebt gegen sieben andere seiner Genossen kämpfen; wo die größere Zahl siegt, die behält das Urteil. Jeder Besiegte zahlt dem Richter Gewette und gibt dem Buße, der gegen ihn gekämpft hat. Um ein Urteil darf man nirgends kämpfen außer vor dem Reich.",
+        "9": "Fragt man einen Mann um ein Urteil und findet er es nach seinem Verständnis, so wie er es am rechtesten weiß, so leidet er dafür keine Not, auch wenn es Unrecht ist.",
+        "10": "Widerspricht einer der Zustimmung und findet ein anderes Urteil, so behält derjenige sein Urteil, dessen Urteil die größere Gefolgschaft hat, und beide bleiben ohne Gewette, weil keiner das Urteil des anderen gescholten hat.",
+        "11": "Wer ein Urteil schilt, soll so sprechen: „Das Urteil, das der Mann gefunden hat, ist unrecht; das schelte ich und ziehe es dorthin, wohin ich es von Rechts wegen ziehen soll.“",
+        "12": "Schilt ein Schwabe das Urteil eines Sachsen oder ein Sachse das eines Schwaben, so müssen sie es vor dem König entscheiden lassen, wie hier vorher gesagt ist.",
+        "13": "Stehend schilt man ein Urteil, sitzend findet man es unter Königsbann, jeder auf seinem Stuhl. Wer aber nicht zu den Bänken geboren ist, der soll durch Urteil um den Stuhl bitten, um ein anderes Urteil zu finden. Dann soll derjenige, der das erste Urteil gefunden hat, ihm den Stuhl räumen.",
+        "14": "Welches Urteil jener dann findet, das erbiete er sich nach Recht zu behaupten und ziehe es dorthin, wohin er es von Rechts wegen ziehen soll, und bitte um die Boten dazu. Bei einem gescholtenen Urteil soll man nicht nach Zustimmung fragen. Wer es gefunden hat, darf davon nicht ohne den Willen dessen ablassen, zu dessen Nutzen es gefunden ist.",
+        "15": "Wird ein Mann wegen eines Verbrechens gefangen und vor Gericht gebracht, so darf er kein Urteil schelten, ebenso wenig der Mann, der kämpfen soll, sobald er in den Kampfring kommt."
+      }
+    },
+    "lr-ii-13": {
+      "title": "Strafen für Verbrechen",
+      "metaStatus": "draft",
+      "keyPoints": ["Dieb: Galgen; geringer Diebstahl unter drei Schillingen richtet der Bauermeister an Haut und Haar", "Rad für Mörder, Kirchenräuber, Verräter, Mordbrenner; Enthauptung für Totschlag, Raub, Brand, Notzucht, Friedensbruch, Ehebruch", "Feuertod für Zauberei und Giftmord; der ungerechte Richter verfällt derselben Strafe"],
+      "significance": "Strafkatalog mit abgestuften Leibes- und Lebensstrafen nach Tat.",
+      "keywords": ["Strafe", "Galgen", "Rad", "Enthauptung", "Feuertod", "Diebstahl", "Mord", "Zauberei", "Bauermeister"],
+      "synonyms": ["Ungericht", "Todesstrafe", "Hals und Hand", "ratbraken"],
+      "sections": {
+        "1": "Nun hört von den Verbrechen, welches Gericht darüber ergeht. Den Dieb soll man hängen. Geschieht aber im Dorf bei Tag ein Diebstahl, der weniger als drei Schillinge wert ist, so darf der Bauermeister ihn am selben Tag richten, an Haut und Haar, oder mit drei Schillingen ablösen lassen; dann bleibt der Täter nicht ehrlos und rechtlos.",
+        "2": "Das ist die höchste Gerichtsbarkeit des Bauermeisters; auch diese darf er nicht ausüben, wenn die Sache nach der Klage übernächtig wird. Über mehr Pfennige und über andere fahrende Habe darf er nicht richten.",
+        "3": "Dasselbe Gericht ergeht über falsches Maß, falsches Gewicht und betrügerischen Handel, wenn man dessen überführt wird.",
+        "4": "Alle Mörder und wer Pflug, Mühle, Kirche oder Kirchhof beraubt, Verräter, Mordbrenner und wer seine Botschaft zu eigenem Nutzen ausrichtet, die soll man alle rädern.",
+        "5": "Wer einen Mann erschlägt oder gefangen nimmt oder beraubt oder ohne Mordbrand brandschatzt oder eine Frau oder Jungfrau vergewaltigt, wer den Frieden bricht und wer beim Ehebruch ergriffen wird, dem soll man das Haupt abschlagen.",
+        "6": "Wer Diebesgut oder Raub verbirgt oder den Tätern dabei hilft, über den soll man, wenn er dessen überführt wird, ebenso richten wie über jenen.",
+        "7": "Welcher Christ, Mann oder Frau, ungläubig ist und mit Zauberei oder Giftmischerei umgeht und dessen überführt wird, den soll man auf einem Scheiterhaufen verbrennen.",
+        "8": "Welcher Richter nicht nach Recht richtet, der ist desselben Gerichts schuldig, das über den anderen ergehen sollte. Niemand ist verpflichtet, das Gericht des Richters zu besuchen oder ihm Recht zu gewähren, solange er selbst Recht verweigert hat."
+      }
+    },
+    "lr-ii-14": {
+      "title": "Totschlag in Notwehr",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer in Notwehr tötet und sich sogleich selbst vor Gericht stellt, wird nicht am Hals verurteilt", "Er zahlt das höchste Gewette und das Wergeld an die Verwandten", "Wird der Tote unbegraben vorgebracht und geklagt, muss er sich verantworten"],
+      "significance": "Selbstanzeige und Notwehr schützen vor der Todesstrafe, nicht vor Wergeldpflicht.",
+      "keywords": ["Notwehr", "Totschlag", "Selbstanzeige", "Wergeld", "Gewette"],
+      "synonyms": ["notwere", "dotslach"],
+      "sections": {
+        "1": "Erschlägt ein Mann einen anderen in Not und wagt er aus Angst um sein Leben nicht, bei ihm zu bleiben, um ihn vor Gericht zu bringen und über ihn richten zu lassen, kommt er dann ohne den Toten vor Gericht und bekennt es, bevor man gegen ihn klagt, und erbietet er sich deshalb zu Recht, so soll man ihm nicht den Hals absprechen. Dem Richter soll man das höchste Gewette an Pfennigen zuerkennen, das man ihm zu zahlen pflegt, und den Verwandten ihr Wergeld; diese soll man zum nächsten, zweiten und dritten Ding laden, um ihr Wergeld zu nehmen. Kommen sie dann nicht, so behält er es, bis sie es ihm mit Klage abgewinnen, und man soll ihm Frieden gewähren. Wegen dieses Mannes kann ihn niemand an seinen Hals ansprechen, da er sich zu Recht erboten hat, bevor man gegen ihn klagte.",
+        "2": "Bringt man aber den Toten unbegraben vor Gericht und klagt gegen ihn, so muss er um seinen Hals antworten oder den Toten überführen."
+      }
+    },
+    "lr-ii-15": {
+      "title": "Gewährschaft und Werbuße",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Gewähr gelobt und den späteren Kläger nicht abweisen kann, verliert mit Werbuße", "Werbuße ist die vordere Hand oder das halbe Wergeld", "Bei Heergewäte, Erbe, Gerade und fahrender Habe: Gewette und Buße bei Bruch der Gewähr"],
+      "significance": "Haftung des Gewährsmanns bei Herausgabeansprüchen.",
+      "keywords": ["Gewährschaft", "Werbuße", "Heergewäte", "Gerade", "Erbe"],
+      "synonyms": ["were", "werebote", "Gewähr"],
+      "sections": {
+        "1": "Fordert jemand vor Gericht eine Sache, für die er Gewähr geloben muss, gelobt er sie, und kommt danach ein anderer und fordert dieselbe Sache, und kann der, der die Gewähr gelobt hat, jenen nicht mit Recht abweisen, so muss er seine Forderung mit einer Werbuße aufgeben und dem Richter Gewette zahlen. Werbuße ist seine vordere Hand, mit der er die Gewähr gelobte, oder sein halbes Wergeld.",
+        "2": "Gelobt aber jemand Gewähr, der Heergewäte oder Erbe fordert, oder Frauen, die Gerade oder irgendwelche fahrende Habe fordern, und wird ihm die Gewähr mit Recht gebrochen, so zahlen sie dem Richter Gewette und geben die Habe mit Buße heraus."
+      }
+    },
+    "lr-ii-16": {
+      "title": "Verletzungen: Hand, Buße, halbes Wergeld",
+      "metaStatus": "draft",
+      "keyPoints": ["Gewähr für Totschlag, Lähmung und Wunden gegenüber Herrn und Schwertmagen", "Lähmen oder Verwunden kostet die Hand; jeder hat Buße nach seiner Geburt", "Verlust von Gliedern: halbes Wergeld; Finger und Zähne nach Bruchteilen"],
+      "significance": "Tarif für Körperverletzungen nach Wergeld und Stand.",
+      "keywords": ["Körperverletzung", "Lähmung", "Wunde", "Wergeld", "Buße", "Fronbote", "Königsmalter"],
+      "synonyms": ["lemnisse", "Bußkatalog", "böte", "weregelt"],
+      "sections": {
+        "1": "Gewähr soll jeder Mann für Totschlag, Lähmung und Wunden leisten gegenüber dem Herrn, bei dem er im Dienst steht, und gegenüber seinem Schwertmagen.",
+        "2": "Wer einen anderen lähmt oder verwundet und dessen überführt wird, dem schlägt man die Hand ab. Welches Verbrechen man aber gegen einen Mann mit Kampf erweist, das geht ihm an den Leib.",
+        "3": "Jeder Mann hat Buße nach seiner Geburt, es sei denn, er hat sie verwirkt.",
+        "4": "Wenn der Fronbote dem Richter Gewette schuldet, weil er ihn in seinem Gericht versäumt hat, so verwettet er des Königs Malter, das sind zweiunddreißig Schläge mit einer grünen Eichengerte, die zwei Ellen lang ist.",
+        "5": "Wird ein Mann an Mund, Nase, Augen, Zunge, Ohren, Händen, Füßen oder am Glied verletzt, so dass er eines davon verliert, und soll man es ihm bessern, so muss man es mit einem halben Wergeld bezahlen.",
+        "6": "Jeder Finger und Zahn hat seine besondere Buße, nach dem, was ihm vom Wergeld zusteht, den zehnten Teil.",
+        "7": "Solange der Mann nicht stirbt, bessert man ihn, wie oft man ihn auch in einer Tat verwundet oder lähmt, mit einem halben Wergeld. Wie oft man aber einen gelähmten Mann ein weiteres Mal an einem anderen Glied lähmt, so oft soll man ihm mit einem halben Wergeld Buße leisten.",
+        "8": "Wenn man jemanden ohne Fleischwunde schlägt oder ihn einen Lügner schilt, dem soll man Buße nach seiner Geburt geben.",
+        "9": "Verwundet man einen Mann an einem Glied, das ihm vor Gericht schon vergolten ist, und haut es ihm sogar ab, so kann er dafür kein höheres Geld fordern als seine Buße."
+      }
+    },
+    "lr-ii-17": {
+      "title": "Keine Haftung des Sohnes; Reinigung durch den Vater",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Sohn haftet nicht für Verbrechen des verstorbenen Vaters", "Der Vater kann einen ungesonderten Sohn durch Eid entlasten, wenn nicht beide beklagt sind", "Erst überführen, dann über die Strafe urteilen"],
+      "significance": "Persönliche Verantwortung im Strafrecht.",
+      "keywords": ["Haftung", "Vater", "Sohn", "Eid", "Reinigung", "Strafe"],
+      "synonyms": ["Sippenhaftung", "unschult"],
+      "sections": {
+        "1": "Der Sohn haftet nicht für den Vater, wenn dieser stirbt, für welches Verbrechen er auch begangen hat.",
+        "2": "Der Vater kann einen seiner Söhne entlasten, wenn dieser wegen eines Verbrechens verklagt wird, solange er von ihm nicht abgesondert ist, indem er auf die Heiligen schwört, dass der Sohn an der Tat unschuldig sei. Werden aber Vater und Sohn beide wegen derselben Tat verklagt, so kann er ihn nicht entlasten, bevor er sich nicht selbst gereinigt hat. Man soll nicht als Recht finden, wie man über einen Mann richten soll, bevor er nicht so weit überführt ist, dass man über ihn richten muss. Man soll auch nicht als Recht finden, wie man ein Gut oder eine Gewere daran bezeugen soll, bevor einem nicht durch Urteil das Zeugnis zuerkannt ist."
+      }
+    },
+    "lr-ii-18": {
+      "title": "Absonderung des Sohnes; Herr und Eigenmann",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Vater kann den Sohn vor Gericht mit jedem Gut absondern", "Der Herr kann seinen verurteilten Eigenmann durch Eid auslösen", "Der Eigenmann bleibt dann rechtlos und ehrlos"],
+      "significance": "Herrschaftliche Bindung kann Strafvollzug abwenden, nicht aber Ehrverlust.",
+      "keywords": ["Absonderung", "Sohn", "Eigenmann", "Herr", "Rechtlosigkeit"],
+      "synonyms": ["Abschichtung", "eghen man", "Leibeigener"],
+      "sections": {
+        "1": "Der Vater darf den Sohn vor Gericht mit jedem seiner Güter von sich absondern, das der Sohn annehmen will, wie klein es auch sei.",
+        "2": "Der Herr darf auch einen seiner Eigenleute auslösen, wenn dieser verurteilt ist, sofern er darauf auf die Heiligen schwören will, dass er sein angeborener Eigenmann ist und an der Tat unschuldig ist, wegen der er verklagt ist. Dann bleibt jener rechtlos und ehrlos."
+      }
+    },
+    "lr-ii-19": {
+      "title": "Landrecht II 19",
+      "metaStatus": "draft",
+      "keyPoints": [],
+      "significance": "",
+      "keywords": [],
+      "synonyms": [],
+      "note": "In der Edition Lübben (Oldenburger Codex picturatus) ist kein Artikel II 19 ausgewiesen; die Randzählung springt von II 18 zu II 20.",
+      "sections": {}
+    },
+    "lr-ii-20": {
+      "title": "Voll- und halbbürtige Geschwister; Wergeld bei Lähmung",
+      "metaStatus": "draft",
+      "keyPoints": ["Vollbürtige Geschwister erben vor halbbürtigen", "Kinder vollbürtiger Brüder stehen dem halbbürtigen Bruder gleich", "Volles Wergeld und Buße, solange keine Lähmung vor Gericht festgestellt ist"],
+      "significance": "Vorrang der Vollbürtigkeit im Erbrecht.",
+      "keywords": ["Geschwister", "Vollbürtigkeit", "Halbbürtigkeit", "Erbe", "Wergeld"],
+      "synonyms": ["unghetweyde", "Halbgeschwister"],
+      "sections": {
+        "1": "Bruder und Schwester nehmen das Erbe ihres vollbürtigen Bruders und ihrer vollbürtigen Schwester vor Bruder und Schwester, die vom Vater oder von der Mutter her halbbürtig sind.",
+        "2": "Die Kinder vollbürtiger Brüder stehen dem halbbürtigen Bruder beim Erbnehmen gleich nahe.",
+        "3": "Volles Wergeld und volle Buße soll jeder Mann haben, auch wenn ihm ein Glied fehlt, solange er seine Lähmung nicht vor Gericht nachgewiesen hat, so dass er dadurch einen Vormund erhält oder sie ihm vergolten wird."
+      }
+    },
+    "lr-ii-21": {
+      "title": "Gebäude auf Zins- und Lehngut",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Zinsmann vererbt seine Gebäude auf Zinsgut", "Bei Heimfall nimmt der Herr Gebäude mit dem Lehen, außer sie sind Morgengabe", "Gebäude auf Leibzucht vererben nicht; wer belehnt wird, erhält die Gebäude mit"],
+      "significance": "Gebäude als Zubehör des Grundstücks oder als eigene Habe.",
+      "keywords": ["Gebäude", "Zinsgut", "Lehen", "Leibzucht", "Morgengabe", "Heimfall"],
+      "synonyms": ["buwe", "tinsgöd", "Zubehör"],
+      "sections": {
+        "1": "Der Zinsmann, wer er auch sei, vererbt sein Gebäude auf Zinsgut an seine Erben, es sei denn, ein Mann von ritterlicher Art hat es seiner Frau als Morgengabe gegeben.",
+        "2": "Wird das Gut einem Herrn ledig, so nimmt er das Gebäude zusammen mit dem Lehen, es sei denn, der Mann hat eine Frau, der er es als Morgengabe gegeben hat.",
+        "3": "Hat eine Frau Leibzucht an Eigen oder Lehen, so vererbt sie das Gebäude, das sie darauf hat, nicht an ihre Verwandten, wenn sie stirbt; es nimmt der, dem ihr Gut ledig wird. Denn jeder Mann darf sein Gebäude auf seinem Lehen gegen den Willen seines Herrn verbessern und verschlechtern; ebenso darf es die Frau auf ihrer Leibzucht.",
+        "4": "Hat ein Mann einen Sohn, der sein Lehnserbe ist, nicht aber sein Erbe nach Landrecht, so behält dieser doch das Gebäude seines Vaters auf dem Lehen mit besserem Recht als der, der sein Erbe nach Landrecht ist.",
+        "5": "Verleiht ein Herr einem Mann ein Gut ohne Vorbehalt, so gehört alles, was an Gebäuden darauf ist, mit dem Gut dem Mann, so wie es dem Herrn gehörte, es sei denn, er hat es ausdrücklich ausgenommen."
+      }
+    },
+    "lr-ii-22": {
+      "title": "Zeugnis gegen den Richter; Zeugenregeln",
+      "metaStatus": "draft",
+      "keyPoints": ["Gegen den Richter bezeugt man mit Dingpflichtigen; bei höherer Schuld mit Schultheiß oder Fronbote", "Der Richter muss gehörtes Zeugnis bestätigen", "Für sieben Zeugen fragt man einundzwanzig Männer"],
+      "significance": "Selbst der Richter unterliegt dem Zeugenbeweis.",
+      "keywords": ["Zeugnis", "Richter", "Schultheiß", "Fronbote", "Kloster", "Heerschild"],
+      "synonyms": ["tuch", "Zeugenbeweis", "witscap"],
+      "sections": {
+        "1": "Was ein Mann gegenüber dem Richter bezeugen soll, dafür braucht er das Zeugnis des Richters nicht, wenn ihn die Beschuldigung nicht höher als an sein Gewette betrifft; das bezeugt er selbdritt mit Dingpflichtigen, die dort Urteile finden. Ist aber die Schuld höher, so muss er den Schultheißen oder den Fronboten an Stelle des Richters als Zeugen gegen den Richter haben.",
+        "2": "Wo ein Mann sein Zeugnis mit dem Schultheißen oder dem Fronboten und mit den Schöffen erbringt, da soll auch der Richter Zeuge für die Wahrheit ihres Zeugnisses sein, das er gehört hat, auch wenn er es vorher nicht wusste. Verweigert der Richter gegen das Recht, Zeuge zu sein, so ist jener dennoch mit seinem Zeugnis vollkommen.",
+        "3": "Begibt sich ein mündiger Mann aus der Welt, zieht Mönchskleider an und lässt sich scheren, auch wenn er das nicht vor Gericht tut, und will er es danach leugnen, so kann man es gegen ihn bezeugen, selbsiebt mit Standesgenossen dessen, der sich begeben hat, die ihn im Ordensleben gesehen haben, oder mit den Brüdern, bei denen er eintrat. Ob er Gehorsam gelobt hat oder nicht: Er hat den Heerschild dennoch niedergelegt.",
+        "4": "Was man mit sieben Männern bezeugen soll, dafür soll man einundzwanzig Männer um das Zeugnis befragen.",
+        "5": "Beruft sich ein Mann mit seinem Zeugnis auf denselben Mann, gegen den das Zeugnis geht, so soll dieser von Rechts wegen bei seinem Eid sagen, was ihm davon bekannt ist, oder schwören, dass er nichts davon weiß. Erbringt jener sein Zeugnis durch ihn gegen ihn selbst, so braucht er gegen ihn kein weiteres Zeugnis. Er muss dafür dem Richter Gewette und jenem seine Buße zahlen, so als ob er mit Zeugen überführt worden wäre, weil er ihn gegen Recht und gegen sein Wissen zum Zeugnis gebracht hat."
+      }
+    },
+    "lr-ii-23": {
+      "title": "Wiederheirat",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Mann darf erneut heiraten, auch wenn drei oder vier Frauen gestorben sind", "Ebenso die Frau; Kinder aller Ehen sind ehelich und erben"],
+      "significance": "Wiederverheiratung ist uneingeschränkt rechtmäßig.",
+      "keywords": ["Ehe", "Wiederheirat", "eheliche Kinder", "Erbe"],
+      "synonyms": ["echte wif", "zweite Ehe"],
+      "sections": {
+        "1": "Solange ein Mann nicht ohne Frau sein will oder kann, darf er eine Ehefrau nehmen, auch wenn ihm drei oder vier Frauen oder mehr gestorben sind. Ebenso nimmt die Frau einen Mann und bekommt mit dem letzten ebenso eheliche Kinder wie mit dem ersten, und sie beerben sie nach ihrem Recht und an ihrem Gut."
+      }
+    },
+    "lr-ii-24": {
+      "title": "Schutz der Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Niemand wird von Gerichts wegen ohne rechte Klage aus seiner Gewere gewiesen", "Gewere endet durch Verkauf, Verpfändung, Auflassung, Verjährung, Urteil oder freiwilligen Verzicht", "Gewere wird nur durch Urteil gegen den Anwesenden oder Geladenen abgesprochen"],
+      "significance": "Grundsatz des Besitzschutzes: Gewere nur durch gerichtliches Verfahren.",
+      "keywords": ["Gewere", "Besitzschutz", "Klage", "Ladung", "Verzicht"],
+      "synonyms": ["were", "Besitz", "Rechtsschutz"],
+      "sections": {
+        "1": "Man soll niemanden von Gerichts wegen aus seiner Gewere weisen, auch wenn er zu Unrecht hineingekommen ist, es sei denn, man bricht sie ihm mit rechter Klage, bei der er selbst anwesend ist, oder man lädt ihn von Gerichts wegen zu seinen rechten Terminen, und er erscheint nicht; dann spricht man ihm die Gewere mit Recht ab.",
+        "2": "Jeder Mann kann seines rechten Gutes mit Recht verlustig werden, wenn er es verkauft, verpfändet, auflässt, es gegenüber seinem Herrn verjähren lässt oder es ihm nach Landrecht oder Lehnrecht abgesprochen wird oder er auf welche Weise auch immer ungezwungen davon ablässt; dann ist er der Gewere mit Recht verlustig. Darum darf man niemandem seine Gewere mit Recht abstreiten, der die Gewere hat, es sei denn, sie wird ihm mit Recht abgewonnen, während er zur Antwort anwesend ist, oder er wird deswegen verklagt und zu seinen rechten Terminen geladen."
+      }
+    }
+  }
+}

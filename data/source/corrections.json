@@ -1,33 +1,643 @@
 {
-  "_info": "Korrekturen am OCR-Text von Lübben 1879. Je Abschnitt (articleId#§) geordnete Ersetzungspaare [alt, neu]. 'level': 'cleanup' = nur Apparat-/Marker-Reste entfernt; 'ocr' = offensichtliche OCR-Fehler zusätzlich berichtigt (an der Druckform, nicht an der Dresdner Hs.).",
-  "sections": {
-    "lr-i-1#1": { "level": "ocr", "replace": [["besebermene", "beschermene"], ["kristenbeyt", "kristenheyt"], ["Derne pauese", "Deme pauese"], ["beschedencr", "beschedener"], ["winde, Dit", "winde. Dit"], ["weclersta", "wedersta"], ["dwioge", "dwinge"], ["paucse", "pauese"], ["deine werliken", "deme werliken"]] },
-    "lr-i-2#1": { "level": "ocr", "replace": [["Icwelieli", "Iewelich"], ["sokendc", "sokende"], ["deine iare", "deme iare"], ["eint bc", "sint he"], ["bisebepdome", "bischopdome"], ["innc gkeseten", "inne gheseten"], ["bände", "hande"], ["VIII. ßcbepenbarc lade", "Schepenbare lude"], ["bisebepe", "bischope"], ["plecbaften", "plechaften"], ["lanteeten der ereepresterc", "lantseten der erceprestere"]] },
-    "lr-i-2#2": { "level": "ocr", "replace": [["scolen sc werldlicb", "scolen se werldlich"], ["soken-, IX. de", "soken: de"], ["gretien", "greuen"], ["oucr", "ouer"], ["Legbet", "Leghet"], ["vngeriebte", "vngerichte"], ["ecliten", "echten"], ["oner verteynaebt", "ouer verteynacht"], ["Scholen sc", "scholen se"], ["pliebt", "plicht"], ["nngerichte gberecht", "ungerichte gherecht"], ["hebbet sc", "hebbet se"], ["iegben den rigterc", "ieghen den rigtere"], ["nan eme", "van eme"]] },
-    "lr-i-2#3": { "level": "ocr", "replace": [["plecbaften", "plechaften"], ["scbulteten", "schulteten"], ["oner ses", "ouer ses"], ["ernen eghene", "eren eghene"], ["oftc", "ofte"], ["steift", "sterft"]] },
-    "lr-i-2#4": { "level": "ocr", "replace": [["lanceten", "lantseten"], ["gogrenen", "gogreuen"], ["nnde", "vnde"], ["ruebt", "ruchte"], ["beuet ghethan", "heuet ghethan"], ["encs", "enes"], ["vngheriebte", "vngherichte"], ["haut gat", "hant gat"]] },
-    "lr-i-3#1": { "level": "ocr", "replace": [["werkle", "werlde"], ["wcrlt", "werlt"], ["solde sc", "solde se"], ["adamc", "adame"], ["abrabam", "abraham"], ["moysc", "moyse"]] },
-    "lr-i-3#2": { "level": "ocr", "replace": [["gelegct", "geleget"], ["conincg", "coninc"], ["ebbediseben", "ebbedischen"], ["lenreeht", "lenrecht"], ["seilt", "scilt"], ["was» Also", "was. Also"], ["hercscilt", "herescilt"]] },
-    "lr-i-3#3": { "level": "ocr", "replace": [["tweiünghe", "tweiunghe"], ["lenreeht", "lenrecht"], ["ergere*", "ergere."]] },
-    "lr-i-10#1": { "level": "cleanup", "replace": [["perde l| vnde", "perde vnde"]] },
-    "lr-i-14#2": { "level": "cleanup", "replace": [["mid [,15,§.l. ordelen", "mid ordelen"]] },
-    "lr-i-16#1": { "level": "cleanup", "replace": [["beyde |;", "beyde;"]] },
-    "lr-i-18#1": { "level": "cleanup", "replace": [["recht 1,18,3 i S. behelden", "recht behelden"]] },
-    "lr-i-22#2": { "level": "cleanup", "replace": [["was, I (f* men", "was, men"]] },
-    "lr-i-25#3": { "level": "cleanup", "replace": [["en j| man", "en man"]] },
-    "lr-i-33#1": { "level": "cleanup", "replace": [["an des (f* uader", "an des uader"]] },
-    "lr-i-34#3": { "level": "cleanup", "replace": [["coningh c a a i k e e e i uppe", "coningh uppe"]] },
-    "lr-i-40#1": { "level": "cleanup", "replace": [["lenreclit (f* unde", "lenreclit unde"]] },
-    "lr-i-41#1": { "level": "cleanup", "replace": [["entweldighed 1 was", "entweldighed was"]] },
-    "lr-i-42#1": { "level": "cleanup", "replace": [["comen \\, alse", "comen, alse"]] },
-    "lr-i-43#1": { "level": "cleanup", "replace": [["iterum. Hs. se. Iis. entwcldighes. Hs, böde, ßhlt H>. Das,136' ist vom Corrector über der Linie neben geschrieben. 1,4-1 CS. ", ""]] },
-    "lr-i-46#1": { "level": "cleanup", "replace": [["uertughen (L 25 b) mach", "uertughen mach"]] },
-    "lr-i-49#1": { "level": "cleanup", "replace": [["den den j| camp", "den camp"]] },
-    "lr-i-53#1": { "level": "cleanup", "replace": [["eder (f 28 b) dot", "eder dot"]] },
-    "lr-i-55#2": { "level": "cleanup", "replace": [[" Ij56.", ""]] },
-    "lr-i-63#1": { "level": "cleanup", "replace": [[" «.2.", ""]] },
-    "lr-i-63#4": { "level": "cleanup", "replace": [["enen man (| (£ 34b) gheuen", "enen man gheuen"]] },
-    "lr-i-64#1": { "level": "cleanup", "replace": [["uorwin nen", "uorwinnen"]] },
-    "lr-i-70#2": { "level": "cleanup", "replace": [["t Hs. sie; der cod. gloss. de scult. ", ""]] }
+ "_info": "Korrekturen am OCR-Text von Lübben 1879. Je Abschnitt (articleId#§) geordnete Ersetzungspaare [alt, neu]. 'level': 'cleanup' = nur Apparat-/Marker-Reste entfernt; 'ocr' = offensichtliche OCR-Fehler zusätzlich berichtigt (an der Druckform, nicht an der Dresdner Hs.).",
+ "sections": {
+  "lr-i-1#1": {
+   "level": "ocr",
+   "replace": [
+    [
+     "besebermene",
+     "beschermene"
+    ],
+    [
+     "kristenbeyt",
+     "kristenheyt"
+    ],
+    [
+     "Derne pauese",
+     "Deme pauese"
+    ],
+    [
+     "beschedencr",
+     "beschedener"
+    ],
+    [
+     "winde, Dit",
+     "winde. Dit"
+    ],
+    [
+     "weclersta",
+     "wedersta"
+    ],
+    [
+     "dwioge",
+     "dwinge"
+    ],
+    [
+     "paucse",
+     "pauese"
+    ],
+    [
+     "deine werliken",
+     "deme werliken"
+    ]
+   ]
+  },
+  "lr-i-2#1": {
+   "level": "ocr",
+   "replace": [
+    [
+     "Icwelieli",
+     "Iewelich"
+    ],
+    [
+     "sokendc",
+     "sokende"
+    ],
+    [
+     "deine iare",
+     "deme iare"
+    ],
+    [
+     "eint bc",
+     "sint he"
+    ],
+    [
+     "bisebepdome",
+     "bischopdome"
+    ],
+    [
+     "innc gkeseten",
+     "inne gheseten"
+    ],
+    [
+     "bände",
+     "hande"
+    ],
+    [
+     "VIII. ßcbepenbarc lade",
+     "Schepenbare lude"
+    ],
+    [
+     "bisebepe",
+     "bischope"
+    ],
+    [
+     "plecbaften",
+     "plechaften"
+    ],
+    [
+     "lanteeten der ereepresterc",
+     "lantseten der erceprestere"
+    ]
+   ]
+  },
+  "lr-i-2#2": {
+   "level": "ocr",
+   "replace": [
+    [
+     "scolen sc werldlicb",
+     "scolen se werldlich"
+    ],
+    [
+     "soken-, IX. de",
+     "soken: de"
+    ],
+    [
+     "gretien",
+     "greuen"
+    ],
+    [
+     "oucr",
+     "ouer"
+    ],
+    [
+     "Legbet",
+     "Leghet"
+    ],
+    [
+     "vngeriebte",
+     "vngerichte"
+    ],
+    [
+     "ecliten",
+     "echten"
+    ],
+    [
+     "oner verteynaebt",
+     "ouer verteynacht"
+    ],
+    [
+     "Scholen sc",
+     "scholen se"
+    ],
+    [
+     "pliebt",
+     "plicht"
+    ],
+    [
+     "nngerichte gberecht",
+     "ungerichte gherecht"
+    ],
+    [
+     "hebbet sc",
+     "hebbet se"
+    ],
+    [
+     "iegben den rigterc",
+     "ieghen den rigtere"
+    ],
+    [
+     "nan eme",
+     "van eme"
+    ]
+   ]
+  },
+  "lr-i-2#3": {
+   "level": "ocr",
+   "replace": [
+    [
+     "plecbaften",
+     "plechaften"
+    ],
+    [
+     "scbulteten",
+     "schulteten"
+    ],
+    [
+     "oner ses",
+     "ouer ses"
+    ],
+    [
+     "ernen eghene",
+     "eren eghene"
+    ],
+    [
+     "oftc",
+     "ofte"
+    ],
+    [
+     "steift",
+     "sterft"
+    ]
+   ]
+  },
+  "lr-i-2#4": {
+   "level": "ocr",
+   "replace": [
+    [
+     "lanceten",
+     "lantseten"
+    ],
+    [
+     "gogrenen",
+     "gogreuen"
+    ],
+    [
+     "nnde",
+     "vnde"
+    ],
+    [
+     "ruebt",
+     "ruchte"
+    ],
+    [
+     "beuet ghethan",
+     "heuet ghethan"
+    ],
+    [
+     "encs",
+     "enes"
+    ],
+    [
+     "vngheriebte",
+     "vngherichte"
+    ],
+    [
+     "haut gat",
+     "hant gat"
+    ]
+   ]
+  },
+  "lr-i-3#1": {
+   "level": "ocr",
+   "replace": [
+    [
+     "werkle",
+     "werlde"
+    ],
+    [
+     "wcrlt",
+     "werlt"
+    ],
+    [
+     "solde sc",
+     "solde se"
+    ],
+    [
+     "adamc",
+     "adame"
+    ],
+    [
+     "abrabam",
+     "abraham"
+    ],
+    [
+     "moysc",
+     "moyse"
+    ]
+   ]
+  },
+  "lr-i-3#2": {
+   "level": "ocr",
+   "replace": [
+    [
+     "gelegct",
+     "geleget"
+    ],
+    [
+     "conincg",
+     "coninc"
+    ],
+    [
+     "ebbediseben",
+     "ebbedischen"
+    ],
+    [
+     "lenreeht",
+     "lenrecht"
+    ],
+    [
+     "seilt",
+     "scilt"
+    ],
+    [
+     "was» Also",
+     "was. Also"
+    ],
+    [
+     "hercscilt",
+     "herescilt"
+    ]
+   ]
+  },
+  "lr-i-3#3": {
+   "level": "ocr",
+   "replace": [
+    [
+     "tweiünghe",
+     "tweiunghe"
+    ],
+    [
+     "lenreeht",
+     "lenrecht"
+    ],
+    [
+     "ergere*",
+     "ergere."
+    ]
+   ]
+  },
+  "lr-i-10#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "perde l| vnde",
+     "perde vnde"
+    ]
+   ]
+  },
+  "lr-i-14#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "mid [,15,§.l. ordelen",
+     "mid ordelen"
+    ]
+   ]
+  },
+  "lr-i-16#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "beyde |;",
+     "beyde;"
+    ]
+   ]
+  },
+  "lr-i-18#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "recht 1,18,3 i S. behelden",
+     "recht behelden"
+    ]
+   ]
+  },
+  "lr-i-22#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "was, I (f* men",
+     "was, men"
+    ]
+   ]
+  },
+  "lr-i-25#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "en j| man",
+     "en man"
+    ]
+   ]
+  },
+  "lr-i-33#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "an des (f* uader",
+     "an des uader"
+    ]
+   ]
+  },
+  "lr-i-34#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "coningh c a a i k e e e i uppe",
+     "coningh uppe"
+    ]
+   ]
+  },
+  "lr-i-40#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "lenreclit (f* unde",
+     "lenreclit unde"
+    ]
+   ]
+  },
+  "lr-i-41#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "entweldighed 1 was",
+     "entweldighed was"
+    ]
+   ]
+  },
+  "lr-i-42#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "comen \\, alse",
+     "comen, alse"
+    ]
+   ]
+  },
+  "lr-i-43#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "iterum. Hs. se. Iis. entwcldighes. Hs, böde, ßhlt H>. Das,136' ist vom Corrector über der Linie neben geschrieben. 1,4-1 CS. ",
+     ""
+    ]
+   ]
+  },
+  "lr-i-46#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "uertughen (L 25 b) mach",
+     "uertughen mach"
+    ]
+   ]
+  },
+  "lr-i-49#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "den den j| camp",
+     "den camp"
+    ]
+   ]
+  },
+  "lr-i-53#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "eder (f 28 b) dot",
+     "eder dot"
+    ]
+   ]
+  },
+  "lr-i-55#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     " Ij56.",
+     ""
+    ]
+   ]
+  },
+  "lr-i-63#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     " «.2.",
+     ""
+    ]
+   ]
+  },
+  "lr-i-63#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "enen man (| (£ 34b) gheuen",
+     "enen man gheuen"
+    ]
+   ]
+  },
+  "lr-i-64#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "uorwin nen",
+     "uorwinnen"
+    ]
+   ]
+  },
+  "lr-i-70#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "t Hs. sie; der cod. gloss. de scult. ",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-4#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "mit F. 38^. (8.38. uiugheren",
+     "mit uingheren"
+    ]
+   ]
+  },
+  "lr-ii-10#6": {
+   "level": "cleanup",
+   "replace": [
+    [
+     " 1,10,4(3. rt lfl vi tt g' ai St d o e v ii v Ii e t",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-12#5": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "mit §. G. den hoden",
+     "mit den hoden"
+    ]
+   ]
+  },
+  "lr-ii-13#5": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "De §-5. den man",
+     "De den man"
+    ]
+   ]
+  },
+  "lr-ii-16#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "IT, 16, ",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-17#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "II, lf», ",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-26#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "uor nyen",
+     "uornyen"
+    ]
+   ]
+  },
+  "lr-ii-28#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "( (f ertrike",
+     "ertrike"
+    ]
+   ]
+  },
+  "lr-ii-34#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ofte he n. 51 ene",
+     "ofte he ene"
+    ]
+   ]
+  },
+  "lr-ii-40#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "houet £.2. it",
+     "houet it"
+    ]
+   ]
+  },
+  "lr-ii-44#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     " (f 54b)",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-46#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "IJ, 45, ",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-50#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Swe malbome IT, 50. eder",
+     "Swe malbome eder"
+    ]
+   ]
+  },
+  "lr-ii-56#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "TT,58,2(S. IL 59 ",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-58#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "well, 58, sin",
+     "we sin"
+    ]
+   ]
+  },
+  "lr-ii-60#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "hebben (f, ane",
+     "hebben ane"
+    ]
+   ]
+  },
+  "lr-ii-61#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "IL 61 ",
+     ""
+    ]
+   ]
+  },
+  "lr-ii-66#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "J) Hs. weregd. undc kerkhouey fehlt Hs. ",
+     ""
+    ]
+   ]
   }
+ }
 }

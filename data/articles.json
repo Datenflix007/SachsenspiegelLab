@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:36:19.565Z",
+ "generatedAt": "2026-11-19T19:23:24.187Z",
  "books": [
   {
    "id": "lr-i",
@@ -15,7 +15,7 @@
    "short": "LR II",
    "part": "landrecht",
    "count": 72,
-   "released": false
+   "released": true
   },
   {
    "id": "lr-iii",
@@ -36,8 +36,8 @@
  ],
  "counts": {
   "verified": 0,
-  "draft": 71,
-  "missing": 244
+  "draft": 142,
+  "missing": 173
  },
  "articles": [
   {
@@ -3192,16 +3192,36 @@
    "part": "landrecht",
    "article": 1,
    "label": "LR II 1",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Eidliche Bündnisse gegen das Reich",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Fürsten oder Herren, die sich eidlich verbünden, ohne das Reich auszunehmen,",
+    "handeln gegen das Reich"
+   ],
+   "significance": "Schwurbündnisse sind nur zulässig, wenn die Treue zum Reich vorbehalten bleibt.",
+   "keywords": [
+    "Eid",
+    "Bündnis",
+    "Fürsten",
+    "Reich",
+    "Treue"
+   ],
+   "synonyms": [
+    "Einung",
+    "Schwurbund"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 51,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0051",
+     "label": "22r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-2",
@@ -3210,16 +3230,35 @@
    "part": "landrecht",
    "article": 2,
    "label": "LR II 2",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Versäumtes echtes Ding",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Versäumt der Graf sein echtes Ding, trägt allein der Kläger den Nachteil",
+    "Bei Verbrechensklagen muss dann von vorn begonnen werden"
+   ],
+   "significance": "Formstrenge des Verfahrens: Fristen hängen am ordnungsgemäßen Gerichtstag.",
+   "keywords": [
+    "Graf",
+    "echtes Ding",
+    "Versäumnis",
+    "Klage"
+   ],
+   "synonyms": [
+    "Gerichtstag",
+    "dinc"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 51,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0051",
+     "label": "22r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-3",
@@ -3228,16 +3267,39 @@
    "part": "landrecht",
    "article": 3,
    "label": "LR II 3",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Ladung bei Klagen um Eigen und Lehen; Kampffristen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer um Eigen oder Lehen in seiner Gewere verklagt wird, erhält Frist bis zum nächsten Ding",
+    "Unvorbereitet zum Kampf Geforderte erhalten Frist nach Stand: Schöffenbare sechs Wochen, Dienstleute vierzehn Nächte",
+    "Sonst muss sofort geantwortet werden"
+   ],
+   "significance": "Verteidigungsfristen schützen vor Überrumpelung und sind standesabhängig.",
+   "keywords": [
+    "Ladung",
+    "Frist",
+    "Kampf",
+    "Eigen",
+    "Lehen",
+    "Schöffenbare",
+    "Dienstmann"
+   ],
+   "synonyms": [
+    "deghedinghen",
+    "Termin"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 51,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0051",
+     "label": "22r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-4",
@@ -3246,16 +3308,45 @@
    "part": "landrecht",
    "article": 4,
    "label": "LR II 4",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Lösung aus der Verfestung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer sich aus der Verfestung ziehen will, erhält Geleit und schwört sich frei",
+    "Der Richter lässt ihn mit derselben Form wieder aus, mit der er verfestet wurde",
+    "Bürgen für das Erscheinen; Säumnis kostet die Bürgschaft"
+   ],
+   "significance": "Die Verfestung ist kein endgültiges Urteil, sondern Zwangsmittel mit geregeltem Ausweg.",
+   "keywords": [
+    "Verfestung",
+    "Geleit",
+    "Bürgen",
+    "Eid",
+    "echte Not"
+   ],
+   "synonyms": [
+    "uestinghe",
+    "Friede",
+    "Sicherheit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 51,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0051",
+     "label": "22r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 52,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0052",
+     "label": "22v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-5",
@@ -3264,16 +3355,39 @@
    "part": "landrecht",
    "article": 5,
    "label": "LR II 5",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Keine Bürgen bei ausreichendem Eigen; Zahlungsfristen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Eigen über dem Wert seines Wergelds hat, stellt keine Bürgen",
+    "Schuld binnen vierzehn Nächten, Gewette binnen sechs Wochen",
+    "Zahlung am Haus des Gläubigers bei Tageslicht"
+   ],
+   "significance": "Grundbesitz ersetzt Sicherheitsleistung; Fristen ordnen die Vollstreckung.",
+   "keywords": [
+    "Bürgen",
+    "Eigen",
+    "Wergeld",
+    "Frist",
+    "Zahlung",
+    "Gewette"
+   ],
+   "synonyms": [
+    "borghe",
+    "Sicherheit",
+    "Zahlungsort"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 52,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0052",
+     "label": "22v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-6",
@@ -3282,16 +3396,37 @@
    "part": "landrecht",
    "article": 6,
    "label": "LR II 6",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Buße, Beweis bezahlter Schuld, Dingversäumnis",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer seine Buße vor Gericht verwirkt, hat keinen Anspruch mehr",
+    "Bezahlte Schuld beweist man selbdritt",
+    "Unwidersprochene Gaben und Urteile können später nicht mehr angefochten werden"
+   ],
+   "significance": "Sofortiger Widerspruch ist Voraussetzung späterer Anfechtung.",
+   "keywords": [
+    "Buße",
+    "Beweis",
+    "Zahlung",
+    "Dingpflicht",
+    "Widerspruch"
+   ],
+   "synonyms": [
+    "böte",
+    "wederreden"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 52,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0052",
+     "label": "22v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-7",
@@ -3300,16 +3435,38 @@
    "part": "landrecht",
    "article": 7,
    "label": "LR II 7",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Echte Not",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Vier Gründe echter Not: Gefangenschaft, Krankheit, Gottesdienst außer Landes, Reichsdienst",
+    "Wer dadurch am Erscheinen gehindert ist, bleibt ohne Schaden, wenn ein Bote es nachweist"
+   ],
+   "significance": "Klassische Definition der Entschuldigungsgründe im sächsischen Prozess.",
+   "keywords": [
+    "echte Not",
+    "Gefangenschaft",
+    "Krankheit",
+    "Pilgerfahrt",
+    "Reichsdienst",
+    "Säumnis"
+   ],
+   "synonyms": [
+    "echtenot",
+    "Entschuldigung",
+    "Hinderungsgrund"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 52,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0052",
+     "label": "22v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-8",
@@ -3318,16 +3475,43 @@
    "part": "landrecht",
    "article": 8,
    "label": "LR II 8",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Klage gegen Abwesende",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Klagt jemand gegen einen Abwesenden und verfolgt die Klage nicht, schuldet er Gewette und Buße",
+    "Verfolgt er sie, haftet er nicht, auch wenn der Beklagte freikommt – außer bei kämpflicher Ladung"
+   ],
+   "significance": "Schutz vor leichtfertigen Klagen.",
+   "keywords": [
+    "Klage",
+    "Abwesenheit",
+    "Gewette",
+    "Buße",
+    "Freispruch"
+   ],
+   "synonyms": [
+    "Verleumdung",
+    "Klagerücknahme"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 52,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0052",
+     "label": "22v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 53,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0053",
+     "label": "23r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-9",
@@ -3336,16 +3520,37 @@
    "part": "landrecht",
    "article": 9,
    "label": "LR II 9",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Säumnis nach Einlassung; Bürgen beider Parteien",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer sich eingelassen hat und zum Termin nicht kommt, ist in der Klage überwunden",
+    "Der Richter nimmt von Kläger und Beklagtem Bürgen",
+    "Vertagte Gefangene werden gegen Bürgschaft freigegeben, außer bei handhafter Tat"
+   ],
+   "significance": "Sicherung des Verfahrens durch Bürgschaft.",
+   "keywords": [
+    "Säumnis",
+    "Bürgen",
+    "Gefangener",
+    "Vertagung",
+    "handhafte Tat"
+   ],
+   "synonyms": [
+    "borghe",
+    "Kaution"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 53,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0053",
+     "label": "23r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-10",
@@ -3354,16 +3559,38 @@
    "part": "landrecht",
    "article": 10,
    "label": "LR II 10",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gebundene Tage",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Verfestete dürfen an gebundenen Tagen festgenommen, aber nicht gerichtet werden",
+    "An gebundenen Tagen nur Friedenseide; kein Gericht",
+    "Friedensbruch wird durch gebundene Tage, Kirche oder Kirchhof nicht geschützt"
+   ],
+   "significance": "Kirchliche Festzeiten begrenzen weltliches Gerichtshandeln.",
+   "keywords": [
+    "gebundene Tage",
+    "Festzeit",
+    "Friede",
+    "Eid",
+    "Bürgen",
+    "Kirche"
+   ],
+   "synonyms": [
+    "ghebunden daghe",
+    "Gottesfriede"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 6,
+   "pages": [
+    {
+     "pageNumber": 53,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0053",
+     "label": "23r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-11",
@@ -3372,16 +3599,44 @@
    "part": "landrecht",
    "article": 11,
    "label": "LR II 11",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gelobte Eide und Zahlungstermine",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer einen gelobten Eid nicht rechtzeitig leistet, ist in der Schuld überwunden",
+    "Ist er bereit und der Gegner fehlt, wird er frei",
+    "Wer Geld nicht annimmt, verliert nur den Termin, nicht das Geld"
+   ],
+   "significance": "Termintreue entscheidet über Gewinn oder Verlust im Verfahren.",
+   "keywords": [
+    "Eid",
+    "Termin",
+    "Schuld",
+    "Zahlung",
+    "Einreiten"
+   ],
+   "synonyms": [
+    "Einlager",
+    "inriden"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 53,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0053",
+     "label": "23r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 54,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0054",
+     "label": "23v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-12",
@@ -3390,16 +3645,56 @@
    "part": "landrecht",
    "article": 12,
    "label": "LR II 12",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Urteilfinden und Urteilsschelte",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Kein Urteil über Herrn, Lehnsmann oder Verwandten in Sachen an Leib, Ehre oder Gesundheit",
+    "Gescholtene Urteile gehen an höhere Richter, zuletzt an den König – mit genauen Regeln zu Boten und Kosten",
+    "Schelte durch Zweikampf sieben gegen sieben; Formeln und Sitzordnung beim Urteilen"
+   ],
+   "significance": "Zentrale Regelung des Instanzenzugs und der Urteilsschelte im sächsischen Recht.",
+   "keywords": [
+    "Urteil",
+    "Urteilsschelte",
+    "Schöffenbare",
+    "König",
+    "Mark",
+    "Grafschaft",
+    "Königsbann",
+    "Zweikampf"
+   ],
+   "synonyms": [
+    "ordel",
+    "Urteilsschelten",
+    "Berufung",
+    "Instanzenzug"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 15,
+   "pages": [
+    {
+     "pageNumber": 54,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0054",
+     "label": "23v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 55,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0055",
+     "label": "24r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 56,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0056",
+     "label": "24v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-13",
@@ -3408,16 +3703,50 @@
    "part": "landrecht",
    "article": 13,
    "label": "LR II 13",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Strafen für Verbrechen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Dieb: Galgen; geringer Diebstahl unter drei Schillingen richtet der Bauermeister an Haut und Haar",
+    "Rad für Mörder, Kirchenräuber, Verräter, Mordbrenner; Enthauptung für Totschlag, Raub, Brand, Notzucht, Friedensbruch, Ehebruch",
+    "Feuertod für Zauberei und Giftmord; der ungerechte Richter verfällt derselben Strafe"
+   ],
+   "significance": "Strafkatalog mit abgestuften Leibes- und Lebensstrafen nach Tat.",
+   "keywords": [
+    "Strafe",
+    "Galgen",
+    "Rad",
+    "Enthauptung",
+    "Feuertod",
+    "Diebstahl",
+    "Mord",
+    "Zauberei",
+    "Bauermeister"
+   ],
+   "synonyms": [
+    "Ungericht",
+    "Todesstrafe",
+    "Hals und Hand",
+    "ratbraken"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 8,
+   "pages": [
+    {
+     "pageNumber": 56,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0056",
+     "label": "24v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 57,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0057",
+     "label": "25r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-14",
@@ -3426,16 +3755,37 @@
    "part": "landrecht",
    "article": 14,
    "label": "LR II 14",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Totschlag in Notwehr",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer in Notwehr tötet und sich sogleich selbst vor Gericht stellt, wird nicht am Hals verurteilt",
+    "Er zahlt das höchste Gewette und das Wergeld an die Verwandten",
+    "Wird der Tote unbegraben vorgebracht und geklagt, muss er sich verantworten"
+   ],
+   "significance": "Selbstanzeige und Notwehr schützen vor der Todesstrafe, nicht vor Wergeldpflicht.",
+   "keywords": [
+    "Notwehr",
+    "Totschlag",
+    "Selbstanzeige",
+    "Wergeld",
+    "Gewette"
+   ],
+   "synonyms": [
+    "notwere",
+    "dotslach"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 57,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0057",
+     "label": "25r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-15",
@@ -3444,16 +3794,45 @@
    "part": "landrecht",
    "article": 15,
    "label": "LR II 15",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gewährschaft und Werbuße",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Gewähr gelobt und den späteren Kläger nicht abweisen kann, verliert mit Werbuße",
+    "Werbuße ist die vordere Hand oder das halbe Wergeld",
+    "Bei Heergewäte, Erbe, Gerade und fahrender Habe: Gewette und Buße bei Bruch der Gewähr"
+   ],
+   "significance": "Haftung des Gewährsmanns bei Herausgabeansprüchen.",
+   "keywords": [
+    "Gewährschaft",
+    "Werbuße",
+    "Heergewäte",
+    "Gerade",
+    "Erbe"
+   ],
+   "synonyms": [
+    "were",
+    "werebote",
+    "Gewähr"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 57,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0057",
+     "label": "25r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 58,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0058",
+     "label": "25v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-16",
@@ -3462,16 +3841,41 @@
    "part": "landrecht",
    "article": 16,
    "label": "LR II 16",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Verletzungen: Hand, Buße, halbes Wergeld",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gewähr für Totschlag, Lähmung und Wunden gegenüber Herrn und Schwertmagen",
+    "Lähmen oder Verwunden kostet die Hand; jeder hat Buße nach seiner Geburt",
+    "Verlust von Gliedern: halbes Wergeld; Finger und Zähne nach Bruchteilen"
+   ],
+   "significance": "Tarif für Körperverletzungen nach Wergeld und Stand.",
+   "keywords": [
+    "Körperverletzung",
+    "Lähmung",
+    "Wunde",
+    "Wergeld",
+    "Buße",
+    "Fronbote",
+    "Königsmalter"
+   ],
+   "synonyms": [
+    "lemnisse",
+    "Bußkatalog",
+    "böte",
+    "weregelt"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 9,
+   "pages": [
+    {
+     "pageNumber": 58,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0058",
+     "label": "25v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-17",
@@ -3480,16 +3884,45 @@
    "part": "landrecht",
    "article": 17,
    "label": "LR II 17",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Keine Haftung des Sohnes; Reinigung durch den Vater",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Sohn haftet nicht für Verbrechen des verstorbenen Vaters",
+    "Der Vater kann einen ungesonderten Sohn durch Eid entlasten, wenn nicht beide beklagt sind",
+    "Erst überführen, dann über die Strafe urteilen"
+   ],
+   "significance": "Persönliche Verantwortung im Strafrecht.",
+   "keywords": [
+    "Haftung",
+    "Vater",
+    "Sohn",
+    "Eid",
+    "Reinigung",
+    "Strafe"
+   ],
+   "synonyms": [
+    "Sippenhaftung",
+    "unschult"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 58,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0058",
+     "label": "25v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 59,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0059",
+     "label": "26r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-18",
@@ -3498,16 +3931,38 @@
    "part": "landrecht",
    "article": 18,
    "label": "LR II 18",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Absonderung des Sohnes; Herr und Eigenmann",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Vater kann den Sohn vor Gericht mit jedem Gut absondern",
+    "Der Herr kann seinen verurteilten Eigenmann durch Eid auslösen",
+    "Der Eigenmann bleibt dann rechtlos und ehrlos"
+   ],
+   "significance": "Herrschaftliche Bindung kann Strafvollzug abwenden, nicht aber Ehrverlust.",
+   "keywords": [
+    "Absonderung",
+    "Sohn",
+    "Eigenmann",
+    "Herr",
+    "Rechtlosigkeit"
+   ],
+   "synonyms": [
+    "Abschichtung",
+    "eghen man",
+    "Leibeigener"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 59,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0059",
+     "label": "26r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-19",
@@ -3516,13 +3971,13 @@
    "part": "landrecht",
    "article": 19,
    "label": "LR II 19",
-   "title": null,
-   "metaStatus": "missing",
+   "title": "Landrecht II 19",
+   "metaStatus": "draft",
    "keyPoints": [],
    "significance": "",
    "keywords": [],
    "synonyms": [],
-   "note": null,
+   "note": "In der Edition Lübben (Oldenburger Codex picturatus) ist kein Artikel II 19 ausgewiesen; die Randzählung springt von II 18 zu II 20.",
    "status": "missing",
    "sectionCount": 0,
    "pages": []
@@ -3534,16 +3989,37 @@
    "part": "landrecht",
    "article": 20,
    "label": "LR II 20",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Voll- und halbbürtige Geschwister; Wergeld bei Lähmung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Vollbürtige Geschwister erben vor halbbürtigen",
+    "Kinder vollbürtiger Brüder stehen dem halbbürtigen Bruder gleich",
+    "Volles Wergeld und Buße, solange keine Lähmung vor Gericht festgestellt ist"
+   ],
+   "significance": "Vorrang der Vollbürtigkeit im Erbrecht.",
+   "keywords": [
+    "Geschwister",
+    "Vollbürtigkeit",
+    "Halbbürtigkeit",
+    "Erbe",
+    "Wergeld"
+   ],
+   "synonyms": [
+    "unghetweyde",
+    "Halbgeschwister"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 59,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0059",
+     "label": "26r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-21",
@@ -3552,16 +4028,46 @@
    "part": "landrecht",
    "article": 21,
    "label": "LR II 21",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gebäude auf Zins- und Lehngut",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Zinsmann vererbt seine Gebäude auf Zinsgut",
+    "Bei Heimfall nimmt der Herr Gebäude mit dem Lehen, außer sie sind Morgengabe",
+    "Gebäude auf Leibzucht vererben nicht; wer belehnt wird, erhält die Gebäude mit"
+   ],
+   "significance": "Gebäude als Zubehör des Grundstücks oder als eigene Habe.",
+   "keywords": [
+    "Gebäude",
+    "Zinsgut",
+    "Lehen",
+    "Leibzucht",
+    "Morgengabe",
+    "Heimfall"
+   ],
+   "synonyms": [
+    "buwe",
+    "tinsgöd",
+    "Zubehör"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 59,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0059",
+     "label": "26r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 60,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0060",
+     "label": "26v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-22",
@@ -3570,16 +4076,46 @@
    "part": "landrecht",
    "article": 22,
    "label": "LR II 22",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zeugnis gegen den Richter; Zeugenregeln",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gegen den Richter bezeugt man mit Dingpflichtigen; bei höherer Schuld mit Schultheiß oder Fronbote",
+    "Der Richter muss gehörtes Zeugnis bestätigen",
+    "Für sieben Zeugen fragt man einundzwanzig Männer"
+   ],
+   "significance": "Selbst der Richter unterliegt dem Zeugenbeweis.",
+   "keywords": [
+    "Zeugnis",
+    "Richter",
+    "Schultheiß",
+    "Fronbote",
+    "Kloster",
+    "Heerschild"
+   ],
+   "synonyms": [
+    "tuch",
+    "Zeugenbeweis",
+    "witscap"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 60,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0060",
+     "label": "26v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 61,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0061",
+     "label": "27r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-23",
@@ -3588,16 +4124,35 @@
    "part": "landrecht",
    "article": 23,
    "label": "LR II 23",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Wiederheirat",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Mann darf erneut heiraten, auch wenn drei oder vier Frauen gestorben sind",
+    "Ebenso die Frau; Kinder aller Ehen sind ehelich und erben"
+   ],
+   "significance": "Wiederverheiratung ist uneingeschränkt rechtmäßig.",
+   "keywords": [
+    "Ehe",
+    "Wiederheirat",
+    "eheliche Kinder",
+    "Erbe"
+   ],
+   "synonyms": [
+    "echte wif",
+    "zweite Ehe"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 61,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0061",
+     "label": "27r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-24",
@@ -3606,16 +4161,38 @@
    "part": "landrecht",
    "article": 24,
    "label": "LR II 24",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Schutz der Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Niemand wird von Gerichts wegen ohne rechte Klage aus seiner Gewere gewiesen",
+    "Gewere endet durch Verkauf, Verpfändung, Auflassung, Verjährung, Urteil oder freiwilligen Verzicht",
+    "Gewere wird nur durch Urteil gegen den Anwesenden oder Geladenen abgesprochen"
+   ],
+   "significance": "Grundsatz des Besitzschutzes: Gewere nur durch gerichtliches Verfahren.",
+   "keywords": [
+    "Gewere",
+    "Besitzschutz",
+    "Klage",
+    "Ladung",
+    "Verzicht"
+   ],
+   "synonyms": [
+    "were",
+    "Besitz",
+    "Rechtsschutz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 61,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0061",
+     "label": "27r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-25",
@@ -3624,16 +4201,46 @@
    "part": "landrecht",
    "article": 25,
    "label": "LR II 25",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Räuberische Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Bei Klage um geraubten Besitz mit handhafter Tat folgt der Richter sofort mit dem Gerüfte",
+    "Er richtet über Räuber und Helfer und setzt den Kläger wieder ein",
+    "Versagt der Richter, richtet der König, sobald er in Sachsen ist"
+   ],
+   "significance": "Sofortiger Rechtsschutz gegen gewaltsame Besitzentziehung.",
+   "keywords": [
+    "Raub",
+    "Gewere",
+    "handhafte Tat",
+    "Gerüfte",
+    "Richter",
+    "König"
+   ],
+   "synonyms": [
+    "roflike were",
+    "Besitzentziehung",
+    "Spolium"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 61,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0061",
+     "label": "27r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 62,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0062",
+     "label": "27v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-26",
@@ -3642,16 +4249,40 @@
    "part": "landrecht",
    "article": 26,
    "label": "LR II 26",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Münzrecht und Falschgeld",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Neue Münze, wenn ein neuer Herr kommt",
+    "Falschmünzer verlieren den Hals; wer mit Falschgeld angetroffen wird, je nach Menge Hand oder Geld",
+    "Markt und Münze nur mit Willen des Richters und Zeichen des Königs"
+   ],
+   "significance": "Münz- und Marktrecht als königlich abgeleitete Rechte.",
+   "keywords": [
+    "Münze",
+    "Falschgeld",
+    "Münzmeister",
+    "Markt",
+    "König",
+    "Pfennig"
+   ],
+   "synonyms": [
+    "penninghe",
+    "muntere",
+    "Münzregal",
+    "Marktrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 6,
+   "pages": [
+    {
+     "pageNumber": 62,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0062",
+     "label": "27v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-27",
@@ -3660,16 +4291,46 @@
    "part": "landrecht",
    "article": 27,
    "label": "LR II 27",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zoll und Geleit",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Brücken- oder Wasserzoll hinterzieht, zahlt vierfach; Marktzoll-Hinterziehung kostet dreißig Schillinge",
+    "Priester, Ritter und ihr Gesinde sind zollfrei; wer weder Schiff noch Brücke braucht, ebenso",
+    "Wer Geleit gibt, haftet für Schaden im Geleit; Flurschaden durch unrechte Wege"
+   ],
+   "significance": "Verkehrs- und Abgabenrecht mit Haftung des Geleitsherrn.",
+   "keywords": [
+    "Zoll",
+    "Geleit",
+    "Brücke",
+    "Markt",
+    "Wagen",
+    "Flurschaden"
+   ],
+   "synonyms": [
+    "tolne",
+    "leyde",
+    "Wegerecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 62,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0062",
+     "label": "27v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 63,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0063",
+     "label": "28r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-28",
@@ -3678,16 +4339,39 @@
    "part": "landrecht",
    "article": 28,
    "label": "LR II 28",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Holz, Gras und Fischerei",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Holz, Gras oder Fische aus fremdem Wildwasser: drei Schillinge und Schadensersatz",
+    "Gepflanzte Bäume, Teiche, Grenzbäume und Marksteine: dreißig Schillinge",
+    "Nächtlicher Diebstahl von Gras oder Holz: Strang; Fließgewässer sind gemeinsam"
+   ],
+   "significance": "Schutz der Nutzungsrechte an Wald, Wiese und Wasser.",
+   "keywords": [
+    "Holz",
+    "Fischerei",
+    "Grenzstein",
+    "Wasser",
+    "Diebstahl",
+    "Pfändung"
+   ],
+   "synonyms": [
+    "Waldfrevel",
+    "marcsten",
+    "Allmende"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 63,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0063",
+     "label": "28r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-29",
@@ -3696,16 +4380,44 @@
    "part": "landrecht",
    "article": 29,
    "label": "LR II 29",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Angeschwemmte Habe",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Treibgut ist dem Eigentümer gegen Kostenerstattung zurückzugeben",
+    "Der Finder muss es sechs Wochen aufbieten und verwahren",
+    "Wer es verheimlicht, gilt als Dieb"
+   ],
+   "significance": "Fundrecht mit Anzeigepflicht.",
+   "keywords": [
+    "Fund",
+    "Treibgut",
+    "Wasser",
+    "Aufgebot",
+    "Diebstahl"
+   ],
+   "synonyms": [
+    "Strandrecht",
+    "Fundsache"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 63,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0063",
+     "label": "28r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 64,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0064",
+     "label": "28v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-30",
@@ -3714,16 +4426,36 @@
    "part": "landrecht",
    "article": 30,
    "label": "LR II 30",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Erbanspruch aus Gelöbnis",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Erbe nicht aus Verwandtschaft, sondern aus Gelöbnis beansprucht, hat Unrecht",
+    "Es sei denn, das Gelöbnis wurde vor Gericht bestätigt"
+   ],
+   "significance": "Erbrecht folgt der Verwandtschaft; vertragliche Erbeinsetzung nur gerichtlich.",
+   "keywords": [
+    "Erbe",
+    "Gelöbnis",
+    "Erbvertrag",
+    "Verwandtschaft",
+    "Gericht"
+   ],
+   "synonyms": [
+    "Erbeinsetzung",
+    "louede"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 64,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0064",
+     "label": "28v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-31",
@@ -3732,16 +4464,37 @@
    "part": "landrecht",
    "article": 31,
    "label": "LR II 31",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Hingerichtete, Selbstmörder, Haftung für fremdes Gut",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Das Erbe eines Hingerichteten nimmt sein nächster Verwandter",
+    "Auch der Nachlass eines Selbstmörders fällt an die Erben; gefundenes Diebesgut verwahrt der Richter",
+    "Niemand verwirkt fremdes Gut, das er in Händen hat"
+   ],
+   "significance": "Keine Vermögenskonfiskation als Strafe.",
+   "keywords": [
+    "Hinrichtung",
+    "Selbstmord",
+    "Erbe",
+    "Diebesgut",
+    "Richter"
+   ],
+   "synonyms": [
+    "Konfiskation",
+    "gedelinc"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 64,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0064",
+     "label": "28v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-32",
@@ -3750,16 +4503,38 @@
    "part": "landrecht",
    "article": 32,
    "label": "LR II 32",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Haftung für den Knecht; Dienstende",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Für seinen Knecht haftet der Herr nur bis zur Höhe des Lohns, außer er hat gebürgt",
+    "Wer den Knecht vertreibt, zahlt vollen Lohn",
+    "Wer mutwillig entläuft, zahlt die Lohnsumme und erhaltenen Lohn doppelt zurück"
+   ],
+   "significance": "Frühes Gesinderecht mit beiderseitigen Pflichten.",
+   "keywords": [
+    "Knecht",
+    "Lohn",
+    "Dienst",
+    "Haftung",
+    "Kündigung"
+   ],
+   "synonyms": [
+    "Gesinde",
+    "Ion",
+    "Dienstvertrag"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 64,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0064",
+     "label": "28v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-33",
@@ -3768,16 +4543,36 @@
    "part": "landrecht",
    "article": 33,
    "label": "LR II 33",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Dienstende bei Heirat oder Vormundschaft",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein Knecht darf den Dienst verlassen, wenn er heiratet oder ihm eine Vormundschaft anfällt",
+    "Er behält den bis dahin verdienten Lohn und gibt Überzahltes zurück"
+   ],
+   "significance": "Familienpflichten gehen dem Dienstverhältnis vor.",
+   "keywords": [
+    "Knecht",
+    "Heirat",
+    "Vormundschaft",
+    "Lohn",
+    "Dienst"
+   ],
+   "synonyms": [
+    "Gesinde",
+    "Kündigungsgrund"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 64,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0064",
+     "label": "28v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-34",
@@ -3786,16 +4581,44 @@
    "part": "landrecht",
    "article": 34,
    "label": "LR II 34",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gewalt gegen fremde Knechte; Gefangene",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer eines anderen Knecht wegen des Herrn schlägt, fängt oder beraubt, büßt beiden",
+    "Er kann sich von der Buße an den Herrn freischwören, wenn er nicht zur Schmach handelte",
+    "Wer einen Gefangenen hält, haftet gegenüber Herrn, Verwandten und Frau"
+   ],
+   "significance": "Verletzung des Knechts als Ehrverletzung des Herrn.",
+   "keywords": [
+    "Knecht",
+    "Herr",
+    "Buße",
+    "Schmach",
+    "Gefangennahme"
+   ],
+   "synonyms": [
+    "laster",
+    "Ehrverletzung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 64,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0064",
+     "label": "28v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 65,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0065",
+     "label": "29r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-35",
@@ -3804,16 +4627,36 @@
    "part": "landrecht",
    "article": 35,
    "label": "LR II 35",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Begriff der handhaften Tat",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Handhafte Tat: Ergreifen bei der Tat oder auf der Flucht",
+    "oder wenn Diebes- oder Raubgut in eigener verschlossener Gewere gefunden wird"
+   ],
+   "significance": "Legaldefinition mit großer Bedeutung für Verfahren und Strafe.",
+   "keywords": [
+    "handhafte Tat",
+    "frische Tat",
+    "Flucht",
+    "Diebesgut",
+    "Schlüssel"
+   ],
+   "synonyms": [
+    "hanthafte dat",
+    "auf frischer Tat"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 65,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0065",
+     "label": "29r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-36",
@@ -3822,16 +4665,46 @@
    "part": "landrecht",
    "article": 36,
    "label": "LR II 36",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Anefang: Verfolgung gestohlener Sachen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Öffentlich und mit Zeugen gekauftes Gut begründet keine handhafte Tat",
+    "Der Besitzer kann Eigenerzeugung beweisen oder sich auf Kauf auf offenem Markt oder einen Gewährsmann berufen",
+    "Zug auf den Gewährsmann bis zum Erzeuger; Verfahren mit Fristen und Bußen"
+   ],
+   "significance": "Ausführliche Regelung des Anefangsverfahrens bei Fahrnis.",
+   "keywords": [
+    "Anefang",
+    "Diebesgut",
+    "Kauf",
+    "Markt",
+    "Gewährsmann",
+    "Beweis"
+   ],
+   "synonyms": [
+    "aneuan",
+    "Gewährenzug",
+    "Vindikation"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 8,
+   "pages": [
+    {
+     "pageNumber": 65,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0065",
+     "label": "29r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 66,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0066",
+     "label": "29v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-37",
@@ -3840,16 +4713,44 @@
    "part": "landrecht",
    "article": 37,
    "label": "LR II 37",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Fundsachen und Beute von Dieben",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gefundenes oder Dieben abgejagtes Gut ist vor Nachbarn und in der Kirche aufzubieten",
+    "Der Eigentümer erhält es binnen sechs Wochen gegen Kostenersatz; Fremde lassen ein Drittel",
+    "Meldet sich niemand, erhält der Richter zwei Drittel, der Finder ein Drittel"
+   ],
+   "significance": "Fundrecht mit Finderlohn.",
+   "keywords": [
+    "Fund",
+    "Aufgebot",
+    "Kirche",
+    "Finderlohn",
+    "Richter"
+   ],
+   "synonyms": [
+    "Fundsache",
+    "upbeden"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 66,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0066",
+     "label": "29v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 67,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0067",
+     "label": "30r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-38",
@@ -3858,16 +4759,38 @@
    "part": "landrecht",
    "article": 38,
    "label": "LR II 38",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Fahrlässiger Schaden",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer durch Unachtsamkeit Schaden verursacht (Feuer, ungesicherte Brunnen, Fehlschuss), ersetzt ihn",
+    "Keine Leibes- oder Lebensstrafe, auch bei Tod – nur Wergeld"
+   ],
+   "significance": "Unterscheidung von Vorsatz und Fahrlässigkeit im Haftungsrecht.",
+   "keywords": [
+    "Fahrlässigkeit",
+    "Schaden",
+    "Feuer",
+    "Brunnen",
+    "Jagd",
+    "Wergeld"
+   ],
+   "synonyms": [
+    "warlose",
+    "Unachtsamkeit",
+    "Haftung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 67,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0067",
+     "label": "30r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-39",
@@ -3876,16 +4799,36 @@
    "part": "landrecht",
    "article": 39,
    "label": "LR II 39",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Korndiebstahl und Flurschaden",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Nächtlicher Korndiebstahl: Galgen; bei Tag: Hals",
+    "Wer als Reisender Korn auf dem Feld füttert, ersetzt den Schaden"
+   ],
+   "significance": "Schutz der Ernte mit harten Strafen.",
+   "keywords": [
+    "Korn",
+    "Diebstahl",
+    "Galgen",
+    "Reisender",
+    "Flurschaden"
+   ],
+   "synonyms": [
+    "Feldfrevel",
+    "corn"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 67,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0067",
+     "label": "30r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-40",
@@ -3894,16 +4837,45 @@
    "part": "landrecht",
    "article": 40,
    "label": "LR II 40",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Tierhalterhaftung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Herr haftet für Schaden durch Hund, Eber, Ochse oder anderes Vieh, wenn er es wieder aufnimmt",
+    "Nimmt er es nicht auf, kann der Geschädigte das Tier nehmen",
+    "Tiere verwirken kein Gewette; Haftung bei Hütung durch Knechte"
+   ],
+   "significance": "Noxalhaftung: Ersatz oder Preisgabe des Tieres.",
+   "keywords": [
+    "Tierhalter",
+    "Hund",
+    "Vieh",
+    "Schaden",
+    "Wergeld",
+    "Pfändung"
+   ],
+   "synonyms": [
+    "Noxalhaftung",
+    "ue"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 67,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0067",
+     "label": "30r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 68,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0068",
+     "label": "30v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-41",
@@ -3912,16 +4884,39 @@
    "part": "landrecht",
    "article": 41,
    "label": "LR II 41",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Pfändung von geringem Eigen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Kann der Richter sein Gewette nicht pfänden, setzt der Fronbote ein Kreuz auf das Eigen",
+    "Löst der Eigentümer es nicht binnen Jahr und Tag, verliert er sein Recht daran",
+    "Der Erbe kann es binnen eines weiteren Jahres gegen Zahlung der Schuld zurückholen"
+   ],
+   "significance": "Grundstücksvollstreckung mit gestaffelten Fristen.",
+   "keywords": [
+    "Pfändung",
+    "Eigen",
+    "Fronbote",
+    "Kreuz",
+    "Jahr und Tag",
+    "Erbe"
+   ],
+   "synonyms": [
+    "Fronung",
+    "beuronen",
+    "Zwangsvollstreckung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 68,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0068",
+     "label": "30v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-42",
@@ -3930,16 +4925,46 @@
    "part": "landrecht",
    "article": 42,
    "label": "LR II 42",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Streit um Lehnsgut: Gewährsherren",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Beanspruchen zwei dasselbe Gut von verschiedenen Herren, bringt jeder seinen Herrn",
+    "Wer gewährt wird, behält; wer bei Jahr und Tag rechter Gewere ist, verliert sie nicht durch Ausbleiben des Gegners",
+    "Fürsten können mit besiegeltem Brief gewähren"
+   ],
+   "significance": "Verknüpfung von Landrecht und Lehnsgewähr; früher Urkundenbeweis.",
+   "keywords": [
+    "Lehen",
+    "Gewährsherr",
+    "Gewere",
+    "Brief",
+    "Siegel",
+    "Fürsten"
+   ],
+   "synonyms": [
+    "were",
+    "Urkunde",
+    "Gewährschaft"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 68,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0068",
+     "label": "30v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 69,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0069",
+     "label": "31r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-43",
@@ -3948,16 +4973,37 @@
    "part": "landrecht",
    "article": 43,
    "label": "LR II 43",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Eigen gegen Lehen; Erbeigen gegen Kaufeigen",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Bei gleicher Gewere behält eher, wer Eigen mit zwei Schöffen bezeugt, als wer Lehen behauptet",
+    "Ererbtes Eigen geht gekauftem oder geschenktem vor"
+   ],
+   "significance": "Rangordnung der Rechtstitel im Streit um Grundbesitz.",
+   "keywords": [
+    "Eigen",
+    "Lehen",
+    "Erbe",
+    "Kauf",
+    "Schöffen",
+    "Beweis"
+   ],
+   "synonyms": [
+    "Erbeigen",
+    "Rechtstitel"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 69,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0069",
+     "label": "31r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-44",
@@ -3966,16 +5012,39 @@
    "part": "landrecht",
    "article": 44,
    "label": "LR II 44",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Rechte Gewere durch Jahr und Tag",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Jahr und Tag unangefochtener Besitz begründen rechte Gewere",
+    "Gegen rechtzeitige Klage hilft keine Gewalt",
+    "Gutgläubiger Erwerber muss Früchte nicht herausgeben; Eigen an Lehen oder Leibzucht mit sechs Schöffenbaren beweisen"
+   ],
+   "significance": "Kernregel des sächsischen Besitzrechts.",
+   "keywords": [
+    "Gewere",
+    "Jahr und Tag",
+    "Besitz",
+    "Früchte",
+    "Leibzucht",
+    "Schöffenbare"
+   ],
+   "synonyms": [
+    "rechte were",
+    "Ersitzung",
+    "Besitzschutz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 69,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0069",
+     "label": "31r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-45",
@@ -3984,16 +5053,35 @@
    "part": "landrecht",
    "article": 45,
    "label": "LR II 45",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Dingflucht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer in seiner Anwesenheit beschuldigt wird und flieht, ist in der Klage überwunden",
+    "Bei Verbrechen wird er sofort verfestet"
+   ],
+   "significance": "Flucht vor Gericht als Schuldanerkenntnis.",
+   "keywords": [
+    "Dingflucht",
+    "Säumnis",
+    "Verfestung",
+    "Klage"
+   ],
+   "synonyms": [
+    "dincvluchtich",
+    "Flucht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 69,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0069",
+     "label": "31r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-46",
@@ -4002,16 +5090,45 @@
    "part": "landrecht",
    "article": 46,
    "label": "LR II 46",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Pflügen und Säen auf fremdem Land",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer fremdes Land unwissentlich pflügt, verliert seine Arbeit, wenn der Eigentümer es behält",
+    "Wer streitiges Land besät, verliert Arbeit und Saat; unbestrittenes behält er gegen Zins",
+    "Wer fremdes besätes Land umpflügt, ersetzt Schaden und Buße"
+   ],
+   "significance": "Ausgleich zwischen Arbeit und Eigentum an Land.",
+   "keywords": [
+    "Pflügen",
+    "Saat",
+    "Land",
+    "Zins",
+    "Schaden",
+    "Klage"
+   ],
+   "synonyms": [
+    "Ackerbau",
+    "Bodenrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 69,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0069",
+     "label": "31r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 70,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0070",
+     "label": "31v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-47",
@@ -4020,16 +5137,38 @@
    "part": "landrecht",
    "article": 47,
    "label": "LR II 47",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Weideschaden durch Vieh",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Vieh in fremdes Korn oder Gras treibt, ersetzt den Schaden und büßt drei Schillinge",
+    "Gepfändetes Vieh: Schaden nach Schätzung der Bauern und sechs Pfennige",
+    "Nicht pfändbares Vieh (wilde Pferde, Gänse, Eber): Nachweis mit zwei Zeugen"
+   ],
+   "significance": "Dörfliche Schadensregeln mit Pfändungsrecht.",
+   "keywords": [
+    "Vieh",
+    "Weide",
+    "Pfändung",
+    "Schaden",
+    "Bauern",
+    "Mark"
+   ],
+   "synonyms": [
+    "Flurschaden",
+    "Weiderecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 70,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0070",
+     "label": "31v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-48",
@@ -4038,16 +5177,46 @@
    "part": "landrecht",
    "article": 48,
    "label": "LR II 48",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Hirtenhaftung und Zehnt",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Der Hirte ersetzt, was in seiner Hut verloren geht",
+    "Zehnt von Feldfrüchten und Jungvieh: Ort, Zeitpunkt, Garbenmaß",
+    "Ablösung des Viehzehnten in Pfennigen; Wahlrecht des Eigentümers"
+   ],
+   "significance": "Detaillierte Regelung des kirchlichen Zehnten im Dorf.",
+   "keywords": [
+    "Hirte",
+    "Zehnt",
+    "Korn",
+    "Vieh",
+    "Garbe",
+    "Martinstag"
+   ],
+   "synonyms": [
+    "tegheden",
+    "teghedere",
+    "Kirchensteuer"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 12,
+   "pages": [
+    {
+     "pageNumber": 70,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0070",
+     "label": "31v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 71,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0071",
+     "label": "32r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-49",
@@ -4056,16 +5225,37 @@
    "part": "landrecht",
    "article": 49,
    "label": "LR II 49",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Nachbarrecht: Traufe und Zaun",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Niemand darf seine Dachtraufe in den Hof des Nachbarn hängen",
+    "Jeder muss seinen Teil des Hofes einfrieden; für Schaden aus Versäumnis haftet er"
+   ],
+   "significance": "Grundregeln nachbarlicher Rücksicht im Dorf.",
+   "keywords": [
+    "Nachbar",
+    "Traufe",
+    "Zaun",
+    "Hof",
+    "Schaden"
+   ],
+   "synonyms": [
+    "ouese",
+    "Nachbarrecht",
+    "Einfriedung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 71,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0071",
+     "label": "32r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-50",
@@ -4074,16 +5264,37 @@
    "part": "landrecht",
    "article": 50,
    "label": "LR II 50",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Grenzzeichen und Zaun",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Grenzbäume oder Marksteine setzt, braucht dazu den Nachbarn auf der anderen Seite",
+    "Wer einen Zaun zieht, kehrt die Äste zu seinem eigenen Hof"
+   ],
+   "significance": "Grenzziehung als gemeinsame Angelegenheit der Nachbarn.",
+   "keywords": [
+    "Grenze",
+    "Markstein",
+    "Grenzbaum",
+    "Zaun",
+    "Nachbar"
+   ],
+   "synonyms": [
+    "malbome",
+    "marcsten",
+    "Grenzrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 71,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0071",
+     "label": "32r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-51",
@@ -4092,16 +5303,45 @@
    "part": "landrecht",
    "article": 51,
    "label": "LR II 51",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Abstand von Ofen, Abort und Schweinekoben",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Öfen, Aborte und Schweinekoben drei Fuß vom Zaun",
+    "Öfen und Mauern sind gegen Funkenflug zu sichern",
+    "Aborte zum Nachbarhof hin bis auf die Erde zu verbauen"
+   ],
+   "significance": "Frühe bau- und feuerpolizeiliche Abstandsregeln.",
+   "keywords": [
+    "Ofen",
+    "Abort",
+    "Feuer",
+    "Abstand",
+    "Nachbar"
+   ],
+   "synonyms": [
+    "ganghe",
+    "Bauordnung",
+    "Feuerschutz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 71,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0071",
+     "label": "32r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 72,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0072",
+     "label": "32v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-52",
@@ -4110,16 +5350,36 @@
    "part": "landrecht",
    "article": 52,
    "label": "LR II 52",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Überhang: Hopfen und Äste",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Rankt Hopfen über den Zaun, zieht der Wurzeleigentümer, was folgt, ist seins",
+    "Äste dürfen nicht zum Schaden des Nachbarn über den Zaun ragen"
+   ],
+   "significance": "Lösung von Überhangkonflikten unter Nachbarn.",
+   "keywords": [
+    "Hopfen",
+    "Überhang",
+    "Äste",
+    "Zaun",
+    "Nachbar"
+   ],
+   "synonyms": [
+    "hoppe",
+    "Überhangrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 72,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0072",
+     "label": "32v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-53",
@@ -4128,16 +5388,37 @@
    "part": "landrecht",
    "article": 53,
    "label": "LR II 53",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gebäude auf fremdem Zinsgut beim Abzug",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer auf fremdem Gut Zins zahlt, darf beim Wegzug seine Bauten abbrechen",
+    "Zaun, Haus und Mist muss der Herr nach Schätzung der Bauern ablösen, sonst nimmt der Mann alles mit"
+   ],
+   "significance": "Interessenausgleich zwischen Grundherr und abziehendem Pächter.",
+   "keywords": [
+    "Zinsgut",
+    "Abzug",
+    "Gebäude",
+    "Herr",
+    "Ablösung"
+   ],
+   "synonyms": [
+    "tinsgöd",
+    "Pacht",
+    "Abzugsrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 72,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0072",
+     "label": "32v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-54",
@@ -4146,16 +5427,46 @@
    "part": "landrecht",
    "article": 54,
    "label": "LR II 54",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Dorfhirte",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Vieh, das dem Hirten folgen kann, darf nicht zu Hause bleiben (außer Säue mit Ferkeln)",
+    "Eigene Hirten nur mit drei Hufen; der Hirtenlohn darf nicht vorenthalten werden",
+    "Hirtenhaftung für verlorenes oder verletztes Vieh und Beweisregeln"
+   ],
+   "significance": "Organisation der gemeinsamen Dorfweide.",
+   "keywords": [
+    "Hirte",
+    "Vieh",
+    "Hufe",
+    "Lohn",
+    "Haftung",
+    "Wolf"
+   ],
+   "synonyms": [
+    "herde",
+    "Gemeindehirte",
+    "Allmende"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 6,
+   "pages": [
+    {
+     "pageNumber": 72,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0072",
+     "label": "32v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 73,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0073",
+     "label": "33r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-55",
@@ -4164,16 +5475,37 @@
    "part": "landrecht",
    "article": 55,
    "label": "LR II 55",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Mehrheitsbeschlüsse im Dorf",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Was der Bauermeister mit Zustimmung der Mehrheit der Bauern zum Nutzen des Dorfes anordnet,",
+    "kann die Minderheit nicht anfechten"
+   ],
+   "significance": "Frühes Mehrheitsprinzip in der dörflichen Selbstverwaltung.",
+   "keywords": [
+    "Bauermeister",
+    "Mehrheit",
+    "Dorf",
+    "Gemeinde",
+    "Beschluss"
+   ],
+   "synonyms": [
+    "wilcore",
+    "Gemeindebeschluss",
+    "Selbstverwaltung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 73,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0073",
+     "label": "33r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-56",
@@ -4182,16 +5514,39 @@
    "part": "landrecht",
    "article": 56,
    "label": "LR II 56",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Deichpflicht und Anlandung",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Jedes Dorf am Wasser muss seinen Teil des Damms befestigen",
+    "Wer bei Deichbruch nicht hilft, verwirkt sein Erbe innerhalb des Damms",
+    "Ausgespültes Land ist verloren; neue Inseln gehören dem näheren Ufer"
+   ],
+   "significance": "Deichrecht als genossenschaftliche Pflicht mit drastischer Sanktion.",
+   "keywords": [
+    "Deich",
+    "Damm",
+    "Flut",
+    "Insel",
+    "Ufer",
+    "Erbe"
+   ],
+   "synonyms": [
+    "dam",
+    "werder",
+    "Deichrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 73,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0073",
+     "label": "33r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-57",
@@ -4200,16 +5555,35 @@
    "part": "landrecht",
    "article": 57,
    "label": "LR II 57",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Besserung am Gut mehrerer Berechtigter",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Auch wenn ein Gut vielen gehört (gestufte Leihe),",
+    "bessert Schaden daran nur, wer es in lediger Gewere hat"
+   ],
+   "significance": "Haftung folgt dem unmittelbaren Besitz.",
+   "keywords": [
+    "Gewere",
+    "Haftung",
+    "Lehen",
+    "Besitz"
+   ],
+   "synonyms": [
+    "ledige were",
+    "unmittelbarer Besitz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 73,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0073",
+     "label": "33r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-58",
@@ -4218,16 +5592,46 @@
    "part": "landrecht",
    "article": 58,
    "label": "LR II 58",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Verdienstes Gut nach dem Tod; Fälligkeitstermine",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ohne Lehnserben nimmt der Erbe nach Landrecht das verdiente Gut im Lehen",
+    "Fälligkeitstage: Walpurgis (Lämmerzehnt), Bartholomäus (Zins), Johannis (Fleischzehnt), Margarete (Kornzehnt), Urban (Wein- und Baumgärten)",
+    "Erträge des Mündels hängen am Zeitpunkt der Volljährigkeit"
+   ],
+   "significance": "Kalender der agrarischen Abgaben und Fruchtziehung.",
+   "keywords": [
+    "Fälligkeit",
+    "Zins",
+    "Zehnt",
+    "Heiligentag",
+    "Mündel",
+    "Lehen"
+   ],
+   "synonyms": [
+    "uordenet",
+    "Stichtag",
+    "Fruchtgenuss"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 73,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0073",
+     "label": "33r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 74,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0074",
+     "label": "33v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-59",
@@ -4236,16 +5640,46 @@
    "part": "landrecht",
    "article": 59,
    "label": "LR II 59",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Zinsmann und Herr; Wegerecht; Mühlenfolge",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Kündigung des Zinsguts zu Lichtmess, beiderseits",
+    "Beim Tod eines Teils treten Erben in die Rechte ein",
+    "Wegebreite der Königsstraße und Vorfahrtsregeln; wer zuerst zur Mühle kommt, mahlt zuerst"
+   ],
+   "significance": "Bekannte Vorfahrtsregel und das Prioritätsprinzip „Wer zuerst kommt, mahlt zuerst“.",
+   "keywords": [
+    "Zinsmann",
+    "Kündigung",
+    "Lichtmess",
+    "Straße",
+    "Vorfahrt",
+    "Mühle"
+   ],
+   "synonyms": [
+    "Wer zuerst kommt, mahlt zuerst",
+    "Königsstraße",
+    "Verkehrsregel"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 4,
+   "pages": [
+    {
+     "pageNumber": 74,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0074",
+     "label": "33v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 75,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0075",
+     "label": "34r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-60",
@@ -4254,16 +5688,37 @@
    "part": "landrecht",
    "article": 60,
    "label": "LR II 60",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Verliehene oder verpfändete Fahrnis",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer Fahrnis freiwillig aus der Hand gibt, kann sie nur vom Empfänger zurückfordern, nicht von Dritten",
+    "Stirbt der Empfänger, fordert man sie von Erben oder Richter"
+   ],
+   "significance": "Grundsatz „Hand wahre Hand“ im deutschen Recht.",
+   "keywords": [
+    "Leihe",
+    "Pfand",
+    "Fahrnis",
+    "Hand wahre Hand",
+    "Herausgabe"
+   ],
+   "synonyms": [
+    "Hand muss Hand wahren",
+    "varende haue",
+    "Mobiliarsachen"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 75,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0075",
+     "label": "34r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-61",
@@ -4272,16 +5727,46 @@
    "part": "landrecht",
    "article": 61,
    "label": "LR II 61",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Wild, Bannforst und Jagd",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Gott gab dem Menschen Gewalt über Fische, Vögel und Wild; an ihnen verwirkt man nicht Leib noch Leben",
+    "Drei Bannforste in Sachsen: Coyne, Harz, Magetheide; Wildfrevel kostet den Königsbann von sechzig Schillingen",
+    "Waffen im Bannforst entspannt; Folgerecht der Hunde; Saatschutz"
+   ],
+   "significance": "Grundlage des Jagdrechts zwischen Freiheit und königlichem Forstbann.",
+   "keywords": [
+    "Jagd",
+    "Wild",
+    "Bannforst",
+    "Harz",
+    "Königsbann",
+    "Hunde"
+   ],
+   "synonyms": [
+    "banuorst",
+    "Wildbann",
+    "Forstrecht"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 75,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0075",
+     "label": "34r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 76,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0076",
+     "label": "34v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-62",
@@ -4290,16 +5775,38 @@
    "part": "landrecht",
    "article": 62,
    "label": "LR II 62",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gefährliche Tiere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer bissige Hunde, zahme Wölfe, Hirsche, Bären oder Affen hält, haftet für ihren Schaden",
+    "Wer ein angreifendes Tier tötet, bleibt straflos, wenn er Notwehr beschwört",
+    "Wild außerhalb der Bannforste nur in eigener Einhegung hegen"
+   ],
+   "significance": "Gefährdungshaftung für gefährliche Tiere.",
+   "keywords": [
+    "Tierhaltung",
+    "Hund",
+    "Wolf",
+    "Bär",
+    "Notwehr",
+    "Gehege"
+   ],
+   "synonyms": [
+    "Gefährdungshaftung",
+    "tamer wulf"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 3,
+   "pages": [
+    {
+     "pageNumber": 76,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0076",
+     "label": "34v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-63",
@@ -4308,16 +5815,39 @@
    "part": "landrecht",
    "article": 63,
    "label": "LR II 63",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Frauen vor Gericht; Vorsprecher",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Keine Frau darf Vorsprecher sein oder ohne Vormund klagen",
+    "Begründet mit der Legende von Calefurnia, die vor dem Reich im Zorn unziemlich auftrat",
+    "Verfestete und Geächtete dürfen nur außerhalb des Gerichts, in dem sie verfestet sind, auftreten"
+   ],
+   "significance": "Ausschluss der Frauen von der Prozessvertretung mit legendarischer Begründung.",
+   "keywords": [
+    "Frauen",
+    "Vorsprecher",
+    "Vormund",
+    "Calefurnia",
+    "Acht",
+    "Bann"
+   ],
+   "synonyms": [
+    "uoresprake",
+    "Calpurnia",
+    "Prozessfähigkeit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 76,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0076",
+     "label": "34v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-64",
@@ -4326,16 +5856,45 @@
    "part": "landrecht",
    "article": 64,
    "label": "LR II 64",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Klage mit dem Gerüfte",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Frauen klagen Notzucht mit dem Gerüfte wegen der handhaften Tat",
+    "Ebenso Klagen mit gefangenen Dieben, mit Toten oder nach Raub",
+    "Ohne handhafte Tat klagt man ohne Gerüfte"
+   ],
+   "significance": "Das Gerüfte als formales Element der Klage bei handhafter Tat.",
+   "keywords": [
+    "Gerüfte",
+    "Notzucht",
+    "handhafte Tat",
+    "Klage",
+    "Raub"
+   ],
+   "synonyms": [
+    "ruchte",
+    "Klagegeschrei",
+    "Zetergeschrei"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 76,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0076",
+     "label": "34v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 77,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0077",
+     "label": "35r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-65",
@@ -4344,16 +5903,37 @@
    "part": "landrecht",
    "article": 65,
    "label": "LR II 65",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Strafunmündigkeit von Kindern",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ein unmündiges Kind kann sein Leben nicht verwirken",
+    "Der Vormund ersetzt Schaden und Wergeld aus dem Gut des Kindes",
+    "Wer ein Kind tötet, zahlt volles Wergeld; Züchtigung wegen Missetat bleibt straflos"
+   ],
+   "significance": "Frühe Regelung der Strafunmündigkeit und des Züchtigungsrechts.",
+   "keywords": [
+    "Kind",
+    "Strafmündigkeit",
+    "Vormund",
+    "Wergeld",
+    "Züchtigung"
+   ],
+   "synonyms": [
+    "binnen sinen iaren",
+    "Schuldunfähigkeit"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 77,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0077",
+     "label": "35r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-66",
@@ -4362,16 +5942,46 @@
    "part": "landrecht",
    "article": 66,
    "label": "LR II 66",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Der alte Friede: geschützte Personen, Orte und Tage",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ständiger Friede für Priester, Geistliche, Jungfrauen, Frauen und Juden; Kirchen, Dörfer, Pflüge, Mühlen, Königsstraßen",
+    "Festtage und gebundene Tage sind Friedenstage, dazu wöchentlich Donnerstag bis Sonntag",
+    "Heilsgeschichtliche Begründung der vier Friedenstage"
+   ],
+   "significance": "Der Landfriede als Teil des Sachsenspiegels, mit theologischer Begründung.",
+   "keywords": [
+    "Landfriede",
+    "Gottesfriede",
+    "Juden",
+    "Frauen",
+    "Kirche",
+    "Sonntag"
+   ],
+   "synonyms": [
+    "urede",
+    "Treuga Dei",
+    "Friedensordnung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 2,
+   "pages": [
+    {
+     "pageNumber": 77,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0077",
+     "label": "35r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 78,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0078",
+     "label": "35v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-67",
@@ -4380,16 +5990,34 @@
    "part": "landrecht",
    "article": 67,
    "label": "LR II 67",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Gefolge des Beklagten vor Gericht",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer wegen eines Verbrechens beklagt ist, darf höchstens dreißig Mann mitbringen",
+    "Diese dürfen keine Waffen außer Schwertern tragen"
+   ],
+   "significance": "Schutz des Gerichtsfriedens vor bewaffnetem Druck.",
+   "keywords": [
+    "Gerichtsfriede",
+    "Gefolge",
+    "Waffen",
+    "Schwert"
+   ],
+   "synonyms": [
+    "Dingfriede"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 78,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0078",
+     "label": "35v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-68",
@@ -4398,16 +6026,36 @@
    "part": "landrecht",
    "article": 68,
    "label": "LR II 68",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Futter für das ermüdete Pferd",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Ermüdet einem Reisenden das Pferd, darf er Korn schneiden, so weit er vom Weg aus mit einem Fuß reicht",
+    "Er darf es aber nicht wegführen"
+   ],
+   "significance": "Notrecht des Reisenden.",
+   "keywords": [
+    "Reisender",
+    "Pferd",
+    "Korn",
+    "Notrecht",
+    "Weg"
+   ],
+   "synonyms": [
+    "wechuerdich",
+    "Mundraub"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 78,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0078",
+     "label": "35v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-69",
@@ -4416,16 +6064,36 @@
    "part": "landrecht",
    "article": 69,
    "label": "LR II 69",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Tötung eines Friedensbrechers",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Wer einen Friedensbrecher tötet oder verwundet, bleibt straflos,",
+    "wenn er selbsiebt bezeugt, dass es auf der Flucht oder bei der Tat geschah"
+   ],
+   "significance": "Recht zur Gegenwehr gegen den Friedensbrecher.",
+   "keywords": [
+    "Friedensbruch",
+    "Tötung",
+    "Notwehr",
+    "Zeugen",
+    "Flucht"
+   ],
+   "synonyms": [
+    "vredebrekere",
+    "Nothilfe"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 78,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0078",
+     "label": "35v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-70",
@@ -4434,16 +6102,34 @@
    "part": "landrecht",
    "article": 70,
    "label": "LR II 70",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Kein Ausweisen aus der Gewere",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Niemand wird aus Gut gewiesen, das er in Gewere hat,",
+    "es sei denn, die Gewere wird ihm mit Recht abgewonnen"
+   ],
+   "significance": "Bekräftigung des Besitzschutzes (vgl. LR II 24).",
+   "keywords": [
+    "Gewere",
+    "Besitzschutz",
+    "Urteil"
+   ],
+   "synonyms": [
+    "were",
+    "Besitz"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 1,
+   "pages": [
+    {
+     "pageNumber": 78,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0078",
+     "label": "35v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-71",
@@ -4452,16 +6138,46 @@
    "part": "landrecht",
    "article": 71,
    "label": "LR II 71",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Waffenverbot und Gerüftefolge",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Im beschworenen Frieden keine Waffen außer im Reichsdienst und beim Turnier; Schwerter nicht in Burgen, Städten und Dörfern",
+    "Dem Gerüfte müssen alle Mündigen bewaffnet folgen (außer Priester, Frauen, Küster, Hirten)",
+    "Verfolgung bis zur Burg oder ins Dorf; Auslieferung mit Bürgschaft"
+   ],
+   "significance": "Friedenswahrung durch Waffenverbot und allgemeine Folgepflicht.",
+   "keywords": [
+    "Waffen",
+    "Gerüfte",
+    "Folgepflicht",
+    "Burg",
+    "Turnier",
+    "Landfriede"
+   ],
+   "synonyms": [
+    "Nacheile",
+    "ruchte uolghen",
+    "Waffenverbot"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 78,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0078",
+     "label": "35v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 79,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0079",
+     "label": "36r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-ii-72",
@@ -4470,16 +6186,45 @@
    "part": "landrecht",
    "article": 72,
    "label": "LR II 72",
-   "title": null,
-   "metaStatus": "missing",
-   "keyPoints": [],
-   "significance": "",
-   "keywords": [],
-   "synonyms": [],
+   "title": "Burgen als Zuflucht von Friedensbrechern",
+   "metaStatus": "draft",
+   "keyPoints": [
+    "Hält eine Burg den Friedensbrecher fest und gibt ihn nicht heraus, wird die Burg mit allen Insassen verfestet",
+    "Der Burgherr muss Beschuldigte vorführen oder selbst haften",
+    "Kehren Räuber binnen Tag und Nacht nicht zur Burg zurück, ist die Burg unschuldig"
+   ],
+   "significance": "Bekämpfung des Raubrittertums durch Haftung der Burgen.",
+   "keywords": [
+    "Burg",
+    "Friedensbrecher",
+    "Verfestung",
+    "Burgherr",
+    "Raub"
+   ],
+   "synonyms": [
+    "borch",
+    "Raubritter",
+    "Burgenhaftung"
+   ],
    "note": null,
-   "status": "missing",
-   "sectionCount": 0,
-   "pages": []
+   "status": "draft",
+   "sectionCount": 5,
+   "pages": [
+    {
+     "pageNumber": 79,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0079",
+     "label": "36r",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    },
+    {
+     "pageNumber": 80,
+     "canvasId": "https://iiif.slub-dresden.de/iiif/2/272362328/canvas/PHYS_0080",
+     "label": "36v",
+     "mappingStatus": "unverified",
+     "method": "estimate-text-length"
+    }
+   ]
   },
   {
    "id": "lr-iii-1",

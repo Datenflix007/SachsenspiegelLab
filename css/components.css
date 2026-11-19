@@ -94,6 +94,31 @@
 .toc-filter { display: flex; gap: 6px; flex-wrap: wrap; margin: 0 0 10px; }
 .toc-filter input { flex: 1 1 140px; height: 32px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); padding: 0 12px; color: var(--text); }
 
+/* ---------- Gesamtverzeichnis (gesetze-im-internet-Stil, alles untereinander) ---------- */
+.law-index { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.law-index__bar { padding: 10px 16px; background: var(--bar); border-bottom: 1px solid var(--bar-line); color: var(--bar-text); font-weight: 700; }
+.law-index ol { list-style: none; margin: 0; padding: 0; }
+.law-index__list { padding: 10px 16px 18px; }
+.law-index__lvl0 { display: inline-block; margin: 0 0 6px 18px; font-size: .92rem; }
+.law-index__lvl1, .law-index__lvl2 { display: block; font-weight: 700; color: var(--accent); text-decoration: underline; text-underline-offset: 3px; margin-top: 4px; }
+.law-index__lvl1b, .law-index__lvl2b { display: block; font-weight: 700; color: var(--heading); padding-left: 8px; margin-bottom: 2px; }
+.law-index__group > ol > .law-index__group { margin-top: 4px; }
+.law-index__item a {
+  display: flex; gap: 8px; align-items: baseline; padding: 2px 0 2px 18px; color: var(--accent);
+  text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--accent) 45%, transparent); text-underline-offset: 3px; font-size: .94rem;
+}
+.law-index__item a:hover { text-decoration-color: var(--accent); background: var(--surface-2); }
+.law-index__num { white-space: nowrap; }
+.law-index__title { color: var(--text); }
+.law-index__item a.is-missing .law-index__title { color: var(--muted); font-style: italic; }
+.law-index__paras li a {
+  display: block; padding: 1px 0 1px 54px; font-size: .84rem; color: var(--accent); text-decoration: none;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.law-index__paras li a span { color: var(--muted); }
+.law-index__paras li a:hover { background: var(--surface-2); }
+.law-index__paras li a:hover span { color: var(--text-2); }
+
 /* ---------- Artikelkopf ---------- */
 .art-head { margin-bottom: 18px; }
 .art-head__crumbs { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 8px; }

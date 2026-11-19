@@ -1,0 +1,307 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR II 49–72. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-ii-49": {
+      "title": "Nachbarrecht: Traufe und Zaun",
+      "metaStatus": "draft",
+      "keyPoints": ["Niemand darf seine Dachtraufe in den Hof des Nachbarn hängen", "Jeder muss seinen Teil des Hofes einfrieden; für Schaden aus Versäumnis haftet er"],
+      "significance": "Grundregeln nachbarlicher Rücksicht im Dorf.",
+      "keywords": ["Nachbar", "Traufe", "Zaun", "Hof", "Schaden"],
+      "synonyms": ["ouese", "Nachbarrecht", "Einfriedung"],
+      "sections": {
+        "1": "Niemand darf seine Dachtraufe in den Hof eines anderen Mannes hängen.",
+        "2": "Jeder soll auch seinen Teil des Hofes einfrieden; wer das nicht tut, soll den Schaden bessern, der daraus entsteht. Er bleibt aber ohne Wandel, wenn ihm selbst Schaden entsteht."
+      }
+    },
+    "lr-ii-50": {
+      "title": "Grenzzeichen und Zaun",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Grenzbäume oder Marksteine setzt, braucht dazu den Nachbarn auf der anderen Seite", "Wer einen Zaun zieht, kehrt die Äste zu seinem eigenen Hof"],
+      "significance": "Grenzziehung als gemeinsame Angelegenheit der Nachbarn.",
+      "keywords": ["Grenze", "Markstein", "Grenzbaum", "Zaun", "Nachbar"],
+      "synonyms": ["malbome", "marcsten", "Grenzrecht"],
+      "sections": {
+        "1": "Wer Grenzbäume oder Marksteine setzt, der soll den dabeihaben, der auf der anderen Seite Land hat. Wer einen Zaun flicht, soll die Äste zu seinem eigenen Hof kehren."
+      }
+    },
+    "lr-ii-51": {
+      "title": "Abstand von Ofen, Abort und Schweinekoben",
+      "metaStatus": "draft",
+      "keyPoints": ["Öfen, Aborte und Schweinekoben drei Fuß vom Zaun", "Öfen und Mauern sind gegen Funkenflug zu sichern", "Aborte zum Nachbarhof hin bis auf die Erde zu verbauen"],
+      "significance": "Frühe bau- und feuerpolizeiliche Abstandsregeln.",
+      "keywords": ["Ofen", "Abort", "Feuer", "Abstand", "Nachbar"],
+      "synonyms": ["ganghe", "Bauordnung", "Feuerschutz"],
+      "sections": {
+        "1": "Öfen, Aborte und Schweinekoben sollen drei Fuß vom Zaun entfernt stehen.",
+        "2": "Jeder soll auch seinen Ofen und seine Mauern so abschirmen, dass die Funken nicht zum Schaden eines anderen in dessen Hof fliegen.",
+        "3": "Aborte soll man auch bis auf die Erde verbauen, wenn sie zum Hof eines anderen hin stehen."
+      }
+    },
+    "lr-ii-52": {
+      "title": "Überhang: Hopfen und Äste",
+      "metaStatus": "draft",
+      "keyPoints": ["Rankt Hopfen über den Zaun, zieht der Wurzeleigentümer, was folgt, ist seins", "Äste dürfen nicht zum Schaden des Nachbarn über den Zaun ragen"],
+      "significance": "Lösung von Überhangkonflikten unter Nachbarn.",
+      "keywords": ["Hopfen", "Überhang", "Äste", "Zaun", "Nachbar"],
+      "synonyms": ["hoppe", "Überhangrecht"],
+      "sections": {
+        "1": "Rankt der Hopfen über den Zaun, so soll der, der die Wurzeln in seinem Hof hat, so nah wie möglich an den Zaun greifen und den Hopfen ziehen; was ihm folgt, gehört ihm; was auf der anderen Seite bleibt, gehört seinem Nachbarn.",
+        "2": "Auch die Äste seiner Bäume sollen nicht zum Schaden seines Nachbarn über den Zaun ragen."
+      }
+    },
+    "lr-ii-53": {
+      "title": "Gebäude auf fremdem Zinsgut beim Abzug",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer auf fremdem Gut Zins zahlt, darf beim Wegzug seine Bauten abbrechen", "Zaun, Haus und Mist muss der Herr nach Schätzung der Bauern ablösen, sonst nimmt der Mann alles mit"],
+      "significance": "Interessenausgleich zwischen Grundherr und abziehendem Pächter.",
+      "keywords": ["Zinsgut", "Abzug", "Gebäude", "Herr", "Ablösung"],
+      "synonyms": ["tinsgöd", "Pacht", "Abzugsrecht"],
+      "sections": {
+        "1": "Was der Mann auf fremdem Gut hat, von dem er Zins gibt, das darf er abbrechen, wenn er wegzieht, und ebenso sein Erbe nach seinem Tod, ausgenommen den Zaun hinten und vorn, das Haus und den Mist; das soll der Herr nach Schätzung der Bauern ablösen. Tut er das nicht, so führt der Mann das eine mit dem anderen weg."
+      }
+    },
+    "lr-ii-54": {
+      "title": "Dorfhirte",
+      "metaStatus": "draft",
+      "keyPoints": ["Vieh, das dem Hirten folgen kann, darf nicht zu Hause bleiben (außer Säue mit Ferkeln)", "Eigene Hirten nur mit drei Hufen; der Hirtenlohn darf nicht vorenthalten werden", "Hirtenhaftung für verlorenes oder verletztes Vieh und Beweisregeln"],
+      "significance": "Organisation der gemeinsamen Dorfweide.",
+      "keywords": ["Hirte", "Vieh", "Hufe", "Lohn", "Haftung", "Wolf"],
+      "synonyms": ["herde", "Gemeindehirte", "Allmende"],
+      "sections": {
+        "1": "Der Mann soll sein Vieh, das dem Hirten folgen kann, nicht zu Hause lassen, außer Säuen, die Ferkel säugen; diese soll man aber so verwahren, dass sie keinen Schaden anrichten.",
+        "2": "Niemand darf auch einen eigenen Hirten haben, durch den er dem gemeinsamen Hirten seinen Lohn mindert, es sei denn, er hat drei Hufen oder mehr, die sein Eigen oder Lehen sind; der darf einen eigenen Schafhirten haben.",
+        "3": "Wo man dem Hirten den Lohn von der Hufe und nicht vom Vieh verspricht, darf niemand den Lohn vorenthalten, damit das Dorf nicht ohne Hirten bleibt.",
+        "4": "Was man vor den Hirten treibt und er nicht wieder ins Dorf bringt, das muss er ersetzen. Was ihm aber die Wölfe oder Räuber nehmen, wenn er nicht gefangen wird und sie nicht mit dem Gerüfte beschreit, so dass er dafür Zeugen haben kann, das muss er ersetzen.",
+        "5": "Verletzt ein Tier vor dem Hirten das andere, oder wird es zertreten oder gebissen, und beschuldigt man den Hirten deswegen, so muss er das Tier benennen, das den Schaden angerichtet hat, und darauf schwören. Dann soll derjenige, dem das Tier gehört, das verwundete Tier in seiner Pflege halten, bis es wieder aufs Feld gehen kann. Stirbt es, so muss er es nach seinem festgesetzten Wert ersetzen.",
+        "6": "Beschuldigt man den Hirten, er habe ein Tier nicht ins Dorf gebracht, und leistet er seinen Unschuldseid, so ist er davon frei. Wer aber sein Tier vermisst, sofort zum Hirten geht und ihn mit dem Zeugnis zweier Männer beschuldigt, dagegen kann der Hirte nicht schwören, sondern muss ihm das Tier ersetzen. Sagt aber der Hirte, es sei ihm nicht vorgetrieben worden, so kann der Mann mit zwei Männern, die sahen, dass man es in seine Hut trieb, eher beweisen, als der Hirte sich freischwören kann."
+      }
+    },
+    "lr-ii-55": {
+      "title": "Mehrheitsbeschlüsse im Dorf",
+      "metaStatus": "draft",
+      "keyPoints": ["Was der Bauermeister mit Zustimmung der Mehrheit der Bauern zum Nutzen des Dorfes anordnet,", "kann die Minderheit nicht anfechten"],
+      "significance": "Frühes Mehrheitsprinzip in der dörflichen Selbstverwaltung.",
+      "keywords": ["Bauermeister", "Mehrheit", "Dorf", "Gemeinde", "Beschluss"],
+      "synonyms": ["wilcore", "Gemeindebeschluss", "Selbstverwaltung"],
+      "sections": {
+        "1": "Was der Bauermeister zum Nutzen des Dorfes mit Zustimmung der Mehrheit der Bauern anordnet, dem kann der kleinere Teil nicht widersprechen."
+      }
+    },
+    "lr-ii-56": {
+      "title": "Deichpflicht und Anlandung",
+      "metaStatus": "draft",
+      "keyPoints": ["Jedes Dorf am Wasser muss seinen Teil des Damms befestigen", "Wer bei Deichbruch nicht hilft, verwirkt sein Erbe innerhalb des Damms", "Ausgespültes Land ist verloren; neue Inseln gehören dem näheren Ufer"],
+      "significance": "Deichrecht als genossenschaftliche Pflicht mit drastischer Sanktion.",
+      "keywords": ["Deich", "Damm", "Flut", "Insel", "Ufer", "Erbe"],
+      "synonyms": ["dam", "werder", "Deichrecht"],
+      "sections": {
+        "1": "Jedes Dorf, das am Wasser liegt und einen Damm hat, der es vor der Flut schützt, soll seinen Teil des Damms gegen die Flut befestigen. Kommt aber die Flut und bricht den Damm, und ruft man mit dem Gerüfte die herbei, die innerhalb des Damms sitzen, so hat jeder von ihnen, der nicht hilft, den Damm zu bessern, sein Erbe verwirkt, das er innerhalb des Damms hat.",
+        "2": "Was das Wasser vom Ufer wegspült, das hat der verloren, dem das Land gehört. Bricht das Wasser einen neuen Lauf, so verliert er dadurch sein Land nicht.",
+        "3": "Erhebt sich in einem Fluss eine Insel, so gehört sie dem Ufer, dem sie näher ist; liegt sie in der Mitte, so gehört sie beiden Ufern. Dasselbe gilt für ein Flussbett, wenn es austrocknet."
+      }
+    },
+    "lr-ii-57": {
+      "title": "Besserung am Gut mehrerer Berechtigter",
+      "metaStatus": "draft",
+      "keyPoints": ["Auch wenn ein Gut vielen gehört (gestufte Leihe),", "bessert Schaden daran nur, wer es in lediger Gewere hat"],
+      "significance": "Haftung folgt dem unmittelbaren Besitz.",
+      "keywords": ["Gewere", "Haftung", "Lehen", "Besitz"],
+      "synonyms": ["ledige were", "unmittelbarer Besitz"],
+      "sections": {
+        "1": "Auch wenn ein Gut vielen Männern gehört, so dass es einer vom anderen hat: Was man auf dem Gut tut, soll der bessern, der das Gut in lediger Gewere hat, und niemand sonst."
+      }
+    },
+    "lr-ii-58": {
+      "title": "Verdienstes Gut nach dem Tod; Fälligkeitstermine",
+      "metaStatus": "draft",
+      "keyPoints": ["Ohne Lehnserben nimmt der Erbe nach Landrecht das verdiente Gut im Lehen", "Fälligkeitstage: Walpurgis (Lämmerzehnt), Bartholomäus (Zins), Johannis (Fleischzehnt), Margarete (Kornzehnt), Urban (Wein- und Baumgärten)", "Erträge des Mündels hängen am Zeitpunkt der Volljährigkeit"],
+      "significance": "Kalender der agrarischen Abgaben und Fruchtziehung.",
+      "keywords": ["Fälligkeit", "Zins", "Zehnt", "Heiligentag", "Mündel", "Lehen"],
+      "synonyms": ["uordenet", "Stichtag", "Fruchtgenuss"],
+      "sections": {
+        "1": "Wenn der Mann nach seinem Tod keinen Lehnserben hat, so soll derjenige, der sein Erbe nach Landrecht ist, sein verdientes Gut im Lehen nehmen.",
+        "2": "Nun hört, wann es verdient ist. Am Walpurgistag ist der Lämmerzehnt verdient, am Bartholomäustag allerlei Zins und Abgabe; am Johannistag ist allerlei Fleischzehnt verdient, wo man den Zehnten jährlich mit Pfennigen ablöst; wo man ihn aber nicht ablöst, da ist er verdient, sobald das Tier geworfen wird; am Margaretentag aller andere Kornzehnt. Was aber vorher gestiegt ist, daran ist der Zehnt verdient. Am Urbanstag sind Weingärten und Baumgärten verdient. Die Saat des Mannes, die er mit seinem Pflug bestellt, ist verdient, sobald die Egge darüber gegangen ist, und der Garten, wenn er besät und geharkt ist. Geld von Mühlen, Zoll, Münze und Weingärten ist verdient, wenn der Zinstag kommt, der ihm zur Zahlung bestimmt ist.",
+        "3": "Wird das Kind vor den Zinstagen mündig, so dass das Gut verdient ist, soll es den Zins nehmen. Wird es aber nach den rechten Zinstagen mündig, hat es den Ertrag des Gutes verloren. Das sage ich deshalb: Bearbeitet ein Herr oder jemand in seinem Auftrag Gärten, Baumgärten und Weingärten und wendet bis zum Urbanstag Kosten auf, und ist das Kind dann noch nicht mündig, so nimmt der Herr die Früchte. Hat der Herr auch das Land des Kindes besäen lassen, bevor es mündig wird, so behält der Herr die Saat, nicht aber die Stoppeln und die Weinpfähle, weil sie in der Erde stehen und an das Weinholz gebunden sind. Er darf auch nicht das Holz des Kindes hauen oder Gras schneiden lassen, nachdem das Kind mündig geworden ist. Wird das Kind aber früher mündig, so hat der Herr seine Arbeit verloren, denn das Kind ersetzt sie ihm nicht. Ebenso wenig tut es der Herr dem Kind oder dessen Erben, wenn er den Heimfall nimmt."
+      }
+    },
+    "lr-ii-59": {
+      "title": "Zinsmann und Herr; Wegerecht; Mühlenfolge",
+      "metaStatus": "draft",
+      "keyPoints": ["Kündigung des Zinsguts zu Lichtmess, beiderseits", "Beim Tod eines Teils treten Erben in die Rechte ein", "Wegebreite der Königsstraße und Vorfahrtsregeln; wer zuerst zur Mühle kommt, mahlt zuerst"],
+      "significance": "Bekannte Vorfahrtsregel und das Prioritätsprinzip „Wer zuerst kommt, mahlt zuerst“.",
+      "keywords": ["Zinsmann", "Kündigung", "Lichtmess", "Straße", "Vorfahrt", "Mühle"],
+      "synonyms": ["Wer zuerst kommt, mahlt zuerst", "Königsstraße", "Verkehrsregel"],
+      "sections": {
+        "1": "Will ein Herr seinen Zinsmann, der nicht zu dem Gut geboren ist, von seinem Gut weisen, so soll er es ihm zu Lichtmess ankündigen. Dasselbe soll der Mann tun, wenn er das Land aufgeben will.",
+        "2": "Stirbt der Zinsmann des Herrn, so tritt sein Erbe an seine Stelle und gibt von dem Gut, was jener geben sollte. Stirbt der Herr, so gibt der Mann seinen Zins, den er dem Herrn versprochen hatte, dem, an den das Gut fällt, und braucht niemanden als Gewährsmann außer seinem Pflug.",
+        "3": "Des Königs Straße soll so breit sein, dass ein Wagen dem anderen ausweichen kann. Der leere Wagen weiche dem beladenen und der weniger beladene dem schwereren; der Reiter weiche dem Wagen und der Fußgänger dem Reiter. Sind sie aber auf einem engen Weg oder auf einer Brücke, und jagt man einem Reiter oder Fußgänger nach, so soll der Wagen stillstehen, bis sie vorbeikommen können. Welcher Wagen zuerst auf die Brücke kommt, der soll zuerst hinüberfahren, ob er leer oder beladen ist.",
+        "4": "Wer zuerst zur Mühle kommt, soll zuerst mahlen."
+      }
+    },
+    "lr-ii-60": {
+      "title": "Verliehene oder verpfändete Fahrnis",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Fahrnis freiwillig aus der Hand gibt, kann sie nur vom Empfänger zurückfordern, nicht von Dritten", "Stirbt der Empfänger, fordert man sie von Erben oder Richter"],
+      "significance": "Grundsatz „Hand wahre Hand“ im deutschen Recht.",
+      "keywords": ["Leihe", "Pfand", "Fahrnis", "Hand wahre Hand", "Herausgabe"],
+      "synonyms": ["Hand muss Hand wahren", "varende haue", "Mobiliarsachen"],
+      "sections": {
+        "1": "Leiht oder verpfändet jemand einem anderen ein Pferd, Kleid oder irgendeine fahrende Habe, auf welche Weise er sie auch mit seinem Willen aus seiner Gewere lässt, und verkauft sie derjenige, der sie in Gewere hat, oder verpfändet oder verspielt er sie, oder wird sie ihm geraubt oder gestohlen, so kann der, der sie verliehen oder verpfändet hat, keinen Anspruch darauf erheben außer gegen den, dem er sie lieh oder verpfändete.",
+        "2": "Stirbt dieser aber, eines rechten oder unrechten Todes, so beanspruche er sein Gut nach Recht gegen die Erben oder gegen den Richter, wenn es an ihn fällt."
+      }
+    },
+    "lr-ii-61": {
+      "title": "Wild, Bannforst und Jagd",
+      "metaStatus": "draft",
+      "keyPoints": ["Gott gab dem Menschen Gewalt über Fische, Vögel und Wild; an ihnen verwirkt man nicht Leib noch Leben", "Drei Bannforste in Sachsen: Coyne, Harz, Magetheide; Wildfrevel kostet den Königsbann von sechzig Schillingen", "Waffen im Bannforst entspannt; Folgerecht der Hunde; Saatschutz"],
+      "significance": "Grundlage des Jagdrechts zwischen Freiheit und königlichem Forstbann.",
+      "keywords": ["Jagd", "Wild", "Bannforst", "Harz", "Königsbann", "Hunde"],
+      "synonyms": ["banuorst", "Wildbann", "Forstrecht"],
+      "sections": {
+        "1": "Als Gott den Menschen schuf, gab er ihm Gewalt über Fische, Vögel und wilde Tiere. Darum haben wir von Gott die Gewissheit, dass niemand an diesen Dingen Leben oder Gesundheit verwirken kann.",
+        "2": "Doch gibt es Stätten in Sachsen, an denen den wilden Tieren unter Königsbann Frieden gewirkt ist, ausgenommen Bären, Wölfen und Füchsen; diese heißen Bannforste. Das eine ist die Heide bei Coyne, das andere der Harz, das dritte die Magetheide. Wer darin Wild fängt, soll den Königsbann verwetten, das sind sechzig Schillinge.",
+        "3": "Wer durch den Bannforst reitet, dessen Bogen und Armbrust sollen ungespannt sein, sein Köcher bedeckt, seine Bracken und Windhunde aufgefangen und seine Hunde gekoppelt.",
+        "4": "Jagt ein Mann Wild außerhalb des Forstes und folgen die Hunde in den Forst, so darf der Mann folgen, sofern er nicht bläst und die Hunde nicht anfeuert, und er vergeht sich nicht, wenn er das Wild dann fängt; seine Hunde darf er zurückrufen.",
+        "5": "Niemand darf die Saat durch Jagen oder Hetzen zertreten, nachdem das Korn Glieder (Halme) getrieben hat."
+      }
+    },
+    "lr-ii-62": {
+      "title": "Gefährliche Tiere",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer bissige Hunde, zahme Wölfe, Hirsche, Bären oder Affen hält, haftet für ihren Schaden", "Wer ein angreifendes Tier tötet, bleibt straflos, wenn er Notwehr beschwört", "Wild außerhalb der Bannforste nur in eigener Einhegung hegen"],
+      "significance": "Gefährdungshaftung für gefährliche Tiere.",
+      "keywords": ["Tierhaltung", "Hund", "Wolf", "Bär", "Notwehr", "Gehege"],
+      "synonyms": ["Gefährdungshaftung", "tamer wulf"],
+      "sections": {
+        "1": "Wer einen bissigen Hund oder einen zahmen Wolf oder Hirsch oder Bären oder Affen hält, der muss ersetzen, was sie an Schaden anrichten. Will er sich ihrer nach dem Schaden entledigen, so ist er damit nicht unschuldig, wenn man selbdritt bezeugen kann, dass er sie bis zu der Zeit gehalten hat, als sie den Schaden anrichteten.",
+        "2": "Erschlägt ein Mann einen Hund, Eber oder ein anderes Tier, während es ihm schaden will, so bleibt er ohne Wandel, wenn er auf die Heiligen schwört, dass er in Notwehr handelte.",
+        "3": "Wer wilde Tiere außerhalb der Bannforste hegen will, soll sie in seiner eingezäunten Gewere halten."
+      }
+    },
+    "lr-ii-63": {
+      "title": "Frauen vor Gericht; Vorsprecher",
+      "metaStatus": "draft",
+      "keyPoints": ["Keine Frau darf Vorsprecher sein oder ohne Vormund klagen", "Begründet mit der Legende von Calefurnia, die vor dem Reich im Zorn unziemlich auftrat", "Verfestete und Geächtete dürfen nur außerhalb des Gerichts, in dem sie verfestet sind, auftreten"],
+      "significance": "Ausschluss der Frauen von der Prozessvertretung mit legendarischer Begründung.",
+      "keywords": ["Frauen", "Vorsprecher", "Vormund", "Calefurnia", "Acht", "Bann"],
+      "synonyms": ["uoresprake", "Calpurnia", "Prozessfähigkeit"],
+      "sections": {
+        "1": "Keine Frau darf Vorsprecherin sein oder ohne Vormund klagen; das verwirkte ihnen allen Calefurnia, die sich vor dem Reich im Zorn unziemlich benahm, als ihr Wille ohne Vorsprecher nicht vorankommen durfte.",
+        "2": "Jeder Mann darf Vorsprecher und Zeuge sein, klagen und antworten, außer in dem Gericht, in dem er verfestet ist, oder wenn er in der Acht des Reiches ist. Vor geistlichem Gericht darf er es aber nicht tun, wenn er im Bann ist."
+      }
+    },
+    "lr-ii-64": {
+      "title": "Klage mit dem Gerüfte",
+      "metaStatus": "draft",
+      "keyPoints": ["Frauen klagen Notzucht mit dem Gerüfte wegen der handhaften Tat", "Ebenso Klagen mit gefangenen Dieben, mit Toten oder nach Raub", "Ohne handhafte Tat klagt man ohne Gerüfte"],
+      "significance": "Das Gerüfte als formales Element der Klage bei handhafter Tat.",
+      "keywords": ["Gerüfte", "Notzucht", "handhafte Tat", "Klage", "Raub"],
+      "synonyms": ["ruchte", "Klagegeschrei", "Zetergeschrei"],
+      "sections": {
+        "1": "Frauen oder Jungfrauen, die Notzucht vor Gericht klagen, sollen mit dem Gerüfte klagen wegen der handhaften Tat und wegen der Not, die sie dort nachweisen sollen.",
+        "2": "Wer einen Gefangenen mit Diebes- oder Raubgut vor Gericht bringt, soll mit dem Gerüfte klagen wegen der handhaften Tat, die er mit den Leuten vorbringt.",
+        "3": "Wer einen Toten vor Gericht bringt und das Verbrechen klagt, das an ihm begangen ist, soll mit dem Gerüfte klagen wegen der handhaften Tat, die dort sichtbar ist.",
+        "4": "Wer beraubt ist und weiß, wohin sein Raub gebracht ist, und will, dass der Richter dorthin folgt, der muss ihn mit dem Gerüfte dorthin rufen und mit dem Gerüfte klagen wegen der handhaften Tat, die er dort nachweisen will.",
+        "5": "Wo keine handhafte Tat vorliegt, muss man ohne Gerüfte klagen, wenn man ohne Schaden bleiben will."
+      }
+    },
+    "lr-ii-65": {
+      "title": "Strafunmündigkeit von Kindern",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein unmündiges Kind kann sein Leben nicht verwirken", "Der Vormund ersetzt Schaden und Wergeld aus dem Gut des Kindes", "Wer ein Kind tötet, zahlt volles Wergeld; Züchtigung wegen Missetat bleibt straflos"],
+      "significance": "Frühe Regelung der Strafunmündigkeit und des Züchtigungsrechts.",
+      "keywords": ["Kind", "Strafmündigkeit", "Vormund", "Wergeld", "Züchtigung"],
+      "synonyms": ["binnen sinen iaren", "Schuldunfähigkeit"],
+      "sections": {
+        "1": "Ein Kind kann in seiner Unmündigkeit nichts tun, womit es sein Leben verwirkt. Erschlägt oder lähmt es einen Mann, so soll sein Vormund das mit dem Wergeld des Verletzten bessern, wenn es gegen das Kind erwiesen wird. Welchen Schaden es anrichtet, den soll er nach dessen Wert aus dem Gut des Kindes ersetzen.",
+        "2": "Erschlägt aber ein Mann ein Kind, so soll er sein volles Wergeld geben. Schilt aber ein Mann ein Kind oder rauft es oder schlägt es mit Ruten wegen einer Missetat, so bleibt er ohne Wandel, wenn er auf die Heiligen schwört, dass er es aus keinem anderen Grund als wegen seiner Missetat geschlagen hat."
+      }
+    },
+    "lr-ii-66": {
+      "title": "Der alte Friede: geschützte Personen, Orte und Tage",
+      "metaStatus": "draft",
+      "keyPoints": ["Ständiger Friede für Priester, Geistliche, Jungfrauen, Frauen und Juden; Kirchen, Dörfer, Pflüge, Mühlen, Königsstraßen", "Festtage und gebundene Tage sind Friedenstage, dazu wöchentlich Donnerstag bis Sonntag", "Heilsgeschichtliche Begründung der vier Friedenstage"],
+      "significance": "Der Landfriede als Teil des Sachsenspiegels, mit theologischer Begründung.",
+      "keywords": ["Landfriede", "Gottesfriede", "Juden", "Frauen", "Kirche", "Sonntag"],
+      "synonyms": ["urede", "Treuga Dei", "Friedensordnung"],
+      "sections": {
+        "1": "Nun hört von dem alten Frieden, den die kaiserliche Gewalt im Land Sachsen mit Zustimmung der guten Ritter des Landes bestätigt hat. Alle Tage und alle Zeit sollen Frieden haben Priester und Geistliche, Jungfrauen und Frauen und Juden an Gut und Leib; Kirchen und Kirchhöfe und jedes Dorf innerhalb seines Grabens und Zauns, Pflüge und Mühlen und des Königs Straße zu Wasser und zu Land, die sollen beständigen Frieden haben und alles, was in sie hineinkommt.",
+        "2": "Heilige Tage und gebundene Tage sind allen Leuten als Friedenstage gesetzt, dazu in jeder Woche vier Tage: Donnerstag und Freitag, Samstag und Sonntag. Am Donnerstag weiht man das Chrisam, mit dem wir alle in der Taufe zur Christenheit gezeichnet werden. Am Donnerstag aß Gott mit seinen Jüngern das Abendmahl im Kelch, da begann unser Gesetz. Am Donnerstag führte Gott unsere Menschheit in den Himmel und öffnete uns den Weg dorthin, der uns verschlossen war. Am Freitag schuf Gott den Menschen und wurde am Freitag um des Menschen willen gemartert. Am Samstag ruhte er, als er Himmel und Erde gemacht hatte und alles, was darin war. Er ruhte auch am Samstag im Grab nach seiner Marter. Am Samstag weiht man auch die Priester zum Gottesdienst, die die Lehrer der Christenheit sind. Am Sonntag wurden wir mit Gott versöhnt wegen Adams Missetat. Der Sonntag war der erste Tag, der je wurde, und wird der letzte sein, wenn wir vom Tod auferstehen und mit Leib und Seele zu Gottes Gnade fahren, die das bei Gott verdient haben. Darum sind diese vier Tage gemeinsame Friedenstage für alle Leute, außer für die, die bei handhafter Tat gefangen werden oder in der Reichsacht sind oder im Gericht verfestet."
+      }
+    },
+    "lr-ii-67": {
+      "title": "Gefolge des Beklagten vor Gericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer wegen eines Verbrechens beklagt ist, darf höchstens dreißig Mann mitbringen", "Diese dürfen keine Waffen außer Schwertern tragen"],
+      "significance": "Schutz des Gerichtsfriedens vor bewaffnetem Druck.",
+      "keywords": ["Gerichtsfriede", "Gefolge", "Waffen", "Schwert"],
+      "synonyms": ["Dingfriede"],
+      "sections": {
+        "1": "Wer wegen eines Verbrechens beklagt wird, darf nicht mehr als dreißig Mann vor Gericht mitbringen, wenn er erscheint; diese sollen keinerlei Waffen außer Schwertern tragen."
+      }
+    },
+    "lr-ii-68": {
+      "title": "Futter für das ermüdete Pferd",
+      "metaStatus": "draft",
+      "keyPoints": ["Ermüdet einem Reisenden das Pferd, darf er Korn schneiden, so weit er vom Weg aus mit einem Fuß reicht", "Er darf es aber nicht wegführen"],
+      "significance": "Notrecht des Reisenden.",
+      "keywords": ["Reisender", "Pferd", "Korn", "Notrecht", "Weg"],
+      "synonyms": ["wechuerdich", "Mundraub"],
+      "sections": {
+        "1": "Ermüdet einem Reisenden sein Pferd, so darf er Korn schneiden und ihm geben, so weit er es erreichen kann, während er mit einem Fuß auf dem Weg steht; er soll es aber nicht wegführen."
+      }
+    },
+    "lr-ii-69": {
+      "title": "Tötung eines Friedensbrechers",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer einen Friedensbrecher tötet oder verwundet, bleibt straflos,", "wenn er selbsiebt bezeugt, dass es auf der Flucht oder bei der Tat geschah"],
+      "significance": "Recht zur Gegenwehr gegen den Friedensbrecher.",
+      "keywords": ["Friedensbruch", "Tötung", "Notwehr", "Zeugen", "Flucht"],
+      "synonyms": ["vredebrekere", "Nothilfe"],
+      "sections": {
+        "1": "Wer einen Friedensbrecher tötet oder verwundet, bleibt ohne Wandel, wenn er selbsiebt bezeugen kann, dass er ihn auf der Flucht oder bei der Tat verwundete, als er den Frieden brach."
+      }
+    },
+    "lr-ii-70": {
+      "title": "Kein Ausweisen aus der Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Niemand wird aus Gut gewiesen, das er in Gewere hat,", "es sei denn, die Gewere wird ihm mit Recht abgewonnen"],
+      "significance": "Bekräftigung des Besitzschutzes (vgl. LR II 24).",
+      "keywords": ["Gewere", "Besitzschutz", "Urteil"],
+      "synonyms": ["were", "Besitz"],
+      "sections": {
+        "1": "Man soll niemanden aus seinem Gut weisen, das er in Gewere hat, es sei denn, die Gewere wird ihm mit Recht abgewonnen."
+      }
+    },
+    "lr-ii-71": {
+      "title": "Waffenverbot und Gerüftefolge",
+      "metaStatus": "draft",
+      "keyPoints": ["Im beschworenen Frieden keine Waffen außer im Reichsdienst und beim Turnier; Schwerter nicht in Burgen, Städten und Dörfern", "Dem Gerüfte müssen alle Mündigen bewaffnet folgen (außer Priester, Frauen, Küster, Hirten)", "Verfolgung bis zur Burg oder ins Dorf; Auslieferung mit Bürgschaft"],
+      "significance": "Friedenswahrung durch Waffenverbot und allgemeine Folgepflicht.",
+      "keywords": ["Waffen", "Gerüfte", "Folgepflicht", "Burg", "Turnier", "Landfriede"],
+      "synonyms": ["Nacheile", "ruchte uolghen", "Waffenverbot"],
+      "sections": {
+        "1": "Wer den Frieden bricht, über den soll man richten, wie hier vorher gesagt ist.",
+        "2": "Innerhalb eines beschworenen Friedens soll man keine Waffen führen außer im Dienst des Reiches und zum Turnier, ausgenommen Schwerter. Über alle, die andere Waffen führen, soll man richten, denn sie sind in der Reichsacht, wenn sie damit gefangen werden. Schwerter darf man auch nicht in Burgen, Städten oder Dörfern tragen, alle, die dort wohnen oder Herberge haben.",
+        "3": "Waffen darf man auch führen, wenn man dem Gerüfte folgt; dem sollen von Rechts wegen alle folgen, die mündig sind, sofern sie Schwerter führen können, es sei denn, echte Not hindert sie, ausgenommen Priester, Frauen, Küster und Hirten.",
+        "4": "Folgen sie bis vor eine Burg, so sollen sie drei Tage dort bleiben, jeder mit eigener Speise, innerhalb des Gerichts, solange derjenige vorangeht oder reitet, der das Gerüfte erhoben hat. Ist dieser aber so verwundet, dass er nicht folgen kann, so sollen die Leute pflichtgemäß folgen, solange sie den sehen, der den Frieden gebrochen hat; flieht er dann in ein anderes Gericht und können sie ihn auf freiem Feld fangen, wohin das Volk des Landes nicht kommt, so führen sie ihn zurück.",
+        "5": "Flieht er aber in ein Dorf, eine Stadt oder eine Burg, so soll man das Gerüfte erneuern und den Bauermeister, die Bauern und die guten Ritter dazu rufen, die man zu dieser Zeit haben kann, und den Täter zu rechtem Gericht herausverlangen. Den soll man ausliefern, wenn er bei handhafter Tat festgehalten ist, sofern sie mit sieben Männern bezeugen können, dass sie ihm in handhafter Tat aus ihrem Gericht dorthin gefolgt sind; dann sollen sie Bürgen für das Wergeld des Mannes stellen, falls sie nicht nach Recht über ihn richten; so führen sie ihn zurück und verfahren mit ihm nach Recht."
+      }
+    },
+    "lr-ii-72": {
+      "title": "Burgen als Zuflucht von Friedensbrechern",
+      "metaStatus": "draft",
+      "keyPoints": ["Hält eine Burg den Friedensbrecher fest und gibt ihn nicht heraus, wird die Burg mit allen Insassen verfestet", "Der Burgherr muss Beschuldigte vorführen oder selbst haften", "Kehren Räuber binnen Tag und Nacht nicht zur Burg zurück, ist die Burg unschuldig"],
+      "significance": "Bekämpfung des Raubrittertums durch Haftung der Burgen.",
+      "keywords": ["Burg", "Friedensbrecher", "Verfestung", "Burgherr", "Raub"],
+      "synonyms": ["borch", "Raubritter", "Burgenhaftung"],
+      "sections": {
+        "1": "Wird auf einer Burg der Friedensbrecher gegen das Recht festgehalten, wenn der Richter mit dem Gerüfte davor gerufen wird und man ihn nach Recht herausverlangt, so dass man es auf der Burg hören kann, und geben sie ihn nicht zu Recht heraus, so verfestet man die Burg und alle, die darauf sind. Lässt man aber sechs Boten des Richters und den Kläger hinauf, die den Friedensbrecher und den Raub suchen, so soll man sie nicht verfesten.",
+        "2": "Beschuldigt man die Burg wegen des Raubes, dass er von dort aus und dort hinauf geschehen sei, so kann der Burgherr oder einer seiner Burgmannen die Burg mit Eid auf die Heiligen davon reinigen. Wer selbst des Verbrechens beklagt wird, kann die Burg nicht entlasten, bevor er sich nicht selbst gereinigt hat. Will man aber die Burg mit Kampf überführen, so darf der Herr oder einer seiner Burgmannen gegen seinen Standesgenossen eintreten, sonst verfestet man sie und richtet darüber.",
+        "3": "Wen man beschuldigt, dass er von einer Burg aus geraubt habe, den muss der Burgherr vorführen, damit er Buße leistet oder die Burg entlastet; tut er das nicht, so muss er selbst dafür antworten.",
+        "4": "Klagt aber ein Mann gegen eine Burg, er sei von dort aus beraubt worden, und weiß er nicht, wer es getan hat, so soll der Burgherr binnen sechs Wochen vom Tag der Klage an dafür antworten, indem er die Burg mit seinem Eid entlastet oder den Schaden nach Recht ohne Buße ersetzt, wenn er an Rat und Tat unschuldig ist.",
+        "5": "Reiten Leute von einer Burg aus und richten Schaden an, und kommen sie nicht binnen Tag und Nacht wieder hinauf und kommt der Raub nicht hinauf oder davor in Verwahrung, so ist die Burg an der Tat unschuldig. Kommen aber die Räuber hinauf und der Raub hinauf oder davor, so ist die Burg der Tat schuldig."
+      }
+    }
+  }
+}

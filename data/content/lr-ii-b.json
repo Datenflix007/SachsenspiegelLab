@@ -1,0 +1,324 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR II 25–48. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-ii-25": {
+      "title": "Räuberische Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Bei Klage um geraubten Besitz mit handhafter Tat folgt der Richter sofort mit dem Gerüfte", "Er richtet über Räuber und Helfer und setzt den Kläger wieder ein", "Versagt der Richter, richtet der König, sobald er in Sachsen ist"],
+      "significance": "Sofortiger Rechtsschutz gegen gewaltsame Besitzentziehung.",
+      "keywords": ["Raub", "Gewere", "handhafte Tat", "Gerüfte", "Richter", "König"],
+      "synonyms": ["roflike were", "Besitzentziehung", "Spolium"],
+      "sections": {
+        "1": "Wird ein Mann wegen räuberischer Gewere verklagt, bei der man die handhafte Tat nachweisen kann, und wird der Richter mit dem Gerüfte dazu gerufen, so soll er sofort folgen und dem Kläger wegen des Raubes Recht schaffen, zuerst über den Räuber und seine unrechten Helfer. Danach soll er den Kläger wieder in seine Gewere einsetzen, sofern derjenige, gegen den die Klage geht, dem nicht mit Recht widerspricht.",
+        "2": "Wo ihm der Richter kein Recht schafft oder es nicht vollständig kann, dort soll ihm der König Recht schaffen, sobald er auf sächsisches Gebiet kommt, sofern man für die Klage Zeugen hat."
+      }
+    },
+    "lr-ii-26": {
+      "title": "Münzrecht und Falschgeld",
+      "metaStatus": "draft",
+      "keyPoints": ["Neue Münze, wenn ein neuer Herr kommt", "Falschmünzer verlieren den Hals; wer mit Falschgeld angetroffen wird, je nach Menge Hand oder Geld", "Markt und Münze nur mit Willen des Richters und Zeichen des Königs"],
+      "significance": "Münz- und Marktrecht als königlich abgeleitete Rechte.",
+      "keywords": ["Münze", "Falschgeld", "Münzmeister", "Markt", "König", "Pfennig"],
+      "synonyms": ["penninghe", "muntere", "Münzregal", "Marktrecht"],
+      "sections": {
+        "1": "Pfennige soll man erneuern, wenn ein neuer Herr kommt.",
+        "2": "Gibt der Münzmeister einen falschen Pfennig aus, um damit zu kaufen, so geht es ihm an den Hals. Wer sein Recht durch Diebstahl oder Raub verwirkt hat und bei dem man fünfzehn falsche Pfennige findet, dem geht es an die Hand, es sei denn, er hat dafür einen Gewährsmann. Wer an seinem Recht vollkommen ist und bei dem man einen Schilling falscher Pfennige findet, der hat die Pfennige verloren und nichts weiter. Hat er aber mehr davon, so geht es ihm an die Hand, es sei denn, er hat dafür einen Gewährsmann.",
+        "3": "Fälscht der Münzmeister seine Pfennige und hält sie nicht nach ihrem Recht, so kann er solange niemanden der Fälschung bezichtigen, der dafür Wandel leisten müsste. Pfennige soll der Münzmeister von gleichem Gewicht, gleich schwer und gleich weiß machen.",
+        "4": "Niemand darf Markt oder Münze haben ohne den Willen des Richters, in dessen Gericht es liegt. Auch soll der König von Rechts wegen seinen Handschuh dorthin senden, um zu zeigen, dass es sein Wille ist.",
+        "5": "Niemand darf Pfennige schlagen, die anderen Pfennigen gleichen, wenn sie sich nicht besonders unterscheiden.",
+        "6": "Wenn man die Pfennige verruft, darf man noch vierzehn Nächte danach mit diesen Pfennigen zahlen und Pfänder lösen. Wer nach dieser Frist damit kauft, dem darf der Münzmeister sie zerbrechen, muss sie ihm aber zurückgeben."
+      }
+    },
+    "lr-ii-27": {
+      "title": "Zoll und Geleit",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Brücken- oder Wasserzoll hinterzieht, zahlt vierfach; Marktzoll-Hinterziehung kostet dreißig Schillinge", "Priester, Ritter und ihr Gesinde sind zollfrei; wer weder Schiff noch Brücke braucht, ebenso", "Wer Geleit gibt, haftet für Schaden im Geleit; Flurschaden durch unrechte Wege"],
+      "significance": "Verkehrs- und Abgabenrecht mit Haftung des Geleitsherrn.",
+      "keywords": ["Zoll", "Geleit", "Brücke", "Markt", "Wagen", "Flurschaden"],
+      "synonyms": ["tolne", "leyde", "Wegerecht"],
+      "sections": {
+        "1": "Wer Brückenzoll oder Wasserzoll hinterzieht, soll ihn vierfach zahlen. Wer Marktzoll hinterzieht, soll dreißig Schillinge geben. Vier Fußgänger geben einen Pfennig, ein Reiter einen halben, ein beladener Wagen vier, hin und zurück; das gibt man als Wasserzoll, als Brückenzoll die Hälfte.",
+        "2": "Priester, Ritter und ihr Gesinde sollen zollfrei sein. Auch jeder andere soll zollfrei sein, ob er fährt, reitet oder geht, wenn er kein Schiff und keine Brücke braucht, und von Rechts wegen ist er geleitfrei, wo er sein Gut oder Leben wagen will. Wer aber Geleit gibt, soll den Schaden innerhalb seines Geleits verhüten oder ersetzen.",
+        "3": "Ein leerer Wagen gibt halben Zoll gegenüber einem beladenen, ein halb beladener die Hälfte.",
+        "4": "Wer einen unrechten Weg über bebautes Land schlägt, gibt für jedes Rad einen Pfennig, ein Reiter einen halben, und sie sollen den Schaden ersetzen, wenn Saat darauf steht; dafür darf man sie pfänden. Wehren sie sich gegen das Pfand zu Unrecht, so hält man sie mit dem Gerüfte fest; dann müssen sie das Gerüfte mit drei Schillingen bessern und dennoch das Pfandrecht erfüllen."
+      }
+    },
+    "lr-ii-28": {
+      "title": "Holz, Gras und Fischerei",
+      "metaStatus": "draft",
+      "keyPoints": ["Holz, Gras oder Fische aus fremdem Wildwasser: drei Schillinge und Schadensersatz", "Gepflanzte Bäume, Teiche, Grenzbäume und Marksteine: dreißig Schillinge", "Nächtlicher Diebstahl von Gras oder Holz: Strang; Fließgewässer sind gemeinsam"],
+      "significance": "Schutz der Nutzungsrechte an Wald, Wiese und Wasser.",
+      "keywords": ["Holz", "Fischerei", "Grenzstein", "Wasser", "Diebstahl", "Pfändung"],
+      "synonyms": ["Waldfrevel", "marcsten", "Allmende"],
+      "sections": {
+        "1": "Wer in fremdem Wildwasser Holz haut, Gras schneidet oder fischt, dessen Wandel sind drei Schillinge; den Schaden ersetzt er nach Recht.",
+        "2": "Fischt er aber in Teichen oder haut er gepflanztes Holz oder fruchttragende Bäume, bricht er Obst, haut er Grenzbäume oder gräbt er Steine aus, die als Marksteine gesetzt sind, so muss er dreißig Schillinge geben. Findet man ihn auf frischer Tat, so darf man ihn ohne Erlaubnis des Richters wegen des Schadens pfänden oder festhalten.",
+        "3": "Wer nachts gemähtes Gras oder geschlagenes Holz stiehlt, den soll man mit dem Strang richten.",
+        "4": "Stiehlt er es bei Tag, so geht es ihm an Haut und Haar. Jedes Wasser, das in einem Strom fließt, ist gemeinsam zum Befahren und Fischen. Der Fischer darf auch das Ufer nutzen, so weit er mit einem Schritt aus dem Kahn an die rechte Stelle reicht."
+      }
+    },
+    "lr-ii-29": {
+      "title": "Angeschwemmte Habe",
+      "metaStatus": "draft",
+      "keyPoints": ["Treibgut ist dem Eigentümer gegen Kostenerstattung zurückzugeben", "Der Finder muss es sechs Wochen aufbieten und verwahren", "Wer es verheimlicht, gilt als Dieb"],
+      "significance": "Fundrecht mit Anzeigepflicht.",
+      "keywords": ["Fund", "Treibgut", "Wasser", "Aufgebot", "Diebstahl"],
+      "synonyms": ["Strandrecht", "Fundsache"],
+      "sections": {
+        "1": "Treibt eines anderen Mannes fahrende Habe im Wasser zu jemandem, so soll er sie jenem zurückgeben, sofern dieser sein Recht daran nachweist, wie es Recht ist, und ihm seine Kosten nach Schätzung guter Leute ersetzt. Er soll sie auch aufbieten und sechs Wochen unverbraucht aufbewahren. Fragt jemand danach, so soll er es bekennen. Leugnet er es, wenn man danach fragt, so gilt es als Diebesgut, wenn man es später bei ihm findet, und er muss es mit Buße und Gewette zurückgeben, weil er es diebisch behalten hat. Einen Diebstahl, der ihm an Leib, Ehre oder Gesundheit ginge, hat er aber nicht begangen, weil er es nicht diebisch und nicht räuberisch aus der Gewere des Mannes gebracht hat."
+      }
+    },
+    "lr-ii-30": {
+      "title": "Erbanspruch aus Gelöbnis",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Erbe nicht aus Verwandtschaft, sondern aus Gelöbnis beansprucht, hat Unrecht", "Es sei denn, das Gelöbnis wurde vor Gericht bestätigt"],
+      "significance": "Erbrecht folgt der Verwandtschaft; vertragliche Erbeinsetzung nur gerichtlich.",
+      "keywords": ["Erbe", "Gelöbnis", "Erbvertrag", "Verwandtschaft", "Gericht"],
+      "synonyms": ["Erbeinsetzung", "louede"],
+      "sections": {
+        "1": "Wer Erbe nicht aufgrund der Verwandtschaft, sondern aufgrund eines Gelöbnisses für sich beansprucht, dem hält man das für Unrecht, es sei denn, man kann bezeugen, dass das Gelöbnis vor Gericht bestätigt wurde."
+      }
+    },
+    "lr-ii-31": {
+      "title": "Hingerichtete, Selbstmörder, Haftung für fremdes Gut",
+      "metaStatus": "draft",
+      "keyPoints": ["Das Erbe eines Hingerichteten nimmt sein nächster Verwandter", "Auch der Nachlass eines Selbstmörders fällt an die Erben; gefundenes Diebesgut verwahrt der Richter", "Niemand verwirkt fremdes Gut, das er in Händen hat"],
+      "significance": "Keine Vermögenskonfiskation als Strafe.",
+      "keywords": ["Hinrichtung", "Selbstmord", "Erbe", "Diebesgut", "Richter"],
+      "synonyms": ["Konfiskation", "gedelinc"],
+      "sections": {
+        "1": "Wer von Gerichts wegen sein Leben verliert, dessen Erbe nimmt sein nächster Verwandter.",
+        "2": "Wer sich selbst das Leben nimmt, dessen Gut nehmen seine Erben. Diebes- oder Raubgut, das man bei ihm findet, soll der Richter Jahr und Tag aufbewahren; beansprucht es in dieser Zeit niemand nach Recht, so wendet der Richter es zu seinem Nutzen.",
+        "3": "Niemand kann fremdes Gut verwirken, das er in Händen hat, auch wenn er sein Leben verwirkt."
+      }
+    },
+    "lr-ii-32": {
+      "title": "Haftung für den Knecht; Dienstende",
+      "metaStatus": "draft",
+      "keyPoints": ["Für seinen Knecht haftet der Herr nur bis zur Höhe des Lohns, außer er hat gebürgt", "Wer den Knecht vertreibt, zahlt vollen Lohn", "Wer mutwillig entläuft, zahlt die Lohnsumme und erhaltenen Lohn doppelt zurück"],
+      "significance": "Frühes Gesinderecht mit beiderseitigen Pflichten.",
+      "keywords": ["Knecht", "Lohn", "Dienst", "Haftung", "Kündigung"],
+      "synonyms": ["Gesinde", "Ion", "Dienstvertrag"],
+      "sections": {
+        "1": "Niemand ist verpflichtet, für seinen Knecht weiter zu haften, als dessen Lohn reicht, es sei denn, er ist sein Bürge geworden.",
+        "2": "Vertreibt aber der Herr den Knecht, so soll er ihm vollen Lohn geben.",
+        "3": "Entläuft der Knecht dem Herrn aus Mutwillen, so soll er dem Herrn so viel geben, wie ihm der Herr versprochen hatte; und was ihm schon bezahlt ist, soll er doppelt zurückgeben."
+      }
+    },
+    "lr-ii-33": {
+      "title": "Dienstende bei Heirat oder Vormundschaft",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Knecht darf den Dienst verlassen, wenn er heiratet oder ihm eine Vormundschaft anfällt", "Er behält den bis dahin verdienten Lohn und gibt Überzahltes zurück"],
+      "significance": "Familienpflichten gehen dem Dienstverhältnis vor.",
+      "keywords": ["Knecht", "Heirat", "Vormundschaft", "Lohn", "Dienst"],
+      "synonyms": ["Gesinde", "Kündigungsgrund"],
+      "sections": {
+        "1": "Nimmt ein Knecht eine Ehefrau oder fällt ihm die Vormundschaft über unmündige Kinder an, so darf er aus dem Dienst seines Herrn ausscheiden und behält so viel Lohn, wie ihm bis dahin zusteht. Ist ihm aber mehr gegeben worden, so soll er es ohne Wandel zurückgeben."
+      }
+    },
+    "lr-ii-34": {
+      "title": "Gewalt gegen fremde Knechte; Gefangene",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer eines anderen Knecht wegen des Herrn schlägt, fängt oder beraubt, büßt beiden", "Er kann sich von der Buße an den Herrn freischwören, wenn er nicht zur Schmach handelte", "Wer einen Gefangenen hält, haftet gegenüber Herrn, Verwandten und Frau"],
+      "significance": "Verletzung des Knechts als Ehrverletzung des Herrn.",
+      "keywords": ["Knecht", "Herr", "Buße", "Schmach", "Gefangennahme"],
+      "synonyms": ["laster", "Ehrverletzung"],
+      "sections": {
+        "1": "Wer eines anderen Knecht schlägt, fängt oder beraubt, nur wegen der Schuld des Herrn, der soll nach Recht beiden Buße leisten, es sei denn, er wagt auf die Heiligen zu schwören, dass er es dem Herrn weder zur Schmach noch zum Schaden getan hat; dann ist er von der einen Buße frei. „Zur Schmach“ sage ich, wenn er ihn wegen der Schuld des Herrn schlägt und nicht wegen der des Knechtes oder wegen beider. „Zum Schaden“ sage ich, wenn er ihn so geschlagen hat, dass sein Herr an seinem Dienst gehindert ist; das soll er dem Herrn bessern, so wie es der Knecht müsste, wenn er unrechtmäßig aus dem Dienst des Herrn gegangen wäre, und mit Buße, es sei denn, er befreit sich von Schmach und Schaden mit Eid auf die Heiligen gegenüber dem Herrn des Knechts, den er geschlagen oder gefangen hat.",
+        "2": "Wer einen Mann gefangen hat, muss jedem seiner Herren, jedem seiner Verwandten und seiner Frau Rede und Antwort stehen, wenn er deswegen beschuldigt wird, solange er ihn in Haft hat."
+      }
+    },
+    "lr-ii-35": {
+      "title": "Begriff der handhaften Tat",
+      "metaStatus": "draft",
+      "keyPoints": ["Handhafte Tat: Ergreifen bei der Tat oder auf der Flucht", "oder wenn Diebes- oder Raubgut in eigener verschlossener Gewere gefunden wird"],
+      "significance": "Legaldefinition mit großer Bedeutung für Verfahren und Strafe.",
+      "keywords": ["handhafte Tat", "frische Tat", "Flucht", "Diebesgut", "Schlüssel"],
+      "synonyms": ["hanthafte dat", "auf frischer Tat"],
+      "sections": {
+        "1": "Handhafte Tat liegt vor, wenn man einen Mann bei der Tat oder auf der Flucht von der Tat ergreift, oder wenn er Diebes- oder Raubgut in seiner Gewere hat, zu der er selbst den Schlüssel trägt."
+      }
+    },
+    "lr-ii-36": {
+      "title": "Anefang: Verfolgung gestohlener Sachen",
+      "metaStatus": "draft",
+      "keyPoints": ["Öffentlich und mit Zeugen gekauftes Gut begründet keine handhafte Tat", "Der Besitzer kann Eigenerzeugung beweisen oder sich auf Kauf auf offenem Markt oder einen Gewährsmann berufen", "Zug auf den Gewährsmann bis zum Erzeuger; Verfahren mit Fristen und Bußen"],
+      "significance": "Ausführliche Regelung des Anefangsverfahrens bei Fahrnis.",
+      "keywords": ["Anefang", "Diebesgut", "Kauf", "Markt", "Gewährsmann", "Beweis"],
+      "synonyms": ["aneuan", "Gewährenzug", "Vindikation"],
+      "sections": {
+        "1": "Wer am nächsten Tag sein Diebes- oder Raubgut bei einem Mann findet, der es öffentlich gekauft, nicht heimlich verwahrt und dafür Zeugen hat, den kann man keiner handhaften Tat beschuldigen, auch wenn man das Gut bei ihm findet, es sei denn, er hat vorher sein Recht verloren; denn mit Erlaubnis des Richters darf er sein Gut mit Recht anfassen.",
+        "2": "Will jener ihm sein Gut aber verweigern, bevor es vor Gericht kommt, so bitte er ihn, mit ihm vor Gericht zu gehen; verweigert er das, so beschreie er ihn mit dem Gerüfte und ergreife ihn als seinen Dieb, als wäre die Tat handhaft, denn jener hat sich durch die Flucht schuldig gemacht. Kommt jener aber freiwillig vor Gericht, so soll er sich seines Gutes nach Recht bemächtigen.",
+        "3": "Sagt aber jener dagegen, wenn es Tuch ist, er habe es weben lassen, oder wenn es ein Pferd oder Vieh ist, er habe es in seinem Stall aufgezogen, so kann er es mit besserem Recht behalten – derjenige, der es in Gewere hat –, wenn er das selbdritt mit seinen Nachbarn bezeugen kann, als der, der es angefasst hat.",
+        "4": "Sagt aber jener, er habe es auf einem offenen Markt gekauft und wisse nicht, von wem, so ist er des Diebstahls unschuldig, sofern er den Ort nachweist und seinen Eid dazu leistet. Sein Geld, das er dafür gab, verliert er aber, und der andere behält sein Gut, das ihm gestohlen war, wenn er selbdritt mit an ihrem Recht vollkommenen Leuten, die wissen, dass es ihm diebisch oder räuberisch abhandengekommen ist, darauf auf die Heiligen schwört.",
+        "5": "Sagt aber jener, es sei ihm geschenkt worden oder er habe es gekauft, so muss er seinen Gewährsmann benennen, von dem er es gekauft hat, und den Ort, an dem er es kaufte; er muss aber schwören, dass er es zu rechtem Zeugnis ziehe. Dann muss ihm der andere binnen vierzehn Nächten folgen, wohin er zieht, außer über schiffbares Wasser. Wird ihm die Gewähr geleistet, wie es Recht ist, so muss der Gewährsmann an seiner Stelle für das Gut antworten. Fehlt ihm aber der Gewährsmann, so muss er das Gut mit Gewette und Buße herausgeben, und zeiht man ihn deshalb des Diebstahls oder Raubes, so muss er sich nach Recht davon reinigen. Verliert es auch derjenige, der es angefasst hat, so muss er es mit Buße und Gewette lassen.",
+        "6": "Man darf sich wohl auf mehrere Gewährsleute berufen, einen nach dem anderen, so lange, bis man zu dem kommt, der es in seinem Stall aufgezogen hat, wenn es Vieh ist, oder der es selbst aufgezogen oder gewebt hat, wenn es Tuch ist.",
+        "7": "Selbdritt soll sich derjenige darauf berufen, der es angefasst hat, wenn ihm der Gewährsmann ausfällt.",
+        "8": "Bei wem das Gut angefasst wird, der soll es in seiner Gewere behalten, bis es ihm mit Recht abgewonnen wird. Was jemand findet und leugnet, wenn man danach fragt, das gilt als Diebesgut."
+      }
+    },
+    "lr-ii-37": {
+      "title": "Fundsachen und Beute von Dieben",
+      "metaStatus": "draft",
+      "keyPoints": ["Gefundenes oder Dieben abgejagtes Gut ist vor Nachbarn und in der Kirche aufzubieten", "Der Eigentümer erhält es binnen sechs Wochen gegen Kostenersatz; Fremde lassen ein Drittel", "Meldet sich niemand, erhält der Richter zwei Drittel, der Finder ein Drittel"],
+      "significance": "Fundrecht mit Finderlohn.",
+      "keywords": ["Fund", "Aufgebot", "Kirche", "Finderlohn", "Richter"],
+      "synonyms": ["Fundsache", "upbeden"],
+      "sections": {
+        "1": "Was jemand findet oder Dieben oder Räubern abjagt, das soll er vor seinen Nachbarn und in der Kirche aufbieten. Kommt binnen sechs Wochen der, dem es gehört, so soll er sein Recht daran selbdritt nachweisen und die Kosten ersetzen, die jener damit hatte, wenn es ein Pferd oder Vieh ist.",
+        "2": "Ist aber derjenige, dem das Gut gehört, aus einem anderen Gerichtsbezirk, so behält der den dritten Teil, der es den Dieben oder Räubern abgejagt hat.",
+        "3": "Kommt aber binnen sechs Wochen niemand, der sein Recht daran nachweist, so nimmt der Richter zwei Teile, und jener behält den dritten Teil."
+      }
+    },
+    "lr-ii-38": {
+      "title": "Fahrlässiger Schaden",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer durch Unachtsamkeit Schaden verursacht (Feuer, ungesicherte Brunnen, Fehlschuss), ersetzt ihn", "Keine Leibes- oder Lebensstrafe, auch bei Tod – nur Wergeld"],
+      "significance": "Unterscheidung von Vorsatz und Fahrlässigkeit im Haftungsrecht.",
+      "keywords": ["Fahrlässigkeit", "Schaden", "Feuer", "Brunnen", "Jagd", "Wergeld"],
+      "synonyms": ["warlose", "Unachtsamkeit", "Haftung"],
+      "sections": {
+        "1": "Der Mann ersetzt den Schaden, der anderen Leuten durch seine Unachtsamkeit entsteht, sei es durch Brand oder durch Brunnen, die er nicht kniehoch über der Erde eingefasst hat, oder wenn er einen Menschen oder ein Tier anschießt oder bewirft, während er auf einen Vogel zielt. Deswegen spricht man ihm weder Leben noch Gesundheit ab, auch wenn der Mensch stirbt; er muss ihn aber mit seinem Wergeld bezahlen."
+      }
+    },
+    "lr-ii-39": {
+      "title": "Korndiebstahl und Flurschaden",
+      "metaStatus": "draft",
+      "keyPoints": ["Nächtlicher Korndiebstahl: Galgen; bei Tag: Hals", "Wer als Reisender Korn auf dem Feld füttert, ersetzt den Schaden"],
+      "significance": "Schutz der Ernte mit harten Strafen.",
+      "keywords": ["Korn", "Diebstahl", "Galgen", "Reisender", "Flurschaden"],
+      "synonyms": ["Feldfrevel", "corn"],
+      "sections": {
+        "1": "Wer nachts Korn stiehlt, verdient den Galgen. Stiehlt er es bei Tag, so geht es ihm an den Hals.",
+        "2": "Welcher Reisende Korn auf dem Feld verfüttert und es nirgends wegführt, der ersetze den Schaden nach dessen Wert."
+      }
+    },
+    "lr-ii-40": {
+      "title": "Tierhalterhaftung",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Herr haftet für Schaden durch Hund, Eber, Ochse oder anderes Vieh, wenn er es wieder aufnimmt", "Nimmt er es nicht auf, kann der Geschädigte das Tier nehmen", "Tiere verwirken kein Gewette; Haftung bei Hütung durch Knechte"],
+      "significance": "Noxalhaftung: Ersatz oder Preisgabe des Tieres.",
+      "keywords": ["Tierhalter", "Hund", "Vieh", "Schaden", "Wergeld", "Pfändung"],
+      "synonyms": ["Noxalhaftung", "ue"],
+      "sections": {
+        "1": "Tötet oder verletzt jemandes Hund, Eber, Ochse oder Vieh welcher Art auch immer einen Menschen oder ein Tier, so soll sein Herr den Schaden nach rechtem Wergeld oder nach dem Wert ersetzen, wenn er es wieder in seine Gewere nimmt, nachdem er davon erfahren hat.",
+        "2": "Treibt er es aber aus und behält es nicht, beherbergt es nicht, füttert und tränkt es nicht, so ist er am Schaden unschuldig; dann mag der Geschädigte sich des Tieres für seinen Schaden bemächtigen, wenn er will.",
+        "3": "Kein Tier verwirkt dem Richter durch seine Tat ein Gewette.",
+        "4": "Welchen Schaden aber jemandes Pferde oder Vieh unter der Hut seines Knechtes oder Gesindes anrichten, dafür soll der haften, in dessen Hut es war. Läuft dieser aber davon, und werden die Pferde oder Ochsen und der Wagen des Mannes bei handhafter Tat festgehalten und kann man das bezeugen, so muss der Mann, dem Vieh und Wagen gehören, den Schaden ersetzen, wenn er sich nicht davon reinigen kann, bis zur Höhe des Wertes von Wagen und Pferden oder des anderen festgehaltenen Viehs, oder er muss darauf verzichten; dann behält es der Geschädigte für seinen Schaden.",
+        "5": "Fressen aber Schweine oder Gänse, die man nicht pfänden kann, das Korn oder andere Saat der Nachbarn ab und hetzt man sie dann mit Hunden, und beißen die Hunde sie tot oder verwunden sie, so bleibt man ohne Wandel."
+      }
+    },
+    "lr-ii-41": {
+      "title": "Pfändung von geringem Eigen",
+      "metaStatus": "draft",
+      "keyPoints": ["Kann der Richter sein Gewette nicht pfänden, setzt der Fronbote ein Kreuz auf das Eigen", "Löst der Eigentümer es nicht binnen Jahr und Tag, verliert er sein Recht daran", "Der Erbe kann es binnen eines weiteren Jahres gegen Zahlung der Schuld zurückholen"],
+      "significance": "Grundstücksvollstreckung mit gestaffelten Fristen.",
+      "keywords": ["Pfändung", "Eigen", "Fronbote", "Kreuz", "Jahr und Tag", "Erbe"],
+      "synonyms": ["Fronung", "beuronen", "Zwangsvollstreckung"],
+      "sections": {
+        "1": "Kann der Richter sein Gewette auf jemandes Eigen nicht auspfänden, weil es so wenig einbringt, so soll der Fronbote es mit einem Kreuz fronen, das er nach dem Urteil der Schöffen auf die Tür stecken soll.",
+        "2": "Löst es derjenige, dem es gehört, nicht binnen Jahr und Tag, so spricht man ihm sein Recht daran ab. Danach komme binnen Jahr und Tag sein Erbe vor Gericht, nehme es nach Recht mit Eid auf die Heiligen als sein Erbe in Anspruch und bezahle die Schuld, die der Richter darauf bezeugen kann und innerhalb des Dings selbdritt erstritten hat. Eine höhere Schuld als drei Gewette oder ein Wergeld kann er darauf nicht bezeugen."
+      }
+    },
+    "lr-ii-42": {
+      "title": "Streit um Lehnsgut: Gewährsherren",
+      "metaStatus": "draft",
+      "keyPoints": ["Beanspruchen zwei dasselbe Gut von verschiedenen Herren, bringt jeder seinen Herrn", "Wer gewährt wird, behält; wer bei Jahr und Tag rechter Gewere ist, verliert sie nicht durch Ausbleiben des Gegners", "Fürsten können mit besiegeltem Brief gewähren"],
+      "significance": "Verknüpfung von Landrecht und Lehnsgewähr; früher Urkundenbeweis.",
+      "keywords": ["Lehen", "Gewährsherr", "Gewere", "Brief", "Siegel", "Fürsten"],
+      "synonyms": ["were", "Urkunde", "Gewährschaft"],
+      "sections": {
+        "1": "Klagt jemand gegen einen anderen, er nehme ihm ein Gut, das jeder von beiden für sein Lehen erklärt, und schreiben sie es zwei verschiedenen Herren zu, so soll jeder seinen Herrn zum Ding bringen; wer dort Gewähr erhält, der behält es. Wessen Gewährsherr nicht kommt, der verliert die Gewere des Gutes, wenn sie beide ohne Gewähr anspruchen und im Jahr damit belehnt sind.",
+        "2": "Hat aber einer von ihnen eine rechte Gewere an dem Gut Jahr und Tag ohne rechten Widerspruch gehabt, so verliert er weder das Gut noch die Gewere daran, auch wenn sein Gewährsherr nicht zum Ding kommt und ihm die Gewährschaft versagt; er muss aber dafür dem Kläger antworten oder dem, der ihn nach seinem Recht gewährt, es sei denn, echte Not hindert ihn, die er glaubhaft macht.",
+        "3": "Doch können die Fürsten einen Mann mit einem offenen, besiegelten Brief gewähren, sofern sie ihren eingeborenen Dienstmann mitschicken, der das Gut an ihrer Stelle vertritt; den Brief soll man dem, gegen den geklagt wird, als Zeugnis der Klage übergeben, falls er ihn später braucht.",
+        "4": "Schreiben sie das Gut, um das sie streiten, beide demselben Herrn zu, so sollen sie binnen sechs Wochen vor ihn zum Recht kommen, und der Richter soll zwei Boten mitschicken, die hören, wer behält oder verliert. Wer verliert, zahlt dem Richter Gewette und jenem seine Buße."
+      }
+    },
+    "lr-ii-43": {
+      "title": "Eigen gegen Lehen; Erbeigen gegen Kaufeigen",
+      "metaStatus": "draft",
+      "keyPoints": ["Bei gleicher Gewere behält eher, wer Eigen mit zwei Schöffen bezeugt, als wer Lehen behauptet", "Ererbtes Eigen geht gekauftem oder geschenktem vor"],
+      "significance": "Rangordnung der Rechtstitel im Streit um Grundbesitz.",
+      "keywords": ["Eigen", "Lehen", "Erbe", "Kauf", "Schöffen", "Beweis"],
+      "synonyms": ["Erbeigen", "Rechtstitel"],
+      "sections": {
+        "1": "Erklärt einer ein Gut für sein Lehen und ein anderer für sein Eigen, und sprechen sie es mit gleicher Gewere an, so kann der es eher als Eigen behalten, der zwei Schöffen als Zeugen hat, als der andere als Lehen.",
+        "2": "Ererbtes Eigen kann ein Mann auch eher behalten als ein anderer gekauftes oder geschenktes Eigen."
+      }
+    },
+    "lr-ii-44": {
+      "title": "Rechte Gewere durch Jahr und Tag",
+      "metaStatus": "draft",
+      "keyPoints": ["Jahr und Tag unangefochtener Besitz begründen rechte Gewere", "Gegen rechtzeitige Klage hilft keine Gewalt", "Gutgläubiger Erwerber muss Früchte nicht herausgeben; Eigen an Lehen oder Leibzucht mit sechs Schöffenbaren beweisen"],
+      "significance": "Kernregel des sächsischen Besitzrechts.",
+      "keywords": ["Gewere", "Jahr und Tag", "Besitz", "Früchte", "Leibzucht", "Schöffenbare"],
+      "synonyms": ["rechte were", "Ersitzung", "Besitzschutz"],
+      "sections": {
+        "1": "Jeder, der ein Gut Jahr und Tag ohne rechten Widerspruch in seiner Gewere hat, hat daran eine rechte Gewere. Solange man aber gegen jemanden wegen eines Gutes nach Recht klagt, gewinnt er daran niemals eine rechte Gewere, wie lange er es auch mit Gewalt darüber hinaus hält, solange man die rechte Klage bezeugen kann.",
+        "2": "Wer aber ein Gut in Gewere hat, das ihm angefallen, geschenkt oder verliehen ist, und es niemandem selbst genommen hat, der muss nicht zurückgeben, was er daraus gezogen hat, wenn ihm das Gut abgewonnen wird, solange er kein Recht daran verweigert hat.",
+        "3": "Wer an seinem Lehen oder an der Leibzucht seiner Mutter oder Nichte ein Eigen behauptet, der muss die eigene Gewere mit sechs schöffenbaren freien Männern bezeugen, sonst fehlt es ihm daran."
+      }
+    },
+    "lr-ii-45": {
+      "title": "Dingflucht",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer in seiner Anwesenheit beschuldigt wird und flieht, ist in der Klage überwunden", "Bei Verbrechen wird er sofort verfestet"],
+      "significance": "Flucht vor Gericht als Schuldanerkenntnis.",
+      "keywords": ["Dingflucht", "Säumnis", "Verfestung", "Klage"],
+      "synonyms": ["dincvluchtich", "Flucht"],
+      "sections": {
+        "1": "Wen man in seiner Anwesenheit vor Gericht beschuldigt und wer dann vor dem Ding flieht, der ist in der Klage überwunden. Ist er wegen eines Verbrechens beschuldigt, so soll man ihn sofort verfesten."
+      }
+    },
+    "lr-ii-46": {
+      "title": "Pflügen und Säen auf fremdem Land",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer fremdes Land unwissentlich pflügt, verliert seine Arbeit, wenn der Eigentümer es behält", "Wer streitiges Land besät, verliert Arbeit und Saat; unbestrittenes behält er gegen Zins", "Wer fremdes besätes Land umpflügt, ersetzt Schaden und Buße"],
+      "significance": "Ausgleich zwischen Arbeit und Eigentum an Land.",
+      "keywords": ["Pflügen", "Saat", "Land", "Zins", "Schaden", "Klage"],
+      "synonyms": ["Ackerbau", "Bodenrecht"],
+      "sections": {
+        "1": "Wer eines anderen Mannes Land unwissentlich pflügt oder es ihm ein anderer gepflügt hat und er deshalb beschuldigt wird, während er pflügt, verliert seine Arbeit daran, wenn der andere das Land behält. Wer es ihm aber verschafft hat, der soll ihm seinen Schaden ersetzen.",
+        "2": "Wer Land sät, das in Klage steht, verliert Arbeit und Saat daran. Was er unverklagt sät, dessen Saat behält er und gibt seinen Zins dem, der das Land behält.",
+        "3": "Wer besätes Land eines anderen Mannes erneut pflügt, soll den Schaden nach Recht ersetzen und auch Buße geben."
+      }
+    },
+    "lr-ii-47": {
+      "title": "Weideschaden durch Vieh",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Vieh in fremdes Korn oder Gras treibt, ersetzt den Schaden und büßt drei Schillinge", "Gepfändetes Vieh: Schaden nach Schätzung der Bauern und sechs Pfennige", "Nicht pfändbares Vieh (wilde Pferde, Gänse, Eber): Nachweis mit zwei Zeugen"],
+      "significance": "Dörfliche Schadensregeln mit Pfändungsrecht.",
+      "keywords": ["Vieh", "Weide", "Pfändung", "Schaden", "Bauern", "Mark"],
+      "synonyms": ["Flurschaden", "Weiderecht"],
+      "sections": {
+        "1": "Wer sein Vieh auf eines anderen Mannes Korn oder Gras treibt, soll ihm den Schaden nach Recht ersetzen und mit drei Schillingen büßen.",
+        "2": "Ist er aber nicht anwesend, wo das Vieh Schaden angerichtet hat, und wird es gepfändet, so sollen den Schaden die ersetzen, denen das Vieh gehört, wenn man ihn sofort nachweist, nach Schätzung der Bauern, und sechs Pfennige gibt jener als Buße für sein Vieh.",
+        "3": "Ist das Vieh aber so beschaffen, dass man es nicht eintreiben kann, wie Pferde, die wild sind, oder Gänse oder Eber, so lade er zwei Männer hinzu und zeige ihnen den Schaden, folge dem Vieh ins Haus seines Herrn und beschuldige ihn dort deswegen; dann muss dieser für das Vieh bessern, als wäre es gepfändet worden.",
+        "4": "Wer sein Vieh in eine andere Mark auf eine gemeinsame Weide treibt und gepfändet wird, gibt sechs Pfennige.",
+        "5": "Wer über unbebautes Land fährt, das nicht eine eingehegte Wiese ist, bleibt ohne Wandel."
+      }
+    },
+    "lr-ii-48": {
+      "title": "Hirtenhaftung und Zehnt",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Hirte ersetzt, was in seiner Hut verloren geht", "Zehnt von Feldfrüchten und Jungvieh: Ort, Zeitpunkt, Garbenmaß", "Ablösung des Viehzehnten in Pfennigen; Wahlrecht des Eigentümers"],
+      "significance": "Detaillierte Regelung des kirchlichen Zehnten im Dorf.",
+      "keywords": ["Hirte", "Zehnt", "Korn", "Vieh", "Garbe", "Martinstag"],
+      "synonyms": ["tegheden", "teghedere", "Kirchensteuer"],
+      "sections": {
+        "1": "Was der Hirte in seiner Hut verliert, das soll er ersetzen.",
+        "2": "Lässt ein Mann sein Korn draußen stehen, wenn alle Leute ihr Korn eingebracht haben, und wird es zertreten oder abgefressen, so ersetzt man es ihm nicht.",
+        "3": "Dasselbe gilt für den Zehnten, wenn der Zehntherr ihn nicht nehmen will oder wenn der Mann, der ihn geben soll, ihn auf dem Feld stehen lässt und ihn seinen Nachbarn zeigt.",
+        "4": "Bei jedem Vieh, wenn es seine Jungen wirft, soll man den Zehnten dort geben, wo es abends zur Herberge kommt. Die Saat verzehntet man auf dem Feld, das Vieh im Dorf, im Haus jedes Mannes, wo das Vieh geworfen wird.",
+        "5": "Von jedem Vieh gibt man Zehnt außer von Hühnern. Jeden Hof, jede Hofstätte und jedes Haus verzehntet man mit einem Huhn am Martinstag.",
+        "6": "Wo man den rechten Zehnten auf dem Feld gibt, soll man die Zehntstiege gleich gut wie die anderen geben, oder die Zehntgarben.",
+        "7": "Wenn ein Mann sein Korn einfahren will, soll er es dem Zehntherrn ankündigen, ob dieser im Dorf oder auf dem Feld ist. Wartet dieser dann nicht auf seinen Zehnten, so verzehnte der Mann selbst, wobei er seinen Eid wahrt, wenn man ihn von ihm haben will, zeige ihn zwei Nachbarn und lasse ihn draußen stehen; dann bleibt er ohne Schaden, wenn er später verdirbt oder verloren geht.",
+        "8": "Mancherorts gibt man bestimmte Stiegen als Zehnt für die Höfe und ein Lamm von der Schafherde, die zu einem Hof gehört.",
+        "9": "Wo man Kornzehnt gibt, soll das Seil, mit dem die Garbe gebunden ist, eine Daumelle lang zwischen den zwei Knoten sein, wenn das Seil beim Winterkorn ausgestreckt ist.",
+        "10": "Wer den Zehnten nach rechter Gewohnheit gibt, der hat ihn richtig gegeben.",
+        "11": "Von Bienen und von allerlei Vieh nimmt der Zehntherr seinen Zehnten, wenn er von Jahr zu Jahr warten will, bis er ihm von dem Haus zusteht, von dem man ihn geben soll. Will er aber nicht warten, so soll man ihm geben, was ihm jährlich zusteht.",
+        "12": "Von jedem Fohlen und Maultier einen Pfennig; von Kalb, Esel, Ziege, Schaf und Ferkel einen halben Pfennig, wenn es fünf oder weniger sind; sind es aber sechs oder mehr, so nimmt der Zehntherr eines zur Ablösung: das sechste mit zwei Pfennigen, das siebente mit anderthalb, das achte mit einem, das neunte mit einem halben. Derjenige aber, dem das Vieh gehört, nimmt vorweg zwei unter sechsen, drei unter neunen heraus, bevor der Zehntherr wählt. Auf dieselbe Weise verzehntet man die Gänse mit Hellern."
+      }
+    }
+  }
+}

@@ -1,7 +1,6 @@
 // Startseite: Einstieg, Kennzahlen, Themenkarten, vollständiges Verzeichnis.
 
 import { html, statusBadge } from "../util.js";
-import { tocHtml } from "../components/toc.js";
 import { articlesForTheme } from "../data.js";
 
 function themeCard(t) {
@@ -72,8 +71,52 @@ export function renderHome(ctx) {
         <span class="toc-dot toc-dot--missing" style="display:inline-block"></span> noch ohne Transkription
       </p>
     </div>
-    <div class="toc-full">${tocHtml(data, { openBooks: new Set(data.books.map((b) => b.id)) })}</div>
+    ${lawIndex(data)}
   </div>`;
+}
+
+/** Gesamtverzeichnis im Stil von gesetze-im-internet.de: alles untereinander. */
+function lawIndex(data) {
+  const prolog = data.articleById.get("lr-prolog");
+  const line = (a) => html`<li class="law-index__item"><a href="#article/${a.id}" class="${a.status === "missing" ? "is-missing" : ""}">
+      <span class="law-index__num">${a.article === 0 ? "Vorrede" : `Art. ${a.article}`}</span>
+      <span class="law-index__title">${a.status === "missing" ? "(noch ohne Transkription)" : a.title || ""}</span>
+    </a>
+    ${(data.sectionsByArticle.get(a.id) || []).length > 1
+      ? html`<ol class="law-index__paras">${data.sectionsByArticle.get(a.id).map(
+          (t) => html`<li><a href="#article/${a.id}?s=${t.section}">${a.id === "lr-prolog" ? ["", "Prologus", "Prologus (Forts.)", "Textus prologi"][t.section] : `§ ${t.section}`} <span>${t.translation.split(/(?<=[.;:])\s/)[0].slice(0, 90)}${t.translation.length > 90 ? " …" : ""}</span></a></li>`
+        )}</ol>`
+      : ""}
+    </li>`;
+  const parts = [
+    ["landrecht", "Landrecht", "Teil 1"],
+    ["lehnrecht", "Lehnrecht", "Teil 2"],
+  ];
+  return html`<nav class="law-index" aria-label="Gesamtverzeichnis">
+    <div class="law-index__bar">Sachsenspiegel · Eike von Repgow</div>
+    <ol class="law-index__list">
+      <li><a class="law-index__lvl0" href="#home">Inhaltsübersicht</a></li>
+      ${parts.map(([part, label, no]) => {
+        const books = data.books.filter((b) => b.part === part);
+        return html`<li class="law-index__group">
+          <span class="law-index__lvl1">${no}</span>
+          <span class="law-index__lvl1b">${label}</span>
+          <ol>
+            ${books.map((b) => {
+              const list = data.articles.filter((a) => a.book === b.id && a.id !== "lr-prolog");
+              return html`<li class="law-index__group">
+                ${part === "landrecht" ? html`<span class="law-index__lvl2">Buch ${b.label.replace("Landrecht ", "")}</span><span class="law-index__lvl2b">${b.label}</span>` : ""}
+                <ol>
+                  ${b.id === "lr-i" && prolog ? line(prolog) : ""}
+                  ${list.map(line)}
+                </ol>
+              </li>`;
+            })}
+          </ol>
+        </li>`;
+      })}
+    </ol>
+  </nav>`;
 }
 
 export function renderTheme(ctx, id) {
