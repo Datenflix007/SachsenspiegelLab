@@ -7,14 +7,18 @@
 //     type: "section" | "article" | "page",
 //     articleId?: string, sectionId?: string,
 //     pageNumber?: number, canvasId?: string,
-//     region?: { x, y, w, h }   // Anteile 0..1 der Bildbreite/-höhe
+//     region?: { x, y, w, h },  // Anteile 0..1 der Bildbreite/-höhe (Rechteck, v1)
+//     shape?: { type: "rect"|"line"|"path", points: [[x,y], …] }  // v2, Anteile 0..1
 //   },
-//   text: string, tags: string[], createdAt: ISO, updatedAt: ISO
+//   style?: { color: "#rrggbb", width: 1..12 },   // v2
+//   text: string,            // Klartext (für Suche)
+//   html?: string,           // v2: formatierte Glosse (bereinigt)
+//   tags: string[], createdAt: ISO, updatedAt: ISO
 // }
 
 import { storage, uid } from "../util.js";
 
-export const SCHEMA_VERSION = 1;
+export const SCHEMA_VERSION = 2; // v2: shape, style, html (v1 bleibt importierbar)
 const KEY = "ssl.annotations.v1";
 const TARGET_TYPES = new Set(["section", "article", "page"]);
 const listeners = new Set();
@@ -52,9 +56,11 @@ export function forPage(pageNumber) {
 }
 const byCreated = (a, b) => String(a.createdAt).localeCompare(String(b.createdAt));
 
-export function add({ target, text, tags = [] }) {
+export function add({ target, text, tags = [], html, style }) {
   const now = new Date().toISOString();
-  const a = { id: uid("note"), target: cleanTarget(target), text: String(text).trim(), tags: cleanTags(tags), createdAt: now, updatedAt: now };
+  const a = { id: uid("note"), target: cleanTarget(target), text: String(text || "").trim(), tags: cleanTags(tags), createdAt: now, updatedAt: now };
+  if (html) a.html = String(html);
+  if (style) a.style = cleanStyle(style);
   const v = validateAnnotation(a);
   if (!v.ok) throw new Error(v.error);
   items.push(a);
@@ -67,6 +73,7 @@ export function update(id, patch) {
   if (i < 0) return null;
   const next = { ...items[i], ...patch, tags: patch.tags ? cleanTags(patch.tags) : items[i].tags, updatedAt: new Date().toISOString() };
   if (patch.text != null) next.text = String(patch.text).trim();
+  if (patch.style) next.style = cleanStyle(patch.style);
   const v = validateAnnotation(next);
   if (!v.ok) throw new Error(v.error);
   items[i] = next;
@@ -93,8 +100,16 @@ function cleanTarget(t) {
   for (const k of ["articleId", "sectionId", "canvasId"]) if (t[k]) out[k] = String(t[k]);
   if (t.pageNumber != null) out.pageNumber = Number(t.pageNumber);
   if (t.region) out.region = roundRegion(t.region);
+  if (t.shape) out.shape = { type: t.shape.type, points: (t.shape.points || []).map(([x, y]) => [round4(x), round4(y)]) };
   return out;
 }
+const round4 = (v) => Math.round(Number(v) * 10000) / 10000;
+function cleanStyle(st) {
+  const color = /^#[0-9a-f]{6}$/i.test(st?.color || "") ? st.color.toLowerCase() : "#fbbf24";
+  const width = Math.min(12, Math.max(1, Math.round(Number(st?.width) || 3)));
+  return { color, width };
+}
+export { cleanStyle };
 const roundRegion = (r) => Object.fromEntries(["x", "y", "w", "h"].map((k) => [k, Math.round(Number(r[k]) * 10000) / 10000]));
 
 // ---------- Validierung ----------
@@ -103,7 +118,9 @@ export function validateAnnotation(a) {
   if (!a || typeof a !== "object") return fail("Eintrag ist kein Objekt");
   if (typeof a.id !== "string" || !a.id || a.id.length > 100) return fail("ungültige id");
   if (typeof a.text !== "string" || a.text.length > 20000) return fail(`${a.id}: text fehlt oder zu lang`);
-  if (!a.text.trim() && !a.target?.region) return fail(`${a.id}: leerer Text`);
+  if (a.html != null && (typeof a.html !== "string" || a.html.length > 50000)) return fail(`${a.id}: html ungültig oder zu lang`);
+  if (!a.text.trim() && !a.target?.region && !a.target?.shape) return fail(`${a.id}: leerer Text`);
+  if (a.style != null && (typeof a.style !== "object" || !/^#[0-9a-f]{6}$/i.test(a.style.color || "") || !(a.style.width >= 1 && a.style.width <= 12))) return fail(`${a.id}: style ungültig`);
   if (!Array.isArray(a.tags) || a.tags.some((t) => typeof t !== "string")) return fail(`${a.id}: tags müssen Zeichenketten sein`);
   const t = a.target;
   if (!t || !TARGET_TYPES.has(t.type)) return fail(`${a.id}: target.type ungültig`);
@@ -115,6 +132,12 @@ export function validateAnnotation(a) {
     const nums = ["x", "y", "w", "h"].map((k) => r[k]);
     if (nums.some((n) => typeof n !== "number" || !Number.isFinite(n) || n < 0 || n > 1)) return fail(`${a.id}: region-Werte müssen zwischen 0 und 1 liegen`);
     if (r.x + r.w > 1.0001 || r.y + r.h > 1.0001) return fail(`${a.id}: region ragt über das Bild hinaus`);
+  }
+  if (t.shape) {
+    const sh = t.shape;
+    if (!["rect", "line", "path"].includes(sh.type)) return fail(`${a.id}: shape.type ungültig`);
+    if (!Array.isArray(sh.points) || sh.points.length < 2 || sh.points.length > 4000) return fail(`${a.id}: shape.points ungültig`);
+    if (sh.points.some((pt) => !Array.isArray(pt) || pt.length !== 2 || pt.some((v) => typeof v !== "number" || !(v >= 0 && v <= 1)))) return fail(`${a.id}: shape.points außerhalb 0..1`);
   }
   for (const k of ["createdAt", "updatedAt"]) if (a[k] && Number.isNaN(Date.parse(a[k]))) return fail(`${a.id}: ${k} ist kein Datum`);
   return { ok: true };
@@ -157,7 +180,7 @@ export function parseImport(text) {
     else if (seen.has(a.id)) errors.push(`${a.id}: doppelte id`);
     else {
       seen.add(a.id);
-      valid.push({ ...a, target: cleanTarget(a.target), tags: cleanTags(a.tags), createdAt: a.createdAt || new Date().toISOString(), updatedAt: a.updatedAt || a.createdAt || new Date().toISOString() });
+      valid.push({ ...a, ...(a.style ? { style: cleanStyle(a.style) } : {}), target: cleanTarget(a.target), tags: cleanTags(a.tags), createdAt: a.createdAt || new Date().toISOString(), updatedAt: a.updatedAt || a.createdAt || new Date().toISOString() });
     }
   }
   return { ok: valid.length > 0 || doc.annotations.length === 0, annotations: valid, errors, total: doc.annotations.length, exportedAt: doc.exportedAt };
@@ -177,4 +200,20 @@ export function applyImport(annotations, mode) {
   }
   persist();
   return items.length;
+}
+
+// ---------- Importierte Ebene (nur anzeigen, getrennt von den eigenen Notizen) ----------
+const LAYER_KEY = "ssl.layer.imported.v1";
+export function importedLayer() {
+  const v = storage.get(LAYER_KEY, null);
+  return v && Array.isArray(v.annotations) ? v : { name: null, annotations: [] };
+}
+export function setImportedLayer(name, annotations) {
+  const ok = storage.set(LAYER_KEY, { name, importedAt: new Date().toISOString(), annotations });
+  listeners.forEach((fn) => fn(items));
+  return ok;
+}
+export function clearImportedLayer() {
+  storage.set(LAYER_KEY, null);
+  listeners.forEach((fn) => fn(items));
 }

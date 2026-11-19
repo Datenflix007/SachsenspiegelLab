@@ -17,6 +17,7 @@ export function renderNotes(ctx) {
       <span class="spacer"></span>
       <button type="button" class="btn btn--ghost" data-clear>Alle löschen</button>
     </div>
+    <div data-layer-info></div>
     <div class="toc-filter" style="margin-top:6px">
       <label class="visually-hidden" for="noteFilter">Notizen filtern</label>
       <input id="noteFilter" type="search" placeholder="Filtern nach Text oder #Tag …" autocomplete="off" />
@@ -28,6 +29,11 @@ export function renderNotes(ctx) {
     const list = $("[data-list]", root);
     const filterEl = $("#noteFilter", root);
     function render() {
+      const layer = store.importedLayer();
+      const li = $("[data-layer-info]", root);
+      li.innerHTML = layer.annotations.length
+        ? toHtml(html`<p class="notice">Ebene „Importiert“: <b>${layer.name || "Datei"}</b> · ${layer.annotations.length} Einträge (nur Anzeige im Viewer). <button type="button" class="link-btn" data-layer-clear>Ebene entfernen</button> · <button type="button" class="link-btn" data-layer-merge>in eigene Notizen übernehmen</button></p>`)
+        : "";
       const q = filterEl.value.trim().toLowerCase();
       const all = store.all().sort((a, b) => String(b.updatedAt).localeCompare(String(a.updatedAt)));
       const items = all.filter((a) => !q || a.text.toLowerCase().includes(q) || a.tags.some((t) => ("#" + t.toLowerCase()).includes(q)));
@@ -72,6 +78,7 @@ export function renderNotes(ctx) {
             options: [
               ["merge", "Zusammenführen – bei gleicher ID gewinnt die neuere Fassung"],
               ["replace", "Ersetzen – vorhandene Notizen werden verworfen"],
+              ["layer", "Als Ebene „Importiert“ laden – nur anzeigen, getrennt von den eigenen Notizen"],
             ],
             value: "merge",
           },
@@ -79,9 +86,26 @@ export function renderNotes(ctx) {
         submitLabel: "Importieren",
       });
       if (!choice) return;
+      if (choice.mode === "layer") {
+        store.setImportedLayer(file.name, res.annotations);
+        toast(`Ebene „Importiert“ geladen: ${res.annotations.length} Einträge`);
+        render();
+        return;
+      }
       const n = store.applyImport(res.annotations, choice.mode);
       toast(`Import abgeschlossen – jetzt ${n} Notizen`);
       render();
+    });
+    root.addEventListener("click", (e) => {
+      if (e.target.closest("[data-layer-clear]")) {
+        store.clearImportedLayer();
+        render();
+      } else if (e.target.closest("[data-layer-merge]")) {
+        const n = store.applyImport(store.importedLayer().annotations, "merge");
+        store.clearImportedLayer();
+        toast(`Übernommen – jetzt ${n} eigene Notizen`);
+        render();
+      }
     });
     $("[data-clear]", root).addEventListener("click", () => {
       if (!store.count()) return;

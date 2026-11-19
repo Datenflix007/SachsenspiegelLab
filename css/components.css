@@ -343,7 +343,7 @@ mark, .hit { background: var(--mark); color: inherit; border-radius: 3px; paddin
 
 /* ---------- Notizen-Übersicht / Dialog ---------- */
 .notes-table td:first-child { white-space: nowrap; }
-dialog.modal { border: 1px solid var(--line-strong); border-radius: var(--radius); background: var(--surface); color: var(--text); padding: 20px; max-width: min(560px, 92vw); box-shadow: var(--shadow); }
+dialog.modal { border: 1px solid var(--line-strong); border-radius: var(--radius); background: var(--surface); color: var(--text); padding: 20px; width: min(600px, 94vw); max-width: 94vw; box-shadow: var(--shadow); }
 dialog.modal::backdrop { background: rgba(0, 0, 0, .55); }
 dialog.modal h2 { margin: 0 0 8px; font-size: 1.15rem; }
 dialog.modal .row { display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap; margin-top: 14px; }
@@ -379,3 +379,56 @@ dialog.modal .row { display: flex; gap: 8px; justify-content: flex-end; flex-wra
   .ladder__note { margin: -2px 0 8px; text-align: center; }
   .art-pager { flex-direction: column; }
 }
+
+/* ---------- SVG-Ebene im Viewer: Textzeilen, Formen ---------- */
+.ov-svg { overflow: visible; pointer-events: none; }
+.ov-svg .tl { pointer-events: auto; cursor: pointer; }
+.ov-svg.no-text .tl:not(.is-hl) { display: none; }
+.ov-svg .tl-bg { fill: rgba(255, 250, 238, var(--tl-opacity, .78)); stroke: rgba(30, 40, 90, .25); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.ov-svg .tl-text { fill: #1b1407; font-family: "EB Garamond", Georgia, serif; opacity: calc(var(--tl-opacity, .78) + .15); }
+.ov-svg .tl:hover .tl-bg { stroke: #1f3a8a; stroke-width: 2; }
+.ov-svg .tl.is-hl .tl-bg { fill: rgba(125, 211, 252, .38); stroke: #0ea5e9; stroke-width: 2.5; }
+.ov-svg.no-text .tl.is-hl .tl-text { display: none; }
+.ov-svg.no-text .tl.is-hl .tl-bg { fill: rgba(56, 189, 248, .28); }
+.ov-svg .sh { pointer-events: auto; cursor: pointer; outline: none; }
+.ov-svg .sh-stroke { fill: none; vector-effect: non-scaling-stroke; stroke-linecap: round; stroke-linejoin: round; }
+.ov-svg .sh-fill { fill-opacity: .1; }
+.ov-svg .sh-hit { fill: transparent; stroke: transparent; stroke-width: 14; vector-effect: non-scaling-stroke; pointer-events: all; }
+.ov-svg .sh-hit--line { fill: none; pointer-events: stroke; }
+.ov-svg .sh.is-active .sh-fill, .ov-svg .sh:focus-visible .sh-fill { fill-opacity: .3; }
+.ov-svg .sh.is-active .sh-stroke, .ov-svg .sh:focus-visible .sh-stroke { filter: drop-shadow(0 0 3px rgba(255,255,255,.9)); }
+.ov-svg .sh-label text { fill: #111; font-family: Inter, system-ui, sans-serif; font-weight: 700; }
+.ov-svg .draw-layer .sh-stroke { stroke-dasharray: 6 4; }
+
+/* ---------- Werkzeugleiste im Viewer ---------- */
+.tool-bar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; padding: 8px 10px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); margin-bottom: 10px; }
+.tool-bar .sep { width: 1px; align-self: stretch; background: var(--line-strong); margin: 0 4px; }
+.tool-btn { display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 10px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface-2); color: var(--text); cursor: pointer; font-size: .82rem; font-weight: 600; }
+.tool-btn[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.tool-bar input[type="color"] { width: 34px; height: 30px; padding: 0; border: 1px solid var(--line-strong); border-radius: 8px; background: none; cursor: pointer; }
+.tool-bar label { display: inline-flex; align-items: center; gap: 5px; font-size: .8rem; color: var(--text-2); }
+.tool-bar input[type="range"] { width: 90px; }
+.tool-bar select { border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text); padding: 4px 6px; }
+
+/* ---------- Glossen ---------- */
+.gloss { border: 1px solid var(--line); border-left: 4px solid var(--gloss-color, var(--accent-2)); border-radius: 10px; padding: 8px 10px; background: var(--surface); font-size: .9rem; cursor: pointer; }
+.gloss.is-active { box-shadow: 0 0 0 2px var(--gloss-color, var(--accent)); }
+.gloss__head { display: flex; gap: 6px; align-items: center; font-size: .74rem; color: var(--muted); margin-bottom: 4px; }
+.gloss__body { overflow-wrap: anywhere; }
+.gloss__body ul, .gloss__body ol, .note__html ul, .note__html ol { margin: 4px 0; padding-left: 20px; }
+.gloss__body blockquote, .note__html blockquote { margin: 4px 0; padding-left: 10px; border-left: 3px solid var(--line-strong); color: var(--text-2); }
+.layer-chip { display: inline-flex; align-items: center; gap: 4px; font-size: .7rem; padding: 1px 7px; border-radius: 999px; border: 1px solid var(--line-strong); color: var(--text-2); }
+
+/* ---------- Rich-Text-Editor ---------- */
+.editor { border: 1px solid var(--line-strong); border-radius: 10px; background: var(--surface); overflow: hidden; }
+.ed-toolbar { display: flex; flex-wrap: wrap; gap: 2px; padding: 4px; border-bottom: 1px solid var(--line); background: var(--surface-2); }
+.ed-btn { min-width: 28px; height: 26px; border: 1px solid transparent; border-radius: 6px; background: none; color: var(--text); cursor: pointer; font-size: .84rem; }
+.ed-btn:hover { border-color: var(--line-strong); background: var(--surface); }
+.ed-area { min-height: 80px; max-height: 280px; overflow: auto; padding: 8px 10px; outline: none; font-size: .92rem; }
+.ed-area:empty::before { content: attr(data-placeholder); color: var(--muted); }
+.ed-area blockquote { margin: 4px 0; padding-left: 10px; border-left: 3px solid var(--line-strong); }
+
+/* Klickbare Texte in der Artikelansicht (→ Markierung im Bild) */
+.sec-row.has-layout .src-text, .sec-row.has-layout .trans-text { cursor: pointer; border-radius: 6px; transition: background .15s; }
+.sec-row.has-layout .src-text:hover, .sec-row.has-layout .trans-text:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.sec-row.is-linked .src-text, .sec-row.is-linked .trans-text { background: color-mix(in srgb, var(--accent) 12%, transparent); box-shadow: inset 3px 0 0 var(--accent); }

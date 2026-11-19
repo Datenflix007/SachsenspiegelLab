@@ -1,7 +1,8 @@
 // Notiz-Blöcke (Annotationen) für §, Artikel oder Seite – mit Delegation.
 
 import * as store from "../annotations/store.js";
-import { html, toHtml, esc, toast, formatDate } from "../util.js";
+import { html, raw, toHtml, esc, toast, formatDate } from "../util.js";
+import { editorHtml, readEditor, sanitizeHtml } from "./editor.js";
 
 const keyOf = (t) => [t.type, t.articleId || "", t.sectionId || "", t.pageNumber || ""].join("|");
 
@@ -13,9 +14,9 @@ function listFor(t) {
 }
 
 export function noteItem(a, { showTarget = false, pageLink = true } = {}) {
-  const r = a.target.region;
-  return html`<article class="note${r ? " note--region" : ""}" data-note-id="${a.id}">
-    <div class="note__text">${a.text || (r ? "(Markierung ohne Text)" : "")}</div>
+  const r = a.target.region || a.target.shape;
+  return html`<article class="note${r ? " note--region" : ""}" data-note-id="${a.id}" ${a.style ? html`style="border-left-color:${a.style.color}"` : ""}>
+    ${a.html ? html`<div class="note__text note__html">${raw(sanitizeHtml(a.html))}</div>` : html`<div class="note__text">${a.text || (r ? "(Markierung ohne Text)" : "")}</div>`}
     <div class="note__foot">
       ${a.tags.map((t) => html`<span class="note__tag">#${t}</span>`)}
       ${r && pageLink ? html`<a class="note__tag" href="#page/${a.target.pageNumber}?note=${a.id}" title="Markierung im Viewer zeigen">▣ S. ${a.target.pageNumber}</a>` : ""}
@@ -50,8 +51,7 @@ export function noteBlock(target, { addLabel = "Notiz hinzufügen" } = {}) {
 
 function formHtml(a = { text: "", tags: [] }, { submitLabel = "Speichern" } = {}) {
   return html`<form class="note-form" data-note-form>
-    <label class="visually-hidden">Notiztext</label>
-    <textarea name="text" required maxlength="20000" placeholder="Eigene Anmerkung …">${a.text}</textarea>
+    ${editorHtml("html", a.html || esc(a.text || ""), "Eigene Anmerkung / Glosse …")}
     <label class="visually-hidden">Tags</label>
     <input name="tags" type="text" placeholder="Tags, durch Komma getrennt (optional)" value="${a.tags.join(", ")}" />
     <div class="note-form__row">
@@ -80,7 +80,7 @@ export function bindNotes(root = document) {
       const block = add.closest("[data-note-block]");
       add.insertAdjacentHTML("beforebegin", toHtml(formHtml()));
       add.hidden = true;
-      block.querySelector("[data-note-form] textarea")?.focus();
+      block.querySelector("[data-note-form] .ed-area")?.focus();
       return;
     }
     const cancel = e.target.closest("[data-note-cancel]");
@@ -118,17 +118,19 @@ export function bindNotes(root = document) {
     const form = e.target.closest("[data-note-form]");
     if (!form) return;
     e.preventDefault();
-    const text = form.elements.text.value.trim();
+    const { html: htmlValue, text } = readEditor(form);
     const tags = store.parseTags(form.elements.tags.value);
     const block = form.closest("[data-note-block]");
     try {
       if (form.dataset.editId) {
-        store.update(form.dataset.editId, { text, tags });
+        const cur = store.all().find((x) => x.id === form.dataset.editId);
+        if (!text && !(cur?.target.region || cur?.target.shape)) return;
+        store.update(form.dataset.editId, { text, tags, html: htmlValue || undefined });
         toast("Notiz geändert");
       } else {
         if (!text) return;
         const target = JSON.parse(block.dataset.target);
-        const { saved } = store.add({ target, text, tags });
+        const { saved } = store.add({ target, text, tags, html: htmlValue });
         toast(saved ? "Notiz gespeichert" : "Notiz angelegt – Speichern im Browser nicht möglich (Export nutzen!)", saved ? 2200 : 5000);
       }
     } catch (err) {

@@ -6,6 +6,18 @@
     "lr-iii": { "firstPage": 80, "lastPage": 119 },
     "lehnrecht": { "firstPage": 121, "lastPage": 192 }
   },
+  "_lineAnchors": "Ankerpunkte für die Zeilen-Zuordnung: Abschnitt beginnt auf Seite page bei Anteil frac der erkannten Zeilen (am Bild bestimmt).",
+  "lineAnchors": [
+    { "key": "lr-prolog#1", "page": 14, "frac": 0 },
+    { "key": "lr-i-1#1", "page": 15, "frac": 0 },
+    { "key": "lr-i-2#3", "page": 15, "frac": 0.97 },
+    { "key": "lr-i-3#1", "page": 16, "frac": 0.37 },
+    { "key": "lr-i-34#2", "page": 33, "frac": 0 },
+    { "key": "lr-ii-1#1", "page": 51, "frac": 0.12 },
+    { "key": "lr-ii-73#1", "page": 80, "frac": 0.5 },
+    { "key": "lr-iii-1#1", "page": 80, "frac": 0.5 },
+    { "key": "lehnrecht-1#1", "page": 121, "frac": 0 }
+  ],
   "sections": {
     "lr-prolog#1": { "pages": [14], "checkedBy": "manifest-structure" },
     "lr-prolog#2": { "pages": [14], "checkedBy": "manifest-structure" },

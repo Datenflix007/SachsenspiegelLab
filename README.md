@@ -14,7 +14,11 @@ Unterseite von [datenflix007.github.io](https://datenflix007.github.io/), rein s
   *Original | Übertragung | Annotationen*. Das Handschriften-Panel lässt sich einblenden; Vor/Zurück mit `[` und `]`.
 - **Handschrift** – Galerie aller 196 Seiten (lazy geladene IIIF-Thumbnails), Viewer mit Zoom/Pan
   (OpenSeadragon 4.1.1), Vollbild, Sprung zu Seite oder Blatt („4r“), Filmstreifen, „Quelle ↗“ zu sachsen.digital.
-  Rechtecke lassen sich auf dem Bild markieren.
+  **Text über dem Bild:** Die Transkription liegt zeilengenau und transparent auf der Handschrift (Deckkraft
+  einstellbar). Ein Klick auf Original oder Übertragung markiert die Zeilen im Bild, ein Klick auf eine Zeile
+  springt zum §. Die Zeilen sind automatisch erkannt, die Zuordnung ist geschätzt.
+  **Werkzeuge wie in Transkribus:** Rechteck, Linie und Freihand mit Farbe und Strichstärke, dazu Glossen im
+  Rich-Text-Editor. Ebenen: Eigene (Sitzung), Projekt (Repo-Datei), Importiert (Datei).
 - **Kontext** – Schaubilder der Tafelbilder als HTML/SVG: Heerschilde, Grenzen der Heerschildordnung, Landrecht,
   Tabelle zu LR I 2, Hecks Deutungsmodell, Gesamtmodell, Netzdiagramm – mit Kennzeichnungen
   („Forschungsdeutung, nicht Wortlaut Eikes“, „heuristisch“, „rekonstruiert“).

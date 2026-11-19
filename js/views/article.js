@@ -3,7 +3,8 @@
 import { html, raw, esc, statusBadge, MISSING_TEXT, storage, $, $$ } from "../util.js";
 import { tocHtml } from "../components/toc.js";
 import { noteBlock } from "../components/notes.js";
-import { createViewer, altText } from "../components/viewer.js";
+import { createViewer, altText, linesForPage } from "../components/viewer.js";
+import { shapesForPage } from "./manuscript.js";
 import { pageLabel } from "../data.js";
 import { makeMatcher, highlightAll } from "../search.js";
 
@@ -87,7 +88,7 @@ export function renderArticle(ctx, id, params) {
         <div class="sec-list">
           ${sections.map((t) => {
             const pg = data.pageByNumber.get(t.pageNumber);
-            return html`<section class="sec-row" id="s-${t.section}" aria-labelledby="sh-${t.section}">
+            return html`<section class="sec-row${t.textRegions?.length ? " has-layout" : ""}" id="s-${t.section}" data-sid="${t.sectionId}" aria-labelledby="sh-${t.section}" ${t.textRegions?.length ? html`title="Klicken: Stelle in der Handschrift markieren (Zuordnung geschätzt)"` : ""}>
               <div class="sec-cell sec-cell--src">
                 <div class="sec-num">
                   <b id="sh-${t.section}"><a href="#article/${a.id}?s=${t.section}" data-sec-link="${t.section}" title="Link zu diesem Abschnitt">${secLabel(a, t.section)}</a></b>
@@ -138,6 +139,7 @@ export function renderArticle(ctx, id, params) {
         <strong data-ms-label>–</strong>
         <button type="button" class="icon-btn" data-ms-next aria-label="Nächste Seite">›</button>
         <span class="spacer"></span>
+        <button type="button" class="icon-btn" data-ms-text aria-pressed="false" aria-label="Transkription über das Bild legen" title="Text über das Bild legen">¶</button>
         <button type="button" class="icon-btn" data-ms-zoomin aria-label="Vergrößern">＋</button>
         <button type="button" class="icon-btn" data-ms-zoomout aria-label="Verkleinern">－</button>
         <button type="button" class="icon-btn" data-ms-full aria-label="Vollbild">⛶</button>
@@ -219,16 +221,55 @@ export function renderArticle(ctx, id, params) {
       $("[data-ms-source]", root).href = p.sachsenDigitalUrl;
       const mapped = a.pages.find((x) => x.pageNumber === n);
       $("[data-ms-note]", root).textContent = mapped ? ` · ${mapped.mappingStatus === "verified" ? "Zuordnung bestätigt" : "Zuordnung unverifiziert"}` : " · nicht diesem Artikel zugeordnet";
-      if (!viewer) viewer = createViewer($("[data-ms-stage]", root), { onRegionClick: () => {} });
-      viewer.setPage(p, regionsFor(n));
+      if (!viewer) {
+        viewer = createViewer($("[data-ms-stage]", root), {
+          onLineClick: (sid) => linkSection(sid, { fromViewer: true }),
+          onShapeClick: (id) => {
+            location.hash = `#page/${currentPage}?note=${encodeURIComponent(id)}`;
+          },
+          onOpen: () => linkedSection && viewer.highlightSection(linkedSection, { focus: true }),
+        });
+        const pv = storage.get("ssl.viewer", {});
+        viewer.setVisibility({ text: !!pv.panelText, user: pv.user !== false, project: pv.project !== false, imported: pv.imported !== false });
+        viewer.setTextOpacity(pv.opacity ?? 0.78);
+        $("[data-ms-text]", root).setAttribute("aria-pressed", String(!!pv.panelText));
+      }
+      viewer.setPage(p, { lines: linesForPage(data, n), shapes: shapesForPage(ctx, n) });
       updateHash();
     }
-    function regionsFor(n) {
-      return [
-        ...ctx.store.forPage(n).filter((x) => x.target.region).map((x, i) => ({ id: x.id, region: x.target.region, label: `N${i + 1}`, text: x.text, kind: "user" })),
-        ...data.projectAnnotations.filter((x) => x.target.pageNumber === n).map((x) => ({ id: x.id, region: x.target.region, label: x.label, title: x.title, kind: "project" })),
-      ];
+
+    // Klick auf Original/Übertragung → Zeilen im Bild markieren; Klick auf Zeile im Bild → zum §
+    let linkedSection = null;
+    function linkSection(sid, { fromViewer = false } = {}) {
+      const t = data.sectionById.get(sid);
+      if (!t) return;
+      linkedSection = sid;
+      $$(".sec-row", root).forEach((r) => r.classList.toggle("is-linked", r.dataset.sid === sid));
+      if (fromViewer) {
+        const row = $(`.sec-row[data-sid="${CSS.escape(sid)}"]`, root);
+        if (row) row.scrollIntoView({ block: "center", behavior: "smooth" });
+        else if (t.articleId !== a.id) location.hash = `#article/${t.articleId}?s=${t.section}&page=${currentPage}`;
+        viewer?.highlightSection(sid, { focus: false });
+        return;
+      }
+      const pg = t.textRegions?.[0]?.pageNumber || t.pageNumber;
+      if (!pg) return;
+      if (panelEl.hidden || currentPage !== pg) openPanel(pg);
+      else viewer?.highlightSection(sid, { focus: true });
     }
+    root.addEventListener("click", (e) => {
+      const txt = e.target.closest(".sec-row.has-layout .src-text, .sec-row.has-layout .trans-text");
+      if (!txt || e.target.closest("a, button, mark")) return;
+      if (matchMedia("(max-width: 900px)").matches) $('.mobile-tabs [data-tab="ms"]', root)?.click();
+      linkSection(txt.closest(".sec-row").dataset.sid);
+    });
+    $("[data-ms-text]", root).addEventListener("click", (e) => {
+      const pv = storage.get("ssl.viewer", {});
+      pv.panelText = !pv.panelText;
+      storage.set("ssl.viewer", pv);
+      e.currentTarget.setAttribute("aria-pressed", String(pv.panelText));
+      viewer?.setVisibility({ text: pv.panelText });
+    });
     function openPanel(n, { persist = true } = {}) {
       panelEl.hidden = false;
       reader.classList.add("has-panel");

@@ -14,6 +14,7 @@ import { loadData } from "./data.js";
 import { buildIndex } from "./search.js";
 import * as store from "./annotations/store.js";
 import { bindNotes, setLabelResolver } from "./components/notes.js";
+import { bindEditors, editorHtml, readEditor } from "./components/editor.js";
 import { html, toHtml, esc, $, $$, storage } from "./util.js";
 import { renderHome, renderTheme } from "./views/home.js";
 import { renderArticle } from "./views/article.js";
@@ -110,9 +111,13 @@ function formDialog({ title, intro = "", details = [], fields = [], submitLabel 
       ${fields.map((f) =>
         f.type === "radio"
           ? html`<fieldset style="border:0;padding:0;margin:10px 0;display:grid;gap:6px"><legend class="eyebrow">${f.label}</legend>${f.options.map(([v, l]) => html`<label style="display:flex;gap:8px;align-items:flex-start"><input type="radio" name="${f.name}" value="${v}" ${f.value === v ? html`checked` : ""} /> <span>${l}</span></label>`)}</fieldset>`
+          : f.type === "editor"
+          ? html`<div style="display:grid;gap:4px;margin:10px 0"><span class="eyebrow">${f.label}</span>${editorHtml(f.name, f.value || "")}</div>`
+          : f.type === "color"
+          ? html`<label style="display:flex;gap:8px;align-items:center;margin:10px 0"><span class="eyebrow">${f.label}</span><input type="color" name="${f.name}" value="${f.value || "#fbbf24"}" /></label>`
           : f.type === "textarea"
           ? html`<label style="display:grid;gap:4px;margin:10px 0"><span class="eyebrow">${f.label}</span><textarea class="field" name="${f.name}" rows="3" ${f.required ? html`required` : ""}></textarea></label>`
-          : html`<label style="display:grid;gap:4px;margin:10px 0"><span class="eyebrow">${f.label}</span><input class="field" name="${f.name}" type="text" ${f.required ? html`required` : ""} /></label>`
+          : html`<label style="display:grid;gap:4px;margin:10px 0"><span class="eyebrow">${f.label}</span><input class="field" name="${f.name}" type="text" value="${f.value || ""}" ${f.required ? html`required` : ""} /></label>`
       )}
       <div class="row">
         ${cancel ? html`<button type="button" class="btn btn--ghost" value="cancel" data-cancel>Abbrechen</button>` : ""}
@@ -126,6 +131,8 @@ function formDialog({ title, intro = "", details = [], fields = [], submitLabel 
       if (!form.checkValidity()) return;
       e.preventDefault();
       result = Object.fromEntries(new FormData(form).entries());
+      const ed = form.querySelector("[data-editor]");
+      if (ed) Object.assign(result, readEditor(ed));
       d.close();
     });
     d.querySelector("[data-cancel]")?.addEventListener("click", () => d.close());
@@ -134,7 +141,7 @@ function formDialog({ title, intro = "", details = [], fields = [], submitLabel 
       resolve(result);
     });
     d.showModal();
-    d.querySelector("textarea, input:not([type=radio])")?.focus();
+    (d.querySelector(".ed-area") || d.querySelector("textarea, input:not([type=radio])"))?.focus();
   });
 }
 
@@ -186,6 +193,7 @@ async function start() {
     ctx = { data, index: buildIndex(data), store, formDialog, params: new URLSearchParams() };
     setLabelResolver((id) => data.articleById.get(id)?.label || id);
     bindNotes(document);
+    bindEditors(document);
     window.addEventListener("hashchange", render);
     render();
   } catch (err) {

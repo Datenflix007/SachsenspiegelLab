@@ -64,20 +64,21 @@ async function main() {
     return { pageNumber: n, canvasId: pg?.canvasId ?? null, label: pg?.label ?? null, ...extra };
   };
 
-  // --- Abschnitte aus der Edition, nur freigegebene Bücher ---
+  // --- Abschnitte aus der Edition ---
   const released = new Set(BOOKS.filter((b) => b.released).map((b) => b.id));
-  const sections = luebben.sections.filter(
+  const allSections = luebben.sections.map((s) => ({ ...s, text: s.text.replace(/\s*¶\s*/g, " ") }));
+  const sections = allSections.filter(
     (s) => s.segmentation === "anchor" && (released.has(s.book) || s.articleId === "lr-prolog")
   );
 
-  // Korrekturen anwenden
+  // Korrekturen anwenden (auf alle, damit die Zeilen-Zuordnung mit dem Endtext rechnet)
   const log = [];
-  for (const s of sections) {
+  for (const s of allSections) {
     const c = corrections[`${s.articleId}#${s.section}`];
     s.ocr = "raw";
     if (!c) continue;
     for (const [a, b] of c.replace) {
-      if (!s.text.includes(a)) log.push(`Korrektur nicht anwendbar: ${s.articleId} §${s.section} „${a}“`);
+      if (!s.text.includes(a) && s.segmentation === "anchor") log.push(`Korrektur nicht anwendbar: ${s.articleId} §${s.section} „${a}“`);
       s.text = s.text.split(a).join(b);
     }
     s.ocr = c.level === "ocr" ? "corrected" : "cleaned";
@@ -102,6 +103,76 @@ async function main() {
     }
   }
 
+  // --- Zeilen-Zuordnung (Text → erkannte Zeilen der Dresdner Hs.) ---
+  // Je Teil (Landrecht, Lehnrecht) eine durchgehende Zeilenfolge über die Seiten; der Text wird
+  // stückweise linear nach Zeichenzahl verteilt, zwischen Ankerpunkten aus page-map.json (lineAnchors).
+  const lineRegions = await readJson("data/line-regions.json", { pages: {} });
+  const textLayout = new Map(); // key → [{pageNumber, line, from, to}]
+  const PARTS = [
+    { books: ["lr-i", "lr-ii", "lr-iii"], from: 14, to: 119 },
+    { books: ["lehnrecht"], from: 121, to: 191 },
+  ];
+  for (const part of PARTS) {
+    const lines = [];
+    const pageStart = new Map();
+    for (let n = part.from; n <= part.to; n++) {
+      pageStart.set(n, lines.length);
+      (lineRegions.pages[String(n)]?.lines || []).forEach((_, i) => lines.push({ page: n, line: i }));
+    }
+    if (!lines.length) continue;
+    const stream = allSections.filter((s) => part.books.includes(s.book) && s.article > 0 || (part.books.includes("lr-i") && s.articleId === "lr-prolog"));
+    const pos = new Map();
+    let c = 0;
+    for (const s of stream) {
+      pos.set(`${s.articleId}#${s.section}`, { c0: c, c1: c + s.text.length, s });
+      c += s.text.length;
+    }
+    const total = c;
+    const nLines = (p) => (lineRegions.pages[String(p)]?.lines || []).length;
+    const pts = (pageMap.lineAnchors || [])
+      .filter((a) => pos.has(a.key) && pageStart.has(a.page))
+      .map((a) => ({ c: pos.get(a.key).c0, L: pageStart.get(a.page) + a.frac * nLines(a.page) }));
+    if (!pts.some((p) => p.c === 0)) pts.push({ c: 0, L: 0 });
+    pts.push({ c: total, L: lines.length });
+    pts.sort((a, b) => a.c - b.c);
+    const mono = pts.filter((p, i) => i === 0 || p.L >= pts[i - 1].L);
+    const interp = (x, xs, ys) => {
+      for (let i = 1; i < xs.length; i++) {
+        if (x <= xs[i]) {
+          const t = xs[i] === xs[i - 1] ? 0 : (x - xs[i - 1]) / (xs[i] - xs[i - 1]);
+          return ys[i - 1] + t * (ys[i] - ys[i - 1]);
+        }
+      }
+      return ys[ys.length - 1];
+    };
+    const Cs = mono.map((p) => p.c);
+    const Ls = mono.map((p) => p.L);
+    const Lof = (x) => interp(x, Cs, Ls);
+    const cOf = (L) => interp(L, Ls, Cs);
+    for (const [key, { c0, c1, s }] of pos) {
+      const L0 = Lof(c0);
+      const L1 = Lof(c1);
+      const text = s.text;
+      // Trennstellen zwischen Zeilen, auf Wortgrenzen gerückt
+      const cuts = [0];
+      for (let k = Math.floor(L0) + 1; k < Math.ceil(L1); k++) {
+        let at = Math.round(cOf(k) - c0);
+        if (at <= cuts[cuts.length - 1] || at >= text.length) continue;
+        const sp = text.indexOf(" ", at);
+        const back = text.lastIndexOf(" ", at);
+        at = sp >= 0 && (back < 0 || sp - at <= at - back) ? sp + 1 : back + 1;
+        if (at > cuts[cuts.length - 1] && at < text.length) cuts.push(at);
+      }
+      cuts.push(text.length);
+      const regs = [];
+      let k = Math.floor(L0);
+      for (let i = 0; i < cuts.length - 1 && k < lines.length; i++, k++) {
+        regs.push({ pageNumber: lines[k].page, line: lines[k].line, from: cuts[i], to: cuts[i + 1] });
+      }
+      textLayout.set(key, regs);
+    }
+  }
+
   // --- Transkriptionen ---
   const transcriptions = [];
   const sectionsByArticle = new Map();
@@ -113,7 +184,9 @@ async function main() {
       continue;
     }
     const manual = pageMap.sections[key];
-    const pages = manual ? manual.pages : estimates.get(key) || [];
+    const layout = textLayout.get(key) || [];
+    const layoutPages = [...new Set(layout.map((r) => r.pageNumber))];
+    const pages = manual ? manual.pages : layoutPages.length ? layoutPages : estimates.get(key) || [];
     const translation = content[s.articleId]?.sections?.[String(s.section)] ?? "";
     if (!translation) log.push(`Keine Übertragung: ${key}`);
     const first = pageByNumber.get(pages[0]);
@@ -124,7 +197,7 @@ async function main() {
       pageNumber: pages[0] ?? null,
       pages,
       canvasId: first?.canvasId ?? null,
-      pageMapping: manual ? manual.checkedBy : "estimate-text-length",
+      pageMapping: manual ? manual.checkedBy : layoutPages.length ? "estimate-lines" : "estimate-text-length",
       plainText: s.text,
       translation,
       status: "draft",
@@ -132,7 +205,8 @@ async function main() {
       edition: "Lübben 1879",
       ocr: s.ocr,
       sourceNote: SOURCE_NOTE,
-      textRegions: [],
+      // Zeilen der Dresdner Hs., auf die der Text (geschätzt) fällt; from/to = Zeichenbereich in plainText
+      textRegions: layout,
     };
     transcriptions.push(t);
     if (!sectionsByArticle.has(s.articleId)) sectionsByArticle.set(s.articleId, []);

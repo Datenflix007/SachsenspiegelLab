@@ -7,6 +7,7 @@ const FILES = {
   themes: "data/themes.json",
   synonyms: "data/synonyms.json",
   projectAnnotations: "data/project-annotations.json",
+  lineRegions: "data/line-regions.json",
 };
 
 async function getJson(url) {
@@ -32,6 +33,16 @@ export async function loadData() {
   }
   for (const list of sectionsByArticle.values()) list.sort((a, b) => a.section - b.section);
 
+  // Seite → Transkriptionen, deren Text (geschätzt) auf dieser Seite steht
+  const transcriptionsByPage = new Map();
+  for (const t of transcriptions) {
+    for (const n of new Set((t.textRegions || []).map((r) => r.pageNumber))) {
+      if (!transcriptionsByPage.has(n)) transcriptionsByPage.set(n, []);
+      transcriptionsByPage.get(n).push(t);
+    }
+  }
+  const sectionById = new Map(transcriptions.map((t) => [t.sectionId, t]));
+
   const pages = raw.pages.pages;
   const pageByNumber = new Map(pages.map((p) => [p.pageNumber, p]));
   // Seite → Artikel (aus den Artikel-Seitenzuordnungen)
@@ -52,6 +63,9 @@ export async function loadData() {
     articleById,
     articleIndex,
     transcriptions,
+    transcriptionsByPage,
+    sectionById,
+    lineRegions: raw.lineRegions.pages || {},
     sectionsByArticle,
     pages,
     pageByNumber,

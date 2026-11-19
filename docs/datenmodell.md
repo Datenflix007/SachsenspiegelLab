@@ -121,6 +121,55 @@ Die Edition gibt den mittelniederdeutschen Text der Oldenburger Bilderhandschrif
 Das ist **nicht** der Wortlaut der Dresdner Handschrift (mitteldeutsch). Die Oldenburger Handschrift stellt einige §§
 um (z. B. LR I 60 § 3 – 62) und weist LR I 26 nicht als eigenen Artikel aus.
 
+## `line-regions.json` und `textRegions` (Text über dem Bild)
+
+`scripts/detect-lines.py` erkennt je Seite die Textspalte und die Zeilen per Bildanalyse (PIL + numpy, ohne OCR):
+Der rechte Spaltenrand ist scharf, links liegt ein tintenarmer Steg zum Bildstreifen, Zeilen kommen aus dem
+horizontalen Projektionsprofil. Ergebnis:
+
+```json
+{ "pages": { "16": { "width": 1000, "height": 1275, "column": [0.47, 0.84],
+                     "lines": [[0.476, 0.091, 0.36, 0.024], …] } } }   // x, y, w, h als Anteile
+```
+
+`build-data.mjs` verteilt den Text jedes § stückweise linear nach Zeichenzahl auf die Zeilenfolge
+(Landrecht S. 14–119, Lehnrecht S. 121–191), zwischen Ankerpunkten aus `page-map.json → lineAnchors`
+(am Bild bestimmt, z. B. „Incipit liber II“ auf S. 51). Die Trennstellen werden auf Wortgrenzen gerückt.
+Je § entsteht:
+
+```json
+"textRegions": [ { "pageNumber": 16, "line": 11, "from": 0, "to": 46 }, … ]
+```
+
+`line` verweist auf `line-regions.json`, `from`/`to` sind Zeichenbereiche in `plainText`.
+**Näherung:** Die Dresdner Handschrift hat einen anderen (mitteldeutschen) Wortlaut als die Edition;
+die Zuordnung ist geschätzt (`pageMapping: "estimate-lines"`) und wird in der App so gekennzeichnet.
+
+## Annotationen v2: Formen, Farben, Glossen, Ebenen
+
+Seit `schemaVersion: 2` können Annotationen zusätzlich enthalten:
+
+```json
+{
+  "target": { "type": "page", "pageNumber": 16,
+              "shape": { "type": "line", "points": [[0.3, 0.2], [0.52, 0.24]] } },  // rect | line | path
+  "style": { "color": "#ef4444", "width": 3 },
+  "html": "<b>Abschnittsgrenze</b> zwischen <i>I 2</i> und I 3",   // Glosse, bereinigt (Whitelist)
+  "text": "Abschnittsgrenze zwischen I 2 und I 3"                    // Klartext für die Suche
+}
+```
+
+v1-Dateien (nur `region`) werden weiter importiert. HTML wird beim Speichern und Anzeigen auf eine
+Whitelist (b, i, u, s, Listen, Zitat, Links http/https) reduziert.
+
+Im Viewer gibt es drei **Ebenen**:
+
+| Ebene | Quelle | bearbeitbar |
+|---|---|---|
+| Eigene | `localStorage` (`ssl.annotations.v1`), Sitzung | ja |
+| Projekt (Repo) | `data/project-annotations.json` | nein („Übernehmen“ kopiert in Eigene) |
+| Importiert | Importdatei, „als Ebene laden“ (`ssl.layer.imported.v1`) | nein; „in eigene Notizen übernehmen“ |
+
 ## `themes.json`
 
 ```json
