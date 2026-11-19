@@ -142,7 +142,7 @@
 
 /* ---------- Paragraphen-Zeilen ---------- */
 .sec-cols-head, .sec-row {
-  display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr) minmax(0, .82fr); gap: 0;
+  display: grid; grid-template-columns: minmax(0, 1.75fr) minmax(0, 1fr) minmax(0, .6fr); gap: 0;
 }
 .sec-cols-head { position: sticky; top: calc(var(--shell-offset) + var(--appbar-h)); z-index: 5;
   background: color-mix(in srgb, var(--bg) 92%, transparent); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
@@ -449,7 +449,7 @@ dialog.modal .row { display: flex; gap: 8px; justify-content: flex-end; flex-wra
   mix-blend-mode: multiply;
 }
 .ov-svg .mk-layer { pointer-events: none; }
-.ms-crop__open {
+.ms-crop__open { text-decoration: none;
   position: absolute; right: 6px; bottom: 6px; font: 600 .72rem/1 var(--font-ui, Inter, sans-serif);
   padding: 5px 8px; border-radius: 999px; border: 0; cursor: pointer;
   background: rgba(10, 14, 28, .78); color: #e5edff; backdrop-filter: blur(4px);

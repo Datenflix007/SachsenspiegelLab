@@ -88,6 +88,10 @@ function render() {
     if (a.dataset.nav === r.nav) a.setAttribute("aria-current", "page");
     else a.removeAttribute("aria-current");
   });
+  // Startseite: Markenlogo übernimmt die Rolle des früheren Reiters „Übersicht“
+  const brand = $(".app-brand");
+  if (r.nav === "home") brand?.setAttribute("aria-current", "page");
+  else brand?.removeAttribute("aria-current");
   if (r.nav === "article") {
     const id = parseHash().parts[1];
     if (id) $('.app-nav a[data-nav="article"]').href = `#article/${id}`;

@@ -1,13 +1,12 @@
 // Lese-Ansicht „Artikel“: Inhaltsverzeichnis | Original · Übertragung · Annotationen | Handschrift.
 
-import { html, raw, esc, toHtml, statusBadge, MISSING_TEXT, storage, $, $$ } from "../util.js";
+import { html, raw, esc, toHtml, statusBadge, MISSING_TEXT, $, $$ } from "../util.js";
 import { tocHtml } from "../components/toc.js";
 import { noteBlock } from "../components/notes.js";
-import { createViewer, altText, linesForPage } from "../components/viewer.js";
-import { shapesForPage } from "./manuscript.js";
+import { altText } from "../components/viewer.js";
 import { pageLabel } from "../data.js";
 import { makeMatcher, highlightAll } from "../search.js";
-import { alignSentences, sectionLines, cropHtml, rangeRects, paintCropMarks } from "../components/crop.js";
+import { alignSentences, sectionLines, cropHtml, paintCropMarks } from "../components/crop.js";
 
 /** Editionstext mit Satz-Spans (Bereiche aus der Satzzuordnung), Lücken bleiben schlichter Text. */
 function origWithSentences(text, items, fmt) {
@@ -43,8 +42,6 @@ export function renderArticle(ctx, id, params) {
   const next = data.articles[idx + 1];
   const sections = data.sectionsByArticle.get(id) || [];
   const pageParam = params.get("page") ? Number(params.get("page")) : null;
-  const panelPref = storage.get("ssl.panel", false);
-  const showPanel = !!pageParam || panelPref;
   const hl = params.get("hl");
   const matcher = hl
     ? makeMatcher({ q: hl, mode: params.get("mode") || "text", synonyms: params.get("syn") !== "0", variants: params.get("var") === "1", wholeWord: params.get("ww") === "1" }, data.synonymGroups).regex
@@ -79,12 +76,11 @@ export function renderArticle(ctx, id, params) {
   </header>`;
 
   const pagesHtml = a.pages.length
-    ? a.pages.map((p) => html`<button type="button" class="chip chip--link" data-panel-page="${p.pageNumber}" title="Seite im Panel zeigen">${pageLabel(p)}</button>`)
+    ? a.pages.map((p) => html`<a class="chip chip--link" href="#page/${p.pageNumber}" title="Seite im Handschriften-Viewer öffnen">${pageLabel(p)}</a>`)
     : html`<span class="chip" title="Für diesen Artikel ist noch keine Seite zugeordnet.">keine Seite zugeordnet</span>`;
   const method = a.pages[0]?.method;
 
   const tools = html`<div class="art-tools">
-    <button type="button" class="btn btn--small" data-panel-toggle aria-pressed="${showPanel}" aria-controls="msPanel">▣ Handschrift ${showPanel ? "ausblenden" : "einblenden"}</button>
     ${pagesHtml}
     ${method ? html`<span class="meta-source" style="margin:0">Seitenzuordnung: ${METHOD_LABEL[method] || method}</span>` : ""}
   </div>`;
@@ -93,7 +89,6 @@ export function renderArticle(ctx, id, params) {
     <button type="button" role="tab" data-tab="src" aria-selected="true">Original</button>
     <button type="button" role="tab" data-tab="trans" aria-selected="false">Übertragung</button>
     <button type="button" role="tab" data-tab="notes" aria-selected="false">Notizen</button>
-    <button type="button" role="tab" data-tab="ms" aria-selected="false">Handschrift</button>
   </div>`;
 
   const rows = sections.length
@@ -124,7 +119,7 @@ export function renderArticle(ctx, id, params) {
               <div class="sec-cell sec-cell--src">
                 <div class="sec-num">
                   <b id="sh-${t.section}"><a href="#article/${a.id}?s=${t.section}" data-sec-link="${t.section}" title="Link zu diesem Abschnitt">${secLabel(a, t.section)}</a></b>
-                  ${pg ? html`<button type="button" class="chip chip--link" data-panel-page="${pg.pageNumber}" title="${t.pageMapping === "estimate-text-length" ? "Seite geschätzt" : "Seite abgeglichen"}">${pageLabel(pg)}${t.pageMapping === "estimate-text-length" ? " ≈" : ""}</button>` : ""}
+                  ${pg ? html`<a class="chip chip--link" href="#page/${pg.pageNumber}?s=${encodeURIComponent(t.sectionId)}" title="${t.pageMapping === "estimate-text-length" ? "Seite geschätzt" : "Seite abgeglichen"} – im Handschriften-Viewer öffnen">${pageLabel(pg)}${t.pageMapping === "estimate-text-length" ? " ≈" : ""}</a>` : ""}
                   ${statusBadge(t.status)}
                 </div>
                 ${crops
@@ -171,28 +166,8 @@ export function renderArticle(ctx, id, params) {
     ${next ? html`<a class="next" href="#article/${next.id}" rel="next"><small>nächster →</small>${next.label}${next.title && next.status !== "missing" ? ` · ${next.title}` : ""}</a>` : html`<span></span>`}
   </nav>`;
 
-  const panel = html`<aside class="reader__panel" id="msPanel" aria-label="Handschrift" ${showPanel ? "" : html`hidden`}>
-    <div class="ms-panel">
-      <div class="ms-panel__head">
-        <button type="button" class="icon-btn" data-ms-prev aria-label="Vorherige Seite">‹</button>
-        <strong data-ms-label>–</strong>
-        <button type="button" class="icon-btn" data-ms-next aria-label="Nächste Seite">›</button>
-        <span class="spacer"></span>
-        <button type="button" class="icon-btn" data-ms-text aria-pressed="false" aria-label="Transkription über das Bild legen" title="Text über das Bild legen">¶</button>
-        <button type="button" class="icon-btn" data-ms-zoomin aria-label="Vergrößern">＋</button>
-        <button type="button" class="icon-btn" data-ms-zoomout aria-label="Verkleinern">－</button>
-        <button type="button" class="icon-btn" data-ms-full aria-label="Vollbild">⛶</button>
-      </div>
-      <div class="ms-panel__stage" data-ms-stage></div>
-      <div class="ms-panel__foot">
-        <a data-ms-big href="#manuscript">Im großen Viewer öffnen</a> ·
-        <a data-ms-source href="https://sachsen.digital/werk/6439" target="_blank" rel="noopener">Quelle ↗</a>
-        <span data-ms-note></span>
-      </div>
-    </div>
-  </aside>`;
 
-  const view = html`<div class="reader${showPanel ? " has-panel" : ""}" data-tab="src">
+  const view = html`<div class="reader" data-tab="src">
     <aside class="reader__toc" id="readerToc" aria-label="Inhaltsverzeichnis">
       <div class="toc-filter">
         <label class="visually-hidden" for="tocFilter">Verzeichnis filtern</label>
@@ -203,16 +178,12 @@ export function renderArticle(ctx, id, params) {
     <article class="reader__main" aria-labelledby="artTitle">
       ${head}${tools}${tabs}${rows}${articleNotes}${source}${pager}
     </article>
-    ${panel}
   </div>`;
 
   // ------- Verhalten -------
   function mount(root) {
     const reader = $(".reader", root);
-    const panelEl = $("#msPanel", root);
     $("h1", root)?.setAttribute("id", "artTitle");
-    let viewer = null;
-    let currentPage = pageParam || a.pages[0]?.pageNumber || null;
 
     // Verzeichnis: aktuellen Eintrag sichtbar machen, Filter, Mobil-Schublade
     const cur = $(`[data-toc-id="${a.id}"]`, root);
@@ -238,67 +209,19 @@ export function renderArticle(ctx, id, params) {
       b.addEventListener("click", () => {
         reader.dataset.tab = b.dataset.tab;
         $$(".mobile-tabs [data-tab]", root).forEach((x) => x.setAttribute("aria-selected", String(x === b)));
-        if (b.dataset.tab === "ms") openPanel(currentPage, { persist: false });
       })
     );
 
-    // Panel
     function updateHash() {
       const s = location.hash.match(/[?&]s=(\d+)/)?.[1];
-      const qs = new URLSearchParams();
-      if (s) qs.set("s", s);
-      if (currentPage && !panelEl.hidden) qs.set("page", currentPage);
-      const str = qs.toString();
-      history.replaceState(null, "", `#article/${a.id}${str ? "?" + str : ""}`);
+      history.replaceState(null, "", `#article/${a.id}${s ? "?s=" + s : ""}`);
     }
-    function showPage(n) {
-      const p = data.pageByNumber.get(n);
-      if (!p) return;
-      currentPage = n;
-      $("[data-ms-label]", root).textContent = pageLabel(p);
-      $("[data-ms-big]", root).href = `#page/${n}`;
-      $("[data-ms-source]", root).href = p.sachsenDigitalUrl;
-      const mapped = a.pages.find((x) => x.pageNumber === n);
-      $("[data-ms-note]", root).textContent = mapped ? ` · ${mapped.mappingStatus === "verified" ? "Zuordnung bestätigt" : "Zuordnung unverifiziert"}` : " · nicht diesem Artikel zugeordnet";
-      if (!viewer) {
-        viewer = createViewer($("[data-ms-stage]", root), {
-          onLineClick: (sid) => linkSection(sid, { fromViewer: true }),
-          onShapeClick: (id) => {
-            location.hash = `#page/${currentPage}?note=${encodeURIComponent(id)}`;
-          },
-          onOpen: () => linkedSection && viewer.highlightSection(linkedSection, { focus: true }),
-        });
-        const pv = storage.get("ssl.viewer", {});
-        viewer.setVisibility({ text: !!pv.panelText, user: pv.user !== false, project: pv.project !== false, imported: pv.imported !== false });
-        viewer.setTextOpacity(pv.opacity ?? 0.78);
-        $("[data-ms-text]", root).setAttribute("aria-pressed", String(!!pv.panelText));
-      }
-      viewer.setPage(p, { lines: linesForPage(data, n), shapes: shapesForPage(ctx, n) });
-      updateHash();
-    }
+    // Großer Viewer: Seite öffnen, Paragraph dort markieren
+    const openBig = (n, sid) => n && (location.hash = `#page/${n}${sid ? "?s=" + encodeURIComponent(sid) : ""}`);
 
-    // Klick auf Original/Übertragung → Zeilen im Bild markieren; Klick auf Zeile im Bild → zum §
-    let linkedSection = null;
-    function linkSection(sid, { fromViewer = false } = {}) {
-      const t = data.sectionById.get(sid);
-      if (!t) return;
-      linkedSection = sid;
-      $$(".sec-row", root).forEach((r) => r.classList.toggle("is-linked", r.dataset.sid === sid));
-      if (fromViewer) {
-        const row = $(`.sec-row[data-sid="${CSS.escape(sid)}"]`, root);
-        if (row) row.scrollIntoView({ block: "center", behavior: "smooth" });
-        else if (t.articleId !== a.id) location.hash = `#article/${t.articleId}?s=${t.section}&page=${currentPage}`;
-        viewer?.highlightSection(sid, { focus: false });
-        return;
-      }
-      const pg = t.textRegions?.[0]?.pageNumber || t.pageNumber;
-      if (!pg) return;
-      if (panelEl.hidden || currentPage !== pg) openPanel(pg);
-      else viewer?.highlightSection(sid, { focus: true });
-    }
-    // Satz der Übertragung ↔ gelbe Markierung im Ausschnitt (und im Panel, falls offen)
+    // Satz der Übertragung ↔ gelbe Markierung im Ausschnitt und im Editionstext
     let pinned = null; // { sid, i }
-    function markSentence(row, i, { focus = false, pin = false } = {}) {
+    function markSentence(row, i) {
       const info = rowInfo.get(row.dataset.sid);
       if (!info) return;
       const it = i == null ? null : info.align.items[i];
@@ -306,25 +229,6 @@ export function renderArticle(ctx, id, params) {
       $$(".sent", row).forEach((s) => s.classList.toggle("is-on", !!it && Number(s.dataset.sent) === i));
       $$(".osent", row).forEach((s) => s.classList.toggle("is-on", !!it && Number(s.dataset.osent) === i));
       $$(".sent", row).forEach((s) => s.classList.toggle("is-pinned", !!pinned && pinned.sid === row.dataset.sid && Number(s.dataset.sent) === pinned.i));
-      if (!viewer || panelEl.hidden) return;
-      let page = currentPage;
-      let rects = it && info.byPage.get(page) ? rangeRects(info.byPage.get(page), it.o.start, it.o.end) : [];
-      if (pin && it && !rects.length) {
-        for (const [n, lines] of info.byPage) {
-          const r = rangeRects(lines, it.o.start, it.o.end);
-          if (r.length) {
-            page = n;
-            rects = r;
-            break;
-          }
-        }
-        if (page !== currentPage) {
-          linkedSection = row.dataset.sid;
-          showPage(page);
-        }
-      }
-      if (pin) viewer.highlightSection(row.dataset.sid, { focus: false });
-      viewer.setMarks(rects, { focus });
     }
     function restore(row) {
       if (pinned && pinned.sid === row.dataset.sid) markSentence(row, pinned.i);
@@ -355,24 +259,18 @@ export function renderArticle(ctx, id, params) {
       pinned = pinned && pinned.sid === row.dataset.sid && pinned.i === i ? null : { sid: row.dataset.sid, i };
       if (prevRow && prevRow !== row) markSentence(prevRow, null);
       $$(".sec-row", root).forEach((r) => r.classList.toggle("is-linked", !!pinned && r === row));
-      markSentence(row, pinned ? i : null, { focus: true, pin: !!pinned });
-      // Ausschnitt in Sicht bringen, falls er oberhalb aus dem Bild gescrollt ist
+      markSentence(row, pinned ? i : null);
+      // Ausschnitt in Sicht bringen, falls er aus dem Bild gescrollt ist
       const fig = $(".ms-crops", row);
-      if (pinned && fig && fig.getBoundingClientRect().bottom < 80) fig.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      if (pinned && fig) {
+        const r = fig.getBoundingClientRect();
+        if (r.bottom < 80 || r.top > innerHeight - 40) fig.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      }
     }
     root.addEventListener("click", (e) => {
       const s = sentOf(e);
       if (!s || e.target.closest("a, button")) return;
       pinSentence(s);
-    });
-    root.addEventListener("click", (e) => {
-      const fig = e.target.closest(".ms-crop");
-      if (!fig || e.target.closest("button")) return;
-      const row = fig.closest(".sec-row");
-      linkedSection = row.dataset.sid;
-      $$(".sec-row", root).forEach((r) => r.classList.toggle("is-linked", r === row));
-      if (matchMedia("(max-width: 900px)").matches) $('.mobile-tabs [data-tab="ms"]', root)?.click();
-      openPanel(Number(fig.dataset.page));
     });
     root.addEventListener("keydown", (e) => {
       const s = e.target.closest?.(".sec-row.has-crop .sent");
@@ -381,58 +279,19 @@ export function renderArticle(ctx, id, params) {
         pinSentence(s);
       }
     });
-
+    // Klick auf den Ausschnitt → Seite im großen Viewer
     root.addEventListener("click", (e) => {
-      const txt = e.target.closest(".sec-row.has-layout .src-text, .sec-row.has-layout:not(.has-crop) .trans-text");
-      if (!txt || e.target.closest("a, button, mark, .osent")) return;
-      if (matchMedia("(max-width: 900px)").matches) $('.mobile-tabs [data-tab="ms"]', root)?.click();
-      linkSection(txt.closest(".sec-row").dataset.sid);
+      const fig = e.target.closest(".ms-crop");
+      if (!fig || e.target.closest("a, button")) return;
+      openBig(Number(fig.dataset.page), fig.closest(".sec-row").dataset.sid);
     });
-    $("[data-ms-text]", root).addEventListener("click", (e) => {
-      const pv = storage.get("ssl.viewer", {});
-      pv.panelText = !pv.panelText;
-      storage.set("ssl.viewer", pv);
-      e.currentTarget.setAttribute("aria-pressed", String(pv.panelText));
-      viewer?.setVisibility({ text: pv.panelText });
-    });
-    function openPanel(n, { persist = true } = {}) {
-      panelEl.hidden = false;
-      reader.classList.add("has-panel");
-      const t = $("[data-panel-toggle]", root);
-      t.setAttribute("aria-pressed", "true");
-      t.textContent = "▣ Handschrift ausblenden";
-      if (persist) storage.set("ssl.panel", true);
-      if (n) showPage(n);
-      else {
-        $("[data-ms-label]", root).textContent = "Keine Seite zugeordnet";
-        const st = data.meta.structures.find((s) => s.label.includes(a.bookLabel.replace("Landrecht", "Landrecht")));
-        $("[data-ms-stage]", root).innerHTML = `<p class="notice" style="margin:16px">Für diesen Artikel ist noch keine Seite zugeordnet.${st ? ` Das Buch beginnt in der Handschrift auf <a href="#page/${st.firstPage}">Seite ${st.firstPage}</a>.` : ""}</p>`;
-      }
-    }
-    function closePanel() {
-      panelEl.hidden = true;
-      reader.classList.remove("has-panel");
-      const t = $("[data-panel-toggle]", root);
-      t.setAttribute("aria-pressed", "false");
-      t.textContent = "▣ Handschrift einblenden";
-      storage.set("ssl.panel", false);
-      updateHash();
-    }
-    $("[data-panel-toggle]", root).addEventListener("click", () => (panelEl.hidden ? openPanel(currentPage) : closePanel()));
+    // Paragraphen ohne Ausschnitt: Klick auf den Text → großer Viewer
     root.addEventListener("click", (e) => {
-      const b = e.target.closest("[data-panel-page]");
-      if (!b) return;
-      if (matchMedia("(max-width: 900px)").matches) {
-        $('.mobile-tabs [data-tab="ms"]', root)?.click();
-      }
-      openPanel(Number(b.dataset.panelPage));
+      const txt = e.target.closest(".sec-row.has-layout:not(.has-crop) .src-text, .sec-row.has-layout:not(.has-crop) .trans-text");
+      if (!txt || e.target.closest("a, button, mark")) return;
+      const t = data.sectionById.get(txt.closest(".sec-row").dataset.sid);
+      openBig(t?.textRegions?.[0]?.pageNumber || t?.pageNumber, t?.sectionId);
     });
-    $("[data-ms-prev]", root).addEventListener("click", () => currentPage > 1 && showPage(currentPage - 1));
-    $("[data-ms-next]", root).addEventListener("click", () => currentPage < data.pages.length && showPage(currentPage + 1));
-    $("[data-ms-zoomin]", root).addEventListener("click", () => viewer?.zoomIn());
-    $("[data-ms-zoomout]", root).addEventListener("click", () => viewer?.zoomOut());
-    $("[data-ms-full]", root).addEventListener("click", () => viewer?.toggleFullscreen($(".ms-panel", root)));
-    if (showPanel) openPanel(currentPage, { persist: false });
 
     // §-Links: ohne Neurendern springen
     root.addEventListener("click", (e) => {
@@ -451,12 +310,11 @@ export function renderArticle(ctx, id, params) {
       void row.offsetWidth;
       row.classList.add("is-flash");
     }
-    const s = params.get("s");
+    const s = params.get("s") || (pageParam && sections.find((x) => (x.pages || []).includes(pageParam))?.section);
     if (s) requestAnimationFrame(() => jumpTo(s));
     else if (matcher) requestAnimationFrame(() => $(".hit", root)?.closest(".sec-row")?.scrollIntoView({ block: "start" }));
     else window.scrollTo(0, 0);
 
-    return () => viewer?.destroy();
   }
 
   return { html: view, mount, title: `${a.label}${a.title && a.status !== "missing" ? " – " + a.title : ""}` };

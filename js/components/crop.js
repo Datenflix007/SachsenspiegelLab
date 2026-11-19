@@ -117,7 +117,7 @@ export function cropHtml(data, t, byPage) {
         <g class="crop-sec">${holes}</g>
         <g class="crop-marks"></g>
       </svg>
-      <button type="button" class="ms-crop__open" data-panel-page="${n}" title="Seite im Handschriften-Panel öffnen">${esc(p.displayLabel || "S. " + n)} ↗</button>
+      <a class="ms-crop__open" href="#page/${n}?s=${encodeURIComponent(t.sectionId)}" title="Seite im großen Handschriften-Viewer öffnen">${esc(p.displayLabel || "S. " + n)} ↗</a>
     </figure>`;
   }
   return out;
