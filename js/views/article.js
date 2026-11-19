@@ -1,12 +1,26 @@
 // Lese-Ansicht „Artikel“: Inhaltsverzeichnis | Original · Übertragung · Annotationen | Handschrift.
 
-import { html, raw, esc, statusBadge, MISSING_TEXT, storage, $, $$ } from "../util.js";
+import { html, raw, esc, toHtml, statusBadge, MISSING_TEXT, storage, $, $$ } from "../util.js";
 import { tocHtml } from "../components/toc.js";
 import { noteBlock } from "../components/notes.js";
 import { createViewer, altText, linesForPage } from "../components/viewer.js";
 import { shapesForPage } from "./manuscript.js";
 import { pageLabel } from "../data.js";
 import { makeMatcher, highlightAll } from "../search.js";
+import { alignSentences, sectionLines, cropHtml, rangeRects, paintCropMarks } from "../components/crop.js";
+
+/** Editionstext mit Satz-Spans (Bereiche aus der Satzzuordnung), Lücken bleiben schlichter Text. */
+function origWithSentences(text, items, fmt) {
+  let out = "";
+  let pos = 0;
+  items.forEach((it, i) => {
+    if (it.o.start > pos) out += toHtml(fmt(text.slice(pos, it.o.start)));
+    out += `<span class="osent" data-osent="${i}">${toHtml(fmt(text.slice(it.o.start, it.o.end)))}</span>`;
+    pos = Math.max(pos, it.o.end);
+  });
+  if (pos < text.length) out += toHtml(fmt(text.slice(pos)));
+  return raw(out);
+}
 
 const PROLOG_LABEL = { 1: "Prologus", 2: "Prologus (Forts.)", 3: "Textus prologi" };
 const secLabel = (a, n) => (a.id === "lr-prolog" ? PROLOG_LABEL[n] || `Teil ${n}` : `§ ${n}`);
@@ -36,6 +50,7 @@ export function renderArticle(ctx, id, params) {
     ? makeMatcher({ q: hl, mode: params.get("mode") || "text", synonyms: params.get("syn") !== "0", variants: params.get("var") === "1", wholeWord: params.get("ww") === "1" }, data.synonymGroups).regex
     : null;
   const fmt = (text) => raw(matcher ? highlightAll(text, matcher, esc) : esc(text));
+  const rowInfo = new Map();
 
   const isVerifiedMeta = a.metaStatus === "verified";
   const head = html`<header class="art-head">
@@ -83,19 +98,43 @@ export function renderArticle(ctx, id, params) {
 
   const rows = sections.length
     ? html`<div class="sec-cols-head" aria-hidden="true">
-          <div>Originaltext · Edition Lübben 1879</div><div>Übertragung · heutiges Deutsch</div><div>Annotationen</div>
+          <div>Original · Dresdner Bilderhandschrift</div><div>Übertragung · heutiges Deutsch</div><div>Annotationen</div>
         </div>
         <div class="sec-list">
           ${sections.map((t) => {
             const pg = data.pageByNumber.get(t.pageNumber);
-            return html`<section class="sec-row${t.textRegions?.length ? " has-layout" : ""}" id="s-${t.section}" data-sid="${t.sectionId}" aria-labelledby="sh-${t.section}" ${t.textRegions?.length ? html`title="Klicken: Stelle in der Handschrift markieren (Zuordnung geschätzt)"` : ""}>
+            const byPage = sectionLines(data, t);
+            const crops = byPage.size ? cropHtml(data, t, byPage) : "";
+            const align = crops && t.translation ? alignSentences(t.translation, t.plainText) : { exact: false, items: [] };
+            rowInfo.set(t.sectionId, { t, byPage, align });
+            const srcHtml = align.items.length ? origWithSentences(t.plainText, align.items, fmt) : fmt(t.plainText);
+            const transHtml = !t.translation
+              ? html`<span class="empty-text">Noch keine Übertragung.</span>`
+              : align.items.length
+                ? raw(
+                    align.items
+                      .map(
+                        (it, i) =>
+                          `<span class="sent" data-sent="${i}" tabindex="0" role="button" aria-label="Satz ${i + 1}: in der Handschrift markieren">${toHtml(fmt(t.translation.slice(it.t.start, it.t.end)))}</span>`
+                      )
+                      .join(" ")
+                  )
+                : fmt(t.translation);
+            return html`<section class="sec-row${t.textRegions?.length ? " has-layout" : ""}${crops ? " has-crop" : ""}" id="s-${t.section}" data-sid="${t.sectionId}" aria-labelledby="sh-${t.section}">
               <div class="sec-cell sec-cell--src">
                 <div class="sec-num">
                   <b id="sh-${t.section}"><a href="#article/${a.id}?s=${t.section}" data-sec-link="${t.section}" title="Link zu diesem Abschnitt">${secLabel(a, t.section)}</a></b>
                   ${pg ? html`<button type="button" class="chip chip--link" data-panel-page="${pg.pageNumber}" title="${t.pageMapping === "estimate-text-length" ? "Seite geschätzt" : "Seite abgeglichen"}">${pageLabel(pg)}${t.pageMapping === "estimate-text-length" ? " ≈" : ""}</button>` : ""}
                   ${statusBadge(t.status)}
                 </div>
-                <div class="src-text" lang="nds">${fmt(t.plainText)}</div>
+                ${crops
+                  ? html`<div class="ms-crops">${raw(crops)}</div>
+                      <p class="crop-note">Ausschnitt der Dresdner Bilderhandschrift · Abschnitt eingegrenzt, ${align.exact ? "Sätze nach Satzgrenzen zugeordnet" : "Satzmarkierung anteilig geschätzt"} – unverifiziert</p>
+                      <details class="src-details"${matcher ? " open" : ""}>
+                        <summary>Editionstext (Lübben 1879)</summary>
+                        <div class="src-text" lang="nds">${srcHtml}</div>
+                      </details>`
+                  : html`<div class="src-text" lang="nds">${srcHtml}</div>`}
                 <div class="sec-meta">
                   ${t.basis === "manuscript-reading" ? html`<span class="chip">Lesung aus der Handschrift</span>` : html`<span class="chip" title="${t.sourceNote}">Edition ${t.edition}</span>`}
                   ${t.ocr === "raw" ? html`<span class="chip" title="Automatisch bereinigter OCR-Text; Lesefehler möglich">OCR</span>` : t.ocr === "corrected" ? html`<span class="chip" title="OCR-Fehler berichtigt">OCR berichtigt</span>` : html`<span class="chip" title="OCR, Apparatreste entfernt">OCR bereinigt</span>`}
@@ -103,7 +142,7 @@ export function renderArticle(ctx, id, params) {
               </div>
               <div class="sec-cell sec-cell--trans">
                 <div class="sec-num"><span>${secLabel(a, t.section)} · Übertragung</span></div>
-                <div class="trans-text">${t.translation ? fmt(t.translation) : html`<span class="empty-text">Noch keine Übertragung.</span>`}</div>
+                <div class="trans-text">${transHtml}</div>
               </div>
               <div class="sec-cell sec-cell--notes">
                 <div class="sec-num"><span>${secLabel(a, t.section)} · Annotationen</span></div>
@@ -257,9 +296,95 @@ export function renderArticle(ctx, id, params) {
       if (panelEl.hidden || currentPage !== pg) openPanel(pg);
       else viewer?.highlightSection(sid, { focus: true });
     }
+    // Satz der Übertragung ↔ gelbe Markierung im Ausschnitt (und im Panel, falls offen)
+    let pinned = null; // { sid, i }
+    function markSentence(row, i, { focus = false, pin = false } = {}) {
+      const info = rowInfo.get(row.dataset.sid);
+      if (!info) return;
+      const it = i == null ? null : info.align.items[i];
+      paintCropMarks(row, info.byPage, it ? it.o : null);
+      $$(".sent", row).forEach((s) => s.classList.toggle("is-on", !!it && Number(s.dataset.sent) === i));
+      $$(".osent", row).forEach((s) => s.classList.toggle("is-on", !!it && Number(s.dataset.osent) === i));
+      $$(".sent", row).forEach((s) => s.classList.toggle("is-pinned", !!pinned && pinned.sid === row.dataset.sid && Number(s.dataset.sent) === pinned.i));
+      if (!viewer || panelEl.hidden) return;
+      let page = currentPage;
+      let rects = it && info.byPage.get(page) ? rangeRects(info.byPage.get(page), it.o.start, it.o.end) : [];
+      if (pin && it && !rects.length) {
+        for (const [n, lines] of info.byPage) {
+          const r = rangeRects(lines, it.o.start, it.o.end);
+          if (r.length) {
+            page = n;
+            rects = r;
+            break;
+          }
+        }
+        if (page !== currentPage) {
+          linkedSection = row.dataset.sid;
+          showPage(page);
+        }
+      }
+      if (pin) viewer.highlightSection(row.dataset.sid, { focus: false });
+      viewer.setMarks(rects, { focus });
+    }
+    function restore(row) {
+      if (pinned && pinned.sid === row.dataset.sid) markSentence(row, pinned.i);
+      else markSentence(row, null);
+    }
+    const sentOf = (e) => e.target.closest?.(".sec-row.has-crop .sent, .sec-row.has-crop .osent");
+    const idxOf = (s) => Number(s.dataset.sent ?? s.dataset.osent);
+    root.addEventListener("mouseover", (e) => {
+      const s = sentOf(e);
+      if (s) markSentence(s.closest(".sec-row"), idxOf(s));
+    });
+    root.addEventListener("mouseout", (e) => {
+      const s = sentOf(e);
+      if (s && !s.contains(e.relatedTarget)) restore(s.closest(".sec-row"));
+    });
+    root.addEventListener("focusin", (e) => {
+      const s = sentOf(e);
+      if (s) markSentence(s.closest(".sec-row"), idxOf(s));
+    });
+    root.addEventListener("focusout", (e) => {
+      const s = sentOf(e);
+      if (s) restore(s.closest(".sec-row"));
+    });
+    function pinSentence(s) {
+      const row = s.closest(".sec-row");
+      const i = idxOf(s);
+      const prevRow = pinned && $(`.sec-row[data-sid="${CSS.escape(pinned.sid)}"]`, root);
+      pinned = pinned && pinned.sid === row.dataset.sid && pinned.i === i ? null : { sid: row.dataset.sid, i };
+      if (prevRow && prevRow !== row) markSentence(prevRow, null);
+      $$(".sec-row", root).forEach((r) => r.classList.toggle("is-linked", !!pinned && r === row));
+      markSentence(row, pinned ? i : null, { focus: true, pin: !!pinned });
+      // Ausschnitt in Sicht bringen, falls er oberhalb aus dem Bild gescrollt ist
+      const fig = $(".ms-crops", row);
+      if (pinned && fig && fig.getBoundingClientRect().bottom < 80) fig.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    }
     root.addEventListener("click", (e) => {
-      const txt = e.target.closest(".sec-row.has-layout .src-text, .sec-row.has-layout .trans-text");
-      if (!txt || e.target.closest("a, button, mark")) return;
+      const s = sentOf(e);
+      if (!s || e.target.closest("a, button")) return;
+      pinSentence(s);
+    });
+    root.addEventListener("click", (e) => {
+      const fig = e.target.closest(".ms-crop");
+      if (!fig || e.target.closest("button")) return;
+      const row = fig.closest(".sec-row");
+      linkedSection = row.dataset.sid;
+      $$(".sec-row", root).forEach((r) => r.classList.toggle("is-linked", r === row));
+      if (matchMedia("(max-width: 900px)").matches) $('.mobile-tabs [data-tab="ms"]', root)?.click();
+      openPanel(Number(fig.dataset.page));
+    });
+    root.addEventListener("keydown", (e) => {
+      const s = e.target.closest?.(".sec-row.has-crop .sent");
+      if (s && (e.key === "Enter" || e.key === " ")) {
+        e.preventDefault();
+        pinSentence(s);
+      }
+    });
+
+    root.addEventListener("click", (e) => {
+      const txt = e.target.closest(".sec-row.has-layout .src-text, .sec-row.has-layout:not(.has-crop) .trans-text");
+      if (!txt || e.target.closest("a, button, mark, .osent")) return;
       if (matchMedia("(max-width: 900px)").matches) $('.mobile-tabs [data-tab="ms"]', root)?.click();
       linkSection(txt.closest(".sec-row").dataset.sid);
     });

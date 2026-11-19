@@ -140,7 +140,7 @@ export function createViewer(host, opts = {}) {
         ${ln.text ? `<text class="tl-text" x="${X(x) + 2 * unit()}" y="${Y(y) + Y(h) * 0.72}" font-size="${fs}" ${ln.text.length >= 28 || ln.partial ? `textLength="${Math.max(10, X(w) - 4 * unit())}" lengthAdjust="spacingAndGlyphs"` : ""}>${esc(ln.text)}</text>` : ""}
       </g>`;
     }
-    out += `</g><g class="sh-layer">`;
+    out += `</g><g class="mk-layer">${marksSvg()}</g><g class="sh-layer">`;
     // Formen
     for (const s of layers.shapes || []) {
       if (!vis[s.kind]) continue;
@@ -224,6 +224,18 @@ export function createViewer(host, opts = {}) {
       const lines = (layers.lines || []).filter((l) => l.sectionId === id);
       if (lines.length) fitTo(lines.flatMap((l) => [[l.rect[0], l.rect[1]], [l.rect[0] + l.rect[2], l.rect[1] + l.rect[3]]]), 0.35);
     }
+  }
+
+  // Gelbe Satzmarkierungen (Seitenanteile [x, y, w, h])
+  let marks = [];
+  function marksSvg() {
+    return marks.map(([x, y, w, h]) => `<rect class="mk" x="${X(x)}" y="${Y(y - h * 0.15)}" width="${X(w)}" height="${Y(h * 1.3)}" rx="${3 * unit()}"/>`).join("");
+  }
+  function setMarks(rects = [], { focus = false } = {}) {
+    marks = rects;
+    const g = svg.querySelector(".mk-layer");
+    if (g) g.innerHTML = marksSvg();
+    if (focus && rects.length) fitTo(rects.flatMap(([x, y, w, h]) => [[x, y], [x + w, y + h]]), 0.6);
   }
 
   function focusShape(id) {
@@ -326,6 +338,7 @@ export function createViewer(host, opts = {}) {
       style = { ...style, ...st };
     },
     highlightSection,
+    setMarks,
     highlightShape,
     focusShape,
     setTool,
@@ -367,6 +380,8 @@ export function linesForPage(data, pageNumber) {
         sectionId: t.sectionId,
         articleId: t.articleId,
         text: t.plainText.slice(r.from, r.to).trim(),
+        from: r.from,
+        to: r.to,
         label: `${a?.label || t.articleId} § ${t.section} (Zuordnung geschätzt)`,
         order: (data.articleIndex.get(t.articleId) ?? 0) * 100 + t.section,
       });
