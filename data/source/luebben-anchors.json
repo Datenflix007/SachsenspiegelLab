@@ -1,5 +1,5 @@
 {
- "_info": "Anker je § in Handschriftenreihenfolge (Lübben 1879). id = Artikel, s = §, a = Anfangsworte exakt wie im bereinigten OCR-Text. {end:true} schließt den geprüften Bereich ab. Geprüft: Prolog, LR I, LR II (2026-11-19).",
+ "_info": "Anker je § in Handschriftenreihenfolge (Lübben 1879). id = Artikel, s = §, a = Anfangsworte exakt wie im bereinigten OCR-Text. {end:true} schließt den geprüften Bereich ab. Geprüft: Prolog, LR I–III (2026-11-19).",
  "landrecht": [
   {
    "id": "lr-prolog",
@@ -2042,8 +2042,1344 @@
    "a": "Ridet lüde uan ener horch"
   },
   {
-   "end": true,
-   "a": "Vinme niner hande ungherichte"
+   "id": "lr-iii-1",
+   "s": 1,
+   "a": "Vinme niner hande ungherichte sal"
+  },
+  {
+   "id": "lr-iii-1",
+   "s": 2,
+   "a": "Alle de deme ruchte uolghet,"
+  },
+  {
+   "id": "lr-iii-2",
+   "s": 1,
+   "a": "Papen unde ioden, de wapen"
+  },
+  {
+   "id": "lr-iii-3",
+   "s": 1,
+   "a": "Men ne sal ouer nin"
+  },
+  {
+   "id": "lr-iii-4",
+   "s": 1,
+   "a": "Swe so weder eschet, dat"
+  },
+  {
+   "id": "lr-iii-4",
+   "s": 2,
+   "a": "Svve so copingbe becant, de"
+  },
+  {
+   "id": "lr-iii-5",
+   "s": 1,
+   "a": "Swat men enen manne lent"
+  },
+  {
+   "id": "lr-iii-5",
+   "s": 2,
+   "a": "Leninghe mot he oc den"
+  },
+  {
+   "id": "lr-iii-5",
+   "s": 3,
+   "a": "Swelich man den anderen dot"
+  },
+  {
+   "id": "lr-iii-5",
+   "s": 4,
+   "a": "Swat men auer den manne"
+  },
+  {
+   "id": "lr-iii-5",
+   "s": 5,
+   "a": "Steift auer pert eder ue"
+  },
+  {
+   "id": "lr-iii-6",
+   "s": 1,
+   "a": "Vordobelet en knecht sines herren"
+  },
+  {
+   "id": "lr-iii-6",
+   "s": 2,
+   "a": "Vordobelet he auer sines sulues"
+  },
+  {
+   "id": "lr-iii-6",
+   "s": 3,
+   "a": "Wirt auer eme sin pert"
+  },
+  {
+   "id": "lr-iii-7",
+   "s": 1,
+   "a": "De iode ne rnot des"
+  },
+  {
+   "id": "lr-iii-7",
+   "s": 2,
+   "a": "Sleyt de iode enen kerstenen"
+  },
+  {
+   "id": "lr-iii-7",
+   "s": 3,
+   "a": "Sleyt oc de kerstene enen"
+  },
+  {
+   "id": "lr-iii-7",
+   "s": 4,
+   "a": "Coft §-4. de iode"
+  },
+  {
+   "id": "lr-iii-8",
+   "s": 1,
+   "a": "Men seghet, dat borghe unde"
+  },
+  {
+   "id": "lr-iii-9",
+   "s": 1,
+   "a": "Swe borghe wirt enes mannes"
+  },
+  {
+   "id": "lr-iii-9",
+   "s": 2,
+   "a": "To der suluen wis sal"
+  },
+  {
+   "id": "lr-iii-9",
+   "s": 3,
+   "a": "Swe auer borghe wirt enes"
+  },
+  {
+   "id": "lr-iii-9",
+   "s": 4,
+   "a": "8wc auer borghet enen iianghcncn"
+  },
+  {
+   "id": "lr-iii-9",
+   "s": 5,
+   "a": "Swelik man enen beclagheden man"
+  },
+  {
+   "id": "lr-iii-10",
+   "s": 1,
+   "a": "Sal en man to beschedener"
+  },
+  {
+   "id": "lr-iii-10",
+   "s": 2,
+   "a": "Is he auer dor schult"
+  },
+  {
+   "id": "lr-iii-10",
+   "s": 3,
+   "a": "Sterft perd eder ue, dat"
+  },
+  {
+   "id": "lr-iii-11",
+   "s": 1,
+   "a": "Swe auer uor ede borgben"
+  },
+  {
+   "id": "lr-iii-12",
+   "s": 1,
+   "a": "Swelik man uppen anderen claghet,"
+  },
+  {
+   "id": "lr-iii-12",
+   "s": 2,
+   "a": "Claghet oc uele lüde up"
+  },
+  {
+   "id": "lr-iii-13",
+   "s": 1,
+   "a": "Wirt en man uor gherichtc"
+  },
+  {
+   "id": "lr-iii-14",
+   "s": 1,
+   "a": "Ofte de man an sines"
+  },
+  {
+   "id": "lr-iii-14",
+   "s": 2,
+   "a": "We so dor ungheriehte beclaghet"
+  },
+  {
+   "id": "lr-iii-15",
+   "s": 1,
+   "a": "Spreket twe up en göd"
+  },
+  {
+   "id": "lr-iii-15",
+   "s": 2,
+   "a": "Swe so berwede eder rade"
+  },
+  {
+   "id": "lr-iii-15",
+   "s": 3,
+   "a": "Is en göd uan twen"
+  },
+  {
+   "id": "lr-iii-15",
+   "s": 4,
+   "a": "Swe so berwede uorderet, de"
+  },
+  {
+   "id": "lr-iii-16",
+   "s": 1,
+   "a": "De richtere noch nin man"
+  },
+  {
+   "id": "lr-iii-16",
+   "s": 2,
+   "a": "Rechtelose lüde ne solen ninen"
+  },
+  {
+   "id": "lr-iii-16",
+   "s": 3,
+   "a": "Des rikes achteren unde uoruesten"
+  },
+  {
+   "id": "lr-iii-17",
+   "s": 1,
+   "a": "En uoruestet man mot sie"
+  },
+  {
+   "id": "lr-iii-17",
+   "s": 2,
+   "a": "Borghen sal he auer setten,"
+  },
+  {
+   "id": "lr-iii-18",
+   "s": 1,
+   "a": "Swe so uor gherichte seghet,"
+  },
+  {
+   "id": "lr-iii-18",
+   "s": 2,
+   "a": "Swe auer under coninghes banne"
+  },
+  {
+   "id": "lr-iii-19",
+   "s": 1,
+   "a": "Vrie lüde unde des rikes"
+  },
+  {
+   "id": "lr-iii-20",
+   "s": 1,
+   "a": "Swe des andren Lant unwetende"
+  },
+  {
+   "id": "lr-iii-20",
+   "s": 2,
+   "a": "He mot oc wol panden"
+  },
+  {
+   "id": "lr-iii-20",
+   "s": 3,
+   "a": "Mit erende ne mach nin"
+  },
+  {
+   "id": "lr-iii-21",
+   "s": 1,
+   "a": "Spreket twe man en god"
+  },
+  {
+   "id": "lr-iii-21",
+   "s": 2,
+   "a": "Nis dat den nmmesetenen nicht"
+  },
+  {
+   "id": "lr-iii-22",
+   "s": 1,
+   "a": "Swe den andren lent perde"
+  },
+  {
+   "id": "lr-iii-22",
+   "s": 2,
+   "a": "Duue noch roucs ne mach"
+  },
+  {
+   "id": "lr-iii-23",
+   "s": 1,
+   "a": "Swe herberget unde spiset witliken"
+  },
+  {
+   "id": "lr-iii-24",
+   "s": 1,
+   "a": "Men ne mach nemendc mit"
+  },
+  {
+   "id": "lr-iii-25",
+   "s": 1,
+   "a": "Sterft en richtere, wat bi"
+  },
+  {
+   "id": "lr-iii-25",
+   "s": 2,
+   "a": "Binnen markete noch in utwendinghen"
+  },
+  {
+   "id": "lr-iii-25",
+   "s": 3,
+   "a": "Wat baten deme richte schut,"
+  },
+  {
+   "id": "lr-iii-26",
+   "s": 1,
+   "a": "De coningh is en mene"
+  },
+  {
+   "id": "lr-iii-26",
+   "s": 2,
+   "a": "In ninen utwendinghen richte ne"
+  },
+  {
+   "id": "lr-iii-26",
+   "s": 3,
+   "a": "Desen stol erft de uader"
+  },
+  {
+   "id": "lr-iii-27",
+   "s": 1,
+   "a": "Swe en wif to echte"
+  },
+  {
+   "id": "lr-iii-28",
+   "s": 1,
+   "a": "Swenne men unecht schedet uan"
+  },
+  {
+   "id": "lr-iii-28",
+   "s": 2,
+   "a": "Sprict men auer, dat he"
+  },
+  {
+   "id": "lr-iii-29",
+   "s": 1,
+   "a": "Nin schepenbare man ne darf"
+  },
+  {
+   "id": "lr-iii-29",
+   "s": 2,
+   "a": "Swar so twe man en"
+  },
+  {
+   "id": "lr-iii-30",
+   "s": 1,
+   "a": "Vorespreken sal he daruen, de"
+  },
+  {
+   "id": "lr-iii-30",
+   "s": 2,
+   "a": "De richtete sal lik richtere"
+  },
+  {
+   "id": "lr-iii-31",
+   "s": 1,
+   "a": "Swat en man den andren"
+  },
+  {
+   "id": "lr-iii-31",
+   "s": 2,
+   "a": "Sterft auer ghene, uppe den"
+  },
+  {
+   "id": "lr-iii-31",
+   "s": 3,
+   "a": "Swe den anderen uat unde"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 1,
+   "a": "Swelik incomen man sie uri"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 2,
+   "a": "Swe sie uri seghet unde"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 3,
+   "a": "Sprict he auer, dat he"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 4,
+   "a": "Sprict ene en andere here"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 5,
+   "a": "Mach auer ghene sulf seuede"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 6,
+   "a": "We de were heuet an"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 7,
+   "a": "Swe sie uor gherichte to"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 8,
+   "a": "Behalt ene auer sin here"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 9,
+   "a": "Swe so enen herren sie"
+  },
+  {
+   "id": "lr-iii-32",
+   "s": 10,
+   "a": "Vppe wen de claghere böte"
+  },
+  {
+   "id": "lr-iii-33",
+   "s": 1,
+   "a": "lewelik man heuet"
+  },
+  {
+   "id": "lr-iii-33",
+   "s": 2,
+   "a": "lewelich man mot oc antworden"
+  },
+  {
+   "id": "lr-iii-33",
+   "s": 3,
+   "a": "He mot antworden umme alle"
+  },
+  {
+   "id": "lr-iii-33",
+   "s": 4,
+   "a": "Sprict men oc sin eghen"
+  },
+  {
+   "id": "lr-iii-33",
+   "s": 5,
+   "a": "De coninch sal oc richten"
+  },
+  {
+   "id": "lr-iii-34",
+   "s": 1,
+   "a": "Swen en richtere uoruest unde"
+  },
+  {
+   "id": "lr-iii-34",
+   "s": 2,
+   "a": "Swe so to achte wirt"
+  },
+  {
+   "id": "lr-iii-34",
+   "s": 3,
+   "a": "Swe sie ut der achte"
+  },
+  {
+   "id": "lr-iii-35",
+   "s": 1,
+   "a": "Swe mit der hanthaften dat"
+  },
+  {
+   "id": "lr-iii-35",
+   "s": 2,
+   "a": "Vint auer en man sin"
+  },
+  {
+   "id": "lr-iii-36",
+   "s": 1,
+   "a": "Swene en man uor gherichte"
+  },
+  {
+   "id": "lr-iii-36",
+   "s": 2,
+   "a": "Wirt auer de uredebrekere gbeuangben"
+  },
+  {
+   "id": "lr-iii-37",
+   "s": 1,
+   "a": "Swe den anderen sleyt eder"
+  },
+  {
+   "id": "lr-iii-37",
+   "s": 2,
+   "a": "Swe sie uor gherichte to"
+  },
+  {
+   "id": "lr-iii-37",
+   "s": 3,
+   "a": "De man ne missedot nicht,"
+  },
+  {
+   "id": "lr-iii-37",
+   "s": 4,
+   "a": "Swe enes anderen mannes ripe"
+  },
+  {
+   "id": "lr-iii-38",
+   "s": 1,
+   "a": "Swat de man iar unde"
+  },
+  {
+   "id": "lr-iii-38",
+   "s": 2,
+   "a": "Men ne sal dat wif"
+  },
+  {
+   "id": "lr-iii-38",
+   "s": 3,
+   "a": "Mosdele unde morgengaue ne erft"
+  },
+  {
+   "id": "lr-iii-38",
+   "s": 4,
+   "a": "Dat wif ne erft oc"
+  },
+  {
+   "id": "lr-iii-38",
+   "s": 5,
+   "a": "Sterft des mannes wif, swelicb"
+  },
+  {
+   "id": "lr-iii-39",
+   "s": 1,
+   "a": "Swe so schult up enen"
+  },
+  {
+   "id": "lr-iii-39",
+   "s": 2,
+   "a": "Lat he ene eder untlopt"
+  },
+  {
+   "id": "lr-iii-39",
+   "s": 3,
+   "a": "Swen men uor gherichte schuldeghet"
+  },
+  {
+   "id": "lr-iii-39",
+   "s": 4,
+   "a": "Gad um auer de scult"
+  },
+  {
+   "id": "lr-iii-40",
+   "s": 1,
+   "a": "Swen men icht geldcn sal,"
+  },
+  {
+   "id": "lr-iii-40",
+   "s": 2,
+   "a": "8we so penningbe eder suluer"
+  },
+  {
+   "id": "lr-iii-40",
+   "s": 3,
+   "a": "Men mot suluer wol gelden"
+  },
+  {
+   "id": "lr-iii-40",
+   "s": 4,
+   "a": "Sodane penninghe eder suluer alse"
+  },
+  {
+   "id": "lr-iii-41",
+   "s": 1,
+   "a": "Iewelkes gheuanghenen dat unde louede"
+  },
+  {
+   "id": "lr-iii-41",
+   "s": 2,
+   "a": "Swat en man sweret unde"
+  },
+  {
+   "id": "lr-iii-41",
+   "s": 3,
+   "a": "Swar men den man untruweliken"
+  },
+  {
+   "id": "lr-iii-41",
+   "s": 4,
+   "a": "Swelik man uor gherichte gelt"
+  },
+  {
+   "id": "lr-iii-42",
+   "s": 1,
+   "a": "Gol heuet den man na"
+  },
+  {
+   "id": "lr-iii-42",
+   "s": 2,
+   "a": "Nu ne latet gikz) nicht"
+  },
+  {
+   "id": "lr-iii-42",
+   "s": 3,
+   "a": "Do men erst recht satte,"
+  },
+  {
+   "id": "lr-iii-42",
+   "s": 4,
+   "a": "Oc hebbe wi orcundes mer."
+  },
+  {
+   "id": "lr-iii-42",
+   "s": 5,
+   "a": "Oc gaf uns got orcunde"
+  },
+  {
+   "id": "lr-iii-42",
+   "s": 6,
+   "a": "Na rechter warheyt so heuet"
+  },
+  {
+   "id": "lr-iii-43",
+   "s": 1,
+   "a": "Swes sie de man mit"
+  },
+  {
+   "id": "lr-iii-43",
+   "s": 2,
+   "a": "Swes he sie auer underwint"
+  },
+  {
+   "id": "lr-iii-44",
+   "s": 1,
+   "a": "To babilonie hof sie dat"
+  },
+  {
+   "id": "lr-iii-44",
+   "s": 2,
+   "a": "Vnse uorderen, de her to"
+  },
+  {
+   "id": "lr-iii-44",
+   "s": 3,
+   "a": "Do er so uele nicht"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 1,
+   "a": "Nu uornemet aller lüde weregbelt"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 2,
+   "a": "Iewelik wif heuet eres mannes"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 3,
+   "a": "De man is oc uoremunde"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 4,
+   "a": "De berghelden unde de plechaften"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 5,
+   "a": "Uuder den mot men wol"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 6,
+   "a": "Andren vri luden, de lantseten"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 8,
+   "a": "Twene wullene hantschen unde eyn"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 9,
+   "a": "Papen kindren unde al den,"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 10,
+   "a": "Vnechter lüde böte heuet denen"
+  },
+  {
+   "id": "lr-iii-45",
+   "s": 11,
+   "a": "Ane wereghelt sin unechte lüde."
+  },
+  {
+   "id": "lr-iii-46",
+   "s": 1,
+   "a": "An uarenden wiuen unde an"
+  },
+  {
+   "id": "lr-iii-46",
+   "s": 2,
+   "a": "Vmme ene wunden ne mach"
+  },
+  {
+   "id": "lr-iii-47",
+   "s": 1,
+   "a": "Swe den andren des sines"
+  },
+  {
+   "id": "lr-iii-47",
+   "s": 2,
+   "a": "XXV* Singhende uoghele unde kremmende,"
+  },
+  {
+   "id": "lr-iii-48",
+   "s": 1,
+   "a": "Swe des andren ue dodet,"
+  },
+  {
+   "id": "lr-iii-48",
+   "s": 2,
+   "a": "Swe auer dankes unde ane"
+  },
+  {
+   "id": "lr-iii-48",
+   "s": 3,
+   "a": "Blift auer en ue dot"
+  },
+  {
+   "id": "lr-iii-48",
+   "s": 4,
+   "a": "Belemel auer en man enen hunt"
+  },
+  {
+   "id": "lr-iii-49",
+   "s": 1,
+   "a": "Swelich hunt to uelde gat,"
+  },
+  {
+   "id": "lr-iii-50",
+   "s": 1,
+   "a": "Swar de dudesche man"
+  },
+  {
+   "id": "lr-iii-51",
+   "s": 1,
+   "a": "Nu uornemet umme uoghele unde"
+  },
+  {
+   "id": "lr-iii-51",
+   "s": 2,
+   "a": "Riddere perdevi, orsen, telderen unde"
+  },
+  {
+   "id": "lr-iii-52",
+   "s": 1,
+   "a": "De dudeschen solen dorcb recht"
+  },
+  {
+   "id": "lr-iii-52",
+   "s": 2,
+   "a": "Den coning » keset men"
+  },
+  {
+   "id": "lr-iii-52",
+   "s": 3,
+   "a": "In de uerden haut ne"
+  },
+  {
+   "id": "lr-iii-53",
+   "s": 1,
+   "a": "Sassen, beyeren, uranken, swauen, dit"
+  },
+  {
+   "id": "lr-iii-53",
+   "s": 2,
+   "a": "lewelich richtere heuet wedde in"
+  },
+  {
+   "id": "lr-iii-53",
+   "s": 3,
+   "a": "Hir umme seghet men, dat"
+  },
+  {
+   "id": "lr-iii-54",
+   "s": 1,
+   "a": "Len ane richte ne mot"
+  },
+  {
+   "id": "lr-iii-54",
+   "s": 2,
+   "a": "Alse men den coningh kuset,"
+  },
+  {
+   "id": "lr-iii-54",
+   "s": 3,
+   "a": "Larnen man unde meselsuchteghen unde"
+  },
+  {
+   "id": "lr-iii-54",
+   "s": 4,
+   "a": "De coninch sal hebben urankes"
+  },
+  {
+   "id": "lr-iii-55",
+   "s": 1,
+   "a": "Ouer der uorsten lif ne"
+  },
+  {
+   "id": "lr-iii-55",
+   "s": 2,
+   "a": "Ouer schepenbare lüde, wau de"
+  },
+  {
+   "id": "lr-iii-56",
+   "s": 1,
+   "a": "Swan de uronen bode uan"
+  },
+  {
+   "id": "lr-iii-56",
+   "s": 2,
+   "a": "So heuet de urone bode"
+  },
+  {
+   "id": "lr-iii-56",
+   "s": 3,
+   "a": "Sin recht is oc de"
+  },
+  {
+   "id": "lr-iii-57",
+   "s": 1,
+   "a": "Den keyser ne mot de"
+  },
+  {
+   "id": "lr-iii-57",
+   "s": 2,
+   "a": "In des keyseres core sal"
+  },
+  {
+   "id": "lr-iii-58",
+   "s": 1,
+   "a": "Des rikes uorsten ne solen"
+  },
+  {
+   "id": "lr-iii-58",
+   "s": 2,
+   "a": "It nis nin uanenlen, dar"
+  },
+  {
+   "id": "lr-iii-59",
+   "s": 1,
+   "a": "Swen men kuset bischope eder"
+  },
+  {
+   "id": "lr-iii-59",
+   "s": 2,
+   "a": "Swar men biscope eder abbate"
+  },
+  {
+   "id": "lr-iii-60",
+   "s": 1,
+   "a": "De keyser lent al gestlic"
+  },
+  {
+   "id": "lr-iii-60",
+   "s": 2,
+   "a": "In welike stat des rikes"
+  },
+  {
+   "id": "lr-iii-60",
+   "s": 3,
+   "a": "Swen de coningh oc aller"
+  },
+  {
+   "id": "lr-iii-61",
+   "s": 1,
+   "a": "Ouer achteyn weken sal de"
+  },
+  {
+   "id": "lr-iii-61",
+   "s": 2,
+   "a": "It ne mach niman schultete"
+  },
+  {
+   "id": "lr-iii-61",
+   "s": 3,
+   "a": "De bodel sal to minnest"
+  },
+  {
+   "id": "lr-iii-61",
+   "s": 4,
+   "a": "Gherichtes solen alle Warden, de"
+  },
+  {
+   "id": "lr-iii-62",
+   "s": 1,
+   "a": "Vif stede, de palenze betet,"
+  },
+  {
+   "id": "lr-iii-62",
+   "s": 2,
+   "a": "Seuen uanenlen sint oc in"
+  },
+  {
+   "id": "lr-iii-62",
+   "s": 3,
+   "a": "Oc sin twe ercehiscopedom to"
+  },
+  {
+   "id": "lr-iii-63",
+   "s": 1,
+   "a": "Constantin de coningh gaf den"
+  },
+  {
+   "id": "lr-iii-63",
+   "s": 2,
+   "a": "Ban schadet der seien unde"
+  },
+  {
+   "id": "lr-iii-63",
+   "s": 3,
+   "a": "De uestinghe nimpt ene manne"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 1,
+   "a": "But de coningh des rikes"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 2,
+   "a": "De uorsten, de uanenlen hebbet,"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 3,
+   "a": "Den hertoghen weddet iewelich edele"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 4,
+   "a": "Sestich schillingbe weddet men deme"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 5,
+   "a": "Coninghes ban ne mot niman lenen"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 6,
+   "a": "Palenzgreue unde lantgreue dinghet under"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 7,
+   "a": "lewelken maregreuen drittich, de dinghet"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 8,
+   "a": "Den schalteten weddet men achte"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 9,
+   "a": "Den belenden manne, de des"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 10,
+   "a": "Derne gogreuen ses penninghe oder"
+  },
+  {
+   "id": "lr-iii-64",
+   "s": 11,
+   "a": "Den burmestere weddet men ses"
+  },
+  {
+   "id": "lr-iii-65",
+   "s": 1,
+   "a": "De maregreue dinghet bi sines"
+  },
+  {
+   "id": "lr-iii-65",
+   "s": 2,
+   "a": "Wirt cn man sines ghenotes"
+  },
+  {
+   "id": "lr-iii-66",
+   "s": 1,
+   "a": "Men ne mot ninen market"
+  },
+  {
+   "id": "lr-iii-66",
+   "s": 2,
+   "a": "Men ne mot nine horch"
+  },
+  {
+   "id": "lr-iii-66",
+   "s": 3,
+   "a": "Ane sin orlof mot men"
+  },
+  {
+   "id": "lr-iii-66",
+   "s": 4,
+   "a": "Men ne mot nine boreh"
+  },
+  {
+   "id": "lr-iii-67",
+   "s": 1,
+   "a": "Swc den andren sine horch"
+  },
+  {
+   "id": "lr-iii-68",
+   "s": 1,
+   "a": "De richtere sal to ersten"
+  },
+  {
+   "id": "lr-iii-68",
+   "s": 2,
+   "a": "Al de in den richte"
+  },
+  {
+   "id": "lr-iii-69",
+   "s": 1,
+   "a": "Swar men dinghet bi coninghes"
+  },
+  {
+   "id": "lr-iii-69",
+   "s": 2,
+   "a": "Ordel solen se uinden uastende"
+  },
+  {
+   "id": "lr-iii-69",
+   "s": 3,
+   "a": "Sittende solen se ordele uinden,"
+  },
+  {
+   "id": "lr-iii-70",
+   "s": 1,
+   "a": "Swar men nicht ne dinghet"
+  },
+  {
+   "id": "lr-iii-70",
+   "s": 2,
+   "a": "Wird auer de sasse eder"
+  },
+  {
+   "id": "lr-iii-71",
+   "s": 1,
+   "a": "Iewelik man, den men schuldeghet,"
+  },
+  {
+   "id": "lr-iii-71",
+   "s": 2,
+   "a": "Heuet auer he in dudeschen"
+  },
+  {
+   "id": "lr-iii-72",
+   "s": 1,
+   "a": "Echt kint unde vri behalt"
+  },
+  {
+   "id": "lr-iii-73",
+   "s": 1,
+   "a": "Nimpt auer en vri schepenbare"
+  },
+  {
+   "id": "lr-iii-73",
+   "s": 2,
+   "a": "Dit sulue recht helden oc"
+  },
+  {
+   "id": "lr-iii-73",
+   "s": 3,
+   "a": "Men seghet, dat alle wendinnen"
+  },
+  {
+   "id": "lr-iii-74",
+   "s": 1,
+   "a": "Wirt en wif uan eren"
+  },
+  {
+   "id": "lr-iii-75",
+   "s": 1,
+   "a": "In egbene is recht liftucht"
+  },
+  {
+   "id": "lr-iii-75",
+   "s": 2,
+   "a": "Len bi eres mannes liue"
+  },
+  {
+   "id": "lr-iii-75",
+   "s": 3,
+   "a": "Neweder man noch wif ne"
+  },
+  {
+   "id": "lr-iii-76",
+   "s": 1,
+   "a": "Sterft den wiue ir man"
+  },
+  {
+   "id": "lr-iii-76",
+   "s": 2,
+   "a": "Hadde auer dat wif man"
+  },
+  {
+   "id": "lr-iii-76",
+   "s": 3,
+   "a": "Nimpt en man ene wedewen,"
+  },
+  {
+   "id": "lr-iii-76",
+   "s": 4,
+   "a": "Sterft auer dat wif na"
+  },
+  {
+   "id": "lr-iii-76",
+   "s": 5,
+   "a": "Swat oc tinses eder pleghe"
+  },
+  {
+   "id": "lr-iii-77",
+   "s": 1,
+   "a": "Dot en man sin lant"
+  },
+  {
+   "id": "lr-iii-77",
+   "s": 2,
+   "a": "De eruen solen oc uan"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 1,
+   "a": "De coninch unde en iewelich richtere"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 2,
+   "a": "De man mot oc wol"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 3,
+   "a": "De man mot wol volghen"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 4,
+   "a": "De man mot wol uolgen"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 5,
+   "a": "lewelich man mot wol helpen"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 6,
+   "a": "Wundet en man sinen herren,"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 7,
+   "a": "Sinen wechuerdighen ghesellen unde sinen"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 8,
+   "a": "Socht de herrc den man"
+  },
+  {
+   "id": "lr-iii-78",
+   "s": 9,
+   "a": "Swar auer en man in"
+  },
+  {
+   "id": "lr-iii-79",
+   "s": 1,
+   "a": "Swar bure en nye dorp"
+  },
+  {
+   "id": "lr-iii-79",
+   "s": 2,
+   "a": "Nin vtwendich man is plichtich"
+  },
+  {
+   "id": "lr-iii-79",
+   "s": 3,
+   "a": "Swar de man claghet, dar"
+  },
+  {
+   "id": "lr-iii-80",
+   "s": 1,
+   "a": "Ersterft en eghen uan enen"
+  },
+  {
+   "id": "lr-iii-80",
+   "s": 2,
+   "a": "Lat de coningh eder en"
+  },
+  {
+   "id": "lr-iii-81",
+   "s": 1,
+   "a": "Togad auer de sehe- IU,"
+  },
+  {
+   "id": "lr-iii-81",
+   "s": 2,
+   "a": "Denestman eruet unde nemet erue"
+  },
+  {
+   "id": "lr-iii-82",
+   "s": 1,
+   "a": "Swe sin recht uorluset uor"
+  },
+  {
+   "id": "lr-iii-82",
+   "s": 2,
+   "a": "Swe cn god enen anderen"
+  },
+  {
+   "id": "lr-iii-83",
+   "s": 1,
+   "a": "L Swat men manne eder"
+  },
+  {
+   "id": "lr-iii-83",
+   "s": 2,
+   "a": "Swe en god lent eder"
+  },
+  {
+   "id": "lr-iii-83",
+   "s": 3,
+   "a": "Swe eghen eder uarende haue"
+  },
+  {
+   "id": "lr-iii-84",
+   "s": 1,
+   "a": "Swe den andren god weldcchliken"
+  },
+  {
+   "id": "lr-iii-84",
+   "s": 2,
+   "a": "Dodet de man sinen herren,"
+  },
+  {
+   "id": "lr-iii-84",
+   "s": 3,
+   "a": "Dodet oc en man sinen"
+  },
+  {
+   "id": "lr-iii-85",
+   "s": 1,
+   "a": "Swar lüde mer den en"
+  },
+  {
+   "id": "lr-iii-85",
+   "s": 2,
+   "a": "Louet oc uele lüde ene"
+  },
+  {
+   "id": "lr-iii-85",
+   "s": 3,
+   "a": "Swe borghen sat also, dat"
+  },
+  {
+   "id": "lr-iii-85",
+   "s": 4,
+   "a": "8we auer borghe wirt uor"
+  },
+  {
+   "id": "lr-iii-86",
+   "s": 1,
+   "a": "Swe sinen buren ghemene af"
+  },
+  {
+   "id": "lr-iii-86",
+   "s": 2,
+   "a": "To der suluen wis beteret"
+  },
+  {
+   "id": "lr-iii-87",
+   "s": 1,
+   "a": "Swelich leye enen andren leyen"
+  },
+  {
+   "id": "lr-iii-87",
+   "s": 2,
+   "a": "Dit sulue mot clon en"
+  },
+  {
+   "id": "lr-iii-87",
+   "s": 3,
+   "a": "Rechtes weyghert de richtere, wen"
+  },
+  {
+   "id": "lr-iii-87",
+   "s": 4,
+   "a": "Rechtes weyghert de man, uppe"
+  },
+  {
+   "id": "lr-iii-88",
+   "s": 1,
+   "a": "Swat en man mit den"
+  },
+  {
+   "id": "lr-iii-88",
+   "s": 2,
+   "a": "Swcn men auer enen uoruesten"
+  },
+  {
+   "id": "lr-iii-88",
+   "s": 3,
+   "a": "Swcn auer de man besät"
+  },
+  {
+   "id": "lr-iii-88",
+   "s": 4,
+   "a": "Dus sal oc de clagherc"
+  },
+  {
+   "id": "lr-iii-88",
+   "s": 5,
+   "a": "Swelikes tughes auer de man"
+  },
+  {
+   "id": "lr-iii-89",
+   "s": 1,
+   "a": "Swe des andren swert eder"
+  },
+  {
+   "id": "lr-iii-90",
+   "s": 1,
+   "a": "Wirt en man ghemordet Uppen"
+  },
+  {
+   "id": "lr-iii-90",
+   "s": 2,
+   "a": "Wirt oc enen manne sin"
+  },
+  {
+   "id": "lr-iii-90",
+   "s": 3,
+   "a": "Valt sie en man eder"
+  },
+  {
+   "id": "lr-iii-91",
+   "s": 1,
+   "a": "Herberghet oc en man lüde,"
+  },
+  {
+   "id": "lr-iii-91",
+   "s": 2,
+   "a": "De richtere ne mach nemende"
+  },
+  {
+   "id": "lr-iii-91",
+   "s": 3,
+   "a": "He ne mot nin bot"
   }
  ],
  "lehnrecht": []

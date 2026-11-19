@@ -1,0 +1,408 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR III 31–60. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-iii-31": {
+      "title": "Klagen gegen und durch Erben",
+      "metaStatus": "draft",
+      "keyPoints": ["Schulden und Genommenes fordert man auch von den Erben, wenn der Gläubiger stirbt", "Stirbt der Beklagte, haften die Erben nur, wenn sie das streitige Gut haben", "Für Fangen und Verwunden ohne Totschlag haften Erben nicht, wenn nicht vorher geklagt wurde"],
+      "significance": "Vererblichkeit von Klagen und Haftung.",
+      "keywords": ["Erben", "Klage", "Schuld", "Haftung", "Tod"],
+      "synonyms": ["Erbenhaftung", "Passivlegitimation"],
+      "sections": {
+        "1": "Was ein Mann dem anderen schuldet oder ihm nimmt, dafür muss man dessen Erben antworten, wenn jener stirbt.",
+        "2": "Stirbt aber der, gegen den die Klage geht, so antworten seine Erben dafür nicht, es sei denn, sie haben das Gut, um das jener beklagt war.",
+        "3": "Wer einen anderen fängt, ohne ihm etwas zu nehmen, oder ihn verwundet oder schlägt ohne Totschlag und Lähmung, dessen Erben muss er dafür nicht antworten, wenn jener nach Jahresfrist stirbt, es sei denn, jener hat die Klage vor Gericht begonnen, bevor er starb."
+      }
+    },
+    "lr-iii-32": {
+      "title": "Freiheit und Eigenschaft im Beweis",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Zugezogener, der sich frei nennt, gilt als frei, bis man ihn mit Zeugen widerlegt", "Behauptet ein Herr Eigenschaft, kann der Mann sie mit sechs Verwandten widerlegen", "Selbstergebung kann der Erbe anfechten; Erklärung gegenüber einem anderen Herrn verlangt Beweis"],
+      "significance": "Freiheitsvermutung und Beweisregeln im Statusprozess.",
+      "keywords": ["Freiheit", "Eigenschaft", "Unfreiheit", "Beweis", "Verwandte", "Selbstergebung"],
+      "synonyms": ["eghenschap", "Leibeigenschaft", "Statusprozess"],
+      "sections": {
+        "1": "Jeder zugezogene Mann, der sich frei nennt, den soll man für frei halten, es sei denn, man kann ihn mit Zeugen widerlegen.",
+        "2": "Nennt sich jemand frei und sagt ein anderer, er sei sein Eigenmann, weil er sich ihm ergeben habe, so kann jener sich mit seinem Unschuldseid befreien, es sei denn, es ist vor Gericht geschehen.",
+        "3": "Sagt jener aber, er sei sein angeborener Eigenmann, so muss er ihn mit Eid auf die Heiligen und zwei seiner Eigenleute behaupten.",
+        "4": "Spricht ihn ein anderer Herr an, so muss er ihn gegen diesen selbsiebt mit seinesgleichen oder glaubwürdigen Leuten behaupten.",
+        "5": "Kann aber jener selbsiebt mit seinen Verwandten, drei von väterlicher und drei von mütterlicher Seite, seine Freiheit behaupten, so behält er seine Freiheit und widerlegt ihr ganzes Zeugnis.",
+        "6": "Wer die Gewere an einem Mann hat, kann ihn mit besserem Recht überführen als der, der keine Gewere hat.",
+        "7": "Wer sich vor Gericht zu Eigen gibt, dessen Erbe kann das mit Recht widerrufen und ihn in seine Freiheit zurückbringen.",
+        "8": "Behält ihn aber sein Herr bis zu seinem Tod, so nimmt er nach dessen Tod sein Erbe und seine Kinder, wenn sie ihm folgen, die er nach der Ergebung gewann.",
+        "9": "Wer sich einem Herrn abspricht und einem anderen zuspricht, und wird er vor Gericht gefordert, und kommt der Herr, dem er sich zugesprochen hat, nicht, um ihn nach Recht zu vertreten, so behält ihn der, der ihn anspricht, selbdritt mit seinen Verwandten, wenn er solche hat. Hat er keine, so überführt er ihn mit zwei seiner eingeborenen Eigenleute. Wenn er ihn überführt hat, darf er sich seiner nach Recht mit einem Halsschlag bemächtigen, wenn er will.",
+        "10": "Gegen wen der Kläger vor Gericht Buße oder Wergeld gewinnt, gegen den hat der Richter auch sein Gewette, wenn er es fordern will."
+      }
+    },
+    "lr-iii-33": {
+      "title": "Recht vor dem König",
+      "metaStatus": "draft",
+      "keyPoints": ["Jeder hat sein Recht vor dem König und antwortet dort nach seinem eigenen Recht", "Den Kampf kann man außerhalb der eigenen Stammesart verweigern", "Um Eigen antwortet man nur im Land, wo es liegt; der König richtet nach Landesrecht"],
+      "significance": "Personalitätsprinzip vor dem Königsgericht mit territorialer Ausnahme für Grundbesitz.",
+      "keywords": ["König", "Stammesrecht", "Eigen", "Landesrecht", "Kampf"],
+      "synonyms": ["Personalitätsprinzip", "lex rei sitae"],
+      "sections": {
+        "1": "Jeder Mann hat sein Recht vor dem König.",
+        "2": "Jeder Mann muss auch vor dem König an allen Stätten nach seinem eigenen Recht antworten, nicht nach dem Recht des Klägers.",
+        "3": "Er muss auf jede Klage antworten, deren man ihn beschuldigt, außer wenn man ihn zum Kampf anspricht; das darf er verweigern, außer in dem Stamm, aus dem er geboren ist.",
+        "4": "Spricht man auch sein Eigen an, so braucht er dafür nur in dem Land zu antworten, in dem es liegt.",
+        "5": "Der König soll auch über Eigen nicht nach dem Recht des Mannes richten, sondern nach dem des Landes, in dem es liegt."
+      }
+    },
+    "lr-iii-34": {
+      "title": "Lösung aus der Reichsacht",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer aus der Acht will, folgt sechs Wochen dem Hof; der König gewährt Frieden", "Er erbietet sich binnen vierzehn Nächten vor dem verfestenden Richter und bringt den königlichen Brief", "Wer sich herauszieht und kein Recht gibt, kommt in die Oberacht"],
+      "significance": "Verfahren der Rückkehr aus der Reichsacht.",
+      "keywords": ["Reichsacht", "Oberacht", "König", "Hof", "Brief", "Siegel"],
+      "synonyms": ["achte", "ouerachte", "Begnadigung"],
+      "sections": {
+        "1": "Wenn ein Richter verfestet und mit seiner Verfestung in des Königs Acht bringt, und zieht sich der Betroffene aus der Acht, so soll er sechs Wochen dem Hof folgen; dann soll ihm der König Frieden gewähren, und er soll schwören, vor den Richter zu kommen, der ihn verfestete und in die Acht brachte; vor diesem soll er sich binnen vierzehn Nächten nach seiner Rückkehr ins Land zu Recht erbieten. Den Brief des Königs mit seinem Siegel soll er mitbringen, der dem Richter kundtut, dass er der Acht ledig sei.",
+        "2": "Wer ohne Verfestung in die Acht getan wird und sich herauszieht, soll sechs Wochen dem Hof folgen und ist damit frei.",
+        "3": "Wer sich aus der Acht zieht und kein Recht leistet, den tut man, wenn er dessen überführt wird, in die Oberacht, als ob er Jahr und Tag in der Acht gewesen wäre."
+      }
+    },
+    "lr-iii-35": {
+      "title": "Handhafte Tat und Gewährenzug",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer bei handhafter Tat mit Diebes- oder Raubgut gefangen wird, kann sich auf keinen Gewährsmann berufen", "Ohne handhafte Tat darf der Besitzer sich auf seinen Gewährsmann ziehen, auch bei kämpflicher Ansprache"],
+      "significance": "Die handhafte Tat schneidet die Verteidigung über den Vormann ab.",
+      "keywords": ["handhafte Tat", "Gewährsmann", "Diebstahl", "Raub"],
+      "synonyms": ["were then", "Gewährenzug"],
+      "sections": {
+        "1": "Wer bei handhafter Tat mit Diebes- oder Raubgut gefangen wird, kann sich auf keinen Gewährsmann berufen.",
+        "2": "Findet aber ein Mann sein Gut, das ihm geraubt oder gestohlen ist, bei jemandem, den er keiner handhaften Tat beschuldigen kann, so darf dieser sich auf seinen Gewährsmann ziehen, wenn man ihn darum kämpflich herausfordert."
+      }
+    },
+    "lr-iii-36": {
+      "title": "Friede während eines Kampfverfahrens",
+      "metaStatus": "draft",
+      "keyPoints": ["Wird ein Kampf vertagt, gilt zwischen den Parteien Frieden", "Bruch wird zunächst ohne Kampf gebessert; der handhafte Friedensbrecher wird nach Friedensrecht gerichtet"],
+      "significance": "Verfahrensfriede schützt den Rechtsgang.",
+      "keywords": ["Friede", "Kampf", "Vertagung", "Friedensbruch"],
+      "synonyms": ["urede", "Verfahrensfriede"],
+      "sections": {
+        "1": "Wenn ein Mann einen anderen vor Gericht zum Kampf ergreift und die Klage mit Urteilen vertagt wird, so gebietet man beiden Frieden; wird er gebrochen, so soll man ihn zuerst ohne Kampf nach Recht bessern.",
+        "2": "Wird aber der Friedensbrecher bei frischer Tat gefangen, so richtet man über ihn nach Friedensrecht."
+      }
+    },
+    "lr-iii-37": {
+      "title": "Geringe Delikte; fremdes Vieh und Korn",
+      "metaStatus": "draft",
+      "keyPoints": ["Schlagen oder Raufen ohne Fleischwunde kostet nur Gewette und Buße", "Wer sich zu früh als Zeuge anbietet, verliert sein Zeugnis", "Wer Nachbarvieh mittreibt oder Korn irrtümlich für den Herrn schneidet, vergeht sich nicht"],
+      "significance": "Abgrenzung strafloser Alltagshandlungen.",
+      "keywords": ["Körperverletzung", "Zeuge", "Vieh", "Korn", "Irrtum"],
+      "synonyms": ["Bagatelldelikt", "Irrtum"],
+      "sections": {
+        "1": "Wer einen anderen schlägt oder rauft ohne Fleischwunde und wird mit dem Gerüfte ergriffen und vor Gericht gebracht, dem geht es nicht an Hals oder Gesundheit, sondern er verwirkt Gewette und Buße.",
+        "2": "Wer sich vor Gericht als Zeuge anbietet, bevor er nach Recht gefragt wird, der ist vom Zeugnis ausgeschlossen.",
+        "3": "Der Mann vergeht sich nicht, wenn er das Vieh seines Nachbarn mit dem seinen aus- und eintreibt, sofern er es nicht leugnet und keinen Nutzen davon nimmt.",
+        "4": "Wer eines anderen reifes Korn schneidet im Glauben, das Korn gehöre ihm oder seinem Herrn, dem er dient, der vergeht sich nicht, sofern er nichts davon wegführt; man soll ihm dann seine Arbeit lohnen."
+      }
+    },
+    "lr-iii-38": {
+      "title": "Witwe und Schwangere; Gerade an den Witwer",
+      "metaStatus": "draft",
+      "keyPoints": ["Was man nicht Jahr und Tag in rechter Gewere hat, verantwortet man sofort", "Eine schwangere Witwe wird nicht vor der Geburt aus dem Gut gewiesen", "Die Erbin der Gerade muss dem Witwer Bett, Tischtuch, Pfühl und Kissen lassen"],
+      "significance": "Schutz von Schwangeren und Mindestversorgung des Witwers.",
+      "keywords": ["Witwe", "Schwangerschaft", "Gerade", "Witwer", "Leibzucht", "Musteil"],
+      "synonyms": ["rade", "musdele", "Witwenrecht"],
+      "sections": {
+        "1": "Was der Mann nicht Jahr und Tag in seiner rechten Gewere hat, dafür soll er sofort antworten, wenn man ihn verklagt.",
+        "2": "Man soll die Frau, die ein Kind trägt, nicht aus dem Gut ihres Mannes weisen, wenn er stirbt, bevor sie entbunden hat.",
+        "3": "Musteil und Morgengabe vererbt keine Frau zu Lebzeiten ihres Mannes, es sei denn, sie hat sie nach dem Tod ihres Mannes empfangen.",
+        "4": "Die Frau vererbt auch kein Gebäude an ihre Erben, das auf ihrer Leibzucht steht, es sei denn, sie bricht es zu Lebzeiten ab und setzt es auf Eigen oder Lehen.",
+        "5": "Stirbt die Frau des Mannes, so soll die Nichte, die ihre Gerade nimmt, dem Mann aus der Gerade sein Bett so herrichten, wie es stand, als seine Frau lebte, seinen Tisch mit einem Tischtuch, seine Bank mit einem Pfühl, seinen Stuhl mit einem Kissen."
+      }
+    },
+    "lr-iii-39": {
+      "title": "Schuldknechtschaft; Antwortverweigerung",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer nicht zahlen und keine Bürgen stellen kann, wird dem Gläubiger überantwortet; er hält ihn wie sein Gesinde", "Lässt er ihn gehen, bleibt er Pfand für die Schuld", "Wer dreimal die Antwort verweigert, ist überwunden; Leibesklagen erfordern sieben Zeugen"],
+      "significance": "Personalvollstreckung mit Schutzgrenzen.",
+      "keywords": ["Schuldknechtschaft", "Pfand", "Gläubiger", "Antwortpflicht"],
+      "synonyms": ["Schuldhaft", "Personalexekution"],
+      "sections": {
+        "1": "Fordert jemand vor Gericht eine Schuld von einem, der nicht zahlen und keine Bürgen stellen kann, so soll ihm der Richter den Mann für das Geld überantworten; den soll er halten wie sein Gesinde mit Speise und Arbeit. Will er ihn mit einer Fessel binden, so darf er das tun, anders aber soll er ihn nicht quälen.",
+        "2": "Lässt er ihn gehen oder entläuft er ihm, so ist jener damit nicht vom Geld frei; solange er ihn nicht bezahlt hat und es nicht beweisen kann, bleibt er immer sein Pfand für das Geld.",
+        "3": "Wenn man jemanden vor Gericht beschuldigt und der Richter ihn zu rechter Antwort auffordert, und will er nicht antworten und sich auch nicht mit Recht davon befreien, dass er antworten müsse, so spricht man ihn gewettepflichtig; ebenso beim zweiten und dritten Mal; antwortet er dann noch nicht, so ist er in der Schuld überwunden.",
+        "4": "Geht ihm aber die Beschuldigung an Leben oder Gesundheit, so muss der Kläger sie selbsiebt gegen ihn bezeugen."
+      }
+    },
+    "lr-iii-40": {
+      "title": "Zahlungsweise",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Gläubiger wartet bis Sonnenuntergang im eigenen oder dem nächsten Haus des Richters", "Pfand statt Geld befreit nicht, außer es ist vereinbart", "Zahlung durch Boten nur an gerichtlich Bestimmte; gezahlt wird in der vereinbarten oder ortsüblichen Münze"],
+      "significance": "Leistungsort, Leistungszeit und Zahlungsmittel.",
+      "keywords": ["Zahlung", "Pfand", "Bote", "Münze", "Leistungsort"],
+      "synonyms": ["gelden", "Erfüllung"],
+      "sections": {
+        "1": "Wer etwas empfangen soll, muss darauf warten, bis die Sonne untergeht, in seinem eigenen Haus oder im nächsten Haus des Richters, wo das Geld zuerkannt wurde.",
+        "2": "Wer Pfennige oder Silber zahlen soll und dafür Pfänder anbietet, der ist damit nicht frei, es sei denn, ihre Abrede lautete so.",
+        "3": "Man darf Silber auch durch Boten zahlen. Keinem Boten soll man es aber übergeben, der nicht vor Gericht von dem, dem das Silber zusteht, dazu bestimmt ist.",
+        "4": "Solche Pfennige oder solches Silber, wie der Mann gelobt, soll er zahlen. Ist dazu nichts bestimmt, so soll man Silber ohne Einrede zahlen, wie es dann im Gericht gang und gäbe ist."
+      }
+    },
+    "lr-iii-41": {
+      "title": "Gelöbnisse von Gefangenen",
+      "metaStatus": "draft",
+      "keyPoints": ["Was ein Gefangener in der Gefangenschaft gelobt, bindet ihn nicht – außer Urfehde und Rückkehr auf Treue", "Unmögliches Gelöbnis über Leib und Gesundheit schadet seinem Recht nicht", "Bei treuloser Gefangennahme bindet auch das Treuversprechen nicht"],
+      "significance": "Willensmängel durch Zwang machen Gelöbnisse unwirksam.",
+      "keywords": ["Gefangener", "Gelöbnis", "Treue", "Urfehde", "Zwang"],
+      "synonyms": ["uangnisse", "Zwang", "Willensmangel"],
+      "sections": {
+        "1": "Die Tat und das Gelöbnis jedes Gefangenen, das er in der Gefangenschaft gelobt, sollen von Rechts wegen nicht bindend sein. Lässt man ihn aber auf seine Treue zu einem Tag reiten, so soll er von Rechts wegen zurückkommen und seine Treue einlösen. Zahlt er oder wird er ohne Geld frei, so soll er die Urfehde, die er gelobt oder schwört, von Rechts wegen leisten, sonst aber kein Gelöbnis, das er in der Gefangenschaft gelobt oder tut.",
+        "2": "Was ein Mann schwört und in Treue gelobt, wobei er sein Leben oder seine Gesundheit verpfändet, das schadet ihm an seinem Recht nicht, auch wenn er es nicht halten kann.",
+        "3": "Wo man einen Mann treulos fängt, und lässt ihn der, der ihn gefangen hat, auf seine Treue reiten oder schwören oder anderes in Treue geloben, so braucht er es nicht zu leisten, wenn er beweisen kann, dass jener ihn treulos zu dem Gelöbnis gezwungen hat.",
+        "4": "Fordert jemand vor Gericht Geld und fragt der andere, woher man es ihm schulde, so soll er von Rechts wegen sagen, ob er es aus Gelöbnis oder aus empfangenem Erbe schuldig sei."
+      }
+    },
+    "lr-iii-42": {
+      "title": "Ursprung der Unfreiheit",
+      "metaStatus": "draft",
+      "keyPoints": ["Gott schuf den Menschen nach seinem Bild – Arme und Reiche gleich", "Ursprünglich waren alle frei; die Herleitungen der Eigenschaft aus Kain, Ham, Ismael oder Esau werden widerlegt", "Eigenschaft entstand aus Zwang, Gefangenschaft und unrechter Gewalt"],
+      "significance": "Berühmte Kritik Eikes an der Unfreiheit – einer der bekanntesten Texte des Sachsenspiegels.",
+      "keywords": ["Freiheit", "Eigenschaft", "Unfreiheit", "Gottebenbildlichkeit", "Dienstleute", "Gewalt"],
+      "synonyms": ["eghenschap", "Leibeigenschaft", "Sklaverei", "Freiheitsgedanke"],
+      "sections": {
+        "1": "Gott hat den Menschen nach sich selbst gebildet und mit seiner Marter erlöst, den einen wie den anderen; ihm ist der Arme so nah wie der Reiche.",
+        "2": "Nun lasst euch nicht wundern, dass dieses Buch so wenig vom Recht der Dienstleute sagt; denn es ist so vielfältig, dass niemand es zu Ende bringen kann. Unter jedem Bischof, Abt und jeder Äbtissin haben die Dienstleute besonderes Recht; darum kann ich es nicht darlegen.",
+        "3": "Als man zuerst Recht setzte, gab es keinen Dienstmann; alle Leute waren frei. Nach meinem Verstand kann ich es nicht als Wahrheit annehmen, dass jemand dem anderen gehören solle; auch haben wir dafür kein Zeugnis. Doch sagen manche Leute, die von der Wahrheit abirren, die Eigenschaft habe mit Kain begonnen, der seinen Bruder erschlug; Kains Geschlecht wurde aber vertilgt, als die Welt im Wasser unterging, so dass nichts davon übrig blieb. Auch sagen manche, die Eigenschaft komme von Ham, Noahs Sohn. Noah segnete zwei seiner Söhne, über den dritten sprach er keine Eigenschaft aus. Ham besiedelte Afrika mit seinem Geschlecht, Sem blieb in Asien, Japhet, unser Vorfahr, besiedelte Europa; so blieb keiner von ihnen des anderen. Ebenso sagen manche, die Eigenschaft komme von Ismael; die Heilige Schrift nennt Ismael den Sohn der Magd, von einer Eigenschaft sagt sie nichts. Ebenso sagen manche, sie komme von Esau. Jakob wurde von seinem Vater gesegnet und geheißen, Herr seiner Brüder zu sein; Esau verfluchte er nicht und sprach ihm auch keine Eigenschaft zu. Wir haben auch noch in unserem Recht, dass sich niemand selbst zu eigen geben kann, ohne dass sein Erbe es widersprechen könnte. Wie hätten da Noah oder Isaak einen anderen zu eigen geben können, da sich doch niemand selbst zu eigen geben kann?",
+        "4": "Wir haben noch mehr Zeugnis. Gott ruhte am siebenten Tag. Die siebente Woche gebot er ebenfalls zu halten, als er den Juden das Gesetz und uns den Heiligen Geist gab. Den siebenten Monat gebot er ebenfalls zu halten und das siebente Jahr; das heißt das Jahr der Lösung; da sollte man alle freilassen, die gefangen und in Eigenschaft gezogen waren, mit demselben Recht, mit dem man sie fing, wenn sie frei sein wollten. Über sieben mal sieben Jahre kam dann das fünfzigste Jahr, das heißt das Jahr der Freude; da musste jedermann frei und ledig sein, ob er wollte oder nicht.",
+        "5": "Auch gab uns Gott weiteres Zeugnis an einem Pfennig, mit dem man ihn versuchte, als er sprach: „Lasst dem Kaiser das Seine, und gebt Gott, was Gottes ist.“ An diesen Worten ist uns kundgetan, dass der Mensch Gottes sein soll, und wer ihn jemand anderem als Gott zuspricht, der handelt gegen Gott.",
+        "6": "Nach rechter Wahrheit hat die Eigenschaft ihren Ursprung in Zwang, Gefangenschaft und unrechter Gewalt, die man von alters her zu unrechter Gewohnheit gemacht hat und nun für Recht halten will."
+      }
+    },
+    "lr-iii-43": {
+      "title": "Unrechtmäßige Inbesitznahme",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer sich fremden Gutes unrechtmäßig bemächtigt und es verliert, gibt es mit Buße zurück", "Wer es mit Willen des Eigentümers hat (Leihe, Pfand) und nicht rechtzeitig zurückgibt, bleibt ohne Wandel, außer vor Gericht gelobt"],
+      "significance": "Unterscheidung von Eigenmacht und vertraglicher Überlassung.",
+      "keywords": ["Eigenmacht", "Buße", "Leihe", "Rückgabe"],
+      "synonyms": ["underwinden", "Besitzentziehung"],
+      "sections": {
+        "1": "Wessen sich der Mann zu Unrecht bemächtigt und was ihm mit Recht abgewonnen wird, das muss er mit Buße herausgeben.",
+        "2": "Wessen er sich aber mit Willen dessen bemächtigt, dem es gehört, oder was jener ihm leiht oder auf Borg gibt, und bezahlt er es nicht oder gibt es nicht zur bestimmten Zeit zurück, so bleibt er ohne Wandel, es sei denn, er hat es vor Gericht gelobt."
+      }
+    },
+    "lr-iii-44": {
+      "title": "Weltreiche und Herkunft der Sachsen",
+      "metaStatus": "draft",
+      "keyPoints": ["Translatio imperii: Babylon, Persien, Griechenland, Rom", "Die Sachsen als Nachkommen des Heeres Alexanders, die die Thüringer vertrieben", "Die Laten entstanden aus den verbliebenen Bauern; aus verwirkten Laten die Tagelöhner"],
+      "significance": "Geschichtstheologische Herleitung des Reiches und sozialer Gruppen.",
+      "keywords": ["Translatio imperii", "Rom", "Alexander", "Sachsen", "Thüringer", "Laten", "Tagelöhner"],
+      "synonyms": ["Weltreichslehre", "Herkunftssage", "laten", "dachworchten"],
+      "sections": {
+        "1": "Zu Babylon erhob sich das Reich, das über alle Länder herrschte; das zerstörte Kyros und verlegte das Reich nach Persien; dort stand es bis zu Darius, dem letzten; den besiegte Alexander und verlegte das Reich nach Griechenland; dort stand es, bis Rom sich seiner bemächtigte und Julius Kaiser wurde. Davon hat Rom noch das weltliche Schwert behalten und von Sankt Peters wegen das geistliche; darum heißt es Haupt der ganzen Welt.",
+        "2": "Unsere Vorfahren, die hierher ins Land kamen und die Thüringer vertrieben, waren im Heer Alexanders gewesen; mit ihrer Hilfe bezwang er ganz Asien. Als Alexander starb, wagten sie wegen des Hasses im Land nicht, sich dort niederzulassen, und schifften sich alle mit dreihundert Schiffen ein; die verdarben alle bis auf vierundfünfzig. Davon kamen achtzehn nach Preußen und besiedelten es, zwölf nach Rügen, vierundzwanzig kamen hierher ins Land.",
+        "3": "Da sie nicht so viele waren, dass sie den Acker bestellen konnten, als sie die thüringischen Herren erschlugen und vertrieben, ließen sie die Bauern unerschlagen sitzen und übertrugen ihnen den Acker zu solchem Recht, wie ihn die Laten noch haben; daraus kamen die Laten. Von den Laten, die sich an ihrem Recht verwirkten, kommen die Tagelöhner."
+      }
+    },
+    "lr-iii-45": {
+      "title": "Wergeld und Buße der Stände",
+      "metaStatus": "draft",
+      "keyPoints": ["Fürsten, freie Herren und Schöffenbare: gleiche Buße (30 Schillinge) und Wergeld (18 Pfund)", "Frauen halbes Mannes-Wergeld; Pfleghafte und Landsassen 15 Schillinge Buße, 10 Pfund Wergeld", "Spott-Bußen für Tagelöhner, Unehelich Geborene, Spielleute, Kämpen und Rechtlose"],
+      "significance": "Zentraler Tarif zur Ständegliederung über Wergeld und Buße.",
+      "keywords": ["Wergeld", "Buße", "Stand", "Fürsten", "Schöffenbare", "Pfleghafte", "Landsassen", "Spielleute"],
+      "synonyms": ["weregelt", "böte", "Manngeld", "Scheinbuße"],
+      "sections": {
+        "1": "Nun hört aller Leute Wergeld und Buße. Fürsten, freie Herren und schöffenbare Leute sind gleich an Buße und Wergeld. Doch ehrt man Fürsten und freie Herren damit, dass man ihnen in Gold gibt: Man gibt ihnen zwölf goldene Pfennige als Buße, von denen jeder drei Pfennig-Gewicht Silber wiegen soll. Ein Pfennig-Gewicht Gold rechnete man damals für zehn Silber; so waren die zwölf Pfennige dreißig Schillinge wert. Den schöffenbaren freien Leuten gibt man dreißig Schillinge vollwichtiger Pfennige, von denen zwanzig Schillinge eine Mark wiegen sollen. Ihr Wergeld sind achtzehn Pfund vollwichtiger Pfennige.",
+        "2": "Jede Frau hat die halbe Buße und das halbe Wergeld ihres Mannes. Jede Jungfrau und unverheiratete Frau hat die halbe Buße nach ihrer Geburt.",
+        "3": "Der Mann ist auch Vormund seiner Frau, sobald sie ihm angetraut ist, und sie ist seine Standesgenossin, sobald sie in sein Bett tritt; nach dem Tod des Mannes ist sie von seinem Recht frei.",
+        "4": "Den Biergelden und Pfleghaften, die das Ding des Schultheißen besuchen, gibt man fünfzehn Schillinge als Buße und zehn Pfund als Wergeld.",
+        "5": "Unter ihnen darf man einen Fronboten wählen, wenn man dessen bedarf, der weniger als drei Hufen hat. Den sollen der Richter und die Schöffen wählen.",
+        "6": "Anderen freien Leuten, die man Landsassen nennt, die als Gäste kommen und gehen und kein Eigen im Land haben, gibt man ebenfalls fünfzehn Schillinge Buße; zehn Pfund ist ihr Wergeld.",
+        "8": "Zwei wollene Handschuhe und eine Mistgabel sind die Buße des Tagelöhners; sein Wergeld ist ein Haufen Weizen von zwölf Ruten, wobei jede Rute von der anderen eine Klafter entfernt steht; jede Rute soll zwölf Nägel nach oben haben; jeder Nagel soll vom anderen so weit stehen, wie ein Mann bis an die Schultern lang ist, damit man den Haufen von Nagel zu Nagel heben kann; jeder Nagel soll zwölf Beutel haben, jeder Beutel zwölf Schillinge.",
+        "9": "Pfaffenkindern und allen, die unehelich geboren sind, gibt man als Buße ein Fuder Heu, so viel zwei jährige Ochsen ziehen können. Spielleuten und allen, die sich zu eigen geben, gibt man als Buße den Schatten eines Mannes. Kämpen und ihren Kindern den Blick von einem Kampfschild gegen die Sonne. Zwei Besen und eine Schere ist die Buße dessen, der sein Recht durch Diebstahl, Raub oder anderes verwirkt.",
+        "10": "Die Buße unehrlicher Leute hat keinen Nutzen und ist doch deshalb gesetzt, damit dem Richter auf ihre Buße das Gewette folgt.",
+        "11": "Ohne Wergeld sind unehrliche Leute. Doch wer einen von ihnen verwundet, beraubt, tötet oder eine unehrliche Frau vergewaltigt und den Frieden an ihnen bricht, über den soll man nach Friedensrecht richten."
+      }
+    },
+    "lr-iii-46": {
+      "title": "Notzucht an Fahrenden; Wundklage",
+      "metaStatus": "draft",
+      "keyPoints": ["Auch an fahrenden Frauen und an der eigenen Geliebten kann man Notzucht begehen und das Leben verwirken", "Wegen einer Wunde verklagt man nur einen Mann, kann aber Rat und Hilfe mehreren zur Last legen"],
+      "significance": "Bemerkenswerter Schutz auch rechtloser Frauen vor Vergewaltigung.",
+      "keywords": ["Notzucht", "fahrende Frauen", "Vergewaltigung", "Wunde", "Beihilfe"],
+      "synonyms": ["Vergewaltigung", "uarende wif", "amie"],
+      "sections": {
+        "1": "An fahrenden Frauen und an seiner Geliebten kann ein Mann Notzucht begehen und sein Leben verwirken, wenn er gegen ihren Willen bei ihnen liegt.",
+        "2": "Wegen einer Wunde kann man nur einen Mann verklagen; doch kann man mehreren Rat und Hilfe zur Last legen."
+      }
+    },
+    "lr-iii-47": {
+      "title": "Ersatz weggenommener Sachen",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Fremdes mit Gewalt oder heimlich nimmt, gibt es mit Buße zurück oder ersetzt es nach Schätzung des Geschädigten", "Singvögel, Jagdhunde und Bracken ersetzt man durch gleich gute"],
+      "significance": "Schadensersatz nach Wertschätzung mit Eidesminderung.",
+      "keywords": ["Schadensersatz", "Wegnahme", "Schätzung", "Jagdhund", "Vogel"],
+      "synonyms": ["werderinghe", "Wertersatz"],
+      "sections": {
+        "1": "Wer einem anderen etwas von dem Seinen mit Gewalt oder ohne sein Wissen nimmt, wenig oder viel, der soll es mit Buße zurückgeben oder schwören, dass er es nicht zurückgeben kann; dann soll er es nach der Schätzung bezahlen, die der Geschädigte vornimmt, sofern der Zahlungspflichtige die Schätzung nicht mit seinem Eid mindert.",
+        "2": "Singende und abgerichtete Vögel, Windhunde, Hetzhunde und Bracken kann man mit ebenso guten ersetzen, wenn man das auf die Heiligen beschwört."
+      }
+    },
+    "lr-iii-48": {
+      "title": "Tötung fremden Viehs",
+      "metaStatus": "draft",
+      "keyPoints": ["Essbares Vieh: festgesetztes Wergeld bei Tötung, halbes bei Verletzung", "Nicht essbares Vieh vorsätzlich getötet: volles Wergeld und Buße", "Fahrlässig: ohne Buße; Abwehr eines beißenden Hundes ist straflos"],
+      "significance": "Abgestufte Haftung nach Vorsatz und Tierart.",
+      "keywords": ["Vieh", "Tötung", "Wergeld", "Hund", "Notwehr", "Fahrlässigkeit"],
+      "synonyms": ["ue", "Sachschaden", "satte weregelt"],
+      "sections": {
+        "1": "Wer eines anderen Vieh tötet, das man essen kann, willentlich oder unwillentlich, der muss es mit seinem festgesetzten Wergeld bezahlen. Lähmt er es, so bezahlt er die Hälfte; dazu behält jener sein Vieh, dem es gehörte.",
+        "2": "Wer aber willentlich und ohne Not ein Vieh, das man nicht essen darf, tötet oder an einem Fuß lähmt, der soll es mit vollem Wergeld und mit Buße bezahlen. Lähmt er es aber an einem Auge, so bezahlt er die Hälfte.",
+        "3": "Bleibt aber ein Vieh durch eines Mannes Schuld, doch ohne seinen Willen, tot oder lahm, und leistet er darauf seinen Eid, so bezahlt er es ohne Buße, wie hier vorher gesagt ist.",
+        "4": "Lähmt aber ein Mann einen Hund oder erschlägt ihn, weil er ihn beißen will oder weil er sein Vieh auf der Straße oder auf dem Feld beißt, so bleibt er ohne Wandel, wenn er auf die Heiligen schwört, dass er ihn nicht anders abwehren konnte."
+      }
+    },
+    "lr-iii-49": {
+      "title": "Hunde auf dem Feld",
+      "metaStatus": "draft",
+      "keyPoints": ["Hunde auf dem Feld sind an der Leine zu halten", "Schaden ersetzt der, dem der Hund folgt, sonst sein Herr"],
+      "significance": "Leinenpflicht als frühe Gefahrenabwehr.",
+      "keywords": ["Hund", "Leine", "Schaden", "Haftung"],
+      "synonyms": ["hunt", "Tierhalterhaftung"],
+      "sections": {
+        "1": "Jeden Hund, der aufs Feld geht, soll man an der Leine halten, damit er niemandem schadet. Richtet er Schaden an, so soll ihn der ersetzen, dem der Hund folgt, oder sein Herr, wenn jener nicht zahlen kann."
+      }
+    },
+    "lr-iii-50": {
+      "title": "Ausgelöste Leibesstrafe",
+      "metaStatus": "draft",
+      "keyPoints": ["Wo ein Deutscher Leib oder Hand durch Verbrechen verwirkt,", "schuldet er daneben weder Gewette noch Buße – ob er sie löst oder nicht"],
+      "significance": "Keine doppelte Sanktion neben der Leibesstrafe.",
+      "keywords": ["Leibesstrafe", "Gewette", "Buße", "Ablösung"],
+      "synonyms": ["ne bis in idem", "lösen"],
+      "sections": {
+        "1": "Wo der deutsche Mann Leib oder Hand durch ein Verbrechen verwirkt, ob er sie löst oder nicht, da muss er weder Gewette noch Buße geben."
+      }
+    },
+    "lr-iii-51": {
+      "title": "Wergeld der Tiere",
+      "metaStatus": "draft",
+      "keyPoints": ["Feste Tarife: Huhn ½ Pfennig, Gans 1, Lamm 4, Kalb 6, Fohlen 1 Schilling, Rind 4, Zugochse 8, Feldpferd 12 Schillinge, Reitpferd 1 Pfund", "Für Ritterpferde und Mastschweine kein festes Wergeld: Rückgabe oder Ersatz nach Schätzung"],
+      "significance": "Wertvolle Quelle für Preise und Viehhaltung im 13. Jahrhundert.",
+      "keywords": ["Wergeld", "Tiere", "Huhn", "Gans", "Pferd", "Rind", "Tarif"],
+      "synonyms": ["Viehwert", "satte weregelt"],
+      "sections": {
+        "1": "Nun hört von den Vögeln und Tieren und ihrem Wergeld. Das Huhn bezahlt man mit einem halben Pfennig, die Ente ebenso. Die Gans mit einem Pfennig, die Brutgans und die Bruthenne mit drei Pfennigen während ihrer Brutzeit, ebenso die Lockente; dasselbe gilt für das Ferkel und das Zicklein während der Säugezeit und für die Katze. Das Lamm für vier, das Kalb für sechs. Das Fohlen für einen Schilling während der Säugezeit, den Hofhund ebenso. Den Hund, den man Schäferhund nennt, mit drei Schillingen, ebenso den Wallach und das jährige Schwein. Das Rind mit vier Schillingen. Die Sau, die Ferkel trägt oder säugt, mit fünf Schillingen. Den ausgewachsenen Eber ebenso und den Esel; den Stier, den Zugochsen und den Feldhengst mit acht Schillingen. Andere Feldpferde, die zur vollen Arbeit taugen, mit zwölf Schillingen. Die aber unter ihren Jahren sind, bezahlt man nach dem, was ihnen ihrem Alter nach zusteht. Das Reitpferd, auf dem der berittene Mann seinem Herrn dient, bezahlt man mit einem Pfund.",
+        "2": "Für Ritterpferde, Rosse, Zelter und Rösser ist kein Wergeld festgesetzt, ebenso wenig für Mastschweine; darum soll man sie und alle fahrende Habe zurückgeben oder nach der Schätzung dessen bezahlen, der sie verlor, sofern der Zahlungspflichtige sie nicht mit seinem Eid mindert."
+      }
+    },
+    "lr-iii-52": {
+      "title": "Königswahl und Gerichtsleihe",
+      "metaStatus": "draft",
+      "keyPoints": ["Die Deutschen wählen den König; Weihe und Aachener Stuhl geben königliche Gewalt, die Papstweihe kaiserliche", "Der König ist Richter über Eigen, Lehen und Leben; er verleiht Fahnenlehen an Fürsten, diese Grafschaften", "Hochgerichtsbarkeit kommt nicht in die vierte Hand; Schultheiß als Richter über den Grafen"],
+      "significance": "Grundlage der Verfassungsordnung: Wahlkönigtum und Gerichtsleihe.",
+      "keywords": ["Königswahl", "Kaiser", "Aachen", "Fahnenlehen", "Grafschaft", "Schultheiß", "Gerichtsleihe"],
+      "synonyms": ["kore", "uanenlen", "Wahlkönigtum"],
+      "sections": {
+        "1": "Die Deutschen sollen von Rechts wegen den König wählen. Wenn er von den dazu bestimmten Bischöfen geweiht wird und auf den Stuhl zu Aachen kommt, so hat er königliche Gewalt und königlichen Namen. Wenn ihn der Papst weiht, so hat er die Gewalt des Reiches und den kaiserlichen Namen.",
+        "2": "Den König wählt man zum Richter über Eigen, über Lehen und über das Leben jedes Mannes. Der Kaiser kann nicht in allen Ländern sein und nicht alle Verbrechen zu jeder Zeit richten; darum verleiht er den Fürsten Fahnenlehen und die Fürsten den Grafen Grafschaften und die Grafen den Schultheißen das Schultheißenamt.",
+        "3": "In die vierte Hand soll kein Lehen kommen, das Gericht über Hals und Hand ist, sondern nur das Schultheißenamt in der Grafschaft, weil kein Graf echtes Ding ohne Schultheißen halten kann; denn klagt man über den Grafen, so soll er vor dem Schultheißen antworten, weil der Schultheiß Richter über seine Schuld ist; ebenso ist der Pfalzgraf über den Kaiser, oder der Burggraf über den Markgrafen."
+      }
+    },
+    "lr-iii-53": {
+      "title": "Stammesherzogtümer; Wedde und Buße des Richters",
+      "metaStatus": "draft",
+      "keyPoints": ["Sachsen, Bayern, Franken, Schwaben waren Königreiche, später Herzogtümer", "Der Richter erhält Gewette, nicht Buße, weil er nicht Kläger und Richter zugleich sein kann", "Gerichte und ganze Lehen dürfen nicht geteilt werden"],
+      "significance": "Trennung von Richteramt und Parteistellung.",
+      "keywords": ["Herzogtum", "Stamm", "Richter", "Gewette", "Lehensteilung"],
+      "synonyms": ["hertoghe", "Stammesherzogtum"],
+      "sections": {
+        "1": "Sachsen, Bayern, Franken und Schwaben waren alle Königreiche; später änderte man ihren Namen und nannte sie Herzöge, seit die Römer sie bezwangen; doch behielten sie die Fürsten als Lehnsleute und die Fahnenlehen unter diesem Namen. Seitdem haben ihnen die Kaiser beides, Fahnenlehen und Fürsten, genommen.",
+        "2": "Jeder Richter hat das Gewette in seinem Gericht und keine Buße, denn der Richter kann nicht zugleich Kläger und Richter sein. Man gibt auch niemandem Buße außer dem Kläger.",
+        "3": "Darum sagt man, die Fürsten seien ohne Buße; das stimmt aber nicht. Man darf auch kein Gericht teilen, noch ein ganzes Lehen, das jemandem verliehen ist, so dass daran Gefolgschaft hängt und die Landleute es dulden müssen, es sei denn, es ist eine besondere Grafschaft, die zu einem Fahnenlehen gehört; die darf man nicht länger ledig halten. Ebenso darf der König kein Fahnenlehen ledig halten, ohne es binnen Jahr und Tag weiterzuverleihen."
+      }
+    },
+    "lr-iii-54": {
+      "title": "Leihezwang; Königseid und Wählbarkeit",
+      "metaStatus": "draft",
+      "keyPoints": ["Lehen mit Gericht nur an Schöffenbarfreie, die dem König huldigen", "Der gewählte König huldigt dem Reich und schwört, das Recht zu stärken", "Lahme, Aussätzige und Gebannte sind nicht wählbar; der König hat Frankenrecht"],
+      "significance": "Leihezwang und Wählbarkeitsvoraussetzungen des Königs.",
+      "keywords": ["Leihezwang", "König", "Eid", "Wählbarkeit", "Frankenrecht", "Bann"],
+      "synonyms": ["Jahr und Tag", "urankes recht"],
+      "sections": {
+        "1": "Lehen mit Gericht darf niemand haben, der nicht schöffenbar frei ist und dem König nach freien Mannes Recht huldigt und sich bei dieser Huld verpflichtet, wenn man sich auf sein Zeugnis beruft.",
+        "2": "Wenn man den König wählt, soll er dem Reich huldigen und schwören, dass er das Recht stärke und das Unrecht kränke und das Reich in seinem Recht vertrete, so gut er kann und vermag; danach soll er nie mehr einen Eid leisten, es sei denn, der Papst beschuldigt ihn, dass er am rechten Glauben zweifle. Danach soll er Zeuge aller Dinge sein, auf die man sich bei ihm beruft, bei des Reiches Huld; und sein Gelöbnis soll statt des Eides gelten, wo man Frieden schwört.",
+        "3": "Einen Lahmen, einen Aussätzigen und einen, der mit Recht im Bann des Papstes ist, darf man nicht zum König wählen. Der König soll frei und ehelich geboren sein, so dass er auch sein Recht behalten hat.",
+        "4": "Der König soll Frankenrecht haben, sobald er gewählt ist, von welcher Geburt er auch sei; denn so wie der Franke sein Leben nicht verwirken kann, außer wenn er bei handhafter Tat gefangen wird oder ihm sein fränkisches Recht abgesprochen wird, so kann auch niemand den König an sein Leben ansprechen, bevor ihm nicht das Reich mit Urteilen abgesprochen ist."
+      }
+    },
+    "lr-iii-55": {
+      "title": "Gericht über Fürsten und Schöffenbare",
+      "metaStatus": "draft",
+      "keyPoints": ["Über Leben und Gesundheit der Fürsten richtet nur der König", "Über verurteilte Schöffenbare richtet nur der echte Fronbote"],
+      "significance": "Standesvorrechte im Strafvollzug.",
+      "keywords": ["Fürsten", "König", "Schöffenbare", "Fronbote", "Hinrichtung"],
+      "synonyms": ["Standesprivileg", "vrone bode"],
+      "sections": {
+        "1": "Über das Leben der Fürsten und auch über ihre Gesundheit darf niemand Richter sein außer dem König.",
+        "2": "Über schöffenbare Leute, wenn sie ihr Leben verwirkt haben und verurteilt sind, darf niemand richten außer dem echten Fronboten."
+      }
+    },
+    "lr-iii-56": {
+      "title": "Einsetzung und Rechte des Fronboten",
+      "metaStatus": "draft",
+      "keyPoints": ["Der gewählte Fronbote huldigt dem König; der Richter setzt ihn feierlich ein", "Er pfändet, hält fest und front nach Urteil, darf aber kein Schwert führen", "Ihm stehen der zehnte Verurteilte zur Lösung, Teile erblosen Gutes und Gebühren zu"],
+      "significance": "Amtsbild des Fronboten als Vollstreckungsorgan.",
+      "keywords": ["Fronbote", "Amt", "Pfändung", "Huldigung", "Gebühren"],
+      "synonyms": ["vrone bode", "Büttel", "Gerichtsdiener"],
+      "sections": {
+        "1": "Wenn der Fronbote vom Richter und den Schöffen gewählt wird, so soll er dem König nach freien Mannes Recht huldigen; dann soll ihn der Richter bei der Hand nehmen und ihn auf ein Kissen und einen Stuhl sich gegenüber setzen, ihm die Heiligen in den Schoß legen und ihm nach Recht Frieden wirken.",
+        "2": "Dann hat der Fronbote die Gewalt, dass er pfänden und festhalten darf und jeden Mann und sein Gut nach Recht fronen, wozu er mit Urteilen bestimmt wird. Tut er aber Unrecht, so kann er sein Leben und sein Gut verwirken wie jeder andere. Schwert soll er nicht führen, noch eine Waffe. Widersteht man ihm im Recht, so soll er das Land mit dem Gerüfte herbeirufen und zu seinem Recht kommen, wenn er kann. Kann er es nicht, so klage er es mit dem Richter.",
+        "3": "Sein Recht ist auch der zehnte Mann, den man verurteilen soll, dass er ihn zur Lösung gebe. Und wo ein Gut erblos stirbt von Mann oder Frau, ist das erste gedroschene Korn sein, und die Alltagskleider des Mannes. Wo man auch Eigen gibt und darüber Frieden wirkt, soll er drei Schillinge davon haben. Einen Mann aus jedem Dorf darf er vom Ding befreien, wenn er nicht beklagt ist, außer dem Bauermeister."
+      }
+    },
+    "lr-iii-57": {
+      "title": "Bann des Kaisers; Kurfürsten",
+      "metaStatus": "draft",
+      "keyPoints": ["Der geweihte Kaiser darf nur wegen Glaubenszweifel, Verstoßung der Ehefrau oder Zerstörung von Gotteshäusern gebannt werden", "Erste Wahlstimmen: Mainz, Trier, Köln; Pfalzgraf (Truchsess), Herzog von Sachsen (Marschall), Markgraf von Brandenburg (Kämmerer)", "Der König von Böhmen hat keine Kur, weil er nicht deutsch ist"],
+      "significance": "Früheste Beschreibung eines Kurfürstenkollegs.",
+      "keywords": ["Kurfürsten", "Königswahl", "Bann", "Mainz", "Trier", "Köln", "Pfalzgraf", "Brandenburg", "Böhmen"],
+      "synonyms": ["Kurkolleg", "Erzämter", "kore"],
+      "sections": {
+        "1": "Den Kaiser darf weder der Papst noch sonst jemand bannen, nachdem er geweiht ist, außer aus drei Gründen: wenn er am Glauben zweifelt, seine Ehefrau verstößt oder ein Gotteshaus zerstört.",
+        "2": "Bei der Wahl des Kaisers soll der erste der Bischof von Mainz sein, der zweite der von Trier, der dritte der von Köln. Unter den Laien hat die erste Stimme der Pfalzgraf bei Rhein, des Reiches Truchsess, die zweite der Marschall, der Herzog von Sachsen, die dritte der Kämmerer, der Markgraf von Brandenburg. Der Schenk des Reiches, der König von Böhmen, hat keine Stimme, weil er nicht deutsch ist. Danach wählen alle Fürsten des Reiches, Geistliche und Laien. Die zuerst bei der Wahl Genannten sollen nicht nach ihrem Mutwillen wählen, sondern wen die Fürsten alle zum König wollen, den sollen sie zuerst mit Namen wählen."
+      }
+    },
+    "lr-iii-58": {
+      "title": "Fürsten und Fahnenlehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Reichsfürsten haben keinen Laien zum Herrn außer dem König", "Fürst wird nur, wer ein Fahnenlehen unmittelbar vom König empfängt"],
+      "significance": "Definition des Reichsfürstenstandes über die Lehnsbindung an den König.",
+      "keywords": ["Reichsfürst", "Fahnenlehen", "König", "Lehnsherr"],
+      "synonyms": ["uorste", "Reichsfürstenstand"],
+      "sections": {
+        "1": "Die Fürsten des Reiches sollen keinen Mann, der Laie ist, zum Herrn haben außer dem König.",
+        "2": "Es ist kein Fahnenlehen, von dem ein Mann Fürst sein kann, wenn er es nicht vom König empfängt. Was ein anderer vor ihm empfängt, daran ist er nicht der vorderste, weil ein anderer es vor ihm empfing, und kann davon nicht Reichsfürst sein."
+      }
+    },
+    "lr-iii-59": {
+      "title": "Geistliche Fürsten: Lehen vor Weihe",
+      "metaStatus": "draft",
+      "keyPoints": ["Gewählte Bischöfe, Äbte und Äbtissinnen mit Heerschild empfangen erst das Lehen, dann die Weihe", "Erst danach können sie Lehnrecht üben", "Wird nicht binnen sechs Wochen gewählt, verleiht der Kaiser"],
+      "significance": "Nachwirkung des Wormser Konkordats im sächsischen Recht.",
+      "keywords": ["Bischof", "Abt", "Investitur", "Lehen", "Weihe", "Wormser Konkordat"],
+      "synonyms": ["Regalien", "Investitur", "bisorghe"],
+      "sections": {
+        "1": "Wenn man Bischöfe, Äbte oder Äbtissinnen wählt, die den Heerschild haben, so sollen sie zuerst das Lehen empfangen und danach die geistliche Weihe. Wenn sie das Lehen empfangen haben, können sie Lehnrecht üben, nicht vorher.",
+        "2": "Wo man Bischöfe, Äbte oder Äbtissinnen nicht binnen sechs Wochen wählt, fällt die Verleihung an den Kaiser; er verleiht es, wem er will, der sich ordnungsgemäß verhalten hat."
+      }
+    },
+    "lr-iii-60": {
+      "title": "Belehnung durch den Kaiser; Rechte des Königs",
+      "metaStatus": "draft",
+      "keyPoints": ["Geistliche Fürstenlehen mit dem Zepter, weltliche Fahnenlehen mit der Fahne; Leihezwang binnen Jahr und Tag", "Wo der König hinkommt, sind ihm Zoll, Münze und Gericht ledig", "Bei seiner ersten Ankunft sind ihm alle Gefangenen vorzuführen"],
+      "significance": "Symbole der Belehnung und Vorrechte des anwesenden Königs.",
+      "keywords": ["Zepter", "Fahne", "Belehnung", "Zoll", "Münze", "Gefangene", "König"],
+      "synonyms": ["Zepterlehen", "Fahnenlehen", "Königsrecht"],
+      "sections": {
+        "1": "Der Kaiser verleiht alle geistlichen Fürstenlehen mit dem Zepter, alle weltlichen Fahnenlehen mit der Fahne. Kein Fahnenlehen darf er auch Jahr und Tag ledig halten.",
+        "2": "In welche Stadt des Reiches der König innerhalb des Reiches kommt, dort sind ihm Zoll und Münze ledig, und in welches Land er kommt, dort ist ihm das Gericht ledig, so dass er alle Klagen richten darf, die vor Gericht nicht begonnen oder noch nicht beendet sind.",
+        "3": "Wenn der König zum ersten Mal in das Land kommt, sollen ihm alle Gefangenen nach Recht ledig sein, und man soll sie vor ihn bringen und mit Recht überführen oder mit Recht freilassen, sobald man sie herbeischaffen kann, seit der Zeit, dass der König oder seine Boten sie zu Recht forderten bei den Männern selbst, am Hof oder im Haus, wo sie gefangen sind oder gewesen sind. Verweigert man, sie vorzuführen, nachdem man sie zu Recht gefordert hat, und hat man dafür Zeugen an des Königs Boten, so tut man sofort alle in die Acht, die sie fingen, und Burg und Leute, die sie gegen das Recht festhalten."
+      }
+    }
+  }
+}

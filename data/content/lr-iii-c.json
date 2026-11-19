@@ -1,0 +1,413 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR III 61–91. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-iii-61": {
+      "title": "Grafending, Schultheiß und Dingzeit",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Graf hält alle achtzehn Wochen echtes Ding mit Schultheiß, Schöffen und Fronbote", "Schultheiß kann nur sein, wer im Land frei geboren ist; der Büttel braucht eine halbe Hufe Eigen", "Dingpflichtige warten von Sonnenaufgang bis Mittag"],
+      "significance": "Organisation des Grafengerichts.",
+      "keywords": ["Grafending", "Schultheiß", "Schöffen", "Fronbote", "Dingzeit"],
+      "synonyms": ["echtes Ding", "bodel"],
+      "sections": {
+        "1": "Alle achtzehn Wochen soll der Graf sein Ding außerhalb der gebundenen Tage an der echten Dingstätte ansetzen, wo Schultheiß, Schöffen und Fronbote sind.",
+        "2": "Niemand kann Schultheiß sein, der nicht frei geboren ist aus dem Land, in dem das Gericht liegt.",
+        "3": "Der Büttel soll mindestens eine halbe Hufe Eigen haben.",
+        "4": "Auf das Gericht sollen alle Dingpflichtigen warten von Sonnenaufgang bis Mittag, wenn der Richter dort ist."
+      }
+    },
+    "lr-iii-62": {
+      "title": "Pfalzen, Fahnenlehen und Bistümer in Sachsen",
+      "metaStatus": "draft",
+      "keyPoints": ["Fünf Pfalzen: Grone, Werla (bei Goslar), Wallhausen, Allstedt, Merseburg", "Sieben Fahnenlehen: Herzogtum Sachsen, Pfalz, Brandenburg, Thüringen, Meißen, Lausitz, Aschersleben", "Zwei Erzbistümer und fünfzehn Bistümer mit ihren Zuordnungen"],
+      "significance": "Landeskundliche Bestandsaufnahme des sächsischen Rechtsraums.",
+      "keywords": ["Pfalz", "Fahnenlehen", "Bistum", "Magdeburg", "Mainz", "Bremen", "Köln", "Goslar"],
+      "synonyms": ["palenze", "Kirchenprovinz", "Reichsgeographie"],
+      "sections": {
+        "1": "Fünf Orte, die man Pfalzen nennt, liegen im Land Sachsen, wo der König echte Hoftage halten soll. Der erste ist Grone; der zweite Werla, das nach Goslar verlegt ist; Wallhausen ist der dritte; Allstedt der vierte; Merseburg der fünfte.",
+        "2": "Sieben Fahnenlehen gibt es auch im Land Sachsen: das Herzogtum Sachsen, die Pfalz, die Mark Brandenburg, die Landgrafschaft Thüringen, die Mark Meißen, die Mark Lausitz und die Grafschaft Aschersleben.",
+        "3": "Auch gibt es im Land Sachsen zwei Erzbistümer und fünfzehn andere. Dem von Magdeburg sind die Bischöfe von Naumburg, Merseburg, Meißen, Brandenburg und Havelberg unterstellt. Der Bischof von Mainz hat in Sachsen vier Untergebene: den Bischof von Halberstadt, den von Hildesheim, den von Verden und den von Paderborn. Die Bischöfe von Osnabrück, Minden und Münster sind dem von Köln unterstellt. Dem Erzbischof von Bremen sind die von Lübeck, Schwerin und Ratzeburg unterstellt."
+      }
+    },
+    "lr-iii-63": {
+      "title": "Weltliches und geistliches Gericht; Bann und Verfestung",
+      "metaStatus": "draft",
+      "keyPoints": ["Konstantin gab dem Papst ein weltliches Gewette von sechzig Schillingen zum geistlichen Recht", "Beide Gerichte sollen einander helfen", "Der Bann schadet der Seele, nicht Leib oder Recht – außer die Königsacht folgt; Verfestung nimmt das Leben, nicht das Recht"],
+      "significance": "Fortführung der Zweischwerterlehre (LR I 1) und Begrenzung des Kirchenbanns.",
+      "keywords": ["Konstantin", "Papst", "Bann", "Verfestung", "Acht", "Zwei Schwerter"],
+      "synonyms": ["Kirchenbann", "Konstantinische Schenkung"],
+      "sections": {
+        "1": "Konstantin, der König, gab dem Papst Silvester ein weltliches Gewette zum geistlichen, sechzig Schillinge, um damit alle die zu zwingen, die Gott nicht mit dem Leib bessern wollen, dass man sie mit dem Gut dazu zwinge. So sollen weltliches und geistliches Gericht übereinstimmen: Was dem einen widersteht, das soll man mit dem anderen zwingen, gehorsam zu sein und Recht zu leisten.",
+        "2": "Der Bann schadet der Seele und nimmt doch niemandem das Leben, noch kränkt er jemanden an Landrecht oder Lehnrecht, wenn ihm nicht die Acht des Königs folgt.",
+        "3": "Die Verfestung nimmt einem Mann das Leben, wenn er darin ergriffen wird, aber nicht sein Recht, wie lange er auch darin ist."
+      }
+    },
+    "lr-iii-64": {
+      "title": "Hoftagspflicht und Gewette nach Rang",
+      "metaStatus": "draft",
+      "keyPoints": ["Fürsten müssen dem Hoftag binnen deutscher Art folgen, sonst Gewette (100 Pfund für Fahnenlehen-Fürsten)", "Gewette-Tarif: Herzog 10 Pfund, Graf und Vogt mit Bann 60 Schillinge, Markgraf 30, Schultheiß 8, Gograf 6 Pfennige oder 1 Schilling, Bauermeister 6 Pfennige", "Königsbann verleiht nur der König; Bannleihe ohne Mannschaft"],
+      "significance": "Gestaffelte Gerichtsgewalt sichtbar an der Höhe des Gewettes.",
+      "keywords": ["Hoftag", "Gewette", "Königsbann", "Graf", "Markgraf", "Schultheiß", "Gograf"],
+      "synonyms": ["wedde", "Bannleihe", "Strafgeld"],
+      "sections": {
+        "1": "Gebietet der König durch Urteil Reichsdienst oder seinen Hoftag und lässt er es den Fürsten mit Brief und Siegel sechs Wochen vorher ankündigen, so sollen sie ihn innerhalb deutschen Landes aufsuchen, wo er ist; kommen sie nicht, so verwirken sie ein Gewette,",
+        "2": "die Fürsten, die Fahnenlehen haben, dem König hundert Pfund. Alle anderen Leute verwetten zehn Pfund, wo man nicht wegen eines Verbrechens wettet.",
+        "3": "Dem Herzog verwettet jeder Edle zehn Pfund. Es gibt aber genug Gegenden im Herzogtum, die besonderes Recht haben wollen, wie die Holsten, die Stormarn und die Hadeler; von ihrem Recht und ihrem Gewette sage ich nichts.",
+        "4": "Sechzig Schillinge verwettet man dem Grafen und auch dem Vogt, der unter Königsbann dingt, wenn er den Bann vom König hat.",
+        "5": "Den Königsbann darf niemand verleihen außer dem König selbst. Der König darf auch nicht mit Recht verweigern, den Bann dem zu verleihen, dem das Gericht verliehen ist. Verleiht ein Graf einen Teil seiner Grafschaft oder ein Vogt einen Teil seiner Vogtei, so ist das Unrecht. Der Belehnte darf darüber keinen Königsbann haben, so dass man es von ihm dulden müsste. Den Bann verleiht man ohne Mannschaft.",
+        "6": "Pfalzgraf und Landgraf dingen unter Königsbann wie der Graf; ihnen verwettet man sechzig Schillinge.",
+        "7": "Jedem Markgrafen dreißig, der bei seiner eigenen Huld dingt.",
+        "8": "Dem Schultheißen verwetten seine Biergelden acht Schillinge.",
+        "9": "Dem belehnten Mann, der den Königsbann nicht hat, verwettet man höchstens drei Schillinge.",
+        "10": "Dem Gografen sechs Pfennige oder einen Schilling, je nachdem, wie es die Wahl der Landleute bestimmt.",
+        "11": "Dem Bauermeister verwettet man sechs Pfennige und mitunter drei Schillinge für Haut und Haar; das ist der Bauermeister Gemeintrunk."
+      }
+    },
+    "lr-iii-65": {
+      "title": "Markding; Lehnsbindung an Genossen",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Markgraf dingt alle sechs Wochen bei eigener Huld; jeder Unbescholtene findet Urteile", "Dort muss niemand einem Ungleichen im Kampf antworten", "Wer Lehnsmann seines Standesgenossen wird, mindert seinen Heerschild, nicht Geburt oder Landrecht"],
+      "significance": "Besonderheiten des Markenrechts und Folgen der Lehnsbindung.",
+      "keywords": ["Mark", "Markgraf", "Urteil", "Heerschild", "Lehnsmann"],
+      "synonyms": ["marke", "Heerschildminderung"],
+      "sections": {
+        "1": "Der Markgraf dingt bei seiner eigenen Huld alle sechs Wochen; dort findet jeder Mann über den anderen Urteile, den man an seinem Recht nicht anfechten kann. Doch antwortet dort niemand einem, der nicht seinesgleichen ist, zum Kampf.",
+        "2": "Wird ein Mann der Lehnsmann seines Standesgenossen, so hat er weder seine Geburt noch sein Landrecht gemindert, wohl aber seinen Heerschild erniedrigt."
+      }
+    },
+    "lr-iii-66": {
+      "title": "Märkte, Burgen und Befestigungen",
+      "metaStatus": "draft",
+      "keyPoints": ["Kein neuer Markt näher als eine Meile beim anderen", "Burgen, Stadtmauern, Erdwerke und Türme nur mit Erlaubnis des Landrichters", "Erlaubnisfrei: Graben bis Spatentiefe, Bau bis zu drei Geschossen, Hofmauer bis Reiterhöhe ohne Zinnen"],
+      "significance": "Befestigungsrecht als landesherrliches Kontrollinstrument.",
+      "keywords": ["Burg", "Befestigung", "Markt", "Bannmeile", "Baurecht", "Zinnen"],
+      "synonyms": ["Befestigungsrecht", "Bannmeile", "borch"],
+      "sections": {
+        "1": "Man darf keinen Markt näher als eine Meile beim anderen bauen.",
+        "2": "Man darf ohne Erlaubnis des Richters des Landes keine Burg bauen, keine Stadt mit Planken oder Mauern befestigen, keinen Berg, keine Insel und keinen Turm innerhalb eines Dorfes befestigen.",
+        "3": "Ohne seine Erlaubnis darf man so tief graben, wie ein Mann mit einem Spaten die Erde hinauswerfen kann, ohne eine Stufe anzulegen. Man darf ohne seine Erlaubnis mit Holz oder Stein drei Geschosse übereinander bauen, eines in der Erde, die anderen zwei darüber, sofern man im unteren Geschoss eine Tür hat, kniehoch über der Erde. Man darf auch einen Hof mit Zäunen oder Mauern so hoch befestigen, wie man auf einem Pferd sitzend reichen kann. Zinnen und Brustwehren sollen nicht daran sein.",
+        "4": "Man darf keine Burg ohne Erlaubnis des Richters wieder aufbauen, die wegen eines Verbrechens durch Urteil gebrochen wurde. Wird eine Burg aber gewaltsam gebrochen oder lässt sie der Herr aus Mutwillen oder Armut verfallen, so darf man sie ohne Erlaubnis des Richters wieder aufbauen."
+      }
+    },
+    "lr-iii-67": {
+      "title": "Unrechtmäßig gewonnene Burg",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer eine Burg zu Unrecht gewinnt und gewaltsam hält, während der Berechtigte klagt,", "gegen dessen Burg kann keine Klage auf Bruch erhoben werden, solange der Berechtigte machtlos ist"],
+      "significance": "Schutz des rechtmäßigen Inhabers vor Folgen fremden Unrechts.",
+      "keywords": ["Burg", "Klage", "Gewalt", "Bruch"],
+      "synonyms": ["borch", "Burgenbruch"],
+      "sections": {
+        "1": "Wer einem anderen seine Burg zu Unrecht abgewinnt, und klagt dieser darauf nach Recht, und hält man ihm die Burg mit Gewalt vor, solange der, der Recht daran hat, machtlos ist, so kann man gegen die Burg keine Klage erheben, deretwegen man sie mit Recht brechen müsste."
+      }
+    },
+    "lr-iii-68": {
+      "title": "Burgenbruch nach Urteil",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Richter schlägt zuerst drei Hiebe mit dem Beil; die Landleute helfen beim Abreißen", "Nicht verbrennen, kein Holz und Stein wegführen außer Raubgut; Graben und Wall werden eingeebnet", "Alle Gerichtsinsassen helfen auf eigene Kost, wenn sie mit Gerüfte geladen werden"],
+      "significance": "Rechtsförmige Zerstörung als Strafvollzug an Gebäuden.",
+      "keywords": ["Burgenbruch", "Wüstung", "Richter", "Landleute", "Beil"],
+      "synonyms": ["Hauszerstörung", "Wüstungsstrafe"],
+      "sections": {
+        "1": "Der Richter soll zuerst mit einem Beil drei Schläge an eine Burg oder ein Gebäude schlagen, das mit Urteilen verurteilt ist; dazu sollen die Landleute mit Hauen und Rammen helfen. Man soll nichts verbrennen, weder Holz noch Stein wegführen, noch etwas, das darauf ist, es sei denn, es ist als Raubgut hinaufgebracht worden. Beansprucht es jemand mit Recht, so führe er es weg. Den Graben und den Wall soll man mit Spaten einebnen.",
+        "2": "Alle, die im Gericht ansässig sind, sollen auf eigene Kost dabei helfen, wenn sie mit dem Gerüfte dazu geladen werden."
+      }
+    },
+    "lr-iii-69": {
+      "title": "Gericht unter Königsbann: Form",
+      "metaStatus": "draft",
+      "keyPoints": ["Unter Königsbann tragen Schöffen und Richter keine Kappen, Hüte, Hauben oder Handschuhe, Mäntel über den Schultern, keine Waffen", "Urteile finden sie nüchtern über jeden, Deutschen oder Wenden, Unfreien oder Freien", "Sitzend finden, stehend schelten; Platztausch beim Schelten"],
+      "significance": "Zeremonielle Form der hohen Gerichtsbarkeit.",
+      "keywords": ["Königsbann", "Schöffen", "Kleidung", "Urteil", "Wenden"],
+      "synonyms": ["Gerichtsförmlichkeit", "uastende"],
+      "sections": {
+        "1": "Wo man unter Königsbann dingt, sollen weder Schöffen noch Richter Kappen anhaben, noch Hut, Hütlein, Haube oder Handschuhe; Mäntel sollen sie über den Schultern tragen; ohne Waffen sollen sie sein.",
+        "2": "Urteile sollen sie nüchtern finden über jeden Mann, sei er deutsch oder wendisch, unfrei oder frei. Niemand soll dort Urteile finden außer ihnen.",
+        "3": "Sitzend sollen sie Urteile finden. Schilt einer ihr Urteil, so soll er um die Bank bitten, ein Urteil zu finden. Dann soll der aufstehen, der das Urteil fand, und dieser soll sich an seinen Platz setzen und finden, was ihm recht dünkt, und es dorthin ziehen, wohin er es von Rechts wegen ziehen soll, und behaupten oder lassen nach Recht, wie hier vorher gesagt ist."
+      }
+    },
+    "lr-iii-70": {
+      "title": "Sachsen und Wenden vor Gericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Außerhalb des Königsbanns finden Unbescholtene Urteile übereinander – nicht aber Wende über Sachse und umgekehrt", "Bei handhafter Tat zeugt jeder gegen den anderen und muss dessen Urteil dulden"],
+      "significance": "Rechtliche Trennung von Sachsen und Slawen mit Ausnahme bei handhafter Tat.",
+      "keywords": ["Wenden", "Sachsen", "Urteil", "Zeugnis", "handhafte Tat"],
+      "synonyms": ["went", "Slawen"],
+      "sections": {
+        "1": "Wo man nicht unter Königsbann dingt, darf jeder Mann über den anderen Urteile finden, den man nicht als rechtlos anfechten kann, außer der Wende über den Sachsen und der Sachse über den Wenden.",
+        "2": "Wird aber der Sachse oder der Wende wegen eines Verbrechens bei handhafter Tat gefangen und mit dem Gerüfte vor Gericht gebracht, so zeugt der Sachse gegen den Wenden und der Wende gegen den Sachsen, und jeder muss das Urteil des anderen dulden, die so gefangen werden."
+      }
+    },
+    "lr-iii-71": {
+      "title": "Gerichtssprache",
+      "metaStatus": "draft",
+      "keyPoints": ["Jeder kann die Antwort verweigern, wenn man ihn nicht in seiner Muttersprache beschuldigt und er kein Deutsch kann", "Hat er aber auf Deutsch geklagt, geantwortet oder Urteile gefunden, antwortet er auf Deutsch – außer vor dem Reich"],
+      "significance": "Frühes Recht auf Verfahren in der eigenen Sprache.",
+      "keywords": ["Sprache", "Muttersprache", "Deutsch", "Wendisch", "Verfahren"],
+      "synonyms": ["sprake", "Sprachenrecht", "Dolmetscher"],
+      "sections": {
+        "1": "Jeder Mann, den man beschuldigt, kann verweigern zu antworten, wenn man ihn nicht in der Sprache beschuldigt, die ihm angeboren ist, sofern er kein Deutsch kann und seinen Eid darauf leistet. Beschuldigt man ihn dann in seiner Sprache, so muss er antworten oder sein Vorsprecher für ihn, so wie es der Kläger und der Richter verstehen.",
+        "2": "Hat er aber auf Deutsch geklagt oder geantwortet oder vor Gericht Urteile gefunden, und kann man ihn dessen überführen, so antwortet er auf Deutsch, außer vor dem Reich; denn dort hat jeder Recht nach seiner Geburt."
+      }
+    },
+    "lr-iii-72": {
+      "title": "Rechtsstand ehelicher freier Kinder",
+      "metaStatus": "draft",
+      "keyPoints": ["Das eheliche freie Kind behält den Heerschild des Vaters", "Es erbt von Vater und Mutter, wenn es der Mutter ebenbürtig oder schlechter geboren ist"],
+      "significance": "Grundsatz der Vaterfolge im Stand.",
+      "keywords": ["Kind", "Heerschild", "Erbe", "Ebenbürtigkeit"],
+      "synonyms": ["Vaterfolge", "schilt"],
+      "sections": {
+        "1": "Ein eheliches und freies Kind behält den Schild seines Vaters und nimmt sein Erbe und das der Mutter ebenso, wenn es ihr ebenbürtig oder schlechter geboren ist."
+      }
+    },
+    "lr-iii-73": {
+      "title": "Ungleiche Ehen; Wendinnen",
+      "metaStatus": "draft",
+      "keyPoints": ["Heiratet eine Schöffenbare einen Biergelden oder Landsassen, folgen die Kinder dem Vater und erben nicht von ihr", "Unter Dienstleuten galt früher: Sohn folgt dem Vater, Tochter der Mutter – seit Bischof Wichmann gilt anderes", "Wendinnen sind nicht frei; sie zahlen Bumede und Scheidungsgeld"],
+      "significance": "Standesfolge bei Mischehen und Rechtswandel durch Gewohnheit.",
+      "keywords": ["Mischehe", "Stand", "Dienstleute", "Wichmann", "Wenden", "Bumede"],
+      "synonyms": ["Ebenbürtigkeit", "bovmede", "Heiratsabgabe"],
+      "sections": {
+        "1": "Nimmt aber eine freie schöffenbare Frau einen Biergelden oder einen Landsassen und gewinnt Kinder mit ihm, so sind diese ihr an Buße und Wergeld nicht ebenbürtig, denn sie haben das Recht des Vaters und nicht der Mutter; darum nehmen sie weder das Erbe der Mutter noch das eines anderen, der ihr Verwandter von mütterlicher Seite ist.",
+        "2": "Dasselbe Recht hielten auch die Dienstleute bis zu Bischof Wichmann von Magdeburg: dass der Sohn das Recht des Vaters und die Tochter das der Mutter behielt, und sie gehörten ihnen nach, wenn sie Dienstleute waren. Damals brauchte man unter den Dienstleuten keinen Tausch. Von Anfang des Rechts war es Recht, dass eine freie Frau niemals ein unfreies Kind gewann. Seit Bischof Wichmanns Zeiten aber gilt das Recht, dass Sohn und Tochter der deutschen Mutter dem gehören, den sie bestimmt, der Vater sei deutsch oder wendisch, und das Kind der Wendin dem Vater folgt, wenn er ein Wende ist; ist er aber deutsch, so folgt es der Mutter.",
+        "3": "Man sagt, alle Wendinnen seien frei, weil ihre Kinder dem wendischen Vater folgen; das ist nicht so; denn sie geben ihre Bumede ihren Herren, so oft sie einen Mann nehmen. Verlassen sie auch ihren Mann, wie es wendisches Recht ist, so müssen sie ihren Herren den Scheidungspfennig geben, das sind drei Schillinge, und andernorts mehr, nach des Landes Gewohnheit."
+      }
+    },
+    "lr-iii-74": {
+      "title": "Rechte der geschiedenen Frau",
+      "metaStatus": "draft",
+      "keyPoints": ["Die geschiedene Frau behält ihre Leibzucht am Eigen des Mannes und die Gebäude darauf (ohne sie abzubrechen)", "Gerade und Musteil behält sie, nicht die Morgengabe", "Das Eingebrachte oder das Versprochene ist ihr zurückzugeben"],
+      "significance": "Scheidungsfolgen im Güterrecht.",
+      "keywords": ["Scheidung", "Leibzucht", "Gerade", "Musteil", "Morgengabe", "Mitgift"],
+      "synonyms": ["schedinghe", "Scheidungsfolgen"],
+      "sections": {
+        "1": "Wird eine Frau von ihrem Mann mit Recht geschieden, so behält sie doch ihre Leibzucht, die er ihr an seinem Eigen gab, und ihr Gebäude, das darauf steht. Das darf sie aber nicht abbrechen oder wegführen; sonst bleibt ihr weder Gebäude noch Morgengabe. Ihre Gerade behält sie und ihr Musteil. Man soll ihr auch zurücklassen und geben, was sie ihrem Mann zubrachte, oder so viel vom Gut ihres Mannes, wie ihr versprochen wurde, als sie zusammenkamen."
+      }
+    },
+    "lr-iii-75": {
+      "title": "Leibzucht an Eigen und Lehen",
+      "metaStatus": "draft",
+      "keyPoints": ["Am Eigen ist die Leibzucht der Frau sicher, am Lehen nicht", "Zu Lebzeiten des Mannes ist Lehen ihr Gedinge, nach seinem Tod ihr rechtes Lehen", "Lehen hat man nur auf Lebenszeit; es vererbt sich nicht nach Landrecht"],
+      "significance": "Unterschiedliche Sicherheit der Witwenversorgung nach Gutsart.",
+      "keywords": ["Leibzucht", "Eigen", "Lehen", "Gedinge", "Witwe"],
+      "synonyms": ["liftucht", "Anwartschaft"],
+      "sections": {
+        "1": "Am Eigen ist die Leibzucht der Frau sicher, weil sie ihr niemand auf Lebenszeit brechen kann, am Lehen aber nicht, weil sie ihr auf mancherlei Weise gebrochen werden kann.",
+        "2": "Lehen ist zu Lebzeiten ihres Mannes ihr Gedinge; nach dem Tod ihres Mannes ist es ihr rechtes Lehen.",
+        "3": "Weder Mann noch Frau haben Lehen länger als auf Lebenszeit, auch wenn Mann und Frau es nicht vererben."
+      }
+    },
+    "lr-iii-76": {
+      "title": "Witwe im ungeteilten Gut; Wiederheirat",
+      "metaStatus": "draft",
+      "keyPoints": ["Trennt sich die Witwe später von den Kindern, nimmt sie Morgengabe, Gerade und Musteil am dann vorhandenen Gut", "Stirbt die wiederverheiratete Frau, behält der Mann ihre Rechte an der Fahrnis außer Gebäude und Gerade", "Ernte und Zins bei Tod der Frau vor oder nach der Saat"],
+      "significance": "Güterrechtliche Folgen von Witwenschaft und Wiederheirat.",
+      "keywords": ["Witwe", "Wiederheirat", "Morgengabe", "Gerade", "Saat", "Zins"],
+      "synonyms": ["unghetweyt göd", "Fortsetzung der Gütergemeinschaft"],
+      "sections": {
+        "1": "Stirbt der Frau ihr Mann und bleibt sie längere oder kürzere Zeit ungeteilt mit den Kindern im Gut des Mannes, so nimmt die Frau, wenn sie sich später trennt, ihre Morgengabe, ihre Gerade und ihr Musteil an dem ganzen Gut, das dann vorhanden ist, so wie sie es zur Zeit hätte nehmen sollen, als ihr Mann starb.",
+        "2": "Hatte die Frau aber einen Mann genommen und war er zu ihr und den Kindern in das ungeteilte Gut gezogen, und stirbt dann die Frau, so behält der Mann alle Rechte der Frau an der fahrenden Habe, außer Gebäuden und Gerade.",
+        "3": "Nimmt ein Mann eine Witwe, die Eigen, Lehen, Leibzucht oder Zinsgut hat, und stirbt seine Frau vor der Saat, so darf er das, was er in dem Gut mit seinem Pflug bearbeitet hat, bearbeiten, säen und schneiden; Zins oder Abgabe soll er davon dem geben, auf den das Gut fällt.",
+        "4": "Stirbt die Frau aber nach der Saat, wenn die Egge das Land bestrichen hat, so gehört die Saat dem Mann; er muss davon weder Abgabe noch Zins zahlen, wo sie keine Zinspflichtige war.",
+        "5": "Was es an Zins oder Abgabe im Gut der Frau gab, die ihr zu zahlen war, ist, wenn sie nach den rechten Zinstagen stirbt, verdientes Gut des Mannes, so wie es den Erben gehören würde, wenn sie ohne Mann wäre."
+      }
+    },
+    "lr-iii-77": {
+      "title": "Verpachtetes Land beim Tod des Verpächters",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Land besät auf Jahre verpachtet, dem müssen die Erben es besät zurücklassen, auch wenn er vorher stirbt", "Die Erben geben den Zins dem, an den das Gut fällt"],
+      "significance": "Pacht endet nicht mit dem Tod des Verpächters, aber nur für dessen Lebenszeit gewährleistet.",
+      "keywords": ["Pacht", "Zins", "Erben", "Saat", "Tod"],
+      "synonyms": ["pleghe", "Pachtvertrag"],
+      "sections": {
+        "1": "Gibt ein Mann sein besätes Land auf bestimmte Jahre zu Zins oder Abgabe aus, mit der Abrede, dass man es ihm besät zurücklasse, so soll man es, zu welcher Zeit er innerhalb der Jahre auch stirbt, den Erben besät zurücklassen; denn er konnte es ihnen nicht länger gewährleisten als zu seinen Lebzeiten.",
+        "2": "Die Erben sollen auch von der Saat solchen Zins dem geben, an den das Gut fällt, wie man ihn dem hätte geben sollen, der es ausgab, weil sein Pflug es nicht bestellt hatte, als er starb."
+      }
+    },
+    "lr-iii-78": {
+      "title": "Widerstandsrecht und Treue",
+      "metaStatus": "draft",
+      "keyPoints": ["Richter dürfen über Verwandte und Lehnsleute richten, ohne die Treue zu brechen", "Man darf seinem König und Richter im Unrecht widerstehen und sich wehren – ohne Treuebruch", "Treue gilt wechselseitig zwischen Herr und Mann; Notwehr und Nothilfe sind kein Treuebruch"],
+      "significance": "Berühmte Formulierung des Widerstandsrechts gegen ungerechte Herrschaft.",
+      "keywords": ["Widerstandsrecht", "Treue", "König", "Richter", "Notwehr", "Nothilfe", "Lehnsherr"],
+      "synonyms": ["Widerstand", "truwe", "Treuepflicht"],
+      "sections": {
+        "1": "Der König und jeder Richter darf über Hals, Hand und Erbe jedes seiner Verwandten und Lehnsleute richten und handelt damit nicht gegen seine Treue.",
+        "2": "Der Mann darf auch seinem König und seinem Richter im Unrecht widerstehen und helfen, sich auf jede Weise zu wehren, auch wenn er sein Verwandter oder Herr ist, und handelt damit nicht gegen seine Treue.",
+        "3": "Der Mann darf seinem Herrn folgen und der Herr seinem Mann und der Verwandte dem Verwandten und helfen, ihn von Gerichts wegen wegen eines Verbrechens festzuhalten, wozu er mit dem Gerüfte bei einer handhaften Tat geladen wird, und handelt damit nicht gegen seine Treue.",
+        "4": "Der Mann darf auch vor die Burg seines Herrn ziehen und der Herr vor die des Mannes und der Verwandte vor die des Verwandten, wenn er wegen eines Verbrechens mit dem Gerüfte geladen wird, und darf sie dann auch brechen helfen, wenn man sich nicht mit Recht reinigt, und handelt damit nicht gegen seine Treue.",
+        "5": "Jeder Mann darf Städte, Burgen, Land und Leben seines Herrn, Verwandten und Mannes und die seines Freundes gegen Herren, Verwandte und Lehnsleute verteidigen helfen, die sie gewaltsam angreifen, und darf gegen sie kämpfen und handelt damit nicht gegen seine Treue, sofern er nicht selbst ihr Gut nimmt.",
+        "6": "Verwundet ein Mann seinen Herrn oder erschlägt er ihn in Notwehr, oder der Herr den Mann, so handelt er nicht gegen seine Treue, wenn die Not mit Recht gegen ihn erwiesen wird.",
+        "7": "Seinem Reisegefährten, seinem Wirt, bei dem er beherbergt ist, seinem Gast und dem, der zu seiner Gnade flieht, soll der Mann gegen jedermann helfen, sich unrechter Gewalt zu erwehren, und handelt damit nicht gegen seine Treue.",
+        "8": "Sucht der Herr den Mann oder der Mann den Herrn unverklagt vor seinen Lehnsleuten nach Recht heim, so handelt er gegen seine Treue. Kommt er aber nicht zu seinem Schaden heraus und entsteht ihm Schaden von ihm selbst oder von denen, die seinetwegen dort sind, oder wobei er unwissentlich Helfer ist, so soll er den Schaden nach Recht ersetzen, und das ist nicht gegen seine Treue.",
+        "9": "Wo aber ein Mann auf einem Kriegszug ist und nicht Hauptmann ist, und reiten Leute ihn und die Seinen an und richten seinem Herrn oder seinem Mann oder seinem Verwandten oder wem auch immer ohne seinen Rat und ohne seine Tat Schaden an, so bleibt er ohne Geld und ohne Schande, wenn er es auf die Heiligen beschwört."
+      }
+    },
+    "lr-iii-79": {
+      "title": "Neue Dörfer und Dorfrecht",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer ein Dorf aus wilder Wurzel neu besiedelt, kann Erbzinsrecht erhalten", "Kein Dorfrecht darf das Recht oder Gewette des Landrichters mindern", "Auswärtige antworten im Dorf nach gemeinem Landrecht"],
+      "significance": "Siedlungsrecht der Ostsiedlung und Vorrang des Landrechts.",
+      "keywords": ["Ostsiedlung", "Rodung", "Erbzinsrecht", "Dorfrecht", "Landrecht"],
+      "synonyms": ["wilde wortele", "Kolonisation", "eruetinsrecht"],
+      "sections": {
+        "1": "Wo Bauern ein neues Dorf aus wilder Wurzel besiedeln, denen kann der Herr des Dorfes Erbzinsrecht an dem Gut geben, auch wenn sie zu dem Gut nicht geboren sind. Er kann ihnen aber kein Recht geben, noch können sie selbst eines wählen, durch das sie das Recht des Landrichters brechen oder sein Gewette mindern oder mehren könnten.",
+        "2": "Kein Auswärtiger ist verpflichtet, im Dorf nach ihrem besonderen Dorfrecht zu antworten, sondern nach gemeinem Landrecht, es sei denn, er klagt dort auf Erbe, Gut oder Schuld.",
+        "3": "Wo der Mann klagt, dort muss er auch antworten, außer im Kampfrecht, wenn man gegen ihn klagt."
+      }
+    },
+    "lr-iii-80": {
+      "title": "Erbloses Eigen; Freilassung",
+      "metaStatus": "draft",
+      "keyPoints": ["Erbloses Eigen bis drei Hufen fällt ans Schultheißenamt, bis dreißig Hufen an die Grafschaft, darüber an den König", "Freigelassene Dienst- oder Eigenleute erhalten das Recht freier Landsassen"],
+      "significance": "Heimfall nach Größe des Gutes; Rechtsstand Freigelassener.",
+      "keywords": ["Heimfall", "Eigen", "Hufe", "König", "Freilassung", "Landsassen"],
+      "synonyms": ["eruelos", "Freigelassene"],
+      "sections": {
+        "1": "Stirbt von einem Biergelden ein Eigen von drei Hufen oder weniger erblos, so gehört es zum Schultheißenamt. Von wem auch immer ein Eigen von dreißig Hufen oder weniger erblos stirbt, das gehört zur Grafschaft. Sind es aber mehr als dreißig Hufen, so ist es dem König ledig.",
+        "2": "Lässt der König oder ein anderer Herr seinen Dienstmann oder seinen Eigenmann frei, so erhält dieser das Recht freier Landsassen."
+      }
+    },
+    "lr-iii-81": {
+      "title": "Neue Schöffen aus Reichsdienstleuten; Erbrecht der Dienstleute",
+      "metaStatus": "draft",
+      "keyPoints": ["Fehlen Schöffen, kann der König Reichsdienstleute freilassen und mit Reichsgut zu Schöffen machen", "Dienstleute erben nach Landrecht, aber nur innerhalb der Gewalt ihres Herrn"],
+      "significance": "Aufstieg Unfreier in den Schöffenstand zur Sicherung des Gerichts.",
+      "keywords": ["Schöffen", "Reichsdienstleute", "Freilassung", "Ministeriale", "Erbrecht"],
+      "synonyms": ["denstman", "Ministerialität"],
+      "sections": {
+        "1": "Gehen aber die Schöffen in einer Grafschaft aus, so darf der König Dienstleute des Reiches mit Urteilen freilassen und zu Schöffen machen, damit man zu Recht kommt und dort Königsbann halten kann. Er soll ihnen aber so viel Reichsgut zu Eigen geben, dass sie davon Schöffen sein können; jedem drei Hufen oder mehr. Das Gut darf er aus dem Gut der Grafschaft nehmen, wo es der Graf ledig hat, weil das Eigen der Schöffen an die Grafschaft heimgefallen ist.",
+        "2": "Dienstleute vererben und nehmen Erbe wie freie Leute nach Landrecht, nur dass sie außerhalb der Gewalt ihres Herrn weder vererben noch Erbe nehmen."
+      }
+    },
+    "lr-iii-82": {
+      "title": "Rechtsverlust überall; Einweisung in fremde Gewere",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer sein Recht vor Gericht verliert, hat es überall verloren", "Beweis durch zwei Boten zum früheren Gericht", "Einweisung in fremde Gewere kann der Besitzer anfechten, solange er nicht verklagt und geladen ist"],
+      "significance": "Überörtliche Wirkung der Rechtlosigkeit; Besitzschutz gegen Scheinübertragung.",
+      "keywords": ["Rechtsverlust", "Gewere", "Einweisung", "Boten", "Besitzschutz"],
+      "synonyms": ["rechtlos", "inwisinghe"],
+      "sections": {
+        "1": "Wer sein Recht vor Gericht an einem Ort verliert, hat es überall verloren, wenn man dafür das Zeugnis jenes Gerichts hat. Das Zeugnis des Richters ist aber niemand verpflichtet, in ein anderes Gericht zu bringen; vielmehr soll der Richter, vor dem er für rechtlos erklärt wird, zwei Boten zu dem Richter senden, wo er sein Recht verloren hat, damit sie hören, ob man ihn dessen überführen kann; und davon sollen sie dann Zeugen sein.",
+        "2": "Wer einem anderen ein Gut gibt und es ihm in die Gewere lässt, in der er selbst keine Gewere hatte, und wird jener von Gerichts wegen eingewiesen, so kann der, der die Gewere hat, der Einweisung widersprechen und jenen hinausweisen, sofern er für das Gut im nächsten angesetzten Ding einsteht; denn ein Mann ist nicht verpflichtet, seine Gewere zu räumen, wenn er nicht deswegen verklagt und vorgeladen wird. Wird jenem die Gewere zugesprochen und weist man ihn von Gerichts wegen ein, so darf man ihn nicht hinausweisen, außer mit Urteilen."
+      }
+    },
+    "lr-iii-83": {
+      "title": "Gaben und Gewährschaft",
+      "metaStatus": "draft",
+      "keyPoints": ["Geschenktes muss man drei Tage besitzen; Erstrittenes und Ererbtes nicht", "Wer Gut leiht oder auflässt, gewährt es Jahr und Tag", "Wer Eigen oder Fahrnis verkauft, gewährt es lebenslang"],
+      "significance": "Dauer der Gewährschaftspflicht nach Erwerbsart.",
+      "keywords": ["Gabe", "Gewährschaft", "Kauf", "Leihe", "Besitz"],
+      "synonyms": ["warent", "Rechtsmängelhaftung"],
+      "sections": {
+        "1": "Was man Mann oder Frau gibt, das sollen sie drei Tage besitzen. Was sie mit Klage erstreiten oder was ihnen vererbt wird, das brauchen sie nicht zu besitzen.",
+        "2": "Wer einem anderen ein Gut leiht oder auflässt, soll es ihm Jahr und Tag gewähren.",
+        "3": "Wer Eigen oder fahrende Habe verkauft, soll dafür Gewährsmann sein, solange er lebt; man soll ihm aber das Gut in seine Gewere zum Behalten oder Verlieren lassen, solange er dafür einstehen soll; denn er kann es nicht anders ansprechen als jemand, dem es je gegeben wurde, nämlich als Gabe."
+      }
+    },
+    "lr-iii-84": {
+      "title": "Verwirkung von Anwartschaften",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer einem anderen Gut gewaltsam bis zu dessen Tod vorenthält, verliert alle Rechte daran", "Tötet der Mann seinen Herrn (oder umgekehrt), verwirkt er Leben, Ehre und Lehen", "Wer den tötet, dessen Erbe er erwartet, verliert die Anwartschaft – außer bei Notwehr oder Unwissenheit"],
+      "significance": "Erbunwürdigkeit und Verwirkung bei Gewalt gegen den Erblasser.",
+      "keywords": ["Erbunwürdigkeit", "Anwartschaft", "Tötung", "Herr", "Notwehr"],
+      "synonyms": ["wardinghe", "Verwirkung"],
+      "sections": {
+        "1": "Wer einem anderen Gut gewaltsam bis zu dessen Tod nimmt, hat alles Recht an dem Gut verloren, das ihm nach dessen Tod an dem Gut hätte anfallen können.",
+        "2": "Tötet der Mann seinen Herrn, so hat er Leben, Ehre und das Gut verwirkt, das er von ihm hatte. Dasselbe verwirkt der Herr, wenn er seinen Mann tötet, und der Oberherr kann dessen Kinder nicht mit dem Gut an den Herrn weisen.",
+        "3": "Tötet auch ein Mann seinen Vater, Bruder, Verwandten oder jemanden, dessen Eigen oder Lehen er erwartet, so hat er seine ganze Anwartschaft verloren, es sei denn, er tat es in Notwehr seines Lebens und die Not wird gegen den Toten erwiesen, oder er tat es unwissentlich und gegen seinen Willen."
+      }
+    },
+    "lr-iii-85": {
+      "title": "Gesamtschuld und Bürgschaft",
+      "metaStatus": "draft",
+      "keyPoints": ["Gemeinsam Gelobtes schuldet jeder anteilig, nicht jeder das Ganze", "Leistung an einen von mehreren Gläubigern befreit gegenüber allen", "Selbstschuldnerische Bürgschaft: Wer selbst zahlt, befreit den Bürgen; der Bürge beweist Zahlung selbst"],
+      "significance": "Frühe Regeln zu Teil- und Gesamtschuld.",
+      "keywords": ["Gesamtschuld", "Teilschuld", "Bürgschaft", "Zahlung", "Wergeld"],
+      "synonyms": ["Teilschuld", "borghe", "Solidarhaftung"],
+      "sections": {
+        "1": "Wo mehrere Leute zusammen ein Wergeld oder ein anderes Geld geloben, sind sie alle verpflichtet, es zu leisten, solange es unbezahlt ist, aber nicht jeder das Ganze, sondern jeder so viel, wie auf ihn fällt, und so weit man ihn von Gerichts wegen dazu zwingen kann, es sei denn, der, dem es gelobt ist, oder der, der mit ihm gelobte, hat es für ihn bezahlt.",
+        "2": "Geloben auch viele Leute eine Schuld zu zahlen und empfangen mehrere das Gelöbnis, so hat man allen geleistet, wenn man dem leistet, dem man zahlen soll, oder sich mit ihm gütlich einigt.",
+        "3": "Wer Bürgen so stellt, dass er selbst zahlt oder sein Bürge für ihn, der hat, wenn er beweisen kann, dass er bezahlt hat, seine Bürgen gelöst.",
+        "4": "Wer aber Bürge für einen anderen wird und gelobt, ein bestimmtes Geld zu zahlen, der muss selbst mit Zeugen beweisen, dass er bezahlt hat oder jemand in seinem Auftrag."
+      }
+    },
+    "lr-iii-86": {
+      "title": "Übergriffe auf die Allmende",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer die Gemeindeflur abpflügt, abgräbt oder einzäunt, zahlt dem Bauermeister drei Schillinge", "Vor dem höheren Richter: Gewette und dreißig Schillinge Buße an die Bauern", "Ebenso haftet eine Bauerschaft gegenüber der anderen"],
+      "significance": "Schutz des Gemeindeeigentums.",
+      "keywords": ["Allmende", "Gemeinde", "Bauermeister", "Buße", "Bauerschaft"],
+      "synonyms": ["ghemene", "Gemeindeland", "Almende"],
+      "sections": {
+        "1": "Wer seinen Nachbarn die Gemeinheit abpflügt, abgräbt oder einzäunt und deswegen vor dem Bauermeister verklagt wird, muss drei Schillinge verwetten. Verweigert er aber das Recht vor dem Bauermeister und wird er beim oberen Richter verklagt, so muss er dem Richter Gewette und den Bauern dreißig Schillinge Buße zahlen und ihre Gemeinheit zurücklassen.",
+        "2": "Auf dieselbe Weise bessert eine Bauerschaft der anderen mit drei Schillingen und ersetzt ihren Schaden, wenn man sie bei den Umsassen verklagt, wie man es von Rechts wegen soll. Verweigern sie aber dort das Recht und werden sie beim oberen Richter verklagt, so muss ihr Bauermeister für sie alle ein Gewette zahlen und den Bauern mit dreißig Schillingen büßen und ihren Schaden ersetzen."
+      }
+    },
+    "lr-iii-87": {
+      "title": "Klage vor fremdem Gericht; Rechtsverweigerung",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer einen Laien wegen weltlicher Sachen vor geistlichem Gericht verklagt, schuldet Gewette, Buße und Schadensersatz", "Ebenso vor Weichbild- oder auswärtigem Gericht, außer bei Rechtsverweigerung", "Rechtsverweigerung durch Richter oder Beklagten erlaubt Klage andernorts"],
+      "significance": "Schutz der zuständigen Gerichtsbarkeit und Ausnahme bei Rechtsverweigerung.",
+      "keywords": ["Zuständigkeit", "geistliches Gericht", "Weichbild", "Rechtsverweigerung"],
+      "synonyms": ["iustitia denegata", "wicbelde"],
+      "sections": {
+        "1": "Welcher Laie einen anderen Laien vor geistlichem Gericht wegen einer solchen Schuld verklagt, die der weltliche Richter von Rechts wegen richten soll, und bringt ihn in Schaden, und wird er deswegen nach Landrecht verklagt, so muss er dem Richter Gewette und jenem Buße geben und ihn schadlos halten.",
+        "2": "Dasselbe muss ein Landmann dem anderen tun, wenn er ihn im Weichbild oder vor einem auswärtigen Gericht verklagt, wenn sie in einem Dorf oder einer Goschaft sitzen, es sei denn, ihm ist vor dem Richter das Recht verweigert worden.",
+        "3": "Das Recht verweigert der Richter, wenn er nicht richten will oder seine rechten Dingtage nicht hält.",
+        "4": "Das Recht verweigert der Mann, gegen den man klagt, wenn er dingflüchtig wird oder eine Schuld nicht zahlt oder nicht zurückgibt, die er zahlen oder zurückgeben soll, und man ihn von Gerichts wegen nicht mit Pfand zwingen kann; dann darf man gegen ihn klagen, wo man gegen ihn zu Recht kommen kann."
+      }
+    },
+    "lr-iii-88": {
+      "title": "Gerichtszeugnis und Eid gegen Verfestete",
+      "metaStatus": "draft",
+      "keyPoints": ["Der Richter bezeugt bei des Königs Huld, die Schöffen und Dingpflichtigen bei ihrem Eid", "Verfestung wird mit Richter und Dingpflichtigen bezeugt", "Kläger und Zeuge schwören gegen den Verfesteten; der Zeuge spricht vor, der Kläger schwört nach"],
+      "significance": "Formen des Gerichtszeugnisses und des Eides.",
+      "keywords": ["Gerichtszeugnis", "Eid", "Verfestung", "Schöffen", "Huld"],
+      "synonyms": ["tuch", "Eidesformel"],
+      "sections": {
+        "1": "Was ein Mann mit dem Gericht bezeugen soll, dazu soll sich der Richter bei des Königs Huld verpflichten, danach die Schöffen und alle anderen Dingpflichtigen bei ihrem Eid.",
+        "2": "Wenn man aber einen verfesteten Mann ohne handhafte Tat gefangen vor Gericht führt und die Verurteilung über ihn begehrt, und leugnet er die Verfestung, so soll man die Verfestung vor der Verurteilung mit dem Richter und den Dingpflichtigen bezeugen. Der Kläger selbst braucht nicht Zeuge zu sein, wenn er mit dem Richter das Zeugnis erbringt.",
+        "3": "Wenn aber der Mann verurteilt wird, so muss der Kläger zuerst gegen ihn schwören, dass er der Tat schuldig sei, deretwegen er verfestet ist, so wahr ihm Gott helfe und die Heiligen. Danach soll sein Zeuge schwören, dass sein Eid rein und ohne Falsch sei.",
+        "4": "So sollen auch der Kläger und sein Zeuge gegen einen Friedbrecher schwören, der wegen eines Verbrechens bei handhafter Tat gefangen, vor Gericht gebracht und mit Urteilen verurteilt wird.",
+        "5": "Welches Zeugnis ein Mann aber vor Gericht oder gegen das Gericht erbringen soll, sei es um Gut oder um Gewette, das soll sein Zeuge ihm beim Eid vorsprechen und er soll es nachschwören."
+      }
+    },
+    "lr-iii-89": {
+      "title": "Verwechselte Sachen",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer aus Badestube, Mühle oder Herberge irrtümlich fremde gleichartige Sachen mitnimmt und seine zurücklässt,", "kann angefasst, aber nicht der handhaften Tat beschuldigt werden, wenn er sich durch Eid reinigt"],
+      "significance": "Irrtum schließt Diebstahl aus.",
+      "keywords": ["Verwechslung", "Irrtum", "Diebstahl", "Badestube", "Mühle", "Anefang"],
+      "synonyms": ["Sachverwechslung", "unhalinghes"],
+      "sections": {
+        "1": "Wer eines anderen Schwert, Kleid, Mantel oder Scheremesser, die den seinen gleichen, wo mehr Leute verkehren, aus der Badestube trägt, oder einen Sack, leer oder voll, aus der Mühle führt, oder Sattel, Filz, Zaum, Sporen oder anderes Gut eines anderen Mannes für das seine nimmt, das dem seinen gleicht, oder Bett, Kissen, Schlaflaken, wo mehrere zusammen liegen, oder anderes Gut, was es sei, für das seine nimmt und das seine dort lässt, und hält er es in dem Glauben, dass es seins sei, unverhohlen und leistet er seinen Eid darauf, so kann man es zwar anfassen und bei ihm einklagen; Diebstahl und Raub aber, wenn man ihn dessen beschuldigt, davon kann er sich auf die Heiligen reinigen, wenn er Zeugen hat, dass er es offen behalten hat; dann kann man ihn keiner handhaften Tat daran beschuldigen."
+      }
+    },
+    "lr-iii-90": {
+      "title": "Bestattung von Erschlagenen",
+      "metaStatus": "draft",
+      "keyPoints": ["Einen auf dem Feld Ermordeten unbekannter Täterschaft darf man mit Wissen der Nachbarn begraben", "Will der Verwandte klagen, darf er erst nach Klageerhebung mit Erlaubnis des Richters bestatten", "Wer einen Verletzten aufnimmt und dieser stirbt, haftet nicht; die Erben ersetzen die Pflegekosten"],
+      "significance": "Spannung zwischen Totenruhe und Beweissicherung.",
+      "keywords": ["Bestattung", "Mord", "Klage", "Leichnam", "Pflege"],
+      "synonyms": ["begraven", "Totenklage"],
+      "sections": {
+        "1": "Wird ein Mann auf dem Feld ermordet, und weiß man nicht, wer es getan hat, so vergeht sich nicht, wer ihn auf dem Feld oder im Dorf mit Wissen seiner Nachbarn begräbt.",
+        "2": "Wird einem Mann auch sein Verwandter oder Freund erschlagen, so darf er ihn begraben, obwohl er weiß, wer ihn erschlagen hat, es sei denn, er hat die Klage mit dem Toten vor Gericht begonnen; dann muss er sie mit ihm zu Ende führen und darf ihn nicht ohne Erlaubnis des Richters begraben, solange die Klage nicht beendet ist.",
+        "3": "Fällt ein Mann oder wird er so schwer verwundet oder geschlagen, dass er nicht ins Dorf kommen kann, und trägt ihn jemand hinein, und stirbt er dann in dessen Gewere, so bleibt dieser ohne Schaden. Seine Erben sollen ihm dann seine Kosten ersetzen, sofern sein Gut, das er bei sich hat, weniger wert ist als die Kosten, die er mit ihm hatte."
+      }
+    },
+    "lr-iii-91": {
+      "title": "Haftung des Wirts; Grenzen der Richtergewalt",
+      "metaStatus": "draft",
+      "keyPoints": ["Schlägt ein Gast den anderen ohne Schuld des Wirts, bleibt der Wirt und das Dorf ohne Schaden", "Der Richter darf niemanden von Amts wegen ansprechen außer als Kampfvormund; nicht höher als bis zum Unschuldseid", "Neue Abgaben oder Lasten nur mit Zustimmung des Landes"],
+      "significance": "Schlussartikel des Landrechts: keine Lasten ohne Zustimmung des Landes.",
+      "keywords": ["Wirt", "Haftung", "Richter", "Abgaben", "Zustimmung", "Land"],
+      "synonyms": ["wilcore", "Steuerbewilligung", "Amtsklage"],
+      "sections": {
+        "1": "Beherbergt ein Mann Leute, und erschlägt einer den anderen ohne seine Schuld in seiner Gewere oder draußen, oder welches Verbrechen einer am anderen begeht, so soll der Hauswirt ohne Schaden bleiben, ebenso die Bauern, wenn sie den Friedensbrecher nicht festhalten können und das auf die Heiligen beschwören, wenn man sie deswegen beschuldigt. Solche Dinge soll man aber beim Gogericht rügen.",
+        "2": "Der Richter darf niemanden mit oder ohne Vormund anklagen außer als Kläger zum Kampf, und nicht höher als bis zu seinem Unschuldseid, wenn er sie dafür tut, jeder nach seinem Recht.",
+        "3": "Er darf keine Abgabe, keine Herberge, keine Bede, keinen Dienst und kein Recht auf das Land legen, wenn das Land es nicht bewilligt."
+      }
+    }
+  }
+}

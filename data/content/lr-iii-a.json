@@ -1,0 +1,372 @@
+{
+  "_info": "Metadaten und freie Übertragungen (heutiges Deutsch) zu LR III 1–30. Übertragungen: Claude, Entwurf (draft), auf Grundlage des Textes bei Lübben 1879.",
+  "articles": {
+    "lr-iii-1": {
+      "title": "Abbruch von Gebäuden wegen Verbrechen",
+      "metaStatus": "draft",
+      "keyPoints": ["Wegen keines Verbrechens darf man Dorfgebäude abreißen – außer bei Notzucht darin", "Alles Lebendige, das bei der Notzucht dabei war, wird enthauptet", "Wer dem Gerüfte folgt und Friedensbrecher festhält, haftet nicht"],
+      "significance": "Begrenzung der Wüstung als Strafe und Schutz der Gerüftefolger.",
+      "keywords": ["Wüstung", "Notzucht", "Gebäude", "Gerüfte", "Friedensbrecher"],
+      "synonyms": ["Hausabbruch", "dorpghebow"],
+      "sections": {
+        "1": "Wegen keines Verbrechens soll man Gebäude im Dorf niederreißen, es sei denn, dass darin eine Jungfrau oder Frau vergewaltigt oder vergewaltigt hineingebracht wurde; darüber soll man richten oder man reinigt es mit Recht. Wird aber darüber gerichtet, bevor jener vorkommt und sich von der Not reinigt, so ersetzt man es ihm nicht, weil man es nicht gereinigt hat, bevor das Gericht darüber erging. Alles Lebendige, das bei der Notzucht war, soll man enthaupten.",
+        "2": "Alle, die dem Gerüfte folgen und den Kläger und den Friedensbrecher festhalten, leiden deswegen keine Not, auch wenn dieser nicht überführt wird, sofern sie ihn vor Gericht bringen."
+      }
+    },
+    "lr-iii-2": {
+      "title": "Bewaffnete Priester und Juden",
+      "metaStatus": "draft",
+      "keyPoints": ["Priester und Juden, die Waffen tragen und nicht nach ihrem Recht geschoren sind,", "erhalten bei Gewalt nur die Buße eines Laien – sie stehen unter dem Königsfrieden ohne Waffen"],
+      "significance": "Der besondere Friedensschutz ist an waffenloses Auftreten gebunden.",
+      "keywords": ["Priester", "Juden", "Waffen", "Königsfriede", "Buße"],
+      "synonyms": ["papen", "ioden", "Sonderfrieden"],
+      "sections": {
+        "1": "Priester und Juden, die Waffen führen und nicht nach ihrem Recht geschoren sind, denen bessert man Gewalt, die man ihnen antut, wie einem Laien; denn sie sollen keine Waffen führen, da sie in den täglichen Frieden des Königs eingeschlossen sind."
+      }
+    },
+    "lr-iii-3": {
+      "title": "Schwangere und Unzurechnungsfähige",
+      "metaStatus": "draft",
+      "keyPoints": ["Über eine Schwangere richtet man höchstens an Haut und Haar", "Über Toren und Sinnlose richtet man nicht; ihr Vormund ersetzt den Schaden"],
+      "significance": "Schutz des Ungeborenen und frühe Schuldunfähigkeit.",
+      "keywords": ["Schwangerschaft", "Schuldunfähigkeit", "Vormund", "Strafe"],
+      "synonyms": ["sinnelos", "Unzurechnungsfähigkeit"],
+      "sections": {
+        "1": "Über eine Frau, die ein lebendes Kind trägt, soll man nicht höher richten als an Haut und Haar. Über wirkliche Toren und sinnlose Menschen soll man auch nicht richten; richten sie aber Schaden an, so soll ihr Vormund ihn ersetzen."
+      }
+    },
+    "lr-iii-4": {
+      "title": "Rückforderung verkaufter oder verschenkter Fahrnis",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer Verkauf oder Gabe leugnet, gegen den behauptet der Besitzer selbdritt", "Mit solchen Zeugen gewinnt man aber niemanden zum Gewährsmann", "Wer einen Kauf bekennt, muss Gewähr leisten – sonst gilt er als Dieb oder Diebesgenosse"],
+      "significance": "Beweis und Gewährschaft beim Erwerb beweglicher Sachen.",
+      "keywords": ["Kauf", "Schenkung", "Gewährschaft", "Zeugen", "Fahrnis"],
+      "synonyms": ["were", "copinghe"],
+      "sections": {
+        "1": "Wer zurückfordert, was er an fahrender Habe verschenkt oder verkauft hat, und den Kauf oder die Gabe leugnet, gegen den kann der, der sie besitzt, sie selbdritt mit Leuten behaupten, die es gesehen haben. Mit solchen Zeugen kann aber ein Mann einen anderen nicht zum Gewährsmann gewinnen, wenn ein Dritter das Gut bei ihm angefasst hat; denn jener entgeht ihm mit seinem Unschuldseid.",
+        "2": "Wer einen Kauf bekennt, soll von Rechts wegen Gewährsmann sein für das, was er verkauft hat; denn wer den Kauf bekennt und die Gewähr leugnet, ist entweder Dieb oder Diebesgenosse, es sei denn, er hat sich mit Zeugen abgesichert, als er es verkaufte."
+      }
+    },
+    "lr-iii-5": {
+      "title": "Verwahrung, Leihe und Pfand",
+      "metaStatus": "draft",
+      "keyPoints": ["Öffentlich Anvertrautes bezeugt man selbdritt – kein Diebstahlsvorwurf", "Wer verwahrt, haftet nicht für Diebstahl, Brand oder Raub ohne eigene Schuld", "Geliehenes und Verpfändetes ist unversehrt zurückzugeben oder zu ersetzen"],
+      "significance": "Haftungsmaßstäbe bei Verwahrung und Leihe.",
+      "keywords": ["Verwahrung", "Leihe", "Pfand", "Haftung", "Zufall"],
+      "synonyms": ["behalden", "Depositum", "satting"],
+      "sections": {
+        "1": "Was man einem Mann öffentlich leiht oder zur Verwahrung gibt, kann er selbdritt bezeugen; dann kann man ihn deswegen nicht des Diebstahls oder Raubes zeihen. Dreimal binnen vierzehn Nächten soll man aber den Eigentümer laden, für sein Gut einzustehen, wenn er will; tut er es nicht, so setzt man den Kläger in den Besitz. Den Termin soll aber derjenige, der das Gut in Händen hat, dem, der es ihm gab, mit Zeugen an Hof und Haus ankündigen, wenn er ohne Schaden bleiben will.",
+        "2": "Auch Geliehenes muss er zuerst dem zurückbringen, der es ihm geliehen hat, wenn er dessen Haus kennt, wo der Kläger anwesend ist.",
+        "3": "Wer einem anderen sein Gut zur Verwahrung gibt, und wird es ihm gestohlen, verbrannt oder geraubt, oder stirbt es, wenn es Vieh ist, so bleibt jener ohne Wandel, wenn er seinen Eid darauf leistet, dass es ohne seine Schuld geschehen ist.",
+        "4": "Was man aber einem Mann leiht oder verpfändet, das soll er unverdorben zurückbringen oder nach seinem Wert ersetzen.",
+        "5": "Stirbt aber ein Pferd oder Vieh während der Verpfändung ohne Schuld dessen, der es hat, und weist er das nach und leistet seinen Eid, so ersetzt er es nicht; er hat aber sein Geld verloren, für das es ihm haftete, es sei denn, ihre Abrede lautete anders."
+      }
+    },
+    "lr-iii-6": {
+      "title": "Verfügungen des Knechts über Herrengut",
+      "metaStatus": "draft",
+      "keyPoints": ["Verspielt oder verkauft ein Knecht das Gut des Herrn, kann der Herr es zurückfordern", "Verfügt er über eigenes Gut, kann der Herr nichts fordern", "Wird dem Knecht im Dienst ohne seine Schuld etwas geraubt, haftet der Herr"],
+      "significance": "Abgrenzung von Herren- und Knechtsvermögen.",
+      "keywords": ["Knecht", "Herr", "Verfügung", "Spiel", "Haftung", "Dienst"],
+      "synonyms": ["Gesinde", "dobelen"],
+      "sections": {
+        "1": "Verspielt ein Knecht das Gut seines Herrn oder verkauft oder verpfändet er es, so kann der Herr es mit Recht zurückfordern, sofern er sein Recht daran nachweist, wie es Recht ist.",
+        "2": "Verspielt er aber sein eigenes Gut oder verpfändet oder verkauft er es oder verliert es auf welche Weise auch immer, so kann der Herr nichts darauf fordern; er ist aber auch nicht verpflichtet, es ihm zu ersetzen, selbst wenn er ihm seinen Verlust zugesagt hat; ebenso wenig muss man ihm dafür antworten.",
+        "3": "Wird ihm aber sein Pferd oder anderes Gut im Dienst des Herrn ohne Schuld des Knechts diebisch oder räuberisch genommen, so muss der Herr es ersetzen; dafür muss man dann auch dem Herrn antworten, wenn er darauf klagt."
+      }
+    },
+    "lr-iii-7": {
+      "title": "Rechtsstellung der Juden",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Jude kann nicht Gewährsmann eines Christen sein, außer er antwortet nach Christenrecht", "Gewalt zwischen Juden und Christen wird gleich gerichtet; Begründung mit dem Königsfrieden (Josephus-Legende)", "Kirchengerät als Pfand oder Kauf: Diebstahlshaftung; sonstiger offener Kauf schützt die Pfennige"],
+      "significance": "Der Judenschutz wird auf den Königsfrieden zurückgeführt; zugleich Sonderregeln im Handel.",
+      "keywords": ["Juden", "Königsfriede", "Pfand", "Kirchengerät", "Kauf", "Josephus"],
+      "synonyms": ["ioden", "Judenregal", "Kammerknechtschaft"],
+      "sections": {
+        "1": "Der Jude kann nicht Gewährsmann eines Christen sein, es sei denn, er will an Stelle eines Christen antworten.",
+        "2": "Erschlägt der Jude einen Christen oder begeht er ein Verbrechen, bei dem er ergriffen wird, so richtet man über ihn wie über einen Christen.",
+        "3": "Erschlägt aber ein Christ einen Juden oder begeht er ein Verbrechen an ihm, so richtet man über ihn wegen des Königsfriedens, den er gebrochen hat. Diesen Frieden erwarb Josephus vom König Vespasian, als er dessen Sohn Titus von der Gicht heilte.",
+        "4": "Kauft der Jude Kelche, Bücher oder Messgewänder oder nimmt er sie zum Pfand, ohne dafür einen Gewährsmann zu haben, und findet man sie in seiner Gewere, so richtet man über ihn wie über einen Dieb. Was er an anderen Dingen offen und unverstohlen bei Tageslicht und nicht in verschlossenem Haus kauft, das behält er, wenn er es selbdritt bezeugen kann: seine Pfennige, die er dafür gab oder darauf lieh, behält er mit seinem Eid, auch wenn es gestohlen ist. Fehlt ihm das Zeugnis, so verliert er seine Pfennige."
+      }
+    },
+    "lr-iii-8": {
+      "title": "Friede für Burgen und Fürsten",
+      "metaStatus": "draft",
+      "keyPoints": ["Man sagt, Burgen und Fürsten hätten keinen Frieden wegen ihrer Wehrhaftigkeit – das ist falsch", "Wer Fürsten Frieden gelobt und ihn bricht, wird gerichtet"],
+      "significance": "Auch Mächtige stehen unter dem Rechtsfrieden.",
+      "keywords": ["Friede", "Burg", "Fürsten", "Treue", "Friedensbruch"],
+      "synonyms": ["urede", "Landfriede"],
+      "sections": {
+        "1": "Man sagt, Burgen und Fürsten sollten keinen Frieden haben, den man an ihnen brechen könnte, wegen der Wehr, die die Burgen haben, und wegen der wehrhaften Leute, die die Fürsten mit sich führen. Das ist nicht so; denn wer den Fürsten Frieden gelobt und in Treue verpflichtet ist und den Frieden an ihnen bricht, über den richtet man."
+      }
+    },
+    "lr-iii-9": {
+      "title": "Bürgschaft für das Erscheinen vor Gericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Kann der Bürge den Beklagten nicht vorführen, bessert er nach der Klage; bei Leibesklagen zahlt er das Wergeld an den Kläger", "Gelobter Friede für einen anderen wird ebenso gebessert; eigener Friedensbruch kostet den Hals", "Wer einen Beklagten gewaltsam dem Gericht entzieht, erleidet dieselbe Strafe"],
+      "significance": "Der Bürge tritt haftungsrechtlich an die Stelle des Beklagten.",
+      "keywords": ["Bürgschaft", "Wergeld", "Friedensbruch", "Gefangenenbefreiung"],
+      "synonyms": ["borghe", "Gestellungsbürgschaft"],
+      "sections": {
+        "1": "Wer Bürge dafür wird, einen Mann vor Gericht zu bringen, und ihn nicht vorführen kann, muss so bessern, wie jener beklagt war, denn er ist in der Klage überwunden. Geht die Klage aber an den Leib, so muss er dessen Wergeld geben; das erhält der Kläger und nicht der Richter, doch hat der Richter sein Gewette daran.",
+        "2": "Auf dieselbe Weise soll man den Frieden bessern, den ein Mann für einen anderen gelobt. Bricht aber jemand den Frieden, den er für sich selbst gelobt hat, so geht es ihm an den Hals.",
+        "3": "Wird aber jemand Bürge dafür, einen Mann vor Gericht zu bringen, und kommt dieser ohne Bürgen vor und erbietet sich vor Gericht zu Recht und kann das besser bezeugen, so hat er seinen Bürgen befreit.",
+        "4": "Wer aber für einen Gefangenen bürgt, ihn zurückzuliefern, der muss beweisen, dass er so zurückgeliefert ist, wie das Gelöbnis lautete, und nicht der Gefangene.",
+        "5": "Wer einen beklagten Mann wegen eines Verbrechens gewaltsam dem Gericht entführt, soll, wenn er gefangen wird, dieselbe Strafe erleiden wie jener. Entkommt er aber, so verfestet man ihn sofort, wenn man ihn bei handhafter Tat gesehen und mit dem Gerüfte beschrien hat und dafür Zeugen hat."
+      }
+    },
+    "lr-iii-10": {
+      "title": "Tod des Vorzuführenden",
+      "metaStatus": "draft",
+      "keyPoints": ["Stirbt der wegen Verbrechens Vorzuführende, bringt der Bürge den Toten und ist frei", "Bei Schuldklagen genügt der Nachweis des Todes; die Erben haften", "Stirbt ein vorzuführendes Tier, bringt man die Haut"],
+      "significance": "Unmöglichkeit befreit den Bürgen.",
+      "keywords": ["Bürge", "Tod", "Schuld", "Erben", "Tier"],
+      "synonyms": ["borghe", "Unmöglichkeit"],
+      "sections": {
+        "1": "Soll ein Mann zu einer bestimmten Zeit jemanden vorführen, der wegen eines Verbrechens beklagt ist, und stirbt dieser inzwischen, so bringe er ihn tot vor und sei frei.",
+        "2": "Ist er aber wegen einer Schuld beklagt, die noch nicht gegen ihn erwiesen ist, und stirbt er vor dem Termin, so braucht man ihn nicht vorzuführen; kann der Bürge seinen Tod selbdritt bezeugen, so ist er frei; sein Erbe soll aber für die Schuld antworten.",
+        "3": "Stirbt ein Pferd oder Vieh, das man vorführen soll, so bringe der Bürge die Haut vor und sei frei."
+      }
+    },
+    "lr-iii-11": {
+      "title": "Bürgschaft für einen Eid",
+      "metaStatus": "draft",
+      "keyPoints": ["Stirbt, wer einen Eid zu leisten hat, leistet ihn sein Erbe oder sein Bürge", "Sonst ist die Schuld gegen den Bürgen gewonnen"],
+      "significance": "Eidespflichten gehen auf Erben und Bürgen über.",
+      "keywords": ["Eid", "Bürge", "Erbe", "Tod"],
+      "synonyms": ["ed", "borghe"],
+      "sections": {
+        "1": "Wer Bürgen für einen Eid gestellt hat und stirbt, bevor er den Eid leisten soll, für den soll sein Erbe oder sein Bürge den Eid zur gelobten Zeit leisten, sonst ist die Schuld gegen den Bürgen gewonnen, für die der Eid gelobt war."
+      }
+    },
+    "lr-iii-12": {
+      "title": "Widerklage und mehrere Kläger",
+      "metaStatus": "draft",
+      "keyPoints": ["Auf eine Widerklage muss der Erstkläger erst antworten, wenn er von der eigenen Sache frei ist", "Bei mehreren Klägern antwortet der Beklagte nacheinander", "Bürgen höchstens bis zum Wergeld"],
+      "significance": "Prozessuale Reihenfolge schützt vor Verschleppung.",
+      "keywords": ["Widerklage", "Kläger", "Reihenfolge", "Bürgen"],
+      "synonyms": ["Gegenklage"],
+      "sections": {
+        "1": "Klagt ein Mann gegen einen anderen und dieser seinerseits gegen ihn, so braucht der, der zuerst klagt, ihm nicht zu antworten, bevor er von ihm frei ist.",
+        "2": "Klagen auch viele Leute gegen einen Mann wegen eines Verbrechens, so muss er den anderen nicht antworten, bevor er vom ersten frei ist. Wird die Klage verhandelt, so braucht er Bürgen nur für sein Wergeld zu stellen, auch wenn es viele Klagen sind."
+      }
+    },
+    "lr-iii-13": {
+      "title": "Festhalten eines geladenen Beschuldigten",
+      "metaStatus": "draft",
+      "keyPoints": ["Trifft der Kläger den in Abwesenheit Beklagten innerhalb der Fristen, darf er ihn festhalten", "bis dieser Bürgen stellt", "Der Richter schützt den Kläger, nicht den in Anwesenheit Geladenen"],
+      "significance": "Sicherung des Verfahrens durch Selbsthilfe unter Gerichtsschutz.",
+      "keywords": ["Festnahme", "Ladung", "Bürgen", "Kläger"],
+      "synonyms": ["bestedeghen", "Arrest"],
+      "sections": {
+        "1": "Wird ein Mann vor Gericht wegen eines Verbrechens verklagt, bei dem er nicht anwesend ist, und wird ihm ein Termin gesetzt, und trifft ihn dann der Kläger innerhalb der Fristen an, so darf er ihn wegen seiner Beschuldigung nach Recht festhalten, so lange, bis er Bürgen stellt, vor Gericht zu erscheinen; denn der Richter gewährt dem Kläger Frieden und nicht dem, den man in seiner Anwesenheit vorlädt."
+      }
+    },
+    "lr-iii-14": {
+      "title": "Vorsprecher und Gewähr bei Verbrechensklagen",
+      "metaStatus": "draft",
+      "keyPoints": ["Solange man das Wort des Vorsprechers nicht bestätigt, bleibt man ohne Schaden", "Bei Verbrechensklagen bittet der Beklagte zuerst um Gewähr; bis dahin darf der Kläger die Klage bessern"],
+      "significance": "Verfahrensförmlichkeiten zum Schutz beider Parteien.",
+      "keywords": ["Vorsprecher", "Gewähr", "Klage", "Verbrechen"],
+      "synonyms": ["uoresprake", "ghewere"],
+      "sections": {
+        "1": "Solange der Mann das Wort seines Vorsprechers nicht bestätigt, bleibt er ohne Schaden durch dessen Wort.",
+        "2": "Wer wegen eines Verbrechens beklagt wird, bitte zuerst um Gewähr; solange die Gewähr nicht gelobt ist, darf der Kläger seine Klage bessern, danach nicht mehr."
+      }
+    },
+    "lr-iii-15": {
+      "title": "Streit um Nachlassgut",
+      "metaStatus": "draft",
+      "keyPoints": ["Beanspruchen zwei ein Gut nach dem Dreißigsten, muss der Besitzer es keinem herausgeben, bis sie sich einigen oder einer abgewiesen ist", "Wer Heergewäte, Gerade oder Erbe zu Unrecht verweigert, zahlt Gewette und Buße", "Streitiges Gut kann der Richter in Verwahrung nehmen"],
+      "significance": "Sicherung des Nachlasses im Prätendentenstreit.",
+      "keywords": ["Nachlass", "Heergewäte", "Gerade", "Streit", "Verwahrung"],
+      "synonyms": ["herwede", "rade", "Sequestration"],
+      "sections": {
+        "1": "Sprechen zwei nach dem Dreißigsten ein Gut an, so soll derjenige, der es in Händen hat, es keinem von beiden herausgeben, bis sie sich miteinander geeinigt haben oder einer den anderen vor Gericht mit Recht abgewiesen hat.",
+        "2": "Wer nach dem Dreißigsten zu Unrecht verweigert, Heergewäte, Gerade oder Erbe herauszugeben, und deswegen vor Gericht beschuldigt wird, der muss dafür Gewette und Buße geben.",
+        "3": "Wird ein Gut von zwei Männern beansprucht und fordert es der Richter von Rechts wegen, so soll man es ihm übergeben, und er soll es haben, bis sie sich darüber nach Recht entschieden haben; und der, der es dem Richter übergab, sei frei.",
+        "4": "Wer Heergewäte fordert, muss ganz von der Schwertseite her dazu geboren sein."
+      }
+    },
+    "lr-iii-16": {
+      "title": "Klagerecht; Rechtlose und Geächtete",
+      "metaStatus": "draft",
+      "keyPoints": ["Niemand kann einen anderen von seiner Klage abweisen außer dem Beklagten", "Rechtlose haben keinen Vormund", "Geächteten und Verfesteten muss niemand antworten; sie selbst müssen im Gericht ihrer Verfestung antworten"],
+      "significance": "Rechtsfolgen der Acht für die Prozessfähigkeit.",
+      "keywords": ["Klage", "Rechtlose", "Acht", "Verfestung", "Vormund"],
+      "synonyms": ["achtere", "ueruest"],
+      "sections": {
+        "1": "Weder der Richter noch sonst jemand kann einen Mann von seiner Klage abweisen außer dem, gegen den die Klage geht.",
+        "2": "Rechtlose Leute sollen keinen Vormund haben.",
+        "3": "Den Geächteten des Reiches und Verfesteten braucht niemand zu antworten, wenn sie klagen. Klagt man gegen sie, so müssen sie innerhalb des Gerichts antworten, in dem sie verfestet sind."
+      }
+    },
+    "lr-iii-17": {
+      "title": "Lösung aus der Verfestung überall im Gericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Verfesteter kann sich überall im Gericht seiner Verfestung herausziehen", "Er muss aber Bürgen stellen, sonst hält ihn der Richter fest"],
+      "significance": "Erleichterter Zugang zur Rückkehr ins Recht.",
+      "keywords": ["Verfestung", "Bürgen", "Gericht"],
+      "synonyms": ["uestinghe", "utten"],
+      "sections": {
+        "1": "Ein verfesteter Mann kann sich an allen Stätten innerhalb des Gerichts, in dem er verfestet ist, herausziehen. So wie man die Klage überall erheben kann, so kann sich ein Mann auch überall herausziehen.",
+        "2": "Bürgen soll er aber stellen, dass er erscheint; hat er keine Bürgen, so soll ihn der Richter festhalten, bis er Recht leistet."
+      }
+    },
+    "lr-iii-18": {
+      "title": "Beweis der Lösung aus der Verfestung",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer behauptet, sich aus der Verfestung gezogen zu haben, beweist es mit Richter (oder Schultheiß, Fronbote) und zwei Männern", "Bei Verfestung unter Königsbann braucht er zwei Schöffen und den Richter"],
+      "significance": "Formale Beweisanforderungen nach Gerichtsrang.",
+      "keywords": ["Verfestung", "Beweis", "Schöffen", "Königsbann"],
+      "synonyms": ["uestinghe", "ghetuch"],
+      "sections": {
+        "1": "Wer vor Gericht sagt, er habe sich aus der Verfestung gezogen, und es nicht mit Zeugnis des Richters oder des Schultheißen oder des Fronboten an Stelle des Richters und mit zwei Männern beweist, gegen den braucht der Kläger keine Verfestung mehr zu bezeugen.",
+        "2": "Wer aber unter Königsbann verfestet wurde, braucht zwei Schöffen und den Richter als Zeugen, wenn er sich herauszieht."
+      }
+    },
+    "lr-iii-19": {
+      "title": "Zeugnis und Urteil vor dem Reich",
+      "metaStatus": "draft",
+      "keyPoints": ["Freie und Reichsdienstleute dürfen vor dem Reich Zeugen sein und Urteile finden", "Reichsdienstleute aber nicht über Schöffenbarfreie in Sachen an Leib, Ehre oder Erbe"],
+      "significance": "Grenzen der Ministerialen im Verhältnis zu den Schöffenbaren.",
+      "keywords": ["Reichsdienstleute", "Ministeriale", "Schöffenbare", "Urteil", "Zeugnis"],
+      "synonyms": ["denestman", "Ministerialität"],
+      "sections": {
+        "1": "Freie Leute und Dienstleute des Reiches dürfen vor dem Reich Zeugen sein und Urteile finden, weil sie dem Reich huldigen, jeder nach seinem Recht. Doch darf ein Dienstmann des Reiches über einen schöffenbaren freien Mann weder Urteil finden noch Zeuge sein, wenn es ihm an Leib, Ehre oder Erbe geht."
+      }
+    },
+    "lr-iii-20": {
+      "title": "Pflügen fremden Landes",
+      "metaStatus": "draft",
+      "keyPoints": ["Unwissentliches Pflügen bleibt ohne Wandel; wer beanspruchtes Land pflügt und es verliert, bessert", "Der Eigentümer darf den Pflügenden ohne Richter pfänden", "Durch Pflügen verwirkt niemand Leib oder Gesundheit"],
+      "significance": "Selbsthilfe und Haftung bei Grenzverletzung durch Ackerbau.",
+      "keywords": ["Pflügen", "Land", "Pfändung", "Besserung"],
+      "synonyms": ["eren", "Ackerbau"],
+      "sections": {
+        "1": "Wer eines anderen Land unwissentlich pflügt, dem folgt kein Wandel. Wer aber Land pflügt, das er für sich beansprucht, und wird es ihm mit Recht abgewonnen, so muss er es bessern.",
+        "2": "Der Eigentümer darf auch ohne Erlaubnis des Richters den, der auf seinem Land pflügt, pfänden, damit er dadurch zu seinem Recht kommt.",
+        "3": "Durch Pflügen kann niemand Leben oder Gesundheit verwirken, es sei denn, das Land wurde ihm vor Gericht abgesprochen und Frieden darüber gewirkt."
+      }
+    },
+    "lr-iii-21": {
+      "title": "Gleichrangige Ansprüche auf ein Gut",
+      "metaStatus": "draft",
+      "keyPoints": ["Bei gleicher Ansprache und gleichem Beweis wird das Gut geteilt", "Die Nachbarn entscheiden; wer die Mehrheit hat, behält", "Ist es den Nachbarn unbekannt: Wasserprobe oder Schwur und Teilung"],
+      "significance": "Nachbarschaftszeugnis und Gottesurteil im Grundstücksstreit.",
+      "keywords": ["Nachbarn", "Zeugnis", "Wasserprobe", "Teilung", "Grundstück"],
+      "synonyms": ["ummesetenen", "waterordel"],
+      "sections": {
+        "1": "Sprechen zwei Männer ein Gut im Streit mit gleicher Ansprache an und behaupten es mit gleichem Zeugnis, so soll man es unter ihnen teilen. Dieses Zeugnis sollen die Umsassen entscheiden, die in dem Dorf oder in den nächsten Nachbardörfern sitzen. Wer die größere Zahl zum Zeugnis hat, behält das Gut.",
+        "2": "Ist es den Umsassen nicht bekannt, wer es in Gewere hat, so kann man es mit einem Wasserordal entscheiden, oder der Kläger und der Beklagte sollen schwören, dass sie richtig weisen, was ihnen gehört; dazu soll der Richter seinen Boten geben; worauf sie beide schwören, das soll man ihnen gleich teilen."
+      }
+    },
+    "lr-iii-22": {
+      "title": "Überzogene Leihe",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer geliehene Pferde oder Kleider über die Frist behält, muss sie sofort zurückgeben und Schaden bessern", "Kein Diebstahlsvorwurf, da geliehen", "Der Eigentümer darf sich seines Gutes bemächtigen, wo er es sieht"],
+      "significance": "Leiheüberschreitung ist Vertragsbruch, nicht Diebstahl.",
+      "keywords": ["Leihe", "Frist", "Rückgabe", "Selbsthilfe"],
+      "synonyms": ["lenen", "Gebrauchsleihe"],
+      "sections": {
+        "1": "Wer einem anderen Pferde oder Kleider für bestimmte Tage leiht und jener sie darüber hinaus behält und deswegen beklagt wird, der soll sie sofort zurückgeben und bessern, wenn er sie verschlechtert hat.",
+        "2": "Diebstahl oder Raub kann man ihm daran nicht vorwerfen, weil jener sie ihm lieh. Ein Mann darf sich aber seines Gutes, wo er es sieht, mit Recht bemächtigen, wenn man es ihm zu Unrecht über die bestimmte Zeit vorenthält."
+      }
+    },
+    "lr-iii-23": {
+      "title": "Beherbergung Verfesteter",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer wissentlich einen Verfesteten beherbergt und speist, schuldet Gewette", "Unwissenheit befreit durch Unschuldseid"],
+      "significance": "Sanktion der Unterstützung Friedloser.",
+      "keywords": ["Verfestung", "Beherbergung", "Gewette", "Unschuldseid"],
+      "synonyms": ["herbergen", "Hehlerei"],
+      "sections": {
+        "1": "Wer wissentlich einen verfesteten Mann beherbergt und speist, muss dafür Gewette zahlen. Wusste er es aber nicht, so befreit er sich vom Gewette mit seinem Unschuldseid."
+      }
+    },
+    "lr-iii-24": {
+      "title": "Reichweite der Verfestung",
+      "metaStatus": "draft",
+      "keyPoints": ["Niemand wird durch Verfestung in einem anderen Gericht überwunden", "Verfestung im höchsten Gericht gilt in allen Untergerichten, nicht umgekehrt", "Der niedere Richter vollstreckt die Verfestung des höheren nur bei eigener Kenntnis"],
+      "significance": "Instanzenbezogene Wirkung der Friedloslegung.",
+      "keywords": ["Verfestung", "Gerichtshierarchie", "Zuständigkeit"],
+      "synonyms": ["uestinghe", "Instanzenzug"],
+      "sections": {
+        "1": "Man kann niemanden mit einer Verfestung in einem anderen Gericht überwinden. Wer im höchsten Gericht verfestet wird, ist auch in allen Gerichten verfestet, die zu diesem Gericht gehören. Wer aber im niederen Gericht verfestet ist, ist im höheren nicht verfestet, es sei denn, er wird dort ordnungsgemäß hineingebracht. Der niedere Richter darf die Verfestung, die der obere Richter verhängt hat, nicht vollstrecken, es sei denn, sie ist ihm so bekannt, dass er selbst an Stelle des höheren Richters Zeuge dafür sein will."
+      }
+    },
+    "lr-iii-25": {
+      "title": "Zeugnis des Nachfolgers; Marktgericht",
+      "metaStatus": "draft",
+      "keyPoints": ["Stirbt ein Richter, bezeugt sein Nachfolger mit den Schöffen, was zu seiner Zeit geschah", "Im Markt- oder auswärtigen Gericht antwortet nur, wer dort wohnt, Gut hat oder dort ein Verbrechen beging", "Was außerhalb des Gerichts geschah, verantwortet man dort nicht"],
+      "significance": "Kontinuität des Gerichts und örtliche Zuständigkeit.",
+      "keywords": ["Richter", "Nachfolger", "Markt", "Zuständigkeit", "Wohnsitz"],
+      "synonyms": ["Gerichtsstand", "wicbelde"],
+      "sections": {
+        "1": "Stirbt ein Richter, so soll sein Nachfolger im Gericht Zeuge dessen sein, was zu dessen Zeiten geschehen ist, auch wenn er es nicht gesehen hat, sobald er mit dem Zeugnis der Schöffen an die Wahrheit erinnert wird.",
+        "2": "Innerhalb eines Marktes oder in einem auswärtigen Gericht braucht niemand zu antworten, der dort keine Wohnung oder kein Gut hat, es sei denn, er verwirkt sich dort mit einem Verbrechen oder verbürgt sich dort.",
+        "3": "Was außerhalb des Gerichts geschieht, dafür braucht man darin nicht zu antworten."
+      }
+    },
+    "lr-iii-26": {
+      "title": "Der König als allgemeiner Richter; Schöffenstuhl",
+      "metaStatus": "draft",
+      "keyPoints": ["Der König ist überall gemeiner Richter", "Schöffenbare werden in auswärtigen Gerichten nicht zum Kampf gefordert; sie antworten, wo ihr Hantgemal liegt", "Der Schöffenstuhl vererbt auf den ältesten Sohn bzw. den nächsten ebenbürtigen Schwertmagen"],
+      "significance": "Königliche Gerichtshoheit und erblicher Schöffenstuhl.",
+      "keywords": ["König", "Richter", "Schöffenstuhl", "Hantgemal", "Erbfolge"],
+      "synonyms": ["mene richtere", "schepenstol"],
+      "sections": {
+        "1": "Der König ist überall gemeiner Richter.",
+        "2": "In keinem auswärtigen Gericht fordert ein schöffenbarer Mann jemanden zum Kampf. In dem Gericht aber, in dem sein Hantgemal liegt, muss er antworten. Hat er dort einen Schöffenstuhl, so ist er auch dingpflichtig. Der Schöffe, der dort keinen Stuhl hat, soll das Ding des höchsten Richters besuchen, wo er wohnt.",
+        "3": "Diesen Stuhl vererbt der Vater auf den ältesten Sohn; hat er keinen Sohn, so auf seinen ältesten nächsten ebenbürtigen Schwertmagen."
+      }
+    },
+    "lr-iii-27": {
+      "title": "Kinder aus ungültiger Ehe",
+      "metaStatus": "draft",
+      "keyPoints": ["Heiratet ein Mann unwissentlich eine Frau, die er nicht haben darf, und wird die Ehe geschieden,", "schadet das den vor der Scheidung geborenen Kindern und dem Ungeborenen nicht"],
+      "significance": "Schutz der Kinder bei nachträglich aufgelöster Ehe (Putativehe).",
+      "keywords": ["Ehe", "Scheidung", "Kinder", "Ehelichkeit", "Ehehindernis"],
+      "synonyms": ["Putativehe", "schedinghe"],
+      "sections": {
+        "1": "Nimmt einer unwissentlich eine Frau zur Ehe, die er nicht haben darf, und gewinnt Kinder mit ihr, und werden sie später mit Recht geschieden, so schadet es den Kindern an ihrem Recht nicht, die vor der Scheidung geboren sind, und auch nicht dem, das die Mutter trägt."
+      }
+    },
+    "lr-iii-28": {
+      "title": "Anfechtung von Geburt und Recht",
+      "metaStatus": "draft",
+      "keyPoints": ["Unehelichkeit wegen Geburt oder Amt muss der Behauptende selbsiebt bezeugen", "Der Betroffene kann sein Recht leichter behaupten als man ihn davon weist", "Rechtsverlust durch Diebstahl oder Raub vor Gericht bezeugt der Richter selbsiebt"],
+      "significance": "Beweislast zugunsten des eigenen Rechtsstandes.",
+      "keywords": ["Unehelichkeit", "Geburt", "Beweis", "Rechtsverlust"],
+      "synonyms": ["unecht", "Ehrlosigkeit"],
+      "sections": {
+        "1": "Wenn man jemanden wegen Geburt oder Amt für unecht erklärt, so muss der, der das behauptet, es selbsiebt mit an ihrem Recht vollkommenen Leuten gegen ihn bezeugen. Doch kann der Mann seine Echtheit und sein Recht eher mit Zeugen behaupten, als man ihn mit Zeugen davon abweisen kann.",
+        "2": "Behauptet man aber, er habe sein Recht vor Gericht durch Diebstahl oder Raub verloren, so muss der Richter das selbsiebt bezeugen."
+      }
+    },
+    "lr-iii-29": {
+      "title": "Hantgemal; Teilen und Wählen",
+      "metaStatus": "draft",
+      "keyPoints": ["Ein Schöffenbarer muss Hantgemal und Ahnen nur bei kämpflicher Ansprache nachweisen", "Er kann sich mit Eid zu seinem Hantgemal ziehen, auch wenn er es nicht besitzt", "Bei Erbteilung unter zwei teilt der Ältere, der Jüngere wählt"],
+      "significance": "Klassische Teilungsregel: Der eine teilt, der andere wählt.",
+      "keywords": ["Hantgemal", "Ahnen", "Erbteilung", "Teilen und Wählen"],
+      "synonyms": ["hantchemal", "Der Ältere teilt, der Jüngere kiest"],
+      "sections": {
+        "1": "Kein schöffenbarer Mann braucht sein Hantgemal nachzuweisen oder seine vier Ahnen zu benennen, es sei denn, er spricht einen Standesgenossen zum Kampf an. Der Mann kann sich mit seinem Eid zu seinem Hantgemal ziehen, auch wenn er es nicht in Besitz hat.",
+        "2": "Wo zwei Männer ein Erbe nehmen sollen, soll der Ältere teilen und der Jüngere wählen."
+      }
+    },
+    "lr-iii-30": {
+      "title": "Vorsprecher entbehrlich; Unparteilichkeit des Richters",
+      "metaStatus": "draft",
+      "keyPoints": ["Wer selbst geantwortet hat, braucht keinen Vorsprecher mehr", "Wer sich mit Urteilen der Antwort erwehrt, hat noch nicht geantwortet", "Der Richter ist allen gleich und findet oder schilt kein Urteil"],
+      "significance": "Trennung von Richter und Urteilsfindern.",
+      "keywords": ["Vorsprecher", "Richter", "Unparteilichkeit", "Urteil"],
+      "synonyms": ["uoresprake", "Gleichbehandlung"],
+      "sections": {
+        "1": "Den Vorsprecher kann der entbehren, der selbst geantwortet hat. Solange sich der Mann mit Urteilen und mit Recht der Antwort erwehrt, hat er nicht geantwortet.",
+        "2": "Der Richter soll allen Leuten ein gleicher Richter sein; Urteile soll er weder finden noch schelten."
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
  "edition": "August Lübben (Hg.): Der Sachsenspiegel, Landrecht und Lehnrecht, nach dem Oldenburger Codex picturatus von 1336. Oldenburg 1879",
  "sourceUrl": "https://archive.org/details/dersachsenspiege00lbbe",
- "generatedAt": "2026-11-19T19:15:45.504Z",
+ "generatedAt": "2026-11-19T19:39:12.331Z",
  "note": "Automatisch aus OCR erzeugt; OCR-Fehler möglich. segmentation=anchor: Gliederung manuell über Anker geprüft.",
  "sections": [
   {
@@ -3269,19 +3269,19 @@
    "text": "Ridet lüde uan ener horch unde dot se scaden, ne comet se nicht weder up binnen dach unde nacht unde ne cuaipt de rof dar nicht up noch uore to behaldende, so is se in der dat unschuldich. Comet auer de rouere up unde de rof dar up eder dar uore, so is de horch schuldech der dat."
   },
   {
-   "book": "lr-ii",
-   "articleId": "lr-ii-73",
-   "article": 73,
+   "book": "lr-iii",
+   "articleId": "lr-iii-1",
+   "article": 1,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vinme niner hande ungherichte sal men uphowen dorp-IH, 1, ghebow, it ne si dat dar mnghet eder wif inne ghenodeghet werde eder ghenodeghet ingheuort si, dar sal men ouer richten eder men mitredet mit rechte. Wirt dar auer er ouer gheiichtet, den ghene uore come unde sie der not untredet, men ne ghelt es eme nicht, wante men it nicht untredede, er dar gherichte ouer ghinch. Al leuendich dinch, dat in der notnunfte was, sal men honenden."
   },
   {
-   "book": "lr-ii",
-   "articleId": "lr-ii-73",
-   "article": 73,
+   "book": "lr-iii",
+   "articleId": "lr-iii-1",
+   "article": 1,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alle de deme ruchte uolghet, haldet se uppe den claghere unde den uredebrekere, dennoch he nicht uorwunnen ne wirt, se ne lidet dar umme nine not, erste se ene uor richte brineghen."
   },
   {
@@ -3289,7 +3289,7 @@
    "articleId": "lr-iii-2",
    "article": 2,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Papen unde ioden, de wapen uoret unde nicht bescorn ne sin na eren rechte, dot men eme walt, men sal eme betören als enen leyen, wante se ne solen nine wapen uoren, de mit des coninghes daghelekes urede begrepen sin."
   },
   {
@@ -3297,7 +3297,7 @@
    "articleId": "lr-iii-3",
    "article": 3,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne sal ouer nin wif richten, de leuendich kint dreghet, hogher den to hut unde to hare. Ouer rechten doren unde sinnelosen man ne sal men oc nicht richten, wen se auer scaden dot, ere uoreniunde sal dat gelden."
   },
   {
@@ -3305,7 +3305,7 @@
    "articleId": "lr-iii-4",
    "article": 4,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so weder eschet, dat he uorgheuen eder uoreoft heuet an uarender haue unde hesect he der copinghe eder der ghift, ghene, de se under eme heuet, mot se sulf derde wol behalden dere, det saghen. Mit duschedanen tughe ne mach auer en man den andren to gheweren nicht winnen, oft en andere man dat god under eme aneuanghen heuet, wente he untgat eme mit siner unschult."
   },
   {
@@ -3313,7 +3313,7 @@
    "articleId": "lr-iii-4",
    "article": 4,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Svve so copingbe becant, de sal dor recht gbewere sin, des lie uoreoft heuet, wente he is eder def eder deues ghenot, de der copingbe l)ecant unde de der ghewere beseet, he ne hebbe sc ntbescheden mit ghetughe, do he sc uoreofte."
   },
   {
@@ -3321,7 +3321,7 @@
    "articleId": "lr-iii-5",
    "article": 5,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat men enen manne lent eder dot openbare to behaldende, mach het ghetughen sulf derde, men ne mach ene düue noch roncs nicht daran tien. Dries ouer uerteynacht sal men auer ghenen uore laden sin god uore to stände, oft he wille; ne dot hes nicht, men weldeghet des ghenen, de dar u p claghet; den dach sal auer cundeghen, det got under eme heuet; den, det eme dede mit orcunde to hone unde to huse, ofte hes ane scaden bliuen wille,"
   },
   {
@@ -3329,7 +3329,7 @@
    "articleId": "lr-iii-5",
    "article": 5,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Leninghe mot he oc den ersten weder bringhen den, det eme gbelent heuet, oft he sin hus wet, dar de claghere to iegbenwarde si,"
   },
   {
@@ -3337,7 +3337,7 @@
    "articleId": "lr-iii-5",
    "article": 5,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelich man den anderen dot sin god to bebaldcnde, wirt it eme uerstolcn eder uorbrant eder afgherouet, eder steift it, oft it uc is, he blift des ane wandel, dar he sin recht dar to don, dat it ane sine schult gesehen si."
   },
   {
@@ -3345,7 +3345,7 @@
    "articleId": "lr-iii-5",
    "article": 5,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat men auer den manne lent eder sat, dat sal he unuorderft weder bringhen eder ghelden na sinen werde."
   },
   {
@@ -3353,7 +3353,7 @@
    "articleId": "lr-iii-5",
    "article": 5,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Steift auer pert eder ue binnen sattinghe ane ghenes schult, det under eme heuet, bewiset het unde dar he sin recht dar to don, he ne geltes nicht; he heuet auer sin gelt uorlorn, dar it eme uore stont, ir ghelouede ne stonde anders."
   },
   {
@@ -3361,31 +3361,31 @@
    "articleId": "lr-iii-6",
    "article": 6,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Vordobelet en knecht sines herren god eder uoreoft eder uorsat het, de herre mach it wol weder uorderen mit rechte, erste he sie dar to the, alse"
+   "segmentation": "anchor",
+   "text": "Vordobelet en knecht sines herren god eder uoreoft eder uorsat het, de herre mach it wol weder uorderen mit rechte, erste he sie dar to the, alse recht is,"
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-6",
    "article": 6,
    "section": 2,
-   "segmentation": "auto",
-   "text": "recht is, Vordobelet he auer sines sulues god, eder uorsat het eder uoreoft het, eder to welcher wis he des loset, de herre ne mach dar nicht up uorderen, mer he nis it eine nicht plichtich to geldende, al hebbe he eme sin uorles besät:"
+   "segmentation": "anchor",
+   "text": "Vordobelet he auer sines sulues god, eder uorsat het eder uoreoft het, eder to welcher wis he des loset, de herre ne mach dar nicht up uorderen, mer he nis it eine nicht plichtich to geldende, al hebbe he eme sin uorles besät: also nis men eme io nicht plichtich to antwordene."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-6",
    "article": 6,
    "section": 3,
-   "segmentation": "auto",
-   "text": "also nis men eme io nicht plichtich to antwordene. Wirt auer eme sin pert eder ander sin göd duflike eder roflike gbenomen in des herren deneste ane des Unechtes schult, dat niot de herre ghelden; dar uore mot men oc den herren antworden I, ofte he dar up claghet."
+   "segmentation": "anchor",
+   "text": "Wirt auer eme sin pert eder ander sin göd duflike eder roflike gbenomen in des herren deneste ane des Unechtes schult, dat niot de herre ghelden; dar uore mot men oc den herren antworden I, ofte he dar up claghet."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-7",
    "article": 7,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De iode ne rnot des kerstenen mannes werre nicht sin, he ne wille antworden in kerstenes mannes stad."
   },
   {
@@ -3393,7 +3393,7 @@
    "articleId": "lr-iii-7",
    "article": 7,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sleyt de iode enen kerstenen man, eder dot he ungherichtc, dar he mede begrepen wirt, men richtet ouer ene alse ouer enen kerstenen."
   },
   {
@@ -3401,15 +3401,23 @@
    "articleId": "lr-iii-7",
    "article": 7,
    "section": 3,
-   "segmentation": "auto",
-   "text": "Sleyt oc de kerstene enen ioden eder dot he ungherichte an eme, men richtet ouer ene dor des coninghes urede, den he ghebroken heuet. Desen urede irwarf iosephus weder den coningh uespasianum, do he siuen soneu tytum sunt makede uan der icht. Coft §-4. de iode eder nimpt he to wedde keleke, boke eder gherwe, dar he ninen weren an ne heuet, vint men it an sinen gheweren, men richtet ouer eme als ouer enen def. Swat he coft anders dinghes unuorholen unde unuorstolen bi daghes lechte unde nicht in beslotenen huse, mach het tughen sulf derde, he behalt sine penninghe dar an, de he dar umme gaf eder dar up dede, mit sinen ede, oft it wol uerstolen is; briet em an den tughe, he uerlust siue penninghe."
+   "segmentation": "anchor",
+   "text": "Sleyt oc de kerstene enen ioden eder dot he ungherichte an eme, men richtet ouer ene dor des coninghes urede, den he ghebroken heuet. Desen urede irwarf iosephus weder den coningh uespasianum, do he siuen soneu tytum sunt makede uan der icht."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-7",
+   "article": 7,
+   "section": 4,
+   "segmentation": "anchor",
+   "text": "Coft §-4. de iode eder nimpt he to wedde keleke, boke eder gherwe, dar he ninen weren an ne heuet, vint men it an sinen gheweren, men richtet ouer eme als ouer enen def. Swat he coft anders dinghes unuorholen unde unuorstolen bi daghes lechte unde nicht in beslotenen huse, mach het tughen sulf derde, he behalt sine penninghe dar an, de he dar umme gaf eder dar up dede, mit sinen ede, oft it wol uerstolen is; briet em an den tughe, he uerlust siue penninghe."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-8",
    "article": 8,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men seghet, dat borghe unde uorsten ninen urede solen hebben, den men an en breken moghe durch de were, de de borghe hebbet, unde durch de werehaften lüde, de de uorsten uoren solen. Des nis nicht; wente swe den uorsten urede louet unde in truwen plichtich is, briet he den urede an en, men richtet ouer ene."
   },
   {
@@ -3417,7 +3425,7 @@
    "articleId": "lr-iii-9",
    "article": 9,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe borghe wirt enes mannes uor gberichte ene to bringhende, ne mach he sin nicht uore bringhen, he mot beteren na den dat he bcclaghet was, wante he an der claghe ghewunnen is. Gat em auer de claghe in dat lif, he mot gheuen sin wereghelt, dat wirt den claghere unde nicht den richtere, sin ghewedde heuet auer he daran."
   },
   {
@@ -3425,7 +3433,7 @@
    "articleId": "lr-iii-9",
    "article": 9,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "To der suluen wis sal men den urede beteren, den en man uor den anderen louet. Brect auer en man den urede, den he uor sik suluen louecle, id gad em in den hals."
   },
   {
@@ -3433,7 +3441,7 @@
    "articleId": "lr-iii-9",
    "article": 9,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe auer borghe wirt enes mannes uor gberichte ene to bringhende, cumpt he uore ane borghen unde but he sie uor gberichte to rechte, unde mach bet ghetughen, hc heuet sinen borgben ledeghef."
   },
   {
@@ -3441,15 +3449,15 @@
    "articleId": "lr-iii-9",
    "article": 9,
    "section": 4,
-   "segmentation": "auto",
-   "text": "VII. 8wc auer borghet enen iianghcncn weder fco antwordende, dat mot de borghe wol vulbrioghen, dat Ii c weder antwordet si alse sin loucdc stont, unde nicht de nanghene man"
+   "segmentation": "anchor",
+   "text": "8wc auer borghet enen iianghcncn weder fco antwordende, dat mot de borghe wol vulbrioghen, dat Ii c weder antwordet si alse sin loucdc stont, unde nicht de nanghene man"
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-9",
    "article": 9,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelik man enen beclagheden man dor nngherichte weldechlike den richte untfort, wkt lic gheuanghen, he sal like pine ghenen liden. Cnmpt aner he unwech, men noruested ene to hant, oft men ene in der hanthaften dat ghesen heuet unde mit den ruchte bescreyt, unde men den tuch heuet."
   },
   {
@@ -3457,7 +3465,7 @@
    "articleId": "lr-iii-10",
    "article": 10,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sal en man to beschedener tid uore bringhen enen, de dor nngherichte bcelaghet is, sterft he under des, he bringbe ene dot uore unde si ledieb."
   },
   {
@@ -3465,7 +3473,7 @@
    "articleId": "lr-iii-10",
    "article": 10,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Is he auer dor schult bcelaghet, de noch nicht up ene bracht nis, sterft he binnen den daghe, men sal nicht ene uore bringhen; mach de borghe sinen dot sulf derde tughen, so is de borghe ledich; sin eruc sal auer antworden uor de schult"
   },
   {
@@ -3473,7 +3481,7 @@
    "articleId": "lr-iii-10",
    "article": 10,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft perd eder ue, dat men uore bringhen sal, de borghe bringbe de bud uore unde si ledich."
   },
   {
@@ -3481,7 +3489,7 @@
    "articleId": "lr-iii-11",
    "article": 11,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe auer uor ede borgben sat, steift he, er he den ed don sole, sin erne eder sin borghe sal den cd uor eme don to gheloueder tid, eder de schult is uppen borgben ghewunnen, dar de ecl uore gheloued was."
   },
   {
@@ -3489,7 +3497,7 @@
    "articleId": "lr-iii-12",
    "article": 12,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelik man uppen anderen claghet, vncle ghene weder up ene, de erst claghet, ne heuet eme nicht to antwordende, he ne si erst uan eme ledich."
   },
   {
@@ -3497,7 +3505,7 @@
    "articleId": "lr-iii-12",
    "article": 12,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Claghet oc uele lüde up enen man nngherichte, he ne heuet den andren nicht to antwordende, er he des ersten ledich is. Wirt oe de claghe gbedaghet, he ne darf ninen borgben setten men uor sin weregelt, alnc si der claghe uele»"
   },
   {
@@ -3505,7 +3513,7 @@
    "articleId": "lr-iii-13",
    "article": 13,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt en man uor gherichtc dor unghe richte beclaghet, dar hc nicht to antworde nis, unde wirt eme uore ghedeghedinghet, cnmpt den de claghere binnen den deghedinghen an, he mot ene wol bestedigben to rechte limine sine scbuldcghinghe, also langhe bot hc borghen sette uore to comende, wante de richtere weret vrede glienen, de dar claghet unde nicht den, den men an sine ieghenwarde uore ladet."
   },
   {
@@ -3513,7 +3521,7 @@
    "articleId": "lr-iii-14",
    "article": 14,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ofte de man an sines uorespraken wort nicht ne icd, de wile bliue he ane schaden sines uorespraken wordes."
   },
   {
@@ -3521,7 +3529,7 @@
    "articleId": "lr-iii-14",
    "article": 14,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "We so dor ungheriehte beclaghet wirr, de bidde to ersten der ghewere; de wile de were unghelouet is, so mach de clagbere beteren sine claghe, nnde dar na nicht."
   },
   {
@@ -3529,7 +3537,7 @@
    "articleId": "lr-iii-15",
    "article": 15,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Spreket twe up en göd na deme drittigesten, ghene, det under eine heuet, ne sal it ninen antworden, se ne uoreuenen sie mit min (f, nen, eder er en ne wise den andren af uor gherichte mit rechte."
   },
   {
@@ -3537,7 +3545,7 @@
    "articleId": "lr-iii-15",
    "article": 15,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so berwede eder rade eder erue na deme drittigesten weygberet mit unrechte to gheuende, schuldeghet men ene dar umme uor gherichte, he mot dor dat wedden unde böte gheuen."
   },
   {
@@ -3545,7 +3553,7 @@
    "articleId": "lr-iii-15",
    "article": 15,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Is en göd uan twen mannen anspreke, eschet it de lichtere to rechte, men sal it eme antworden, unde he sal it hebben, bet se sie dar umme uorsceden na rechte, unde ghene si ledich, det deme richtere antwordede."
   },
   {
@@ -3553,23 +3561,23 @@
    "articleId": "lr-iii-15",
    "article": 15,
    "section": 4,
-   "segmentation": "auto",
-   "text": "Swe so berwede uorderet, de sal al ut"
+   "segmentation": "anchor",
+   "text": "Swe so berwede uorderet, de sal al ut uan swert haluen dar to gheboren sim"
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-16",
    "article": 16,
    "section": 1,
-   "segmentation": "auto",
-   "text": "uan swert haluen dar to gheboren sim De richtere noch nin man ne mach nemende uan siner claghe wisen, ane de, uppe den de claghe gad."
+   "segmentation": "anchor",
+   "text": "De richtere noch nin man ne mach nemende uan siner claghe wisen, ane de, uppe den de claghe gad."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-16",
    "article": 16,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Rechtelose lüde ne solen ninen uoremunden hebben."
   },
   {
@@ -3577,7 +3585,7 @@
    "articleId": "lr-iii-16",
    "article": 16,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Des rikes achteren unde uoruesten luden ne darf nin man antworden, of se claghet. Claghet men uppe se, se moten antworden binnen deme richte, dar se uoruestet sin."
   },
   {
@@ -3585,7 +3593,7 @@
    "articleId": "lr-iii-17",
    "article": 17,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "En uoruestet man mot sie wol litten in allen Steden binnen den richte, dar he inne uoruestet is. Tho gheliker wis alse men de claghe irhebben mot in allen Steden, also mot wol en man sie litten in allen Steden."
   },
   {
@@ -3593,7 +3601,7 @@
    "articleId": "lr-iii-17",
    "article": 17,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Borghen sal he auer setten, dat he uore come, ne he:.et he des borghen nicht, de richtere sal ene behalden, bet he rechtes pleghe."
   },
   {
@@ -3601,7 +3609,7 @@
    "articleId": "lr-iii-18",
    "article": 18,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so uor gherichte seghet, he hebbe sie ut der in, 18, uestinghe toghen, unde ne vuleumpt lies nicht mit ghetughe mit deme richtere eder mit deme schulteten eder mit des uronen boden in des lichteres stat unde mit twen mannen, de claghere ne darf nine uestinghe mer up ene tnghen."
   },
   {
@@ -3609,7 +3617,7 @@
    "articleId": "lr-iii-18",
    "article": 18,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe auer under coninghes banne uoruestet wirt, de bedarf twier schepenen unde des richteres to tughe, swan he sie utthud."
   },
   {
@@ -3617,7 +3625,7 @@
    "articleId": "lr-iii-19",
    "article": 19,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vrie lüde unde des rikes denestman moten wol uor den rike tneh sin unde ordel uinden, dor dat se deme rike hulde dot ir iewelker na simo rechte. Doch ne mot des rikee dencstmau ouer den schepenbaren vrien man noch ordel ninden noch tacb wesen, dar it eme an Lif eder an ere eder an erue ga."
   },
   {
@@ -3625,7 +3633,7 @@
    "articleId": "lr-iii-20",
    "article": 20,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe des andren Lant unwetende eret, dar ne uolgbet nin wandel na, Swc auer lant eret, dat be eme to seghet, wirt it eme afghewunnen mit rechte, he mot it beteren."
   },
   {
@@ -3633,7 +3641,7 @@
    "articleId": "lr-iii-20",
    "article": 20,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "He mot oc wol panden uppe simc lande den, det eret, ane des richteres orlof, dor dat he rechtes mede hecome."
   },
   {
@@ -3641,7 +3649,7 @@
    "articleId": "lr-iii-20",
    "article": 20,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Mit erende ne mach nin man lif noch sunt uorwerken, eme ne si danne dat Lant nor gherichte uordelt nnde urede dar oner ghewracht."
   },
   {
@@ -3649,7 +3657,7 @@
    "articleId": "lr-iii-21",
    "article": 21,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Spreket twe man en god an to wederstride mit liker ansprake nnde dat mit likeme tughe behaldet, men sal it under se delen. Desen tuch solen de vmmesetenen bescheden, de an deine dorpe eder in den nesten bidorpen gheseten sin. Swe de merren meninghe to tnghe henet, de behalt dat god."
   },
   {
@@ -3657,7 +3665,7 @@
    "articleId": "lr-iii-21",
    "article": 21,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nis dat den nmmesetenen nicht wetelicb, wet in gheweren hebbe, so mot men dat wol bescheden mit enen waterordele, eder de claghere unde vppe den de claghe gad solen dar to sweren, dat se rechte wisen, als it ere si; dar sal de richtcre sinen boden gheuen; war se beyde np sweret, dat sal men en like delen."
   },
   {
@@ -3665,7 +3673,7 @@
    "articleId": "lr-iii-22",
    "article": 22,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe den andren lent perde eder cledere to beschedenen daghen, halt het ouer dat, nnde wirt he clor dat beelaghet, he sal it to hant weder gheuen unde beteren, ofte het ghe- | ergeret heuet."
   },
   {
@@ -3673,7 +3681,7 @@
    "articleId": "lr-iii-22",
    "article": 22,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Duue noch roucs ne mach men ene nicht tien daran, wante het eme lende. Vnderwinden mot sie wol en man sines gödes, war het sud, mit rechte, dat men eme mit unrechte norehalt ouer bescedene tid."
   },
   {
@@ -3681,7 +3689,7 @@
    "articleId": "lr-iii-23",
    "article": 23,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe herberget unde spiset witliken enen uoruesten man, he mot dar umme wedden. Ne wet lies auer nicht, hc mitredet dat ghewedde mit siner unschult."
   },
   {
@@ -3689,7 +3697,7 @@
    "articleId": "lr-iii-24",
    "article": 24,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne mach nemendc mit niner uestingbe uorwinnen in enen andren richte. Swe in den hoghesten richte uoruest wirt, de is in allen richten oc uoruest, de in dat richte boret. We auer in den nederen richte uoruest is, he nis in den hogheren nicht uoruest, hc ne werde dar redeliken in ghebracht De nederc richtere ne mot nicht richten de uestinghe, de de ouere richtere gbedan heuet, se ne si eme also witlik, dat he ir suluen tuch wille wesen in des hogheren lichteres stad."
   },
   {
@@ -3697,7 +3705,7 @@
    "articleId": "lr-iii-25",
    "article": 25,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft en richtere, wat bi sinen tiden gheschen is, des sal sin nacomelinch an deine richte tuch wesen, alne seghe is he nicht, alse he mit der schepenen tughe der warheyt gheinneret wirt."
   },
   {
@@ -3705,7 +3713,7 @@
    "articleId": "lr-iii-25",
    "article": 25,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Binnen markete noch in utwendinghen richte ne darf niman antworden, he ne hebbe dar woninghe eder god binnen, he ne uorwerke sie mit ungherichte dar binnen, eder he ne uorborghe sie dar inne."
   },
   {
@@ -3713,7 +3721,7 @@
    "articleId": "lr-iii-25",
    "article": 25,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wat baten deme richte schut, des ne darf men dar inne io nicht antworden."
   },
   {
@@ -3721,7 +3729,7 @@
    "articleId": "lr-iii-26",
    "article": 26,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De coningh is en mene richtere euer al."
   },
   {
@@ -3729,7 +3737,7 @@
    "articleId": "lr-iii-26",
    "article": 26,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In ninen utwendinghen richte ne anfordet nin schepenbare man nemende to campe. In deme richte mot he auer autworden, dar sin hantchemal leghet binnen. Heuet he schepenen stol dar, he is oc dineplichtich. De schepene, de des stoles dar nicht ne heuet, de sal des hoghesten richteres dinch soken, war he wonhaftich is."
   },
   {
@@ -3737,7 +3745,7 @@
    "articleId": "lr-iii-26",
    "article": 26,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Desen stol erft de uader uppen eldesten sonen; ne heuet he des sones nicht, uppe sinen eldesten im de den nesten euenbordeghen swertmach."
   },
   {
@@ -3745,7 +3753,7 @@
    "articleId": "lr-iii-27",
    "article": 27,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe en wif to echte nimpt unw^ende, der he nicht hebben ne mot, unde hindere bi er wint, werdet se seder ghesceden mit rechte, it ne schadet den kinderen nicht to eren rechte, de er der schedinghe boren sin, noch deme, dat de moder dreghet."
   },
   {
@@ -3753,7 +3761,7 @@
    "articleId": "lr-iii-28",
    "article": 28,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swenne men unecht schedet uan bort eder uan ammichte, dat mot up ene tughen, det dar seghet, sulf seuede mit vulneomenen luden an eren rechte. Doch mot de man sin echt unde sin recht bet behalden mit tughen, den men ene mit ghetughe dar af wisen io moghe."
   },
   {
@@ -3761,7 +3769,7 @@
    "articleId": "lr-iii-28",
    "article": 28,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict men auer, dat he sin recht uorlorn hebbe uor gherichte mit duue eder mit roue, dat mot de richtere tughen sulf seuede."
   },
   {
@@ -3769,7 +3777,7 @@
    "articleId": "lr-iii-29",
    "article": 29,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nin schepenbare man ne darf sin hantchemal bewisen noch sine uer aneu benoinen, he ne spreke sinen ghenot camplikc an. De man mot wol sie to sinen hantchemale mit sinen ede ten, alne bebbe lies ander eme nicht."
   },
   {
@@ -3777,7 +3785,7 @@
    "articleId": "lr-iii-29",
    "article": 29,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar so twe man en eine nciiien seien, de eldcrc sal delen, de iunghere in 30, kesen."
   },
   {
@@ -3785,31 +3793,39 @@
    "articleId": "lr-iii-30",
    "article": 30,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Vorespreken sal he daruen, de suluen antwordet heuet. De wile sie de man weret antwordes mit ordelen unde mit %.2. rechte, so ne heuet lie nicht gheantwordet. De richtete sal lik richtere sin allen luden; ordel ne sal he uinden eder scheiden."
+   "segmentation": "anchor",
+   "text": "Vorespreken sal he daruen, de suluen antwordet heuet. De wile sie de man weret antwordes mit ordelen unde mit %.2. rechte, so ne heuet lie nicht gheantwordet."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-30",
+   "article": 30,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "De richtete sal lik richtere sin allen luden; ordel ne sal he uinden eder scheiden."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-31",
    "article": 31,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Swat en man den andren schuldich is eder nimpt, dar mot men deine eruen uore ant worden, of de ghene steinet. Sterft"
+   "segmentation": "anchor",
+   "text": "Swat en man den andren schuldich is eder nimpt, dar mot men deine eruen uore ant worden, of de ghene steinet."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-31",
    "article": 31,
    "section": 2,
-   "segmentation": "auto",
-   "text": "auer ghene, uppe den de claghe gad, sine eruen ne antwordet dar uore nicht, se ne hebben dat god ander en, dar imune ghene beclaghet was."
+   "segmentation": "anchor",
+   "text": "Sterft auer ghene, uppe den de claghe gad, sine eruen ne antwordet dar uore nicht, se ne hebben dat god ander en, dar imune ghene beclaghet was."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-31",
    "article": 31,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe den anderen uat unde eme nicht ne nimpt, eder wundet eder sleyt ane dotslach unde ane lemnesce, sinen eruen ne heuet he dar umme nicht to antworden, ofte he na der iartale sterft, ghene ne hebbe uor gherichte der claghe begunt, er he storue."
   },
   {
@@ -3817,7 +3833,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelik incomen man sie uri seghet, den sal men uor uri hebben, men ne moghe ene mit tughe uorlegghen."
   },
   {
@@ -3825,7 +3841,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sie uri seghet unde en ander seghet, he si sin eghen, so dat he sie eme gheuen hebbe, des mot ghene wol unschuldicb werden, it ne si uor gherichte sehen."
   },
   {
@@ -3833,7 +3849,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict he auer, dat he sin ingheborene eghen si, he mot ene behalden uppen hilighen mit twen sinen eghenen mannen."
   },
   {
@@ -3841,7 +3857,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict ene en andere here an, ieghen den mot he ene behalden sulf scuede siner ghenoten eder warhafter lüde."
   },
   {
@@ -3849,7 +3865,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Mach auer ghene sulf seuede sin uri behalden, de sine maghe sin, dre uan uader unde dre uan moder, he behalt sin uri unde uorleghet en al eren tuch."
   },
   {
@@ -3857,7 +3873,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "We de were heuet an enen manne, de mot ene mit mereme rechte uortughen dan ghene, de der ghewere daruet."
   },
   {
@@ -3865,7 +3881,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sie uor gherichte to eghene gift, sin erue mach it wol wederreden mit rechte unde bringhen ene an sin uri."
   },
   {
@@ -3873,7 +3889,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Behalt ene auer sin here bet an sinen dot, he nimpt sin erue na sime dode unde sine kindere, ofte se na eme boret, de he na der gaue wan."
   },
   {
@@ -3881,7 +3897,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so enen herren sie untseghet unde den andren sie to seghet, uorderet men ene uor gherichte, unde ne cumpt sin berre nicht in. 73 uore, dem he sie to segnet, dat he ene uore sta na rechte, ghene, de up ene sprict, behalt ene sulf derde siner maghe, of he se heuet. Ne heuet he er nicht, he uortughet ene mit twen sineu inborenen eghenen mannen. Swenne he ene uortughet heuet, so sal he sie sin underwinden to rechte mit enen halsslaghe, of he wil."
   },
   {
@@ -3889,7 +3905,7 @@
    "articleId": "lr-iii-32",
    "article": 32,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vppe wen de claghere böte eder wereghelt wint uor gherichte, uppe den heuet de richtere oc sin gbewedde, of het wil uorderen."
   },
   {
@@ -3897,23 +3913,23 @@
    "articleId": "lr-iii-33",
    "article": 33,
    "section": 1,
-   "segmentation": "auto",
-   "text": "lewelik man heuet"
+   "segmentation": "anchor",
+   "text": "lewelik man heuet sin recht uor deme coninghe."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-33",
    "article": 33,
    "section": 2,
-   "segmentation": "auto",
-   "text": "sin recht uor deme coninghe. lewelich man mot oc antworden uor deme coninghe in allen Steden na sinen rechte, nicht na des clagers rechte."
+   "segmentation": "anchor",
+   "text": "lewelich man mot oc antworden uor deme coninghe in allen Steden na sinen rechte, nicht na des clagers rechte."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-33",
    "article": 33,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "He mot antworden umme alle claghe, der men ene schuldeghet, ane of men ene to campe ansprect, des mach he wol weygheren to antwordene, ane uppe der art, dar he ut gheboren is."
   },
   {
@@ -3921,7 +3937,7 @@
    "articleId": "lr-iii-33",
    "article": 33,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sprict men oc sin eghen an? dar ne darf he nicht uore antworden den in deme lande, dar it inne gheleghen is."
   },
   {
@@ -3929,7 +3945,7 @@
    "articleId": "lr-iii-33",
    "article": 33,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De coninch sal oc richten umme eghen nicht na des mannes rechte, mer na des landes, dar it inne leghet,"
   },
   {
@@ -3937,7 +3953,7 @@
    "articleId": "lr-iii-34",
    "article": 34,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen en richtere uoruest unde mit siner uoruestinghe in des coninghes achte brinet, tut sie ghene ut der achte, he sal deme houe uolghen ses weken, so sal eme de coninch urede werken, unde he sal sweren uor deme richtere to coraende, de ene uorueste unde in de achte brachte; uor den sal he sie to rechte beden binnen uerteynachten na der tid, dat he to lande comen is. Des coninghes bref sal he oc mede brineghen unde sin ingheseghel, de deme richtere dat to wetende do, dat he der achte ledich si."
   },
   {
@@ -3945,7 +3961,7 @@
    "articleId": "lr-iii-34",
    "article": 34,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so to achte wirt ghedan ane uestinghe, tut he sie ut, he sal uolghen den houe ses weken unde is dar mede ledich."
   },
   {
@@ -3953,7 +3969,7 @@
    "articleId": "lr-iii-34",
    "article": 34,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sie ut der achte tut unde rechtes nicht ne pleghet, wirt hes uorwunnen, men dot ene in ouerachte, als of he iar unde dach in achte ghewesen hebbe."
   },
   {
@@ -3961,7 +3977,7 @@
    "articleId": "lr-iii-35",
    "article": 35,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe mit der hanthaften dat ghe-; uanghen wirt mit duue eder mit roue, des ne mach he an ninen gheweren then."
   },
   {
@@ -3969,7 +3985,7 @@
    "articleId": "lr-iii-35",
    "article": 35,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vint auer en man sin göd under ghenen, dat eme af gherouet eder ghestolen is, den he niner hanthaften dat schuldeghen ne mach, de mot an sinen wercn then, of men ene den camplike dar umme grot."
   },
   {
@@ -3977,7 +3993,7 @@
    "articleId": "lr-iii-36",
    "article": 36,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swene en man uor gherichte to campe uat nnde wirt de claghe mit ordelen gheurist, so weret men en beiden urede, nnde wirt be broken, men sal ene aller erst beteren ane camp na rechte."
   },
   {
@@ -3985,7 +4001,7 @@
    "articleId": "lr-iii-36",
    "article": 36,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt auer de uredebrekere gbeuangben in der uersehen dat, men richtet ouer ene na uredes reebte."
   },
   {
@@ -3993,7 +4009,7 @@
    "articleId": "lr-iii-37",
    "article": 37,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe den anderen sleyt eder roft ane uleswunden, wirt be begrepen mit ghenichte unde uor gberiebte bracht, it ne gad eme nicht an sinen bals noch an sine sunt, mer wedde unde böte uorboret be dar an."
   },
   {
@@ -4001,7 +4017,7 @@
    "articleId": "lr-iii-37",
    "article": 37,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sie uor gherichte to tughe but, er lies gheuraghet werde na reebte, be si uan gbetughe uorleghet"
   },
   {
@@ -4009,7 +4025,7 @@
    "articleId": "lr-iii-37",
    "article": 37,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man ne missedot nicht, of he sines bures ve mit sinen ut unde in drift, erste bes nicht ne uorseke noch nine nut dar af ne neme."
   },
   {
@@ -4017,7 +4033,7 @@
    "articleId": "lr-iii-37",
    "article": 37,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe enes anderen mannes ripe com snit, so dat be weilt, dat dat com sin si eder sines berren, den he denet, be ne missedot nicht, erste lies nicht af J) ne uore; men sal eme dan sines arebeydes Ionen."
   },
   {
@@ -4025,7 +4041,7 @@
    "articleId": "lr-iii-38",
    "article": 38,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat de man iar unde dach an sinen rechten weren nicht ne heuet, dar sal he tohant uore antworden, of men ene beclaghet."
   },
   {
@@ -4033,7 +4049,7 @@
    "articleId": "lr-iii-38",
    "article": 38,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne sal dat wif nicht wisen ut ires mannes göde, alse he sterft, de kint dreghet, er se des gheneset."
   },
   {
@@ -4041,7 +4057,7 @@
    "articleId": "lr-iii-38",
    "article": 38,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Mosdele unde morgengaue ne erft nin wif bi eres mannes liue, se ne bebbe se untfanghen na ires mannes dode."
   },
   {
@@ -4049,7 +4065,7 @@
    "articleId": "lr-iii-38",
    "article": 38,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dat wif ne erft oc nin bou up eren eruen, dat up ere liftucht steyt, se ne slitet af bi eren liue unde settet upper eghen eder upper len."
   },
   {
@@ -4057,7 +4073,7 @@
    "articleId": "lr-iii-38",
    "article": 38,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft des mannes wif, swelicb ere nichtele ir rade nimpt, de sal uan der rade den manne sin bedde berichten, also it stont, do sin wif leuede, sinen disch mit enen dischlakene, sine banc mit enen polen, sinen stol mit enen kussene."
   },
   {
@@ -4065,7 +4081,7 @@
    "articleId": "lr-iii-39",
    "article": 39,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe so schult up enen uorderet uor gherichte, der he ghelden nicht ne mach noch borgben setten, de richtere sal eme den man antworden uor dat ghelt, den sal be balden liken sinen ingbesinne mit spise unde mit arebeyde. Wil be ene spannen mit ener beiden, dat mach be don, anders ne sal be ene nicht pinen."
   },
   {
@@ -4073,7 +4089,7 @@
    "articleId": "lr-iii-39",
    "article": 39,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lat he ene eder untlopt be eme, dar ITL 75 mede nis he nicht ledich des gheldes, de wile he eme nicht uorgulden ne heuet, unde het nicht vulbringhen ne can, so is he ymber sin pant uor dat ghelt."
   },
   {
@@ -4081,7 +4097,7 @@
    "articleId": "lr-iii-39",
    "article": 39,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen men uor gherichte schuldeghet unde ene de richtere to rechter antworde bat, ne wil he nicht antworden noch oc mit rechte sie untreden, dat he icht antworden sole, so delt men ene weddehaft; also dot men to dem andren unde to deme derden male; ne antwordet he den noch nicht, so is he an der scult ghewunnen."
   },
   {
@@ -4089,7 +4105,7 @@
    "articleId": "lr-iii-39",
    "article": 39,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Gad um auer de scult in dat lif eder an sine sunt, de mot de claghere sulf seuede up ene tughen."
   },
   {
@@ -4097,7 +4113,7 @@
    "articleId": "lr-iii-40",
    "article": 40,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen men icht geldcn sal, de mot is Warden, bet de sunne under gad, in sines sulues eder in den nesten huse des richteres, dar dat gelt ghewunnen is."
   },
   {
@@ -4105,15 +4121,15 @@
    "articleId": "lr-iii-40",
    "article": 40,
    "section": 2,
-   "segmentation": "auto",
-   "text": "XXIIII. 8we so penningbe eder suluer gelden sal, but he dar pande uore, he nis dar mede nicht ledich, ir ghelouede ne stunde also."
+   "segmentation": "anchor",
+   "text": "8we so penningbe eder suluer gelden sal, but he dar pande uore, he nis dar mede nicht ledich, ir ghelouede ne stunde also."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-40",
    "article": 40,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men mot suluer wol gelden mit boden. Ninen boden sal men it ouerantworden, he ne si bescheden dar to uor gherichte uan gheneme, deme dat suluer sal."
   },
   {
@@ -4121,7 +4137,7 @@
    "articleId": "lr-iii-40",
    "article": 40,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sodane penninghe eder suluer alse de man louet, dat sal he gelden. Nis dar auer nicht an bescheden, so sal men suluer gelden ane inredent alse ghinge unde geue is an deme richte danne."
   },
   {
@@ -4129,7 +4145,7 @@
    "articleId": "lr-iii-41",
    "article": 41,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Iewelkes gheuanghenen dat unde louede sal dor recht nicht stede sin, dat he in uangnisse louet. Let rnen ene auer uppe sine truwe riden to daghe, he (f, sal dorch recht weder comen unde sine truwe ledeghen. Gelt he eder wirt he ane gelt ledech, swelike orueyde he louet eder sweret, de sal he dor recht lesten, anders nine louede, de he in uangnisse louet eder dot."
   },
   {
@@ -4137,7 +4153,7 @@
    "articleId": "lr-iii-41",
    "article": 41,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat en man sweret unde in truwen louet sin lif eder sine sunt mede to uerstende, al ne mach hes nicht halden, it ne schadet eme to sinen rechte nicht."
   },
   {
@@ -4145,7 +4161,7 @@
    "articleId": "lr-iii-41",
    "article": 41,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar men den man untruweliken veyt, let he ene riden uppe sine truwe, de ene dar gheuanghen heuet, eder let he ene sweren eder andere dinch in truwen louen, he ne darf es nicht lesten, mach het vulnbringhen, dat he ene untruwelike to der louede dwungen hebbe."
   },
   {
@@ -4153,7 +4169,7 @@
    "articleId": "lr-iii-41",
    "article": 41,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelik man uor gherichte gelt uorderet, uraghet gbcne, war af men it eme scbuldich si, be Rai dorch recht segghen, wer he uan loucde edcr uan erue, dat he untfanghen hebbe, schuldicb si."
   },
   {
@@ -4161,7 +4177,7 @@
    "articleId": "lr-iii-42",
    "article": 42,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Gol heuet den man na eme suluen ghebeldct linde mit siner martere ghelost, den enen also den anderen, eme is de arme also beswas alse de rike."
   },
   {
@@ -4169,7 +4185,7 @@
    "articleId": "lr-iii-42",
    "article": 42,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nu ne latet gikz) nicht wunderen, dat dit bok so luttel segnet uan dcnestlude rechte, wan it so raanicbualt is, dat es nin man to ende comen ne can. Vnder iewelikeme bischope unde abbete unde ebbedischen hebbet de denestlude sunderlic recht, des ne can ik nicht bescheden."
   },
   {
@@ -4177,7 +4193,7 @@
    "articleId": "lr-iii-42",
    "article": 42,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Do men erst recht satte, do ne was nin denestman, alle lüde waren uri. An minen sinne can ich is nicht upnemen na warheyt, dat ieman sole des anderen sin, oc ne hebbe wis nin orcunde. Doch segget somelike lüde, de der warheyt irre uaret, dat sie eghenschap irhoue an cayne, de sinen broder sloch; kaynes siechte wart uordeleghet, do de werlt mit watere toghinc, dat es nicht ne blef. Oc segget summe lüde, dat eghenschap queme uan cam, noes sone. Noe seghende twe sine sonen, an deme derden ne woch he niner eghenschap. Cam besatte affricam mit sinen siechte, seth blef in asya, iaphet, unse uordere, besatte europam; dus ne blef er nin des anderen. So segget summe lüde, eghenschap queme uanysmahele; de hilghe scrift het ysmahele der dernen sone, anders ne ludet se niner eghenschap uan eme. So segget summe lüde, se queme uan esan. Iacob wart gheseghenet uan sinen uadere unde het ene here wesen siner brodere-, esau ne uorulokede he nicht, noch eghenschap ne woch he nicht Wy hebbet oc noch an unsen rechte, dat sie nin man to eghene suluen gheuen ne mach, it ne wedderlegge wol sin erue. Wo mochte do j| noe eder ysaac enen andren to eghene gheuen, sint sie suluen niman to eghene gheuen ne mach?"
   },
   {
@@ -4185,7 +4201,7 @@
    "articleId": "lr-iii-42",
    "article": 42,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Oc hebbe wi orcundes mer. Got rowede in den seilenden dach. De seilende weken bot he oc to haldene, also he den ioden de e gaf unde uns den heylighen gest. VI« Den scueden manet bot he oc to haldene unde dat seilende iar; dat het dat iar der losinghe; so solde inen ledich laten uncle vri al de gheuanghen weren unde in eghenschap ghetoghen, mit al soleken rechte, alse men se uench, of se ledich unde uri wesen wolden. Ouer seuen warnen seuen iar den quam dat uiftegeste iar, dat het dat iar der urouwede, so moste aller manlich ledich sin unde vri, he wolde eder he nc wolde."
   },
   {
@@ -4193,7 +4209,7 @@
    "articleId": "lr-iii-42",
    "article": 42,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Oc gaf uns got orcunde mer an enen peninghe, dar men ene medc besochte, do he sprak: latet den keyser sin beiden, unde godes beiden gheuet gode. An desen worden is uns knndich, dat de minsche godes beiden wesen sal, unde svve ene anders ieraende to seghet ane gode, det dot weder got."
   },
   {
@@ -4201,7 +4217,7 @@
    "articleId": "lr-iii-42",
    "article": 42,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Na rechter warheyt so heuet eghenscap beginn uan dwanghe, uan uancnisse unde uan unrechter walt, de men uan aldere an unrechte wonheyt ghetoghen henet, unde nu uor recht hebben wil."
   },
   {
@@ -4209,7 +4225,7 @@
    "articleId": "lr-iii-43",
    "article": 43,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swes sie de man mit unrechte underwint, dat eme mit rechte ofghewunnen wirt, he mot it mit böte laten."
   },
   {
@@ -4217,7 +4233,7 @@
    "articleId": "lr-iii-43",
    "article": 43,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swes he sie auer underwint mit ghenes willen, des it dar is, eder dat he eme lent eder to borghe dot, ne ghelt hes nicht, eder ne dot hes nicht weder to beschedener tid, he blift es ane wandel, he ne hebbet uor richte ghelouet."
   },
   {
@@ -4225,7 +4241,7 @@
    "articleId": "lr-iii-44",
    "article": 44,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "To babilonie hof sie dat rike, de was weldich ouer alle de laut, de touorde cyrus unde kerde dat rike in persyam; dar stunt it bet in darium den lesten, den uorseghede allexander unde kerde dat rike in kreken; dar stunt it, bet es sie rome underwant unde iulius keyser wart Daruan hebbet rome noch behalden dat wertlike swert, unde uan sunte peters haluen dat gestlike, dar uan het se houet al der werkle."
   },
   {
@@ -4233,7 +4249,7 @@
    "articleId": "lr-iii-44",
    "article": 44,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vnse uorderen, de her to lande quamen unde de doringe ouerdreuen, de hadden allexanders her ghewesen, mit ir helpe bedwanc he al asyam. Do allexander starf, do ne dorsten se sie nicht to don in den lande clor des landes hat, unde schepeden altomale mit dren hundert kelen; de uordoruen alle uppe uere unde uiftich. Der quamen achteyne to prutzen unde besatten dat; twelue to ruyan; uere unde twintich quamen her to lande."
   },
   {
@@ -4241,7 +4257,7 @@
    "articleId": "lr-iii-44",
    "article": 44,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Do er so uele nicht ne was, dat se den acker mochten werken, do se de ]) dorinebeseben Herren sloghen nnde uordreuen, do leten se de bure sitten ungbeslagheD undc bestadeden eme den acker to sodanen rechte, alse ene noeb de lateD hebbet; dar af quemen de laten. Van den laten, de sie uorwrochten an eren rechte, sin comen de dachworchten., 45,"
   },
   {
@@ -4249,7 +4265,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nu uornemet aller lüde weregbelt unde böte. Vorsten, urieherren, sebepenbare lüde ? de sin ghelic in böte unde in wereghelde. Doch cret men uorsten unde urieherren mit golde to gheuende, unde ghift eine twelf güldenen penninghe to böte, der sal iewelik en dre penninghwecht sulucrs weghen. Dat penninchwechte goldes nam men do uor teync sulueres, dus waren de twelf penninghe dertich schillincge wert. Den schepenbaren urien luden ghift men dertich schillinghe pundegher penninghe, der solen twintich schillinghe ene mark weghen. Ir weregbelt sint achteyn punt pundigher penninghe."
   },
   {
@@ -4257,7 +4273,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Iewelik wif heuet eres mannes halue böte und wTereghelt. lewelich maghet unde vnghemannet wif heuet halne böte na den se gheboren is."
   },
   {
@@ -4265,7 +4281,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De man is oc uoremunde sines wiues, also se eme ghetruwet is, unde is ghenotinne, alse se in sin bedde tred; na des mannes dode is se ledich uan sime rechte."
   },
   {
@@ -4273,7 +4289,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De berghelden unde de plechaften beten unde des scbulteten dincg soket, den ghift men uifteyn schillinghe to böte, teyn punt to wereghelde."
   },
   {
@@ -4281,7 +4297,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Uuder den mot men wol kesen enen uronen boden, of men des bedarf, de min den dre houe hebbe. Den sal kesen de lichtere unde de schepenen."
   },
   {
@@ -4289,7 +4305,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Andren vri luden, de lantseten betet, de comet unde uaret gastes wise unde ne hebbet nin eghen in deme lande, den ghift men oc uifteyn schillinghe böte, teyn punt is ere weregbelt."
   },
   {
@@ -4297,7 +4313,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Twene wullene hantschen unde eyn mesgrepe is des dac//worcbten böte; sin weregbelt is eyn bereb vul wetes uan twelf roden, alse iewelich rode sta uan der anderen enes uademes lanc; iewelich rode sal hebben twelf naghele upwart; iewelich naghel sal uan den andren stan also de man laue is bet an de schulderen, dor dat men den berch boren moghe uan naghelen to naghelen; iewelich naghel sal hebben twel/ budele-, iewelich budel twelf schillinghe."
   },
   {
@@ -4305,7 +4321,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Papen kindren unde al den, de unechte gheboren sin, den gift men to böte en uoder howes, alse twe iarighe ossen ton moghen. Spelluden unde alle den, de sie to egliene gheuen, den gift men to böte de[n] scede enes mannes. Kempen unde eren kinderen den blic uan enen campschilde keghen de sunnen. Twe besmen unde en schere is der böte, de ir recht mit duue eder mit roue eder mit andren dinghen uorwerket."
   },
   {
@@ -4313,7 +4329,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vnechter lüde böte heuet denen uromen unde sin doch dor dat ghesat, dat ere böte des richteres wedde uolghe."
   },
   {
@@ -4321,7 +4337,7 @@
    "articleId": "lr-iii-45",
    "article": 45,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ane wereghelt sin unechte lüde. Doch we er enen wundet eder rouet eder dodet eder unechte wif nodeghet unde den urede an en brect, men sal ouer ene richten na uredes rechte."
   },
   {
@@ -4329,7 +4345,7 @@
    "articleId": "lr-iii-46",
    "article": 46,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "An uarenden wiuen unde an siner amien mach en man not don unde sin lif uorwerken, of he se ane eren danc beleghet."
   },
   {
@@ -4337,7 +4353,7 @@
    "articleId": "lr-iii-46",
    "article": 46,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vmme ene wunden ne mach men nicht men enen man beclaghen-, doch mach men rades unde helpe manighen tien."
   },
   {
@@ -4345,7 +4361,7 @@
    "articleId": "lr-iii-47",
    "article": 47,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe den andren des sines wat nimpt mit ghewalt eder ane sine witschap, it si luttel eder uele, dat sal he weder gheuen mit böte, eder sweren, dat hes nicht weder gheuen ne moghe; so sal het ghelden na des werderinghe, det ghene werderet, det uorloren heuet, gene ne minnere de werderinghe mit sinen ede, det gelden sal."
   },
   {
@@ -4353,7 +4369,7 @@
    "articleId": "lr-iii-47",
    "article": 47,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "XXV* Singhende uoghele unde kremmende, winde, hashunde unde bracken mach men ghelden mit also goden, of men dat gheweret uppen hilighen."
   },
   {
@@ -4361,7 +4377,7 @@
    "articleId": "lr-iii-48",
    "article": 48,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe des andren ue dodet, dat men eten mach, dankes eder Undankes, de mot it ghelden mit sinen satten wereghelde. Belemet het, he ghilt it mit den haluen dele, dar to behalt ghene sin ue, des it er was."
   },
   {
@@ -4369,7 +4385,7 @@
    "articleId": "lr-iii-48",
    "article": 48,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe auer dankes unde ane not dodet eder lernet in ene uote en ue, dat men nicht eten ne mot, Iis. twel. fehlt in der Hs.; das dazu gehörige Bild ist aber neben gezeichnet. Ergänzt nach dem cod. gloss. Hs. dure. fehlt Hs. In den andern Hss. noch: unde ane böte; das nach dem folg. §., tvo es heisst: unde mit böte, wol nicht fehlen darf. Ii e sal it ghelden mit vullen weregbelde unde mit böte. Belemet het auer in enen oghen, he ghelt it mit den baluen dele."
   },
   {
@@ -4377,31 +4393,39 @@
    "articleId": "lr-iii-48",
    "article": 48,
    "section": 3,
-   "segmentation": "auto",
-   "text": "Blift auer en ue dot eder lam uan enes mannes schult unde doch ane sinen willen, unde dot he dar sinen cd to, lie"
+   "segmentation": "anchor",
+   "text": "Blift auer en ue dot eder lam uan enes mannes schult unde doch ane sinen willen, unde dot he dar sinen cd to, lie ghelt it ane böte, alse hir uore gheredet is"
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-48",
    "article": 48,
    "section": 4,
-   "segmentation": "auto",
-   "text": "ghelt it ane böte, alse hir uore gheredet is Belemel auer en man enen hunt eder sleyd he ene, dor dat he ene biten wil, eder dar he sin ue upper strafe eder uppen uelde bit, he blift is ane wandel, sweret het Uppen hilighen, dat lie enie anders nicht sturen ne cunde."
+   "segmentation": "anchor",
+   "text": "Belemel auer en man enen hunt eder sleyd he ene, dor dat he ene biten wil, eder dar he sin ue upper strafe eder uppen uelde bit, he blift is ane wandel, sweret het Uppen hilighen, dat lie enie anders nicht sturen ne cunde."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-49",
    "article": 49,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Swelich hunt to uelde gat, den sal men in den banden balden, dor dat he nemende ne schade. Dot he schaden, den sal ghelden de, den de hunt uolghet, eder sin herre, dar he nicht ghelden IIJ, 50. ne mach. Swar de dudesche man lif eder haut uorwerket mit ungherichte, he lose se eder ne do, dar ne darf he wedde noch böte to gheuen."
+   "segmentation": "anchor",
+   "text": "Swelich hunt to uelde gat, den sal men in den banden balden, dor dat he nemende ne schade. Dot he schaden, den sal ghelden de, den de hunt uolghet, eder sin herre, dar he nicht ghelden IIJ, 50. ne mach."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-50",
+   "article": 50,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "Swar de dudesche man lif eder haut uorwerket mit ungherichte, he lose se eder ne do, dar ne darf he wedde noch böte to gheuen."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-51",
    "article": 51,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nu uornemet umme uoghele unde dem wereghelt. Dat hon ghelt men mit enen haluen penninghe, de anet also. De gans mit enen penninghe, de brotgans unde de brothenne mit dren penningben binnen erer brottid, unde de stelanet; dat sulue dot men dat uerken unde dat zickelen binnen eren soghe unde de catten. Dat lam uor uere; dat calf uor sesse. Den uolen uor enen schillinch binnen sinen soghe, unde den hofwart also. Den hunt, den men schaperode het, mit dren schillinghen unde dat swert unde dat iarighe swin. Dat rint mit uer schillinghen. De soghe, de uerkene dreghet eder soghet, mit vif schillinghen. Den vulwassen her also unde den esel; den und unde den tochossen unde de ueltsteiken mit achte schillinghen. Andere ueltperde, de to vulleu arbeyde doghen, mit twelf schillinghen. De auer beneden eren iaren sin, de ghelt men, als eme na eren eldere boret. Dat ridende pert, dar de ridene man sinen herren uppe denet, dat ghelt men | mit enen punde."
   },
   {
@@ -4409,7 +4433,7 @@
    "articleId": "lr-iii-51",
    "article": 51,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Riddere perdevi, orsen, telderen unde runtziden nis nin wereghelt ghesat, noch mesteswinen; dar umme sal men se unde alle aarende haue wedergheuen eder ghelden na der werderinghe des, de se uorlos, ghene ne minnere se mit sinene ede, de se ghelden sal."
   },
   {
@@ -4417,7 +4441,7 @@
    "articleId": "lr-iii-52",
    "article": 52,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De dudeschen solen dorcb recht kesen den koninch. Swen de ghewiet Wirt uan den bischopen, de dar to ghesat sin, unde uppen stol cumpt to aken, so heuet he coninclike walt unde coningliken namen. Swan ene de paues wiet, so heuet he des rikes walt unde keyserliken namen."
   },
   {
@@ -4425,7 +4449,7 @@
    "articleId": "lr-iii-52",
    "article": 52,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den coning » keset men to richtere ouer eghen, ouer len unde ouer iewelkes mannes lif. De keyser ne mach in allen landen nicht sin unde al unghericbte nicht richten to aller tid, dor dat lent lie den uorsten uanenlen unde de uorsten den greuen grafschap unde de greuen den schütteten schultedom."
   },
   {
@@ -4433,7 +4457,7 @@
    "articleId": "lr-iii-52",
    "article": 52,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In de uerden haut ne sal nin len comen, dat gherichte si ouer hals unde ouer bant, mer schultedom al ene in der grafschap, dor dat nin greue ne mach echt dinch hebbeu ane schulteten; wente claghet men ouer den greuen, he sal antworden uor den schulteten, wente de schultete is riehtcr siner schult; also is de palenzgreue ouer den keyser, eder de borcAgreue ouer den ma?kgreuen."
   },
   {
@@ -4441,7 +4465,7 @@
    "articleId": "lr-iii-53",
    "article": 53,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sassen, beyeren, uranken, swauen, dit waren alle coningrike; seder wandelede men eme de namen unde het se hertoghen, seder se de romere bedwunghen; doch behelden se de uorsten to manne unde de uanenlen under den namen. Seder hebbet eme de keysere beyde, uanenlen unde uorsten, afghebroken."
   },
   {
@@ -4449,31 +4473,31 @@
    "articleId": "lr-iii-53",
    "article": 53,
    "section": 2,
-   "segmentation": "auto",
-   "text": "lewelich richtere heuet wedde in sinen richte unde nine böte, wente de richtere ne mach beyde claghere unde richtere nicht sin. Men ne ghift oc"
+   "segmentation": "anchor",
+   "text": "lewelich richtere heuet wedde in sinen richte unde nine böte, wente de richtere ne mach beyde claghere unde richtere nicht sin. Men ne ghift oc nimanne böte men den claghere,"
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-53",
    "article": 53,
    "section": 3,
-   "segmentation": "auto",
-   "text": "nimanne böte men den claghere, Hir umme seghet men, dat de uorsten ane böte sin, des nis doch nicht. Men ne mot oc nin richte delen, noch ganz len delen, de den dat ghelent is, so dat dar uolghe an si unde it de lantlude liden solen, it ne si en sunderlic grafscap, de in en uanenlen höre; de ne mot men den nicht ledich hebben. Also ne mot"
+   "segmentation": "anchor",
+   "text": "Hir umme seghet men, dat de uorsten ane böte sin, des nis doch nicht. Men ne mot oc nin richte delen, noch ganz len delen, de den dat ghelent is, so dat dar uolghe an si unde it de lantlude liden solen, it ne si en sunderlic grafscap, de in en uanenlen höre; de ne mot men den nicht ledich hebben. Also ne mot de coning nin uanenlen, he ne uorlenet binnen iar unde daghe."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-54",
    "article": 54,
    "section": 1,
-   "segmentation": "auto",
-   "text": "de coning nin uanenlen, he ne uorlenet binnen iar unde daghe. Len ane richte ne mot nin man hebben, he ne si schepenbare vri, unde dat he den coninghe hulde do na uries mannes rechte, unde bi den hulden sie uorpleghe, swenne men tughes an eme tut."
+   "segmentation": "anchor",
+   "text": "Len ane richte ne mot nin man hebben, he ne si schepenbare vri, unde dat he den coninghe hulde do na uries mannes rechte, unde bi den hulden sie uorpleghe, swenne men tughes an eme tut."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-54",
    "article": 54,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Alse men den coningh kuset, so sal he den rike luildc don unde sweren, dat he recht sterke unde umweht Jcrenke, unde dat rike uorsta an sinen rechte, alse he cunne unde moghe; seder ne sal he nimber ninen ed don, it ne si, dat enc de paues schuldcghe, dat he an den rechten tonen twiuele. Dar na sal he tuch sin aller dinghe, de men in eme tut, bi des rikes hulden; unde sin lofte sal he don uor den ed, dar men urede sweret."
   },
   {
@@ -4481,7 +4505,7 @@
    "articleId": "lr-iii-54",
    "article": 54,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Larnen man unde meselsuchteghen unde de in des paueses banne is mit rechte, den ne mot men to coninghe nicht kesen. De coninc sal sin uri unde echt gheboren, so dat he sin recht oc hebbe behalden."
   },
   {
@@ -4489,7 +4513,7 @@
    "articleId": "lr-iii-54",
    "article": 54,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De coninch sal hebben urankes recht, wanne he ghecoren is, uan weleker bort he si, wante alse de uranke sinen lif nicht uorwerken ne mach, he ne werde in der hanthaften dat gheuanghen, eder eme ne si sin urankesghe recht uordelt, also ne mach den coninghe ninman in sin lif spreken, eme ne si dat rike uore mit ordelen uordelt."
   },
   {
@@ -4497,7 +4521,7 @@
    "articleId": "lr-iii-55",
    "article": 55,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ouer der uorsten lif ne mot ninman lichtere sin unde oc ouer ere sunt men de coningh."
   },
   {
@@ -4505,7 +4529,7 @@
    "articleId": "lr-iii-55",
    "article": 55,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ouer schepenbare lüde, wau de eren lif uorwerket unde uordelt sin, ne mot ninman richten men de echte uronen bode."
   },
   {
@@ -4513,7 +4537,7 @@
    "articleId": "lr-iii-56",
    "article": 56,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swan de uronen bode uan den richtere unde uan den schepenen wirt ghecoren, so sal he den coninghe Luide don na uries mannes rechte; so sal ene de richtere nemen bi der hant unde setten ene up en küssen unde up enen stol keghen sie, unde. sal eme de hilghen in den schot don unde urede werken to rechte."
   },
   {
@@ -4521,7 +4545,7 @@
    "articleId": "lr-iii-56",
    "article": 56,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "So heuet de urone bode de walt, dat he panden unde bestedeghen mot, unde beuronen iewelken man unde sin göd to rechte, dar he mit ordelen to gheuen wirt. Dot he auer unrechte, he mach sin lif unde sin göd uorwerken als en ander man. Swert ne sal he uoren noch nine were. Wederstad men eme rechtes, mit ruchte sal he dat laut dar to laden, unde become rechtes, of he moghe. Ne mach lies nicht becomen, he beclaghet mit den richtere."
   },
   {
@@ -4529,7 +4553,7 @@
    "articleId": "lr-iii-56",
    "article": 56,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sin recht is oc de teghede man, den men uordelen sal, dat he ene to losende do. Vnde war en god eruelos sterft uan manne eder wiue, dat erstadeliche com is sin, unde des mannes dagheliken cledere. Swar men oc eghen ghift unde men dar urede ouer werct, dar sal he af dre schillinghe hebben. Enen man uan iewelken dorpe mot he wol dinghes ledich laten, of he nicht beclaghet nis, sunder den burmester."
   },
   {
@@ -4537,7 +4561,7 @@
    "articleId": "lr-iii-57",
    "article": 57,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den keyser ne mot de paues noch ninman bannen, dar na he wiet \\&} ane umme dre sake: of he an den loue tvviuelet, eder sin echte wif let, eder godes hus tostöret."
   },
   {
@@ -4545,7 +4569,7 @@
    "articleId": "lr-iii-57",
    "article": 57,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In des keyseres core sal de erste sin de bischop uan megkentzen, de andere uan trere, de dridde uan colne. Vnder den leyen is de erste core des pallenzgreuen uan den rine, des rikes droszete, de andere de marschalc, de hertoghe uan sassen, de derde de kemerere, de marcgreue uan brandenborch. De schenke des rikes, de coningh uan behem, de ne heuet ninen core, umme dat he nicht dudesch nis. Sint keset des rikes uorsten alle, papen unde leyen. De to den ersten an den core sint ghenant, de ne solen nicht kesen na eren motvvillen, men wen de uorsten alle to coninghe willet, den solen se erst bi namen kesen."
   },
   {
@@ -4553,7 +4577,7 @@
    "articleId": "lr-iii-58",
    "article": 58,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Des rikes uorsten ne solen ninen mau, de leye si, to heren hebben, mer den coningh."
   },
   {
@@ -4561,7 +4585,7 @@
    "articleId": "lr-iii-58",
    "article": 58,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "It nis nin uanenlen, dar de man af uorste moghe sin, he ne untfat uan den coninghe. JSwat so en andere man uor enie untfat, dar nis ghene de uordereste an deme lene nicht, want it en andere uor eme untfenc, unde ne mach des rikes uorste dar af sin."
   },
   {
@@ -4569,7 +4593,7 @@
    "articleId": "lr-iii-59",
    "article": 59,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen men kuset bischope eder abbate eder ebbedischen, de den hereschilt hebben, dat len solen se uore untfan unde de bisorghe dar na. Wan se dat len untfanghen hebbet, so moghen se lenrecht dou unde nicht er."
   },
   {
@@ -4577,7 +4601,7 @@
    "articleId": "lr-iii-59",
    "article": 59,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar men biscope eder abbate eder ebbedischen nicht ne cuset binnen ses weken, dar de Urninge an den leijser gat, he lent it, wen he wil, de sie redeliken ghehandelet heuet."
   },
   {
@@ -4585,7 +4609,7 @@
    "articleId": "lr-iii-60",
    "article": 60,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De keyser lent al gestlic uorstenlen mit den seeptre, al worlic uanenlen mit den uanen. Nin uanenlen mot he oc ledich hebben iar unde dach."
   },
   {
@@ -4593,7 +4617,7 @@
    "articleId": "lr-iii-60",
    "article": 60,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In welike stat des rikes de coningh cumpt binnen den rike, dar is eme ledich toln unde munte, unde in welich lant he cumpt, dar is emc ledicli dat richte, dat he wo! richten mot alle de claghe, de uor richte nicht begunt, oc nicht ent ne sin."
   },
   {
@@ -4601,7 +4625,7 @@
    "articleId": "lr-iii-60",
    "article": 60,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swen de coningh oc aller erst in dat lant campt, so solen eme ledich sin alle uanghenen uppe recht, unde men Bai se uor eme hringhen unde mit rechte uorwinnen eder mit reclite laten, so men se erst besenden mach, se« er der tid, dat se de I coningh eschede to rechte eder sine hoden, to den manne suluen eder to den houe eder to den hus, dar se uanghen sin eder hehbet ghewesen. Weygheret men se uore to hringhende, sint men se to rechte eschet heuet, unde men des tuch heuet an des coninghes hoden, men dot to hant in achte alle de se uenghen, unde borch unde lüde, de se weder recht haldet."
   },
   {
@@ -4609,7 +4633,7 @@
    "articleId": "lr-iii-61",
    "article": 61,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ouer achteyn weken sal de greue sin dinch utlegghen hüten ghehundenen daghen to echter dinebstat, dar de schüttete unde schepenc unde uronen bode si."
   },
   {
@@ -4617,7 +4641,7 @@
    "articleId": "lr-iii-61",
    "article": 61,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "It ne mach niman schultete sin, he ne si uri gheboren uan den lande, dar dat richte leghet."
   },
   {
@@ -4625,7 +4649,7 @@
    "articleId": "lr-iii-61",
    "article": 61,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De bodel sal to minnest hehben ene halue houe eghenes."
   },
   {
@@ -4633,7 +4657,7 @@
    "articleId": "lr-iii-61",
    "article": 61,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Gherichtes solen alle Warden, de dincplichtich sin uan des de sunne upgha bet to mitdaghe, of de lichtere dar is."
   },
   {
@@ -4641,7 +4665,7 @@
    "articleId": "lr-iii-62",
    "article": 62,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Vif stede, de palenze betet, ligghet to sassen in den lande, dar de coningh echte houe hehben sal. De erste is gruna; de andere uerle, de is to goslere gheleghet; walhusen is de derde; alstede de uerde; merseborch de uifte."
   },
   {
@@ -4649,7 +4673,7 @@
    "articleId": "lr-iii-62",
    "article": 62,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Seuen uanenlen sint oc in den lande to sassen, dat hertochdom to sassen, de palenze, de marke uan hrandenhorch, de lantgrafschap to doringhen, de marke to misne, de marke to lusüz, de grafscap to asscherchsleue."
   },
   {
@@ -4657,7 +4681,7 @@
    "articleId": "lr-iii-62",
    "article": 62,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Oc sin twe ercehiscopedom to sassen in den lande unde uifteyn andere. Den uan megdehorch is underdan de hiscop uan nuwenborch unde de uan mersborch unde de uan misne unde de uan brandenboren unde de uan hauelcnherch. De biscop uan megenzen heuet ucr underdanen to sassen: den biscop uan haluerstad, den uan hildcnshem, den uan uerden, den uan palborne. De bischop uan osenbrughe, de uan minden unde de uan monsterc sin underdan den uan colne. Den ercenbiscope uan bremen is underdan de uan lubeke, de uan zwerin unde de uan raceborcb."
   },
   {
@@ -4665,7 +4689,7 @@
    "articleId": "lr-iii-63",
    "article": 63,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Constantin de coningh gaf den pauese siluestro werldlich wedde to den gestliken, sestich schillingbe, mede to dwingende al de ghene, de gode nicht beteren ne willet mit den liue, dat men se dar to dwingbe mit den göde. Dus schal werdlich richte unde gestlich ouer en dreghen, so wat dat den enen wederstad, dat men it mit den andern dwinghe horsam to wesende unde rechtes to pleghende."
   },
   {
@@ -4673,7 +4697,7 @@
    "articleId": "lr-iii-63",
    "article": 63,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ban schadet der seien unde ne nimpt doch ninen manne den lif, noch ne crenket he ninen man an lantrechte oft an lenrechte, dar ne uolghe des coninghes achte na."
   },
   {
@@ -4681,7 +4705,7 @@
    "articleId": "lr-iii-63",
    "article": 63,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De uestinghe nimpt ene manne dat lif, of he dar binnen begrepen is, unde nicht sin recht, wo langhe he dar an is."
   },
   {
@@ -4689,7 +4713,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "But de coningh des rikes denest eder sinen hof mit ordelen, unde let he ene cundeghen den uorsten mit sinen breue unde ingheseghele ses weken er he wesen sole, den solen se soken binnen dudescher art, war he is; ne comet se nicht, se weddet dar umme,"
   },
   {
@@ -4697,7 +4721,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De uorsten, de uanenlen hebbet, de weddet den coninghe hundert punt. Alle andre lüde weddet teyn punt, dar men umme ungherichte nicht ne weddet."
   },
   {
@@ -4705,7 +4729,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den hertoghen weddet iewelich edele man teyn punt. Der ieghenode is doch ghenoch binnen den herttechdome, de sunderlik recht willet hebben, alse holzeten unde sturmere unde hedelere; uan eren rechte unde uan cren wedde ne segh ich nicht."
   },
   {
@@ -4713,23 +4737,23 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 4,
-   "segmentation": "auto",
-   "text": "Sestich schillingbe weddet men deme greuen unde och den uoghede, de under coninghes banne dinghet, of he den ban"
+   "segmentation": "anchor",
+   "text": "Sestich schillingbe weddet men deme greuen unde och den uoghede, de under coninghes banne dinghet, of he den ban uan den coninghe heuet,"
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 5,
-   "segmentation": "auto",
-   "text": "uan den coninghe heuet, Coninghes ban ne mot niman lenen mer de coninch suluen. De coninch ne mach oc mit rechte nicht weygheren den ban to lenc, den dat gherichte ghelent is. Vorlent en greue siner grafschap en del eder en uoghet siner uoghedie, dat is unrecht. De beiende man ne mot dar ouer ninen coninghes ban hebben, alse men dat uan eme dulden dorne. Ban lent men ane manscap."
+   "segmentation": "anchor",
+   "text": "Coninghes ban ne mot niman lenen mer de coninch suluen. De coninch ne mach oc mit rechte nicht weygheren den ban to lenc, den dat gherichte ghelent is. Vorlent en greue siner grafschap en del eder en uoghet siner uoghedie, dat is unrecht. De beiende man ne mot dar ouer ninen coninghes ban hebben, alse men dat uan eme dulden dorne. Ban lent men ane manscap."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 6,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Palenzgreue unde lantgreue dinghet under coninghes banne, alse de greue; den weddet men sestich schillingbe."
   },
   {
@@ -4737,7 +4761,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 7,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "lewelken maregreuen drittich, de dinghet bi sines sulues hulden."
   },
   {
@@ -4745,7 +4769,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 8,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den schalteten weddet men achte schillingbe siner bergelden."
   },
   {
@@ -4753,7 +4777,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 9,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den belenden manne, de des coninghes ban nicht ne heuet, den weddet men dre schillinghe tome hogesten."
   },
   {
@@ -4761,7 +4785,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 10,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Derne gogreuen ses penninghe oder cn sch i 1 1 i n gh, al weder dat der lantlnde eure stat."
   },
   {
@@ -4769,7 +4793,7 @@
    "articleId": "lr-iii-64",
    "article": 64,
    "section": 11,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Den burmestere weddet men ses penninghe undc underwilen dre scillinghc uor hut unde uor bar, dat is der burmestere menc to drinkende."
   },
   {
@@ -4777,7 +4801,7 @@
    "articleId": "lr-iii-65",
    "article": 65,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De maregreue dinghet bi sines sulucs hulden ouer ses weken, dar uint iewelich man ordel ouer den andren, den men an sinen rechte nicht bescheiden nc mach. Doch ne autwordet dar ninman to campe sinen unghenoten."
   },
   {
@@ -4785,7 +4809,7 @@
    "articleId": "lr-iii-65",
    "article": 65,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt cn man sines ghenotes man, sine bort noch hintrecht ne heuet he nicht ghekrenket, sinen hereschilt heuet auer he ghenederet."
   },
   {
@@ -4793,7 +4817,7 @@
    "articleId": "lr-iii-66",
    "article": 66,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne mot ninen market bowen den andren ener mile na."
   },
   {
@@ -4801,7 +4825,7 @@
    "articleId": "lr-iii-66",
    "article": 66,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne mot nine horch bowen noch stad uestenen mit planken noch mit muren noch berch noch werder noch torne binnen dorpe ane des richteres orlof des landes."
   },
   {
@@ -4809,7 +4833,7 @@
    "articleId": "lr-iii-66",
    "article": 66,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ane sin orlof mot men wol grauen also dep, als en man mit enen Spaden upsebeten mach de erden, so dat he nine scemele ne make. Men mot wol bowen ane sin orlof mit holte eder mit stene dre dele bouen en ander, ene binnen der erden, de anderen twe bouen, ersten men ene dore hebbe in den nederen gademe bouen der erden enes knees ho. Men mot oc wol uestenen enen hof mit tunen eder also ho muren, alse men reken mach uppe enen orse sittende. Tinnen unde borstwere ne sal dar nicht an sin."
   },
   {
@@ -4817,7 +4841,7 @@
    "articleId": "lr-iii-66",
    "article": 66,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men ne mot nine boreh ane des richteres orlof weder bowen, de umme ungherichte mit ordelen ghebroken wirt. Brect men auer ene horch weldechliken, eder lat se de herre togan uan motwillen eder dor armode, dat mot men wol weder bowen ane des richteres orlof."
   },
   {
@@ -4825,7 +4849,7 @@
    "articleId": "lr-iii-67",
    "article": 67,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swc den andren sine horch afwint mit unrechte, claghet ghene dar np to rechte, unde halt men eme de horch weldechliken uore, al de wile, de her unweldich is de dar to recht heuet, so ne mach men uppe de borch nine claghe don, dar men se mit rechte umme breken sole."
   },
   {
@@ -4833,7 +4857,7 @@
    "articleId": "lr-iii-68",
    "article": 68,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De richtere sal to ersten mit enen bile dre slaghe slan an ene borch eder an en bowe, dat mit ordelen uordelt is; dar solen de lantlude to helpen mit howende unde mit rammende; nicht ne sal men bernen, noch holt noch sten dannen uoren, noch nicht des dar up is, it ne si rofliken dar up gheuort. Tud sie dar ieman mit rechte to, de uoret dannen. Den grauen unde den berch sal men euenen mit Spaden."
   },
   {
@@ -4841,7 +4865,7 @@
    "articleId": "lr-iii-68",
    "article": 68,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Al de in den richte seten sin, solen dar to helpen bi eres sulues spise, of se dar to ladet werdet mit gheruchte."
   },
   {
@@ -4849,7 +4873,7 @@
    "articleId": "lr-iii-69",
    "article": 69,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar men dinghet bi coninghes banne, dar ne sal noch schepene noch richtere cappen an hebben, hot, hodelin, huuen noch hantschen, mantele solen se uppen schulderen hebben; sunder wapene solen se sin."
   },
   {
@@ -4857,7 +4881,7 @@
    "articleId": "lr-iii-69",
    "article": 69,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ordel solen se uinden uastende ouer iewelken man, he si dudesch eder wendesch, eder eghen eder vri. Dar ne sal niman ordel uinden ane se."
   },
   {
@@ -4865,7 +4889,7 @@
    "articleId": "lr-iii-69",
    "article": 69,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sittende solen se ordele uinden, Scelt er ordel en er not, he sal des bankes bidden en ordel to uindende. So sal ghene upstan, det ordel uant, unde desse sal sie setten an sine stat unde uinden, dat eme recht dunke, unde the is dar hes to rechte then sole, unde haldet eder latet to rechte, also hir uore gheredet is*"
   },
   {
@@ -4873,7 +4897,7 @@
    "articleId": "lr-iii-70",
    "article": 70,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar men nicht ne dinghet under coninghes banne, dar mot ieioelk man ordel uinden ouer den andren, den men nicht rechtlos bescheiden ne mach, ane de went uppen sassen unde de sasse uppen went."
   },
   {
@@ -4881,7 +4905,7 @@
    "articleId": "lr-iii-70",
    "article": 70,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wird auer de sasse eder de went mit ungerechte gheuanghen in der hantha/ten dat unde mit ruchte braght uor richte, de sasse tughet uppe den went unde de went uppe den sassen unde mot ir ieweder des andren ordel liden, de also uaughen werdet."
   },
   {
@@ -4889,7 +4913,7 @@
    "articleId": "lr-iii-71",
    "article": 71,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Iewelik man, den men schuldeghet, mach wol weyghereu to antwordende, men ne schuldeghe ene an der sprake, de eme angheboren is, of he dudesg nicht ne cau unde sin recht dar to dot. Schuldeghet in. men ene dan an sincr sprake, he mot antworden eder sin uorespreke uan sinent hakten, XXIX. alse it de claghere nnde de rielitere uornenie."
   },
   {
@@ -4897,7 +4921,7 @@
    "articleId": "lr-iii-71",
    "article": 71,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Heuet auer he in dudeschen gheclaghcl eder antwordet eder ordel gheuunden uor gherichte unde mach inen ene des uortugben, he antwordet an dudeschen ane uor den rike, wente dar heuet nianlik recht na siner bort."
   },
   {
@@ -4905,7 +4929,7 @@
    "articleId": "lr-iii-72",
    "article": 72,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Echt kint unde vri behalt sines uaders schilt unde nimpt sin erue unde der moder also, of it ir euenbordich is eder wers gbeboren. 11."
   },
   {
@@ -4913,7 +4937,7 @@
    "articleId": "lr-iii-73",
    "article": 73,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nimpt auer en vri schepenbare wif enen bergelden eder enen lanteeten, unde wint se kindere bi eme, de ne sint nicht euenbordich an böte unde an wereghelde, wante se hebbet des uader recht unde nicht der moder; dor dat ne nemet se der moder erue nicht, noch nemenes de ir mach uan moder haluen is."
   },
   {
@@ -4921,7 +4945,7 @@
    "articleId": "lr-iii-73",
    "article": 73,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dit sulue recht helden oc de denestman bet an den biscop wichman uan meghedeburch, dat de sone behelt des uader recht unde de dochter der moder, unde horden na en, of se denestlude weren. Do ne bedrofte men niner wesle uuder den denestmannen. Van aneghinghe des rechtes was recht, dat vri wif nimber eghen kint ne wunne. Sint des biscopes wichmannes tiden heuet auer dat recht ghestan, dat sone unde dochter boret na der dudescheu moder deme, den se bestad, de uader si dudescb eder wendesch, unde der wendinnen kint bort na den uadere, of he en went is; is he auer dudescb, so bort it na der moder."
   },
   {
@@ -4929,7 +4953,7 @@
    "articleId": "lr-iii-73",
    "article": 73,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Men seghet, dat alle wendinnen vri sin, dor dat ere kindere na den wendeschen uadere boret; des nis nicht; wante se gheuet ere bovmede eren herren, also dicke so se man nemet. Latet se oc eren man, also wendisch recht is, so moten se eren heren de uerschen penninghe gheuen, dat sin dre schiilinghe, unde anderswar mer; na des landes wonheyt."
   },
   {
@@ -4937,7 +4961,7 @@
    "articleId": "lr-iii-74",
    "article": 74,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt en wif uan eren manne Scheden mit rechte, se behalt doch ere liftucht, de he er gaf au sinen egbene, unde ir ghebowe, dat dar uppe stad. Dat ne mot se auer nicht upbreken noch daunen uoren; anders ne blift ir niu gbebov noch nicht der morghenELL 89 gaue. Ir rade behalt se unde ir musdele, Men sal ir oc weder laten unde gheuen, wat se to eren manne brachte, eder also uele eres mannes gödes als ir ghelouet wart, do se to semende quemen."
   },
   {
@@ -4945,7 +4969,7 @@
    "articleId": "lr-iii-75",
    "article": 75,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "In egbene is recht liftucht der urowen, want it eme niman breken ne mach to eren liue, unde an lene nicht, want it eme to manigher wis ghebroken mach werden."
   },
   {
@@ -4953,7 +4977,7 @@
    "articleId": "lr-iii-75",
    "article": 75,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Len bi eres mannes liue is ir ghedinghe; na eres mannes dode ist ir rechte len."
   },
   {
@@ -4961,7 +4985,7 @@
    "articleId": "lr-iii-75",
    "article": 75,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Neweder man noch wif ne hebbet lenghere len den to eren liue, al erft de man unde dat wif nicht."
   },
   {
@@ -4969,7 +4993,7 @@
    "articleId": "lr-iii-76",
    "article": 76,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft den wiue ir man unde blift se in des mannes gode unghetwiet mit den kinderen laughe wile eder corte, swan se sie twiet dar na, so nimpt de urowe ir morghengaue unde ir rade unde ir musdele in al den göde, dat dar dan is, alse se nemen solde to der tid, do ir man starf."
   },
   {
@@ -4977,7 +5001,7 @@
    "articleId": "lr-iii-76",
    "article": 76,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Hadde auer dat wif man ghenomen unde was he to er unde to den kinderen in dat unghetwiede göd gheuaren, steift den dat wif, de man behalt al des wiues recht in der uarenden haue, ane ghebowe unde rade."
   },
   {
@@ -4985,7 +5009,7 @@
    "articleId": "lr-iii-76",
    "article": 76,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nimpt en man ene wedewen, de eghen eder len eder liftucht eder tinsgöd heuet, wat he in den göde mit siner ploch arbeydet, sterft sin wif er der sat, he sal it wol arebeyden unde seyen unde sniden, unde tins eder pleghe sal he dar af gheuen ghenen, uppe den dat göd irsterft."
   },
   {
@@ -4993,7 +5017,7 @@
    "articleId": "lr-iii-76",
    "article": 76,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Sterft auer dat wif na der sat, alse de eghede dat lant began heuet, de sat is eres mannes; he nis dar nicht plichtich af to gheldeüe pleghen noch tins, dar se nin tinsgelde af ne was."
   },
   {
@@ -5001,7 +5025,7 @@
    "articleId": "lr-iii-76",
    "article": 76,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat oc tinses eder pleghe in der urowen göde was, dar men ir af gelden solde, starf se na den rechten tiusdaghen, dat göd is des mannes vordenede göd, als it der eruen wesen solde, of se ane man were*"
   },
   {
@@ -5009,7 +5033,7 @@
    "articleId": "lr-iii-77",
    "article": 77,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dot en man sin lant beseyt ut to tinse eder to pleghe to beschedenen iaren, dat men it eme beseyt weder late, to sweliker tid he binnen den iaren sterft, men sal it den eruen beseyt weder laten, wante hes en nicht lengher waren ne mogte den de wile dat he leuede."
   },
   {
@@ -5017,15 +5041,87 @@
    "articleId": "lr-iii-77",
    "article": 77,
    "section": 2,
-   "segmentation": "auto",
-   "text": "De eruen solen oc uan der sat sodanen tins. Tafel: an. fehlt Hs. d. i. is it. Es. sterf. m. den manne wiue ir man. Das Wort manne hat aber unter sich Punkte, zum Zeichen, dass es getilgt werden soll. vul ? So alle anderen Hss."
+   "segmentation": "anchor",
+   "text": "De eruen solen oc uan der sat sodanen tins. Tafel: an. fehlt Hs. d. i. is it. Es. sterf. m. den manne wiue ir man. Das Wort manne hat aber unter sich Punkte, zum Zeichen, dass es getilgt werden soll. vul ? So alle anderen Hss. Vergl. 3. gheuen gheneme, an den dat göd gheboret, alse inen gheneme solde, det ut dede, waut it sin ploch nicht ne beginne, do he,78;§. l. Btarf."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 1,
+   "segmentation": "anchor",
+   "text": "De coninch unde en iewelich richtere mot wol richten ouer hals unde ouer hant unde ouer erue iewelkea sines maglies unde mannes, unde ne dot dar an weder siue truwe nicht."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 2,
+   "segmentation": "anchor",
+   "text": "De man mot oc wol sinen coningbe unde sinen richtere unrechtes wedcrstan unde helpen weren to aller wis, al si he sin mach eder herre, unde ne dot weder sine truwe nicht."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 3,
+   "segmentation": "anchor",
+   "text": "De man mot wol volghen sinen herren, unde de herrc sinen manne, unde de mach den maghe unde helpen dan bestedeghen uan richtes haluen limine imgberichte 7 dar he mit gherucbte to ladet wirt an ener hanthaften dat, unde ne dot weder sine truwe nicht."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 4,
+   "segmentation": "anchor",
+   "text": "De man mot wol uolgen uor sines herren horch, unde de herre uor des mannes, unde de mach uor des maghes, dar he imune ungherichte mit gheruchte uore ladet wirt, unde mot se dan wol helpen breken, of men it mit rechte nicht ne mitredet, unde ne dot weder sine truwe nicht."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 5,
+   "segmentation": "anchor",
+   "text": "lewelich man mot wol helpen weren stede, borghc, laut unde lif sines herren, maghes unde mannes unde den sines urundes weder herren, maghe unde manne, de se weldichliken soket, unde mot wol uppe se striden, unde ne dot weder sine truwe nicht, erste be suluen erer haue nicht ne uenie."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 6,
+   "segmentation": "anchor",
+   "text": "Wundet en man sinen herren, eder sleyt he ene dot au notwere, eder de herre den man, he ne dot weder sine truwe nicht, of de not mit rechte up ene bracht wirt."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 7,
+   "segmentation": "anchor",
+   "text": "Sinen wechuerdighen ghesellen unde sinen werde, dar he herberghet is, unde sinen gaste unde we to sinen gbenaden ulut, sal de man helpen weder aller manlikeme, dat be sik irwere unrechter walt, unde ne dot weder sine truwe nicht."
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 8,
+   "segmentation": "anchor",
+   "text": "Socht de herrc den man eder de man den herren unuorclagbet uor sinen mannen na rechte, he dot weder sine truwe. Ne cumpt he auer uppe sinen schaden nicht ut unde sehnt eme schade uan eme suluen, eder uan den de dor sinen willen dar sin, eder dar he helpere to is unwetene, den seaden sal he gelden uppe recht, unde dat nis weder sine truwe nicht"
+  },
+  {
+   "book": "lr-iii",
+   "articleId": "lr-iii-78",
+   "article": 78,
+   "section": 9,
+   "segmentation": "anchor",
+   "text": "Swar auer en man in ener reyse is unde nicht houetman nis, ridet lüde an ene unde an de sine, dot se schaden sinen herren eder sinen manne eder sinen raaghe, ecler wen dat si, ane sinen rat unde ane sine dat, gheweret het uppen hilghen, he blift es ane gelt nnde ane laster."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-79",
    "article": 79,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar bure en nye dorp besettet uan wilder wortelen, den mach des dovpes herre wol gheuen eruetinsrecht an den göde, al ne sin se tu den göde nicht gheboren. Nin recht ne mach he auer en gheuen noch se suluen kesen, dar se des Landes richtere sin recht mede breken eder sin wedde mede minueren ofte meren moghen."
   },
   {
@@ -5033,7 +5129,7 @@
    "articleId": "lr-iii-79",
    "article": 79,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Nin vtwendich man is plichtich in den dorpe to antwordene na eren snnderliken dorprechte, mer na menen lautrechte, he ne clagiie dar uppe erue eder uppe göt eder uppe schult."
   },
   {
@@ -5041,7 +5137,7 @@
    "articleId": "lr-iii-79",
    "article": 79,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swar de man claghet, dar mot he antworden ane to camprechte, of men up ene claghet."
   },
   {
@@ -5049,7 +5145,7 @@
    "articleId": "lr-iii-80",
    "article": 80,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Ersterft en eghen uan enen bergelden eruelos dre houe eder dar beneden, dat hört in dat schultedom. Uan weme en eghen irsterft, XXI1II. van drittich honen eder dar beneden, dat bort in de grafschap. Is ir auer mer den drittich houe, so is it den coninghe ledich."
   },
   {
@@ -5057,7 +5153,7 @@
    "articleId": "lr-iii-80",
    "article": 80,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Lat de coningh eder en ander herre sinen denstman eder sinen eghenen man vri, de behalt urier lantceten recht."
   },
   {
@@ -5065,7 +5161,7 @@
    "articleId": "lr-iii-81",
    "article": 81,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Togad auer de sehe- IU, 81, penen in ener grafschap, de coninch mot wol des rikes denstman mit ordelen vri laten unde to schepenen maken, clor dat men rechtes become unde coninghes ban halden dar moglie. He sal en auer des rikes gödes also uelc to eghen e gheuen, dat se schepenen dar af wesen moghen; ir icwelken dre honen eder mer. Dat göd mot he wol ut den göde der grafschap nemen, war it de greue ledich heuet, clor dat der schepenen eghen in de grafschap irstoruen is."
   },
   {
@@ -5073,7 +5169,7 @@
    "articleId": "lr-iii-81",
    "article": 81,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Denestman eruet unde nemet erue alse vrie lüde na lantrechte, mer allene dat se buten irs herren walt nicht ne eruet, noch erue ne nemet."
   },
   {
@@ -5081,7 +5177,7 @@
    "articleId": "lr-iii-82",
    "article": 82,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sin recht uorluset uor gherichte in ener stacl, he heuet it ouer al uorlorn, of men des an deine richte tuch heuet. Des richteres ghetuch nis auer ninman plichtich to bringhene in cn andere richte; mer ghene richtete, nor deme he rechtlos gheseghet wirt, de sal twe boden senden nor den richtere, dar he sin reeht uorloren heuet, dat se hören, of men es ene uortughen moghe; unde des solen sc dan tuch sin."
   },
   {
@@ -5089,7 +5185,7 @@
    "articleId": "lr-iii-82",
    "article": 82,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe cn god enen anderen ghift unde lät it eme an sine were, dar he nine were an ne hadde, unde wirt ghene uan riehtes haluen dar in gbewist, ghene, de de were heuet, mot de inwisinghe wol wederreden unde ghenen utwisen, erste het uorsta to deine nesten utghcleghcden dinghe; wante en man is nicht pliehtich sine were to rumene, hc ne werde dar umme beclaghet unde uore gheladet; wirt ghenen den de were irdelt unde wiset men ene den dar in uan riehtes haluen, so ne mot men ene nicht utwisen, men ne dot mit ordelen."
   },
   {
@@ -5097,7 +5193,7 @@
    "articleId": "lr-iii-83",
    "article": 83,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "L Swat men manne eder wiue gift, dat solen se besitten dre daghe. Swat se mit claghe iruorderet, eder uppe se erft wirt, des ne dornen se nicht besitten."
   },
   {
@@ -5105,7 +5201,7 @@
    "articleId": "lr-iii-83",
    "article": 83,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe en god lent eder lat enen anderen, he sal es eme waren iar unde dach."
   },
   {
@@ -5113,7 +5209,7 @@
    "articleId": "lr-iii-83",
    "article": 83,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe eghen eder uarende haue uoreoft, de sal es warent sin de wile he leuet; men sal auer eme dat god laten in sine were to behaldene unde to uorlesene, de wile het uorstan sal; wante he ne mach dar nicht anspreken, den it ie ghenen is, mer ene gaue."
   },
   {
@@ -5121,7 +5217,7 @@
    "articleId": "lr-iii-84",
    "article": 84,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe den andren god weldcchliken nimpt bet an ghenes dot, al recht heuet he an den gode uorloren, dat eme an den gode irsteruen mochte na ghenes dode."
   },
   {
@@ -5129,7 +5225,7 @@
    "articleId": "lr-iii-84",
    "article": 84,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dodet de man sinen herren, he heuet uorwrocht lif unde ere unde dat god, dat he uan eme hadde. Dit sulue uorweret de herre, of he dodet sinen man, unde de ouere herre ne mach sine kindere nicht mit den gode an den herren wieder wisen."
   },
   {
@@ -5137,7 +5233,7 @@
    "articleId": "lr-iii-84",
    "article": 84,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dodet oc en man sinen uader eder sinen broder eder sinen mach eder iemane, des eghens eder lenes he wardeue is, al sine wardinghe heuet he uorlorn; he ne do it in notwere sines liues, unde de not uppen doden beredet werde, eder he ne 3i do it imwetene anc sinen daneb."
   },
   {
@@ -5145,79 +5241,39 @@
    "articleId": "lr-iii-85",
    "article": 85,
    "section": 1,
-   "segmentation": "auto",
-   "text": "Vergl. 3. gheuen gheneme, an den dat göd gheboret, alse inen gheneme solde, det ut dede, waut it sin ploch nicht ne beginne, do he,78;§. l. Btarf. De coninch unde en iewelich richtere mot wol richten ouer hals unde ouer hant unde ouer erue iewelkea sines maglies unde mannes, unde ne dot dar an weder siue truwe nicht. ¶ Swar lüde mer den en to samende louet en wereghelt eder en ander ghelt, alle sin se dat pliehtich to lestene, de wile it unuorgulden is, unde nicht ir iewelich al, mer manlik also uele also eme boret, nnde alse uerre men ene dar to dwingben inach uan ricbtes haluen, de, deme it ghelouet is eder det mit eme louede, ofte het uor ene uorgulden heuet."
+   "segmentation": "anchor",
+   "text": "Swar lüde mer den en to samende louet en wereghelt eder en ander ghelt, alle sin se dat pliehtich to lestene, de wile it unuorgulden is, unde nicht ir iewelich al, mer manlik also uele also eme boret, nnde alse uerre men ene dar to dwingben inach uan ricbtes haluen, de, deme it ghelouet is eder det mit eme louede, ofte het uor ene uorgulden heuet."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-85",
    "article": 85,
    "section": 2,
-   "segmentation": "auto",
-   "text": "De man mot oc wol sinen coningbe unde sinen richtere unrechtes wedcrstan unde helpen weren to aller wis, al si he sin mach eder herre, unde ne dot weder sine truwe nicht. ¶ Louet oc uele lüde ene schult to geldene, unde untfat de louede mer lüde, swar men ghenen lestet, den men ghelden sal, eder mit sinen minnen sid, dar heuet men en allen ghelestet, den dat ghelouet was."
+   "segmentation": "anchor",
+   "text": "Louet oc uele lüde ene schult to geldene, unde untfat de louede mer lüde, swar men ghenen lestet, den men ghelden sal, eder mit sinen minnen sid, dar heuet men en allen ghelestet, den dat ghelouet was."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-85",
    "article": 85,
    "section": 3,
-   "segmentation": "auto",
-   "text": "De man mot wol volghen sinen herren, unde de herrc sinen manne, unde de mach den maghe unde helpen dan bestedeghen uan richtes haluen limine imgberichte 7 dar he mit gherucbte to ladet wirt an ener hanthaften dat, unde ne dot weder sine truwe nicht. ¶ Swe borghen sat also, dat he suluen ghelde eder sin borghe uor ene, mach het vul bringhen, dat het uorgulden hebbe,"
+   "segmentation": "anchor",
+   "text": "Swe borghen sat also, dat he suluen ghelde eder sin borghe uor ene, mach het vul bringhen, dat het uorgulden hebbe, he heuet sine borghen ghelost."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-85",
    "article": 85,
    "section": 4,
-   "segmentation": "auto",
-   "text": "De man mot wol uolgen uor sines herren horch, unde de herre uor des mannes, unde de mach uor des maghes, dar he imune ungherichte mit gheruchte uore ladet wirt, unde mot se dan wol helpen breken, of men it mit rechte nicht ne mitredet, unde ne dot weder sine truwe nicht. ¶ he heuet sine borghen ghelost. 8we auer borghe wirt uor den andren unde louet en besceden gelt to geldene, dat mot he suluen vulbringhen mit ghetughe, dat het ghegulden hebbe, eder ieman uan siner weghene."
-  },
-  {
-   "book": "lr-iii",
-   "articleId": "lr-iii-85",
-   "article": 85,
-   "section": 5,
-   "segmentation": "auto",
-   "text": "lewelich man mot wol helpen weren stede, borghc, laut unde lif sines herren, maghes unde mannes unde den sines urundes weder herren, maghe unde manne, de se weldichliken soket, unde mot wol uppe se striden, unde ne dot weder sine truwe nicht, erste be suluen erer haue nicht ne uenie."
-  },
-  {
-   "book": "lr-iii",
-   "articleId": "lr-iii-85",
-   "article": 85,
-   "section": 6,
-   "segmentation": "auto",
-   "text": "Wundet en man sinen herren, eder sleyt he ene dot au notwere, eder de herre den man, he ne dot weder sine truwe nicht, of de not mit rechte up ene bracht wirt."
-  },
-  {
-   "book": "lr-iii",
-   "articleId": "lr-iii-85",
-   "article": 85,
-   "section": 7,
-   "segmentation": "auto",
-   "text": "Sinen wechuerdighen ghesellen unde sinen werde, dar he herberghet is, unde sinen gaste unde we to sinen gbenaden ulut, sal de man helpen weder aller manlikeme, dat be sik irwere unrechter walt, unde ne dot weder sine truwe nicht."
-  },
-  {
-   "book": "lr-iii",
-   "articleId": "lr-iii-85",
-   "article": 85,
-   "section": 8,
-   "segmentation": "auto",
-   "text": "Socht de herrc den man eder de man den herren unuorclagbet uor sinen mannen na rechte, he dot weder sine truwe. Ne cumpt he auer uppe sinen schaden nicht ut unde sehnt eme schade uan eme suluen, eder uan den de dor sinen willen dar sin, eder dar he helpere to is unwetene, den seaden sal he gelden uppe recht, unde dat nis weder sine truwe nicht"
-  },
-  {
-   "book": "lr-iii",
-   "articleId": "lr-iii-85",
-   "article": 85,
-   "section": 9,
-   "segmentation": "auto",
-   "text": "Swar auer en man in ener reyse is unde nicht houetman nis, ridet lüde an ene unde an de sine, dot se schaden sinen herren eder sinen manne eder sinen raaghe, ecler wen dat si, ane sinen rat unde ane sine dat, gheweret het uppen hilghen, he blift es ane gelt nnde ane laster."
+   "segmentation": "anchor",
+   "text": "8we auer borghe wirt uor den andren unde louet en besceden gelt to geldene, dat mot he suluen vulbringhen mit ghetughe, dat het ghegulden hebbe, eder ieman uan siner weghene."
   },
   {
    "book": "lr-iii",
    "articleId": "lr-iii-86",
    "article": 86,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe sinen buren ghemene af eret eder grauet eder tunet, wirt he uor den burmestere darumme beclaget, he mot wedden dre schillinghe. Weygheret he auer rechtes uor den burmestere unde wirt he beclaghet to den oueren richtere, he mot wedden den richtere unde den buren mit drittich scillinghen boten unde ere ghemenen weder laten."
   },
   {
@@ -5225,7 +5281,7 @@
    "articleId": "lr-iii-86",
    "article": 86,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "To der suluen wis beteret en burschap der andren mit dren scillinghen unde gelt en eren scaden, of men se den ummeseten beclaghet, so men dor recht sal. Weygheret se auer rechtes dar, unde werdet se den oueren richtere beclaghet, ere burmester mot uor se allen wedden en wedde unde den buren mit drittich schillinghen boten unde iren scaden gelden."
   },
   {
@@ -5233,7 +5289,7 @@
    "articleId": "lr-iii-87",
    "article": 87,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelich leye enen andren leyen beclaget uor gestliken richte umme sodane scult, de de werlike richtere dor recht richten sal, unde brinct he ene in scaden, unde wirt he dor dat beclaget to lantrechte, he mot den richtere wedden unde ghenen böte gheuen unde ene ut den scaden nemen."
   },
   {
@@ -5241,7 +5297,7 @@
    "articleId": "lr-iii-87",
    "article": 87,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dit sulue mot clon en lantman den andren, of he ene beclaghet in wicbeleden eder to enen utwendighen richte, of se in enen dorpe eder in ener goscap sittet, eme ne si rechtes gheweyghert uor den richtere."
   },
   {
@@ -5249,7 +5305,7 @@
    "articleId": "lr-iii-87",
    "article": 87,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Rechtes weyghert de richtere, wen he nicht richten ne wil eder sine rechten dinegetale nicht ne halt,"
   },
   {
@@ -5257,7 +5313,7 @@
    "articleId": "lr-iii-87",
    "article": 87,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Rechtes weyghert de man, uppe den men claghet, swanne he dornest wirt eder nicht ne ghelt eder nicht gheghift weder scult, de he ghelden eder weder gheuen sal, unde men ene des uan richtes ballier mit pandc nicht dwinghen ne mach, so mot nun wol ouer eoe claghen, swar men rechtes ouer ene becomcn mach."
   },
   {
@@ -5265,7 +5321,7 @@
    "articleId": "lr-iii-88",
    "article": 88,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swat en man mit den richte tughen sal, des sal de lichtere l)i des coninghcs hulden sie uorpleghen, dar na de schepenen also alle andere dincpliclitcn bi eren ede."
   },
   {
@@ -5273,7 +5329,7 @@
    "articleId": "lr-iii-88",
    "article": 88,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swcn men auer enen uoruesten man ane hanthafte dat gheuanghen uor gherichte uord unde der sattingbe ouer ene hedet, unde he der uestinghe hesect, de uestinghe sal men tughen er der sattinghe mit den lichtere unde den dincpliclitcn. Suluen ne darf de clagbere nicht tueb sin, war he mit den richtere tughes vulcumpt."
   },
   {
@@ -5281,7 +5337,7 @@
    "articleId": "lr-iii-88",
    "article": 88,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swcn auer de man besät wirt, so mot de clagbere aller erst up ene sweren, dat he der dat schuldicb si, darumme he uoruest si, dat eme <jod so helpe unde de bilghen. Dar na sal sweren sin tuch, dat sin ed reyne unde u^mene si."
   },
   {
@@ -5289,7 +5345,7 @@
    "articleId": "lr-iii-88",
    "article": 88,
    "section": 4,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Dus sal oc de clagherc unde sin tuch sweren up enen uoruestman, de dor ungherichte in der hanthaften dat gheuanghen unde uor richte bracht wirt unde mit ordelen ghesat."
   },
   {
@@ -5297,7 +5353,7 @@
    "articleId": "lr-iii-88",
    "article": 88,
    "section": 5,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swelikes tughes auer de man uor gberichte eder keghen dat richte vulcomen sal, it si umme göd eder umme wedde, dat sal sin tuch uore seggen bi den ede unde he sal it na sweren."
   },
   {
@@ -5305,7 +5361,7 @@
    "articleId": "lr-iii-89",
    "article": 89,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Swe des andren swert eder clcd7 hecken eder scheremeszes sinen likcu na mer lüde wanc uan den stoueu dregbet eder sak ydel eder vul uan der molen uort eder sadel eder uilt, toni, Sporen eder ander göd cnes andren mannes nimpt uor dat sin sinen lik, eder bedde, cussen, slapelaken, dar is mer to samenc leghet, eder andere göd, wat dat si? uor sin nimpt unde sin dar let, halt het in den wanc, dat it sin si, unuorholen, unde dar he sinen ed dar to don, aneuanghen mach men it wol unde under ene beclagben, duue auer unde roues, of men ene des sculdeghet, dar he sie des untschuldeghen uppen hilighen, of lies tuch heuet, dat het unhalinghes gbehalden hebbe, so ne mach men ene niner hauthaften dat daran schuldeghen."
   },
   {
@@ -5313,7 +5369,7 @@
    "articleId": "lr-iii-90",
    "article": 90,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt en man ghemordet Uppen uelde, unde ne wet men den nicht, we it gliedan hebbe, we den begrauet uppen uelde eder in deine dorpe mit witschap siner bure, he ne misdot nicht."
   },
   {
@@ -5321,7 +5377,7 @@
    "articleId": "lr-iii-90",
    "article": 90,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Wirt oc enen manne sin mach eder sin urent gheslaghen, he mot ene wol begrauen, dennoch he wol wet, we ene heuet gheslaghen, he ne hebbe der claghe mit den doden uor richte begunt, so mot he mit eine vul claghen, unde ne mot sin nicht begrauen ane des richteres orlof, de wile de claghe unghelent is."
   },
   {
@@ -5329,7 +5385,7 @@
    "articleId": "lr-iii-90",
    "article": 90,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Valt sie en man eder wert he ghewundet eder gheslaghen also sere, dat he tö dorpe nicht comen ne mach, swe den indreghet, unde sterft he den in sinen weren, he blift es ane schaden. Sine eruen solen eine den sine cost ghelden, of sin göd, dat he bi eme heuet, min wert is dan de. cost, de he mit eme heuet ghehat."
   },
   {
@@ -5337,7 +5393,7 @@
    "articleId": "lr-iii-91",
    "article": 91,
    "section": 1,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "Herberghet oc en man lüde, sleyt ir en den andren dot ane sine schult binnen sinen weren eder dar buten, eder welich ungherichte ir en an den andren dot, de were sal es bliuen ane schaden, unde oc de bure, of se den uredebrekere nicht uphalden ne moghen unde dat weret uppen hilgben, so inen se darumme schuldeghet. Dusdau dinch sal raen auer to godinghe wroghen."
   },
   {
@@ -5345,7 +5401,7 @@
    "articleId": "lr-iii-91",
    "article": 91,
    "section": 2,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "De richtere ne mach nemende anspreken mit uoreinunden noch ane uoremunden sunder den claghere to campe wart, noch hoghere den to siner unschult, of he se clon dar, manlich na sinen rechte."
   },
   {
@@ -5353,7 +5409,7 @@
    "articleId": "lr-iii-91",
    "article": 91,
    "section": 3,
-   "segmentation": "auto",
+   "segmentation": "anchor",
    "text": "He ne mot nin bot noch herberghe noch bede noch denest noch nin recht uppet laud setten, it ne wilcore dat laut."
   },
   {

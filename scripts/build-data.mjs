@@ -35,7 +35,7 @@ const readJson = async (f, fallback) => {
 const BOOKS = [
   { id: "lr-i", label: "Landrecht I", short: "LR I", part: "landrecht", count: 71, released: true },
   { id: "lr-ii", label: "Landrecht II", short: "LR II", part: "landrecht", count: 72, released: true },
-  { id: "lr-iii", label: "Landrecht III", short: "LR III", part: "landrecht", count: 91, released: false },
+  { id: "lr-iii", label: "Landrecht III", short: "LR III", part: "landrecht", count: 91, released: true },
   { id: "lehnrecht", label: "Lehnrecht", short: "Lehnrecht", part: "lehnrecht", count: 80, released: false },
 ];
 

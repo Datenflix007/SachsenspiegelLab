@@ -638,6 +638,185 @@
      ""
     ]
    ]
+  },
+  "lr-iii-1#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dorp-IH, 1, ghebow",
+     "dorpghebow"
+    ]
+   ]
+  },
+  "lr-iii-7#4": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Coft §-4. de iode",
+     "Coft de iode"
+    ]
+   ]
+  },
+  "lr-iii-18#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ut der in, 18, uestinghe",
+     "ut der uestinghe"
+    ]
+   ]
+  },
+  "lr-iii-22#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ghe- | ergeret",
+     "gheergeret"
+    ]
+   ]
+  },
+  "lr-iii-29#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "de iunghere in 30, kesen.",
+     "de iunghere kesen."
+    ]
+   ]
+  },
+  "lr-iii-30#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "mit %.2. rechte",
+     "mit rechte"
+    ]
+   ]
+  },
+  "lr-iii-32#9": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "nicht in. 73 uore",
+     "nicht uore"
+    ]
+   ]
+  },
+  "lr-iii-39#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dar ITL 75 mede",
+     "dar mede"
+    ]
+   ]
+  },
+  "lr-iii-41#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "he (f, sal",
+     "he sal"
+    ]
+   ]
+  },
+  "lr-iii-44#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "dachworchten., 45,",
+     "dachworchten."
+    ]
+   ]
+  },
+  "lr-iii-48#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Iis. twel. fehlt in der Hs.; das dazu gehörige Bild ist aber neben gezeichnet. Ergänzt nach dem cod. gloss. Hs. dure. fehlt Hs. In den andern Hss. noch: unde ane böte; das nach dem folg. §., tvo es heisst: unde mit böte, wol nicht fehlen darf. Ii e sal",
+     "he sal"
+    ]
+   ]
+  },
+  "lr-iii-49#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "ghelden IIJ, 50. ne mach.",
+     "ghelden ne mach."
+    ]
+   ]
+  },
+  "lr-iii-64#10": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Derne gogreuen ses penninghe oder cn sch i 1 1 i n gh",
+     "Deme gogreuen ses penninghe oder en schillingh"
+    ]
+   ]
+  },
+  "lr-iii-71#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "Schuldeghet in. men ene",
+     "Schuldeghet men ene"
+    ],
+    [
+     "hakten, XXIX. alse",
+     "hakten, alse"
+    ]
+   ]
+  },
+  "lr-iii-72#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "gbeboren. 11.",
+     "gbeboren."
+    ]
+   ]
+  },
+  "lr-iii-74#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "morghenELL 89 gaue",
+     "morghengaue"
+    ]
+   ]
+  },
+  "lr-iii-77#2": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "tins. Tafel: an. fehlt Hs. d. i. is it. Es. sterf. m. den manne wiue ir man. Das Wort manne hat aber unter sich Punkte, zum Zeichen, dass es getilgt werden soll. vul ? So alle anderen Hss. Vergl. 3. gheuen",
+     "tins gheuen"
+    ],
+    [
+     "do he,78;§. l. Btarf.",
+     "do he starf."
+    ]
+   ]
+  },
+  "lr-iii-81#1": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "sehe- IU, 81, penen",
+     "schepenen"
+    ]
+   ]
+  },
+  "lr-iii-84#3": {
+   "level": "cleanup",
+   "replace": [
+    [
+     "he ne 3i do it",
+     "he ne do it"
+    ]
+   ]
   }
  }
 }
